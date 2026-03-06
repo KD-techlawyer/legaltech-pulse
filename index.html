@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LegalTech Pulse — Morning Briefing</title>
+<style>
+  :root {
+    --bg: #faf8f5;
+    --surface: #ffffff;
+    --surface-hover: #f5f2ee;
+    --border: #e5e0d8;
+    --accent: #5a4fcf;
+    --accent-glow: rgba(90,79,207,0.08);
+    --text: #3d3a36;
+    --text-dim: #78736b;
+    --text-bright: #1a1816;
+    --tag-india: #0d9668;
+    --tag-global: #2563eb;
+    --tag-ai: #d97706;
+    --tag-firm: #db2777;
+    --tag-trend: #7c3aed;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-bright);
+    letter-spacing: -0.5px;
+  }
+  .header h1 span { color: var(--accent); }
+  .header .subtitle {
+    color: var(--text-dim);
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+  }
+  .header .date {
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.3rem 1rem;
+    background: var(--accent-glow);
+    border: 1px solid rgba(90,79,207,0.2);
+    border-radius: 20px;
+    font-size: 0.85rem;
+    color: var(--accent);
+    font-weight: 500;
+  }
+
+  /* Stats bar */
+  .stats {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+  .stat {
+    font-size: 0.82rem;
+    color: var(--text-dim);
+  }
+  .stat strong {
+    color: var(--text-bright);
+    font-size: 1.1rem;
+  }
+
+  /* Section headers */
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin: 2rem 0 1rem;
+  }
+  .section-header h3 {
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--accent);
+    white-space: nowrap;
+  }
+  .section-header .line {
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+  .section-header .count {
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  /* Article card */
+  .article {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.4rem 1.6rem;
+    margin-bottom: 1rem;
+    transition: border-color 0.2s, background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .article:hover {
+    border-color: var(--accent);
+    background: var(--surface-hover);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .article-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 0.6rem;
+  }
+  .article h2 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--text-bright);
+    line-height: 1.4;
+  }
+  .article h2 a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .article h2 a:hover { color: var(--accent); }
+  .article .meta {
+    font-size: 0.78rem;
+    color: var(--text-dim);
+    white-space: nowrap;
+    flex-shrink: 0;
+    text-align: right;
+    line-height: 1.5;
+  }
+  .article .meta .pub-date {
+    font-weight: 500;
+    color: var(--accent);
+    font-size: 0.74rem;
+  }
+  .article .summary {
+    font-size: 0.9rem;
+    color: var(--text-dim);
+    margin-bottom: 0.8rem;
+    line-height: 1.55;
+  }
+  .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+  .tag {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    background: transparent;
+  }
+  .tag-india { color: var(--tag-india); border: 1px solid rgba(13,150,104,0.25); background: rgba(13,150,104,0.06); }
+  .tag-global { color: var(--tag-global); border: 1px solid rgba(37,99,235,0.25); background: rgba(37,99,235,0.06); }
+  .tag-ai { color: var(--tag-ai); border: 1px solid rgba(217,119,6,0.25); background: rgba(217,119,6,0.06); }
+  .tag-firm { color: var(--tag-firm); border: 1px solid rgba(219,39,119,0.25); background: rgba(219,39,119,0.06); }
+  .tag-trend { color: var(--tag-trend); border: 1px solid rgba(124,58,237,0.25); background: rgba(124,58,237,0.06); }
+
+  /* Archive articles — slightly muted */
+  .archive-section .article {
+    opacity: 0.8;
+  }
+  .archive-section .article:hover {
+    opacity: 1;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding-top: 2rem;
+    margin-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.8rem;
+    color: var(--text-dim);
+  }
+
+  /* Empty state */
+  .empty {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--text-dim);
+  }
+  .empty .icon { font-size: 2.5rem; margin-bottom: 1rem; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>LegalTech <span>Pulse</span></h1>
+    <div class="subtitle">Morning Briefing — Curated for Trilegal</div>
+    <div class="date" id="briefing-date"></div>
+  </div>
+
+  <div class="stats" id="stats"></div>
+  <div id="today-section"></div>
+  <div id="archive-section"></div>
+
+  <div class="footer">
+    Auto-generated by LegalTech Pulse · Powered by Claude
+  </div>
+</div>
+
+<script>
+// ── DATA (injected by scheduled task) ──
+const BRIEFING_DATA = {
+  "date": "Friday, 6 March 2026",
+  "articles": [
+    {
+      "title": "Harvey Signs Multiyear Deal as US Open's First 'Official Legal Assistant'",
+      "url": "https://www.harvey.ai/blog/us-open-signs-harvey-as-its-first-official-legal-assistant",
+      "source": "Harvey AI",
+      "published": "5 Mar 2026",
+      "summary": "Harvey and the USTA announced a multiyear sponsorship making Harvey the US Open's first 'Official Legal Assistant' — the company's first sports sponsorship. CEO Winston Weinberg cited the tournament's global reach as a brand play aimed at enterprise buyers and talent recruitment.",
+      "tags": ["Global AI Tool"]
+    },
+    {
+      "title": "Harvey Inks US Open Tennis Deal",
+      "url": "https://www.artificiallawyer.com/2026/03/05/harvey-inks-us-open-tennis-deal/",
+      "source": "Artificial Lawyer",
+      "published": "5 Mar 2026",
+      "summary": "Artificial Lawyer covers Harvey's US Open sponsorship, noting it signals a shift from legal AI companies marketing purely to lawyers toward mainstream brand-building — a strategy reminiscent of how enterprise SaaS firms like Salesforce used sports sponsorships to build credibility.",
+      "tags": ["Global AI Tool", "AI Trend"]
+    },
+    {
+      "title": "Anthropic's Claude Legal Plugin — Legal IT Insider's Full Analysis",
+      "url": "https://legaltechnology.com/2026/03/05/anthropic-unveils-claude-legal-plugin-and-causes-market-meltdown-our-analysis/",
+      "source": "Legal IT Insider",
+      "published": "5 Mar 2026",
+      "summary": "Legal IT Insider published its deep-dive analysis of Anthropic's legal plugin for Claude, which triggered a selloff in Thomson Reuters, RELX, Wolters Kluwer, and Sage stock. The piece examines whether foundation-model providers entering legal vertical software marks a structural threat to incumbents or just market overreaction.",
+      "tags": ["Global AI Tool", "AI Trend"]
+    },
+    {
+      "title": "The Legal AI Split That Will Reshape Every Law Firm's Tech Stack",
+      "url": "https://www.lawfuel.com/the-legal-ai-split-that-will-reshape-every-law-firms-tech-stack/",
+      "source": "Lawfuel",
+      "published": "5 Mar 2026",
+      "summary": "Lawfuel argues that Harvey and Legora face increasingly difficult strategic positioning — caught between incumbents with authoritative legal databases, foundation model companies (Anthropic, OpenAI) with scale advantages, and Thomson Reuters' embedded CoCounsel ecosystem.",
+      "tags": ["Global AI Tool", "AI Trend"]
+    },
+    {
+      "title": "Husch Blackwell Rolls Out Legora Firm-Wide; Harvey Makes Major Hires; DeepIP Raises $25M",
+      "url": "https://legaltechnology.com/2026/03/04/legal-tech-latest-husch-blackwell-rolls-out-legora-big-name-hires-for-harvey-spellbook-partners-with-cba-deepip-raises-25m/",
+      "source": "Legal IT Insider",
+      "published": "4 Mar 2026",
+      "summary": "US firm Husch Blackwell deployed Legora across all practice groups for document review, research, and multi-step workflow automation. Harvey hired former Ashurst CDO Tara Waters and ex-Marsh McLennan legal innovation counsel Farrah Pepper. IP analytics startup DeepIP raised $25M.",
+      "tags": ["Global Firm", "Global AI Tool"]
+    },
+    {
+      "title": "Harvey Integrates Legal AI Agents Into Microsoft 365 Copilot",
+      "url": "https://www.harvey.ai/blog/harvey-accelerates-enterprise-ai-with-agentpowered-platform-and-microsoft-365-copilot",
+      "source": "Harvey AI",
+      "published": "4 Mar 2026",
+      "summary": "Harvey announced a deep integration with Microsoft 365 Copilot, letting lawyers invoke Harvey's legal AI agents directly inside Word, Outlook, and Teams via @Harvey mentions — embedding contract analysis, research, and negotiation intelligence into existing workflows.",
+      "tags": ["Global AI Tool", "AI Trend"]
+    },
+    {
+      "title": "Harvey Nears $11B Valuation as Sequoia and GIC Lead $200M Raise",
+      "url": "https://blockchain.news/news/harvey-legal-ai-microsoft-365-integration-enterprise",
+      "source": "Blockchain News",
+      "published": "4 Mar 2026",
+      "summary": "Sequoia Capital and GIC are leading talks for a $200M funding round that would value Harvey at $11 billion — making it the most valuable legal AI company globally, coinciding with its Microsoft 365 integration launch.",
+      "tags": ["Global AI Tool"]
+    },
+    {
+      "title": "Legal AI Is Splitting in Two — And Most People Miss the Difference",
+      "url": "https://fortune.com/2026/03/04/legal-ai-thomson-retuers-cocounsel-anthropic-claude-cowork-whats-the-difference/",
+      "source": "Fortune",
+      "published": "4 Mar 2026",
+      "summary": "Fortune argues legal AI is diverging into two camps: infrastructure-layer tools built on authoritative legal databases (CoCounsel, Westlaw) versus general-purpose AI agents like Anthropic's Claude that handle operational workflows.",
+      "tags": ["Global AI Tool", "AI Trend"]
+    },
+    {
+      "title": "Intapp Strikes Deals with Anthropic and Harvey",
+      "url": "https://www.globallegalpost.com/news/intapp-strikes-deals-with-anthropic-and-harvey-818594654",
+      "source": "Global Legal Post",
+      "published": "4 Mar 2026",
+      "summary": "Enterprise software firm Intapp announced partnerships with both Anthropic and Harvey, using Claude models to build AI agents for conflict checks and client intelligence — a sign that legal infrastructure vendors are now layering multiple AI providers into their platforms.",
+      "tags": ["Global AI Tool", "AI Trend"]
+    },
+    {
+      "title": "Harvey Builds MS Copilot Integration For Smoother Working",
+      "url": "https://www.artificiallawyer.com/2026/03/04/harvey-builds-ms-copilot-integration-for-smoother-working/",
+      "source": "Artificial Lawyer",
+      "published": "4 Mar 2026",
+      "summary": "Artificial Lawyer notes the Harvey–Microsoft deal lets lawyers query Harvey to analyze agreements, research market terms, and retrieve precedent without leaving the Microsoft ecosystem. A cited survey found 70% of in-house counsel spend over an hour daily switching between tools.",
+      "tags": ["Global AI Tool", "Global Firm"]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Lawyer Uses Claude Skills, Legal World Loses It",
+      "url": "https://www.artificiallawyer.com/2026/03/02/lawyer-uses-claude-skills-legal-world-loses-it/",
+      "source": "Artificial Lawyer",
+      "published": "2 Mar 2026",
+      "summary": "A US lawyer's viral post described running his small firm as a 'Claude-native' practice — using Anthropic's Skills for contract drafting, due diligence checklists, and client memos, sparking industry-wide debate about foundation models' readiness for legal work.",
+      "tags": ["Global AI Tool", "AI Trend"]
+    },
+    {
+      "title": "SpotDraft Showcases VerifAI at India AI Impact Summit 2026",
+      "url": "https://www.digit.in/features/general/spotdraft-showcases-ai-to-manage-legal-contracts-at-india-ai-impact-summit.html",
+      "source": "Digit",
+      "published": "28 Feb 2026",
+      "summary": "SpotDraft demonstrated its on-device contract AI tool VerifAI — handling clause extraction, risk scoring, and editing locally rather than in the cloud — at the India AI Impact Summit, pitching privacy-first contract automation to enterprise legal teams.",
+      "tags": ["India Startup", "Contract Tech"]
+    },
+    {
+      "title": "Linklaters Creates Dedicated Team of 'AI Lawyers'",
+      "url": "https://www.globallegalpost.com/news/linklaters-creates-team-of-ai-lawyers-724624859",
+      "source": "Global Legal Post",
+      "published": "27 Feb 2026",
+      "summary": "Linklaters has formed a specialized team advising lawyers firm-wide on deploying AI across workflows, complementing its in-house chatbot 'Laila' and Microsoft Copilot rollout. The firm estimates AI can cut M&A due diligence time by up to 50%.",
+      "tags": ["Global Firm", "AI Trend"]
+    },
+    {
+      "title": "CoCounsel Now Available to One Million Professionals Worldwide",
+      "url": "https://legaltechnology.com/2026/02/25/cocounsel-now-available-to-one-million-professionals-says-thomson-reuters/",
+      "source": "Legal IT Insider",
+      "published": "25 Feb 2026",
+      "summary": "Thomson Reuters announced CoCounsel has crossed the one-million-user mark across 107 countries, integrating agentic workflows for multi-step legal tasks, deep research planning, and litigation document analysis atop Westlaw's curated database.",
+      "tags": ["Global AI Tool"]
+    },
+    {
+      "title": "Cyril Amarchand Mangaldas Embarks on an AI-First Future",
+      "url": "https://law.asia/ai-adoption-indian-law-firms/",
+      "source": "Law.asia",
+      "published": "24 Feb 2026",
+      "summary": "India's largest law firm by headcount has gone all-in on AI, selecting Legora as its enterprise GenAI platform alongside Harvey on pilot and Lucio for specific use cases — signalling a shift from experimentation to firm-wide deployment.",
+      "tags": ["India Firm", "Global AI Tool"]
+    },
+    {
+      "title": "Trilegal Partners with Lucio AI for Knowledge Management and Document Review",
+      "url": "https://law.asia/ai-adoption-indian-law-firms/",
+      "source": "Law.asia",
+      "published": "24 Feb 2026",
+      "summary": "Trilegal has embedded Lucio's generative AI tools across knowledge-management and document-review workflows, hosted on the firm's own Azure environment to ensure client confidentiality.",
+      "tags": ["India Firm", "India Startup"]
+    },
+    {
+      "title": "SpotDraft Secures $8M from Qualcomm Ventures, Valuation Nears $380M",
+      "url": "https://legaltechtrend.com/spotdraft-secures-8m-to-boost-on-device-legal-ai-tech/",
+      "source": "LegalTechTrend",
+      "published": "22 Feb 2026",
+      "summary": "SpotDraft raised an additional $8M from Qualcomm Ventures to expand on-device AI capabilities, nearly doubling its valuation to $380M. The company now processes over one million contracts annually with 50,000 monthly active users.",
+      "tags": ["India Startup", "Contract Tech"]
+    },
+    {
+      "title": "Anthropic Unveils Claude Legal Plugin, Causes Market Meltdown",
+      "url": "https://legaltechnology.com/2026/02/03/anthropic-unveils-claude-legal-plugin-and-causes-market-meltdown/",
+      "source": "Legal IT Insider",
+      "published": "3 Feb 2026",
+      "summary": "Anthropic launched legal-specific plugins for Claude bundling contract review, document drafting, and research skills — triggering a selloff in Thomson Reuters and RELX stock as markets weighed the threat of foundation models entering the legal vertical directly.",
+      "tags": ["Global AI Tool", "AI Trend"]
+    }
+  ]
+};
+
+// ── RENDER ──
+function renderCard(a) {
+  return `
+    <div class="article">
+      <div class="article-header">
+        <h2><a href="${a.url || '#'}" target="_blank" rel="noopener">${a.title}</a></h2>
+        <div class="meta">${a.source || ''}<br><span class="pub-date">${a.published || ''}</span></div>
+      </div>
+      <div class="summary">${a.summary}</div>
+      <div class="tags">
+        ${(a.tags || []).map(t => `<span class="tag tag-${tagClass(t)}">${t}</span>`).join('')}
+      </div>
+    </div>`;
+}
+
+function render(data) {
+  document.getElementById('briefing-date').textContent = data.date || new Date().toLocaleDateString('en-IN', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+
+  // Stats across all articles
+  const all = [...(data.articles || []), ...(data.archive || [])];
+  const statsEl = document.getElementById('stats');
+  const counts = {};
+  all.forEach(a => (a.tags || []).forEach(t => counts[t] = (counts[t]||0)+1));
+  statsEl.innerHTML = `<div class="stat"><strong>${all.length}</strong> stories</div>` +
+    Object.entries(counts).map(([k,v]) => `<div class="stat"><strong>${v}</strong> ${k}</div>`).join('');
+
+  // Today's stories (last 48h)
+  const todayEl = document.getElementById('today-section');
+  const fresh = data.articles || [];
+  if (fresh.length > 0) {
+    todayEl.innerHTML =
+      `<div class="section-header"><h3>Fresh <span class="count">(last 48h · ${fresh.length} stories)</span></h3><div class="line"></div></div>` +
+      fresh.map(renderCard).join('');
+  } else {
+    todayEl.innerHTML = '<div class="empty"><div class="icon">📭</div><p>No new stories in the last 48 hours. Check back tomorrow.</p></div>';
+  }
+
+  // Archive
+  const archiveEl = document.getElementById('archive-section');
+  const older = data.archive || [];
+  if (older.length > 0) {
+    archiveEl.innerHTML =
+      `<div class="archive-section"><div class="section-header"><h3>Earlier <span class="count">(${older.length} stories)</span></h3><div class="line"></div></div>` +
+      older.map(renderCard).join('') + '</div>';
+  }
+}
+
+function tagClass(tag) {
+  const t = tag.toLowerCase();
+  if (t.includes('india')) return 'india';
+  if (t.includes('global')) return 'global';
+  if (t.includes('ai') || t.includes('tool')) return 'ai';
+  if (t.includes('firm')) return 'firm';
+  return 'trend';
+}
+
+render(BRIEFING_DATA);
+</script>
+</body>
+</html>
