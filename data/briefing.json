@@ -2,6 +2,117 @@
   "date": "Tuesday, 7 April 2026",
   "articles": [
     {
+      "title": "Harvey Secures $200M at $11B Valuation to Expand AI Legal Agents Platform",
+      "url": "https://theaiinsider.tech/2026/03/27/harvey-secures-200m-at-11b-valuation-to-expand-ai-legal-agents-platform/",
+      "source": "The AI Insider",
+      "published": "27 Mar 2026",
+      "summary": "Harvey raised $200M bringing its valuation to $11B and total capital to $1B. The round was co-led by GIC and Sequoia. Harvey now partners with most of the 100 largest US law firms, over 500 in-house legal teams, and 50 asset management firms across 60 countries, with recent customers including NBCUniversal, HSBC, and DLA Piper International.",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Microsoft Copilot Labeled 'For Entertainment Purposes Only' in Terms of Service \u2014 Sparks Legal Debate",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "source": "TechCrunch",
+      "published": "5 Apr 2026",
+      "summary": "Microsoft's terms of use describe Copilot as 'for entertainment purposes only', contradicting its enterprise positioning at $30/user/month. Microsoft called it 'legacy language' from when Copilot launched as a Bing companion, promising an update. The disclaimer raises questions about legal recourse if business decisions are based on incorrect Copilot outputs.",
+      "tags": [
+        "AI Trend",
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legal Tech Sees Second-Busiest Funding Quarter on Record in Q1 2026",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/04/03/legal-tech-first-quarter-vc-funding",
+      "source": "Axios Pro",
+      "published": "3 Apr 2026",
+      "summary": "Legal-tech startups recorded their second-highest quarterly VC intake in Q1 2026. Legaltech funding hit $4.3B across 356 deals in the trailing twelve months, with AI-powered legal tools driving 70% of investment. Seven of the top ten recent closings are AI-native companies.",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Why Native Legal AI Is Required for India",
+      "url": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
+      "source": "Artificial Lawyer",
+      "published": "2 Apr 2026",
+      "summary": "Artificial Lawyer examines why India's legal system needs AI tools built specifically for Indian law \u2014 arguing that global platforms like Harvey and CoCounsel lack the jurisdictional depth, multi-language support, and understanding of India-specific regulatory frameworks required for meaningful adoption.",
+      "tags": [
+        "India Startup",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "AUTOMATIC Partners with Law.co to Deliver Agentic AI Infrastructure for Law Firms",
+      "url": "https://www.manilatimes.net/2026/04/03/tmt-newswire/plentisoft/automatic-partners-with-lawco-to-deliver-agentic-ai-infrastructure-for-law-firms/2313889",
+      "source": "The Manila Times",
+      "published": "3 Apr 2026",
+      "summary": "AUTOMATIC announced a strategic partnership with Law.co to deliver autonomous AI agents for law firms \u2014 enabling legal research, contract workflows, and client intake without sacrificing compliance. The partnership signals the shift from AI assistants to autonomous agentic infrastructure in legal practice.",
+      "tags": [
+        "AI Trend",
+        "Contract Tech"
+      ]
+    },
+    {
+      "title": "Legora Reaches $5.55B Valuation as AI Legal Tech Boom Endures",
+      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+      "source": "TechCrunch",
+      "published": "10 Mar 2026",
+      "summary": "Legora closed a $550M Series D at $5.55B valuation, hit $100M ARR, opened Munich and Houston offices, and plans to grow to 300+ US employees by year-end. The platform emphasizes collaborative workspaces with deep integration into iManage and NetDocuments.",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "AI Built for Law Outperforms ChatGPT, Claude, and Gemini on Legal Reasoning Benchmark",
+      "url": "https://www.lawnext.com/2026/03/ai-built-for-law-outperforms-chatgpt-claude-and-gemini-on-legal-reasoning-benchmark.html",
+      "source": "LawSites",
+      "published": "31 Mar 2026",
+      "summary": "Descrybe launched DescrybeLM, an AI system built specifically for legal reasoning, publishing benchmark data comparing it against ChatGPT 5.2, Claude Opus 4.5, and Gemini 3 Pro on 200 multistate bar exam questions. DescrybeLM answered all 200 correctly while ChatGPT, Claude, and Gemini each missed 13-23 questions.",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "How Law Firms Can Lead the Agentic AI Era \u2014 And What Clients Now Expect",
+      "url": "https://corpgov.law.harvard.edu/2026/03/24/how-law-firms-can-lead-the-agentic-ai-era-and-what-clients-now-expect/",
+      "source": "Harvard Law School Forum",
+      "published": "24 Mar 2026",
+      "summary": "Harvard Law School Forum on Corporate Governance examines how agentic AI is shifting client expectations \u2014 law firms are now expected to deploy autonomous AI systems for document review, contract negotiation, and research rather than billing associates for tasks AI can execute faster and cheaper.",
+      "tags": [
+        "AI Trend",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "HSBC Announces Harvey AI as Enterprise Legal AI Platform",
+      "url": "https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-announces-harvey-ai-for-their-legal-platform",
+      "source": "HSBC",
+      "published": "1 Apr 2026",
+      "summary": "HSBC selected Harvey AI as its enterprise legal AI platform, deploying it across the bank's global legal operations. The deal signals growing adoption of legal AI by major financial institutions beyond traditional law firm clients.",
+      "tags": [
+        "Global AI Tool",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "SpotDraft Reports 100% YoY Customer Growth, Processes Over 1M Contracts Annually",
+      "url": "https://www.inventiva.co.in/trends/top-10-legaltech-saas-startups-in-2026/",
+      "source": "Inventiva",
+      "published": "1 Apr 2026",
+      "summary": "SpotDraft reported 100% year-on-year growth in its customer base with contract volumes up 173%. The platform now serves 50,000 monthly active users processing over one million contracts annually. Its privacy-first on-device AI runs entirely on Snapdragon processors including embeddings, clause extraction, and risk scoring.",
+      "tags": [
+        "India Startup",
+        "Contract Tech"
+      ]
+    }
+  ],
+  "archive": [
+    {
       "title": "Microsoft Copilot Cowork \u2014 Anthropic's Claude Powers New Agentic AI Agent Across M365",
       "url": "https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered",
       "source": "VentureBeat",
@@ -108,9 +219,7 @@
         "Global AI Tool",
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Anthropic Sues Trump Administration Over Pentagon 'Supply Chain Risk' Designation",
       "url": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
