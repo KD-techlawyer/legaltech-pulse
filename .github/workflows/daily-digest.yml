@@ -1,0 +1,52 @@
+name: Daily LegalTech Pulse Update
+
+on:
+  # Run daily at 8:00 AM IST (2:30 AM UTC)
+  schedule:
+    - cron: '30 2 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily digest update
+        run: python scripts/update_digest.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "LegalTech Pulse Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add index.html pages/ data/
+
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(date -u +"%d %B %Y")
+            FRESH=$(python3 -c "import json; d=json.load(open('data/briefing.json')); print(len(d.get('articles',[])))")
+            TOTAL=$(python3 -c "import json; d=json.load(open('data/briefing.json')); print(len(d.get('articles',[]))+len(d.get('archive',[])))")
+            git commit -m "Refresh briefing, ${DATE} — ${FRESH} fresh, ${TOTAL} total"
+            git push
+          fi
