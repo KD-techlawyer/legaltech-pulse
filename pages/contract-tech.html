@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contract Tech — LegalTech Pulse</title>
+<style>
+:root {
+    --bg: #faf8f5;
+    --surface: #ffffff;
+    --surface-hover: #f5f2ee;
+    --border: #e5e0d8;
+    --accent: #5a4fcf;
+    --accent-glow: rgba(90,79,207,0.08);
+    --text: #3d3a36;
+    --text-dim: #78736b;
+    --text-bright: #1a1816;
+    --tag-india: #0d9668;
+    --tag-global: #2563eb;
+    --tag-ai: #d97706;
+    --tag-firm: #db2777;
+    --tag-trend: #7c3aed;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-bright);
+    letter-spacing: -0.5px;
+  }
+  .header h1 span { color: var(--accent); }
+  .header h1 a { color: inherit; text-decoration: none; }
+  .header h1 a span { color: var(--accent); }
+  .header .subtitle {
+    color: var(--text-dim);
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+  }
+  .header .date {
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.3rem 1rem;
+    background: var(--accent-glow);
+    border: 1px solid rgba(90,79,207,0.2);
+    border-radius: 20px;
+    font-size: 0.85rem;
+    color: var(--accent);
+    font-weight: 500;
+  }
+
+  /* Nav */
+  .nav {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+  .nav a {
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 0.35rem 0.8rem;
+    border-radius: 6px;
+    text-decoration: none;
+    color: var(--text-dim);
+    border: 1px solid var(--border);
+    transition: all 0.2s;
+  }
+  .nav a:hover, .nav a.active {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: var(--accent-glow);
+  }
+  .nav a .count {
+    font-weight: 700;
+    color: var(--text-bright);
+    margin-right: 0.25rem;
+  }
+  .nav a.active .count {
+    color: var(--accent);
+  }
+
+  /* Stats bar */
+  .stats {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+  .stat {
+    font-size: 0.82rem;
+    color: var(--text-dim);
+  }
+  .stat strong {
+    color: var(--text-bright);
+    font-size: 1.1rem;
+  }
+
+  /* Section headers */
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin: 2rem 0 1rem;
+  }
+  .section-header h3 {
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--accent);
+    white-space: nowrap;
+  }
+  .section-header .line {
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+  .section-header .count {
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  /* Article card */
+  .article {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.4rem 1.6rem;
+    margin-bottom: 1rem;
+    transition: border-color 0.2s, background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .article:hover {
+    border-color: var(--accent);
+    background: var(--surface-hover);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .article-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 0.6rem;
+  }
+  .article h2 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--text-bright);
+    line-height: 1.4;
+  }
+  .article h2 a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .article h2 a:hover { color: var(--accent); }
+  .article .meta {
+    font-size: 0.78rem;
+    color: var(--text-dim);
+    white-space: nowrap;
+    flex-shrink: 0;
+    text-align: right;
+    line-height: 1.5;
+  }
+  .article .meta .pub-date {
+    font-weight: 500;
+    color: var(--accent);
+    font-size: 0.74rem;
+  }
+  .article .summary {
+    font-size: 0.9rem;
+    color: var(--text-dim);
+    margin-bottom: 0.8rem;
+    line-height: 1.55;
+  }
+  .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+  .tag {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    background: transparent;
+  }
+  .tag-india { color: var(--tag-india); border: 1px solid rgba(13,150,104,0.25); background: rgba(13,150,104,0.06); }
+  .tag-global { color: var(--tag-global); border: 1px solid rgba(37,99,235,0.25); background: rgba(37,99,235,0.06); }
+  .tag-ai { color: var(--tag-ai); border: 1px solid rgba(217,119,6,0.25); background: rgba(217,119,6,0.06); }
+  .tag-firm { color: var(--tag-firm); border: 1px solid rgba(219,39,119,0.25); background: rgba(219,39,119,0.06); }
+  .tag-trend { color: var(--tag-trend); border: 1px solid rgba(124,58,237,0.25); background: rgba(124,58,237,0.06); }
+
+  /* Archive articles — slightly muted */
+  .archive-section .article {
+    opacity: 0.8;
+  }
+  .archive-section .article:hover {
+    opacity: 1;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding-top: 2rem;
+    margin-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.8rem;
+    color: var(--text-dim);
+  }
+
+  /* Empty state */
+  .empty {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--text-dim);
+  }
+  .empty .icon { font-size: 2.5rem; margin-bottom: 1rem; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1><a href="../index.html">LegalTech <span>Pulse</span></a></h1>
+    <div class="subtitle">Contract Tech</div>
+    <div class="date">Tuesday, 10 March 2026</div>
+  </div>
+
+  <div class="nav">
+    <a href="../index.html"><span class="count">74</span>All Stories</a>
+    <a href="../pages/global-ai-tool.html"><span class="count">27</span>Global AI Tool</a>
+    <a href="../pages/ai-trend.html"><span class="count">33</span>AI Trend</a>
+    <a href="../pages/contract-tech.html" class="active"><span class="count">5</span>Contract Tech</a>
+    <a href="../pages/global-firm.html"><span class="count">4</span>Global Firm</a>
+    <a href="../pages/india-startup.html"><span class="count">3</span>India Startup</a>
+    <a href="../pages/india-firm.html"><span class="count">2</span>India Firm</a>
+  </div>
+
+  
+  
+  <div class="section-header">
+    <h3>Fresh — Contract Tech <span class="count">(1 stories)</span></h3>
+    <div class="line"></div>
+  </div>
+      <div class="article">
+      <div class="article-header">
+        <h2><a href="https://leahai.com/blog/agentic-ai-legal" target="_blank" rel="noopener">The Rise of Agentic AI: Transforming Legal and Enterprise Workflows</a></h2>
+        <div class="meta">Leah AI<br><span class="pub-date">9 Mar 2026</span></div>
+      </div>
+      <div class="summary">As Microsoft's Copilot Cowork goes live, a broader analysis of how agentic AI — systems that plan, execute, and reason across multi-step legal workflows — is shifting from experimentation to deployment, and what governance frameworks firms need before delegating consequential tasks to AI agents.</div>
+      <div class="tags"><span class="tag tag-ai">AI Trend</span><span class="tag tag-trend">Contract Tech</span></div>
+    </div>
+  
+
+  <div class="archive-section">
+  <div class="section-header">
+    <h3>Earlier — Contract Tech <span class="count">(4 stories)</span></h3>
+    <div class="line"></div>
+  </div>
+      <div class="article">
+      <div class="article-header">
+        <h2><a href="https://www.proskauer.com/blog/contract-law-in-the-age-of-agentic-ai-whos-really-clicking-accept" target="_blank" rel="noopener">Contract Law in the Age of Agentic AI: Who's Really Clicking 'Accept'?</a></h2>
+        <div class="meta">Proskauer Rose<br><span class="pub-date">8 Mar 2026</span></div>
+      </div>
+      <div class="summary">Proskauer asks whether agentic AI tools that act on behalf of users qualify as 'electronic agents' forming enforceable contracts under existing law — a critical open question as zero-touch contracting becomes mainstream.</div>
+      <div class="tags"><span class="tag tag-ai">AI Trend</span><span class="tag tag-trend">Contract Tech</span></div>
+    </div>
+    <div class="article">
+      <div class="article-header">
+        <h2><a href="https://contractpodai.com/news/agentic-ai-legal/" target="_blank" rel="noopener">ContractPodAi: Agentic AI Transforms Legal and Enterprise Workflows</a></h2>
+        <div class="meta">ContractPodAi<br><span class="pub-date">7 Mar 2026</span></div>
+      </div>
+      <div class="summary">Zero-touch contracting for low-risk agreements, AI-generated negotiation playbooks with 95% first-pass accuracy, and Ironclad, DocuSign, and Icertis racing to embed autonomous capabilities into their CLM platforms.</div>
+      <div class="tags"><span class="tag tag-ai">AI Trend</span><span class="tag tag-trend">Contract Tech</span></div>
+    </div>
+    <div class="article">
+      <div class="article-header">
+        <h2><a href="https://www.digit.in/features/general/spotdraft-showcases-ai-to-manage-legal-contracts-at-india-ai-impact-summit.html" target="_blank" rel="noopener">SpotDraft Showcases VerifAI at India AI Impact Summit 2026</a></h2>
+        <div class="meta">Digit<br><span class="pub-date">28 Feb 2026</span></div>
+      </div>
+      <div class="summary">SpotDraft demonstrated its on-device contract AI tool VerifAI at the India AI Impact Summit, pitching privacy-first contract automation to enterprise legal teams.</div>
+      <div class="tags"><span class="tag tag-india">India Startup</span><span class="tag tag-trend">Contract Tech</span></div>
+    </div>
+    <div class="article">
+      <div class="article-header">
+        <h2><a href="https://legaltechtrend.com/spotdraft-secures-8m-to-boost-on-device-legal-ai-tech/" target="_blank" rel="noopener">SpotDraft Secures $8M from Qualcomm Ventures, Valuation Nears $380M</a></h2>
+        <div class="meta">LegalTechTrend<br><span class="pub-date">22 Feb 2026</span></div>
+      </div>
+      <div class="summary">SpotDraft raised $8M from Qualcomm Ventures to expand on-device AI, nearly doubling its valuation to $380M.</div>
+      <div class="tags"><span class="tag tag-india">India Startup</span><span class="tag tag-trend">Contract Tech</span></div>
+    </div>
+  </div>
+
+
+  <div class="footer">
+    Auto-generated by LegalTech Pulse &middot; Powered by Claude
+  </div>
+</div>
+</body>
+</html>

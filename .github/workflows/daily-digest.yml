@@ -47,6 +47,6 @@ jobs:
             DATE=$(date -u +"%d %B %Y")
             FRESH=$(python3 -c "import json; d=json.load(open('data/briefing.json')); print(len(d.get('articles',[])))")
             TOTAL=$(python3 -c "import json; d=json.load(open('data/briefing.json')); print(len(d.get('articles',[]))+len(d.get('archive',[])))")
-            git commit -m "Refresh briefing, ${DATE} \u2014 ${FRESH} fresh, ${TOTAL} total"
+            git commit -m "Refresh briefing, ${DATE} — ${FRESH} fresh, ${TOTAL} total"
             git push
           fi

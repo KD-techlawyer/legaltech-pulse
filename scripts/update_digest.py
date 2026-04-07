@@ -66,7 +66,7 @@ def merge_stories(existing_data, new_articles, max_fresh=10):
 
 def main():
     print("=" * 60)
-    print("LegalTech Pulse \u2014 Daily Update")
+    print("LegalTech Pulse — Daily Update")
     print(f"Date: {datetime.now(timezone.utc).strftime('%A, %-d %B %Y %H:%M UTC')}")
     print("=" * 60)
 

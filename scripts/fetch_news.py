@@ -12,7 +12,7 @@ import urllib.parse
 from datetime import datetime, timedelta, timezone
 from dateutil import parser as dateparser
 
-# \u2500\u2500 SEARCH QUERIES \u2500\u2500
+# ── SEARCH QUERIES ──
 SEARCH_QUERIES = [
     "legal tech India 2026",
     "law firm AI adoption India",
@@ -32,7 +32,7 @@ SEARCH_QUERIES = [
     "\"Shardul Amarchand\" OR JSA technology legal",
 ]
 
-# \u2500\u2500 EXCLUSION PATTERNS (pure legal/regulatory \u2014 no tech angle) \u2500\u2500
+# ── EXCLUSION PATTERNS (pure legal/regulatory — no tech angle) ──
 EXCLUDE_PATTERNS = [
     r"\bDPDP\b", r"\bcourt judgment", r"\bcompliance news\b",
     r"\bSupreme Court\b.*\bruling\b", r"\bHigh Court\b.*\border\b",
@@ -40,7 +40,7 @@ EXCLUDE_PATTERNS = [
     r"\bcourt order\b", r"\bjudicial review\b",
 ]
 
-# \u2500\u2500 TAG RULES \u2500\u2500
+# ── TAG RULES ──
 TAG_RULES = [
     {
         "tag": "India Startup",
@@ -165,7 +165,7 @@ def extract_source(entry):
     source = entry.get("source", {})
     if isinstance(source, dict):
         return source.get("title", "")
-    # Try to extract from title (Google News format: \"Title - Source\")
+    # Try to extract from title (Google News format: "Title - Source")
     title = entry.get("title", "")
     if " - " in title:
         return title.rsplit(" - ", 1)[-1].strip()
