@@ -419,7 +419,7 @@ def generate_site(data, output_dir=None):
     # ── Main page (index.html) ──
     nav_html = build_nav_html(tag_counts, active_category=None, base_path="")
     main_sections = [
-        {"label": "Fresh (last 48h)", "articles": articles, "class": ""},
+        {"label": "Fresh", "articles": articles, "class": ""},
         {"label": "Earlier", "articles": archive, "class": "archive-section"},
     ]
     main_html = generate_page(
