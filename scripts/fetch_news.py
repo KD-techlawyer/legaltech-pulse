@@ -4,13 +4,15 @@ Fetch legal tech news from Google News RSS feeds.
 Searches configured topics, deduplicates, tags, and returns structured articles.
 """
 
-import feedparser
 import hashlib
 import re
 import time
 import urllib.parse
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
-from dateutil import parser as dateparser
+from email.utils import parsedate_to_datetime
+
+import requests
 
 # ── SEARCH QUERIES ──
 SEARCH_QUERIES = [
@@ -108,8 +110,23 @@ def google_news_rss(query, num_results=10):
     encoded = urllib.parse.quote(query)
     url = f"https://news.google.com/rss/search?q={encoded}&hl=en&gl=US&ceid=US:en"
     try:
-        feed = feedparser.parse(url)
-        return feed.entries[:num_results]
+        resp = requests.get(url, timeout=15, headers={"User-Agent": "LegalTechPulse/1.0"})
+        resp.raise_for_status()
+        root = ET.fromstring(resp.content)
+        items = root.findall(".//item")
+        entries = []
+        for item in items[:num_results]:
+            entry = {
+                "title": (item.findtext("title") or ""),
+                "link": (item.findtext("link") or ""),
+                "published": (item.findtext("pubDate") or ""),
+                "summary": (item.findtext("description") or ""),
+            }
+            source_el = item.find("source")
+            if source_el is not None:
+                entry["source"] = {"title": source_el.text or ""}
+            entries.append(entry)
+        return entries
     except Exception as e:
         print(f"  [WARN] Failed to fetch '{query}': {e}")
         return []
@@ -117,10 +134,10 @@ def google_news_rss(query, num_results=10):
 
 def parse_date(entry):
     """Parse published date from RSS entry."""
-    raw = entry.get("published", entry.get("updated", ""))
+    raw = entry.get("published", "")
     if raw:
         try:
-            return dateparser.parse(raw)
+            return parsedate_to_datetime(raw)
         except Exception:
             pass
     return datetime.now(timezone.utc)

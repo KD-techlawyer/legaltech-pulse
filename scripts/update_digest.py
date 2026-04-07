@@ -70,18 +70,18 @@ def main():
     print(f"Date: {datetime.now(timezone.utc).strftime('%A, %-d %B %Y %H:%M UTC')}")
     print("=" * 60)
 
-    # Step 1: Load existing data
-    index_path = os.path.join(REPO_ROOT, "index.html")
-    if os.path.exists(index_path):
-        print("\n[1/4] Loading existing data from index.html...")
+    # Step 1: Load existing data from JSON
+    data_path = os.path.join(REPO_ROOT, "data", "briefing.json")
+    if os.path.exists(data_path):
+        print("\n[1/4] Loading existing data from data/briefing.json...")
         try:
-            existing_data = load_briefing_data(index_path)
+            existing_data = load_briefing_data(data_path)
             print(f"  Found {len(existing_data.get('articles', []))} fresh + {len(existing_data.get('archive', []))} archived stories")
         except Exception as e:
             print(f"  [WARN] Could not parse existing data: {e}")
             existing_data = {"articles": [], "archive": []}
     else:
-        print("\n[1/4] No existing index.html found, starting fresh")
+        print("\n[1/4] No existing data found, starting fresh")
         existing_data = {"articles": [], "archive": []}
 
     # Step 2: Fetch new stories
