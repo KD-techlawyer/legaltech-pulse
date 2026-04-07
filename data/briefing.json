@@ -2,17 +2,6 @@
   "date": "Tuesday, 7 April 2026",
   "articles": [
     {
-      "title": "Harvey Secures $200M at $11B Valuation to Expand AI Legal Agents Platform",
-      "url": "https://theaiinsider.tech/2026/03/27/harvey-secures-200m-at-11b-valuation-to-expand-ai-legal-agents-platform/",
-      "source": "The AI Insider",
-      "published": "27 Mar 2026",
-      "summary": "Harvey raised $200M bringing its valuation to $11B and total capital to $1B. The round was co-led by GIC and Sequoia. Harvey now partners with most of the 100 largest US law firms, over 500 in-house legal teams, and 50 asset management firms across 60 countries, with recent customers including NBCUniversal, HSBC, and DLA Piper International.",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
       "title": "Microsoft Copilot Labeled 'For Entertainment Purposes Only' in Terms of Service \u2014 Sparks Legal Debate",
       "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
       "source": "TechCrunch",
@@ -28,19 +17,8 @@
       "url": "https://www.axios.com/pro/enterprise-software-deals/2026/04/03/legal-tech-first-quarter-vc-funding",
       "source": "Axios Pro",
       "published": "3 Apr 2026",
-      "summary": "Legal-tech startups recorded their second-highest quarterly VC intake in Q1 2026. Legaltech funding hit $4.3B across 356 deals in the trailing twelve months, with AI-powered legal tools driving 70% of investment. Seven of the top ten recent closings are AI-native companies.",
+      "summary": "Legal-tech startups recorded their second-highest quarterly VC intake in Q1 2026. Legaltech funding hit $4.3B across 356 deals in the trailing twelve months, with AI-powered legal tools driving 70% of investment. Harvey and Legora accounted for nearly half of all Q1 funding.",
       "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Why Native Legal AI Is Required for India",
-      "url": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
-      "source": "Artificial Lawyer",
-      "published": "2 Apr 2026",
-      "summary": "Artificial Lawyer examines why India's legal system needs AI tools built specifically for Indian law \u2014 arguing that global platforms like Harvey and CoCounsel lack the jurisdictional depth, multi-language support, and understanding of India-specific regulatory frameworks required for meaningful adoption.",
-      "tags": [
-        "India Startup",
         "AI Trend"
       ]
     },
@@ -56,14 +34,58 @@
       ]
     },
     {
-      "title": "Legora Reaches $5.55B Valuation as AI Legal Tech Boom Endures",
-      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
-      "source": "TechCrunch",
-      "published": "10 Mar 2026",
-      "summary": "Legora closed a $550M Series D at $5.55B valuation, hit $100M ARR, opened Munich and Houston offices, and plans to grow to 300+ US employees by year-end. The platform emphasizes collaborative workspaces with deep integration into iManage and NetDocuments.",
+      "title": "Charting Change in Legal: The Realities of AI Adoption, and an Inflection Point",
+      "url": "https://legaltechnology.com/2026/04/02/charting-change-in-legal-the-realities-of-ai-adoption-and-an-inflection-point/",
+      "source": "Legal IT Insider",
+      "published": "2 Apr 2026",
+      "summary": "Legal IT Insider reports the legal industry has reached a genuine inflection point \u2014 less fear, more pragmatism. Corporate legal AI adoption jumped from 23% to 52% in one year, with 64% of in-house teams expecting to depend less on outside counsel due to AI capabilities they are building internally.",
+      "tags": [
+        "AI Trend",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "Why Native Legal AI Is Required for India",
+      "url": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
+      "source": "Artificial Lawyer",
+      "published": "2 Apr 2026",
+      "summary": "Artificial Lawyer examines why India's legal system needs AI tools built specifically for Indian law \u2014 arguing that global platforms like Harvey and CoCounsel lack the jurisdictional depth, multi-language support, and understanding of India-specific regulatory frameworks required for meaningful adoption.",
+      "tags": [
+        "India Startup",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legora Hits $100M ARR, Opens Munich Office as Legal AI Race Intensifies",
+      "url": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
+      "source": "Artificial Lawyer",
+      "published": "2 Apr 2026",
+      "summary": "Legora announced hitting $100M ARR in just 18 months, opened offices in Munich, Houston, and Chicago, and plans to grow to 300+ US employees by year-end. The platform emphasizes collaborative workspaces with deep integration into iManage and NetDocuments for BigLaw.",
       "tags": [
         "Global AI Tool",
         "AI Trend"
+      ]
+    },
+    {
+      "title": "HSBC Selects Harvey AI as Enterprise Legal AI Platform",
+      "url": "https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-announces-harvey-ai-for-their-legal-platform",
+      "source": "HSBC",
+      "published": "1 Apr 2026",
+      "summary": "HSBC selected Harvey AI as its enterprise legal AI platform, deploying it across the bank's global legal operations. The deal signals growing adoption of legal AI by major financial institutions beyond traditional law firm clients.",
+      "tags": [
+        "Global AI Tool",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "SpotDraft Reports 100% YoY Customer Growth, Processes Over 1M Contracts Annually",
+      "url": "https://www.inventiva.co.in/trends/top-10-legaltech-saas-startups-in-2026/",
+      "source": "Inventiva",
+      "published": "1 Apr 2026",
+      "summary": "SpotDraft reported 100% year-on-year growth in its customer base with contract volumes up 173%. The platform now serves 50,000 monthly active users processing over one million contracts annually. Its privacy-first on-device AI runs entirely on Snapdragon processors.",
+      "tags": [
+        "India Startup",
+        "Contract Tech"
       ]
     },
     {
@@ -71,7 +93,31 @@
       "url": "https://www.lawnext.com/2026/03/ai-built-for-law-outperforms-chatgpt-claude-and-gemini-on-legal-reasoning-benchmark.html",
       "source": "LawSites",
       "published": "31 Mar 2026",
-      "summary": "Descrybe launched DescrybeLM, an AI system built specifically for legal reasoning, publishing benchmark data comparing it against ChatGPT 5.2, Claude Opus 4.5, and Gemini 3 Pro on 200 multistate bar exam questions. DescrybeLM answered all 200 correctly while ChatGPT, Claude, and Gemini each missed 13-23 questions.",
+      "summary": "Descrybe launched DescrybeLM, an AI system built specifically for legal reasoning. On 200 multistate bar exam questions, DescrybeLM answered all 200 correctly while ChatGPT 5.2, Claude Opus 4.5, and Gemini 3 Pro each missed 13-23 questions \u2014 showing purpose-built legal AI outperforming general models.",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Harvey Secures $200M at $11B Valuation to Expand AI Legal Agents Platform",
+      "url": "https://theaiinsider.tech/2026/03/27/harvey-secures-200m-at-11b-valuation-to-expand-ai-legal-agents-platform/",
+      "source": "The AI Insider",
+      "published": "27 Mar 2026",
+      "summary": "Harvey raised $200M bringing its valuation to $11B and total capital to $1B. Co-led by GIC and Sequoia, the funding will expand Harvey's agentic AI platform including Spectre, an autonomous system that can handle entire client matters. Harvey now partners with 100+ top US law firms and 500+ in-house teams.",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Legora Reaches $5.55B Valuation as AI Legal Tech Boom Endures",
+      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+      "source": "TechCrunch",
+      "published": "10 Mar 2026",
+      "summary": "Legora closed a $550M Series D at $5.55B valuation, hit $100M ARR, opened Munich and Houston offices, and plans to grow to 300+ US employees by year-end. The platform emphasizes collaborative workspaces with deep integration into iManage and NetDocuments.",
       "tags": [
         "Global AI Tool",
         "AI Trend"
@@ -99,19 +145,6 @@
         "Global Firm"
       ]
     },
-    {
-      "title": "SpotDraft Reports 100% YoY Customer Growth, Processes Over 1M Contracts Annually",
-      "url": "https://www.inventiva.co.in/trends/top-10-legaltech-saas-startups-in-2026/",
-      "source": "Inventiva",
-      "published": "1 Apr 2026",
-      "summary": "SpotDraft reported 100% year-on-year growth in its customer base with contract volumes up 173%. The platform now serves 50,000 monthly active users processing over one million contracts annually. Its privacy-first on-device AI runs entirely on Snapdragon processors including embeddings, clause extraction, and risk scoring.",
-      "tags": [
-        "India Startup",
-        "Contract Tech"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "Microsoft Copilot Cowork \u2014 Anthropic's Claude Powers New Agentic AI Agent Across M365",
       "url": "https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered",
