@@ -1,91 +1,97 @@
 {
-  "date": "Tuesday, 7 April 2026",
+  "date": "Wednesday, 8 April 2026",
   "articles": [
     {
-      "title": "Microsoft Copilot Labeled 'For Entertainment Purposes Only' in Terms of Service \u2014 Sparks Legal Debate",
-      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "source": "TechCrunch",
-      "published": "5 Apr 2026",
-      "summary": "Microsoft's terms of use describe Copilot as 'for entertainment purposes only', contradicting its enterprise positioning at $30/user/month. Microsoft called it 'legacy language' from when Copilot launched as a Bing companion, promising an update. The disclaimer raises questions about legal recourse if business decisions are based on incorrect Copilot outputs.",
+      "title": "Claude, OpenClaw and the new reality: AI agents are here \u2014 and so is the chaos",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmowaTBXMjF3d3Fzd1dXTDhVbXVJeDJ1SUNpSWp4TWVWU19xdFBRR0V1YW9jMDNKa043WVl2WE5jbWxFSzVOU2xwVGcwZkFJbkd4ZnZOb3BNUlJpckhCNzREUDd5LTZrd1R5cVF3TWw3dzB5bDFMWmxZc3JVM0d5bzM1NWxqbFlBeUgtMm5sbEtpUmdiUVZlTE8zX3RPZmx4ZmVlbko5X1VnU0NhaEE?oc=5",
+      "source": "VentureBeat",
+      "published": "8 Apr 2026",
+      "summary": "Claude, OpenClaw and the new reality: AI agents are here \u2014 and so is the chaos&nbsp;&nbsp;VentureBeat",
       "tags": [
-        "AI Trend",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Claude Code leak rattles industry, legal risks mount",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVlsN0dDS3NhRjdHczRmcWRSbTV6R21GeE9SVHgwQjB1Y1pKRWVHbGRmM3lfSXBmZkpQM0hPR09FNW4za3pPMV9BODhDZlJvSUIxSHN5MjBYalAzaFBCZEp5RjJOOEhmYUJZSEI3dEgxRDVxWFpyN1dQNDFXaUdyMjF3enRDNEYxSTEzRjNn?oc=5",
+      "source": "digitimes.com",
+      "published": "8 Apr 2026",
+      "summary": "Claude Code leak rattles industry, legal risks mount&nbsp;&nbsp;digitimes.com",
+      "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Legal Tech Sees Second-Busiest Funding Quarter on Record in Q1 2026",
-      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/04/03/legal-tech-first-quarter-vc-funding",
-      "source": "Axios Pro",
-      "published": "3 Apr 2026",
-      "summary": "Legal-tech startups recorded their second-highest quarterly VC intake in Q1 2026. Legaltech funding hit $4.3B across 356 deals in the trailing twelve months, with AI-powered legal tools driving 70% of investment. Harvey and Legora accounted for nearly half of all Q1 funding.",
+      "title": "Microsoft Copilot officially \"for entertainment only\"\u2014which means you're on the hook for individual liability",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSUlxSXJRMGx3S0wwOC1OUnpaS2tzOEpCM2hlT3FTMmFrVkRVNUZPVXhQV291MlptVVd3YkQ2YUNIbnFtOFFoWlhxVmNldC1ON0xudFR0YWs2OGlLQlZSOEE3bDdpTU9LMUVJUUNWUl96eC1yRDdGcF9lNEExQTdpclhuLUZSc05PbFFxN0dSQ1RUdGRITHc5eTV4RnRPZ09BZU5fNGs5cXRwSFFNTlRwZnMtZzRnaXBPRE1waDNNVllUaGNWd2RSS1diV2h4Rjk3UnVvWXludnRVUy1rS0JUa21ha3lqTHhNa2c?oc=5",
+      "source": "Freelance Informer",
+      "published": "7 Apr 2026",
+      "summary": "Microsoft Copilot officially \"for entertainment only\"\u2014which means you're on the hook for individual liability&nbsp;&nbsp;Freelance Informer",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "AUTOMATIC Partners with Law.co to Deliver Agentic AI Infrastructure for Law Firms",
-      "url": "https://www.manilatimes.net/2026/04/03/tmt-newswire/plentisoft/automatic-partners-with-lawco-to-deliver-agentic-ai-infrastructure-for-law-firms/2313889",
-      "source": "The Manila Times",
-      "published": "3 Apr 2026",
-      "summary": "AUTOMATIC announced a strategic partnership with Law.co to deliver autonomous AI agents for law firms \u2014 enabling legal research, contract workflows, and client intake without sacrificing compliance. The partnership signals the shift from AI assistants to autonomous agentic infrastructure in legal practice.",
+      "title": "Sarvam AI To Raise $350 Million to Build India's AI",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEZOb2FMVk9VRHhBam5TVlVqM1RLbGxyS2F6QkV6cTNaLXY2c1FtQ1NEV3RnV2dRSUVHdGpNOGVaRlBHUVdHbUViSXFPVlExWVM1WHNEX0FrTlY2Z3pkai16NktFVW00dzNIaV9rakkxV1NlNmlvWnpvR2kyMnRhcVRDNENkOC1idDJXMXg3V20tb1U3SkE0RDV1QW5JdEplT3g4?oc=5",
+      "source": "BW Businessworld",
+      "published": "7 Apr 2026",
+      "summary": "Sarvam AI To Raise $350 Million to Build India's AI&nbsp;&nbsp;BW Businessworld",
       "tags": [
-        "AI Trend",
-        "Contract Tech"
+        "India Startup"
       ]
     },
     {
-      "title": "Charting Change in Legal: The Realities of AI Adoption, and an Inflection Point",
-      "url": "https://legaltechnology.com/2026/04/02/charting-change-in-legal-the-realities-of-ai-adoption-and-an-inflection-point/",
-      "source": "Legal IT Insider",
-      "published": "2 Apr 2026",
-      "summary": "Legal IT Insider reports the legal industry has reached a genuine inflection point \u2014 less fear, more pragmatism. Corporate legal AI adoption jumped from 23% to 52% in one year, with 64% of in-house teams expecting to depend less on outside counsel due to AI capabilities they are building internally.",
+      "title": "No Counsel, No Privilege: Courts Signal That Client AI Use May Fall Outside Attorney-Client Privilege",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWnBlSzY5QzFET3RYUnVXbDJfLVJYZUpvMkxwZFU4cVdMMWtYZXpKVmFxWWI1SzdXRERSZEN4WXpHWC1xeFBSUkZDcHp6SnZIcENKVlJfNi0xS18yZm5NN2JnMXM1STRnZXprVmNpQjZ2bU12SzliTlB6YVNwWFhqX190X2V4d2s?oc=5",
+      "source": "JD Supra",
+      "published": "7 Apr 2026",
+      "summary": "No Counsel, No Privilege: Courts Signal That Client AI Use May Fall Outside Attorney-Client Privilege&nbsp;&nbsp;JD Supra",
       "tags": [
-        "AI Trend",
-        "Global Firm"
-      ]
-    },
-    {
-      "title": "Why Native Legal AI Is Required for India",
-      "url": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
-      "source": "Artificial Lawyer",
-      "published": "2 Apr 2026",
-      "summary": "Artificial Lawyer examines why India's legal system needs AI tools built specifically for Indian law \u2014 arguing that global platforms like Harvey and CoCounsel lack the jurisdictional depth, multi-language support, and understanding of India-specific regulatory frameworks required for meaningful adoption.",
-      "tags": [
-        "India Startup",
         "AI Trend"
       ]
     },
     {
-      "title": "Legora Hits $100M ARR, Opens Munich Office as Legal AI Race Intensifies",
-      "url": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
-      "source": "Artificial Lawyer",
-      "published": "2 Apr 2026",
-      "summary": "Legora announced hitting $100M ARR in just 18 months, opened offices in Munich, Houston, and Chicago, and plans to grow to 300+ US employees by year-end. The platform emphasizes collaborative workspaces with deep integration into iManage and NetDocuments for BigLaw.",
+      "title": "Lawyers, these AI tools can really boost your output",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0ZOSkVPaFVlQ1dGWGE0OFkwRlI5RGFlcFlOR3B4akxubFlfbE9nRWxueGtFamJaN3J3MURGeGJXMnpPdzlWZGxwdUtrQ0ctQUg2bDI0S3BZQVV3NWxUMERXVE1NbjE4Rm82NHR6cEYyaXpRRHAzMTZtMlktNEtQbmxPMWhMNUNUNGV6NjdZaWVZWEFQU2tvamhR?oc=5",
+      "source": "NewsBytes",
+      "published": "7 Apr 2026",
+      "summary": "Lawyers, these AI tools can really boost your output&nbsp;&nbsp;NewsBytes",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "AI startups court law students in fight for legal market",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEFMdHJfMGlzVXYxanAtVVMteWdnLXdmQTBDQVpHdXUxa3lCX3FFWDBsaGJBOHFfb0JHV0FPbHFHNm5YR0xHa1IwcmVNeFJLNmNwb3hrUHNWUXBSak8xdGdpb3J5bkpzODJQSUpGWENkdHMzTEZUZTN6Sl9aSkd0dUdBVQ?oc=5",
+      "source": "News.az",
+      "published": "7 Apr 2026",
+      "summary": "AI startups court law students in fight for legal market&nbsp;&nbsp;News.az",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Microsoft Charges You for Copilot Entertainment.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMl9EM0NUZWJMVWZtRGRjX3BPZUhYQVRBWU1tWnhTNzNoaldRQ1BaZGNESmtEMWNoRnhpS0hUYjdiMmNRMUVYOGllc3ZrX29XcHFwekVZXzY4SmxnNFpJU0E5T2ZRcFBUVmRQZmdSeW11eEZwR05ITG1wTnZkVmtfMmYxX09xUQ?oc=5",
+      "source": "thetechpencil.com",
+      "published": "7 Apr 2026",
+      "summary": "Microsoft Charges You for Copilot Entertainment.&nbsp;&nbsp;thetechpencil.com",
+      "tags": [
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Harvey Secures $200M at $11B Valuation to Expand AI Legal Agents Platform",
+      "url": "https://theaiinsider.tech/2026/03/27/harvey-secures-200m-at-11b-valuation-to-expand-ai-legal-agents-platform/",
+      "source": "The AI Insider",
+      "published": "27 Mar 2026",
+      "summary": "Harvey raised $200M bringing its valuation to $11B and total capital to $1B. Co-led by GIC and Sequoia, the funding will expand Harvey's agentic AI platform including Spectre, an autonomous system that can handle entire client matters. Harvey now partners with 100+ top US law firms and 500+ in-house teams.",
       "tags": [
         "Global AI Tool",
         "AI Trend"
-      ]
-    },
-    {
-      "title": "HSBC Selects Harvey AI as Enterprise Legal AI Platform",
-      "url": "https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-announces-harvey-ai-for-their-legal-platform",
-      "source": "HSBC",
-      "published": "1 Apr 2026",
-      "summary": "HSBC selected Harvey AI as its enterprise legal AI platform, deploying it across the bank's global legal operations. The deal signals growing adoption of legal AI by major financial institutions beyond traditional law firm clients.",
-      "tags": [
-        "Global AI Tool",
-        "Global Firm"
-      ]
-    },
-    {
-      "title": "SpotDraft Reports 100% YoY Customer Growth, Processes Over 1M Contracts Annually",
-      "url": "https://www.inventiva.co.in/trends/top-10-legaltech-saas-startups-in-2026/",
-      "source": "Inventiva",
-      "published": "1 Apr 2026",
-      "summary": "SpotDraft reported 100% year-on-year growth in its customer base with contract volumes up 173%. The platform now serves 50,000 monthly active users processing over one million contracts annually. Its privacy-first on-device AI runs entirely on Snapdragon processors.",
-      "tags": [
-        "India Startup",
-        "Contract Tech"
       ]
     },
     {
@@ -100,18 +106,92 @@
       ]
     },
     {
-      "title": "Harvey Secures $200M at $11B Valuation to Expand AI Legal Agents Platform",
-      "url": "https://theaiinsider.tech/2026/03/27/harvey-secures-200m-at-11b-valuation-to-expand-ai-legal-agents-platform/",
-      "source": "The AI Insider",
-      "published": "27 Mar 2026",
-      "summary": "Harvey raised $200M bringing its valuation to $11B and total capital to $1B. Co-led by GIC and Sequoia, the funding will expand Harvey's agentic AI platform including Spectre, an autonomous system that can handle entire client matters. Harvey now partners with 100+ top US law firms and 500+ in-house teams.",
+      "title": "SpotDraft Reports 100% YoY Customer Growth, Processes Over 1M Contracts Annually",
+      "url": "https://www.inventiva.co.in/trends/top-10-legaltech-saas-startups-in-2026/",
+      "source": "Inventiva",
+      "published": "1 Apr 2026",
+      "summary": "SpotDraft reported 100% year-on-year growth in its customer base with contract volumes up 173%. The platform now serves 50,000 monthly active users processing over one million contracts annually. Its privacy-first on-device AI runs entirely on Snapdragon processors.",
+      "tags": [
+        "India Startup",
+        "Contract Tech"
+      ]
+    },
+    {
+      "title": "HSBC Selects Harvey AI as Enterprise Legal AI Platform",
+      "url": "https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-announces-harvey-ai-for-their-legal-platform",
+      "source": "HSBC",
+      "published": "1 Apr 2026",
+      "summary": "HSBC selected Harvey AI as its enterprise legal AI platform, deploying it across the bank's global legal operations. The deal signals growing adoption of legal AI by major financial institutions beyond traditional law firm clients.",
+      "tags": [
+        "Global AI Tool",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "Legora Hits $100M ARR, Opens Munich Office as Legal AI Race Intensifies",
+      "url": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
+      "source": "Artificial Lawyer",
+      "published": "2 Apr 2026",
+      "summary": "Legora announced hitting $100M ARR in just 18 months, opened offices in Munich, Houston, and Chicago, and plans to grow to 300+ US employees by year-end. The platform emphasizes collaborative workspaces with deep integration into iManage and NetDocuments for BigLaw.",
       "tags": [
         "Global AI Tool",
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Why Native Legal AI Is Required for India",
+      "url": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
+      "source": "Artificial Lawyer",
+      "published": "2 Apr 2026",
+      "summary": "Artificial Lawyer examines why India's legal system needs AI tools built specifically for Indian law \u2014 arguing that global platforms like Harvey and CoCounsel lack the jurisdictional depth, multi-language support, and understanding of India-specific regulatory frameworks required for meaningful adoption.",
+      "tags": [
+        "India Startup",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Charting Change in Legal: The Realities of AI Adoption, and an Inflection Point",
+      "url": "https://legaltechnology.com/2026/04/02/charting-change-in-legal-the-realities-of-ai-adoption-and-an-inflection-point/",
+      "source": "Legal IT Insider",
+      "published": "2 Apr 2026",
+      "summary": "Legal IT Insider reports the legal industry has reached a genuine inflection point \u2014 less fear, more pragmatism. Corporate legal AI adoption jumped from 23% to 52% in one year, with 64% of in-house teams expecting to depend less on outside counsel due to AI capabilities they are building internally.",
+      "tags": [
+        "AI Trend",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "AUTOMATIC Partners with Law.co to Deliver Agentic AI Infrastructure for Law Firms",
+      "url": "https://www.manilatimes.net/2026/04/03/tmt-newswire/plentisoft/automatic-partners-with-lawco-to-deliver-agentic-ai-infrastructure-for-law-firms/2313889",
+      "source": "The Manila Times",
+      "published": "3 Apr 2026",
+      "summary": "AUTOMATIC announced a strategic partnership with Law.co to deliver autonomous AI agents for law firms \u2014 enabling legal research, contract workflows, and client intake without sacrificing compliance. The partnership signals the shift from AI assistants to autonomous agentic infrastructure in legal practice.",
+      "tags": [
+        "AI Trend",
+        "Contract Tech"
+      ]
+    },
+    {
+      "title": "Legal Tech Sees Second-Busiest Funding Quarter on Record in Q1 2026",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/04/03/legal-tech-first-quarter-vc-funding",
+      "source": "Axios Pro",
+      "published": "3 Apr 2026",
+      "summary": "Legal-tech startups recorded their second-highest quarterly VC intake in Q1 2026. Legaltech funding hit $4.3B across 356 deals in the trailing twelve months, with AI-powered legal tools driving 70% of investment. Harvey and Legora accounted for nearly half of all Q1 funding.",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Microsoft Copilot Labeled 'For Entertainment Purposes Only' in Terms of Service \u2014 Sparks Legal Debate",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "source": "TechCrunch",
+      "published": "5 Apr 2026",
+      "summary": "Microsoft's terms of use describe Copilot as 'for entertainment purposes only', contradicting its enterprise positioning at $30/user/month. Microsoft called it 'legacy language' from when Copilot launched as a Bing companion, promising an update. The disclaimer raises questions about legal recourse if business decisions are based on incorrect Copilot outputs.",
+      "tags": [
+        "AI Trend",
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "Legora Reaches $5.55B Valuation as AI Legal Tech Boom Endures",
       "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
