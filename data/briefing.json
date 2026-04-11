@@ -1,22 +1,105 @@
 {
-  "date": "Friday, 10 April 2026",
+  "date": "Saturday, 11 April 2026",
   "articles": [
     {
-      "title": "5th ICA International Conference 2026 on Arbitration in the Era of Globalization Brings Top Legal Experts and Global Titans Together",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcHBlS2Z1TVZjY3haU3FfcGhVUlFnYWRWTWRNa2hXbFhpeVNxNWhxT0hzRXdaMGRRdEhtRGR6X3lwa1d6RlB5akpmQ2VMdjZPdVJ2QXc1bTIxVDBSRkZIUUFBYm5wRlEzQklQUUZoYXMtWkEtb1lpVnRVc3NpLUY5V2dtUHVqVTdhdGVwYmd3RjZLQlJRT04teXFRcDFsMUNpUGJqQzNpUHNWalVfbzBYT2FUellfNWI2Zk9iMmFKNE82S0lVa2NMaG1QSkx0U0NwdVNkbGFib0J6TGt5R1JCRHFoRElmekJVWTFMYmFOeDEzSVFhemo4cUM4UU0?oc=5",
-      "source": "LawStreet Journal",
-      "published": "9 Apr 2026",
-      "summary": "5th ICA International Conference 2026 on Arbitration in the Era of Globalization Brings Top Legal Experts and Global Titans Together&nbsp;&nbsp;LawStreet Journal",
+      "title": "Inside CoCounsel Legal Reimagined with David von Ebers",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXN0OU40emhSZ0ZWQTZmWEg0R1lxLUV2TFBHWWdaMjctems0M3dyakZSRkh0XzVadko2QmhkQmN4M21ZNEJ5MGFxNTM1bmFGeHNNV3c3cV9DcERwbVNGXzBpUTIzbXozQzlLR09jcmE1MmVSMXpybVhqWEh1RURRNnhBUXEyWXhFcWh1N1RlVjZPdThnXzZtMw?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "10 Apr 2026",
+      "summary": "Inside CoCounsel Legal Reimagined with David von Ebers&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Claude Legal is here, and it\u2019s worth a closer look | Legal Loop",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzBFWEhHN0NoaG5RRmNHaW5UbWRSdm9hNDh5NTllZlZpS2lRcVk1VV91QldJTDRTQmowNlNEZTJQMkl1NkRoVkNsdUFvQUdReDltUURTRGYtcC0yRkpIRGtxQkJNeDRrWVdCV2QyZ2x6R2t2ZDdpNGxtbDluRFVmb2dkdFlqaEtua2REM3QyUTFxQ2txRVZaRXNWV192UQ?oc=5",
+      "source": "NY Daily Record",
+      "published": "10 Apr 2026",
+      "summary": "Claude Legal is here, and it\u2019s worth a closer look | Legal Loop&nbsp;&nbsp;NY Daily Record",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Weekly Funding Roundup: Sarvam AI Nears $350M, Perplexity Launches $1M Challenge",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEd4VXdEVFdqZGxQUTAtR3J3aGFoa2k2REczM3FkRklpXzBOSkstdC1BcVlzcFNxWG5BTDV0czVJYXg3eXBHckFadXZEN1pXanI5MDJqbkNyM3Y2clY0emlKOHdUNGd4aUxHYWtiSEQtSEI4ZU1Nd0tLRkl6a0VTcHRvbmFIOWltbm9lRE92WldyTVFwMEZfd3JicXBpTWJybU5FYk1kS0ZVMk42VW16eGl1dmxhWGkzM3fSAccBQVVfeXFMTWRndThYU1VnaVVHdGw4ZVRUQkRZNkhpS3FnTHl2RmZWREc1c09VV0hOMzNDRVZLMjNLaGdnZ1FNNU9UUFM5RDYyZk1OdWJGVXJxYWVnUThWQk9Ici1WdUdYUVZLOEFzLUNfR3lEWkdqWTlWNlFVcmxYM3c4elY5YzZqQ25ER2R2UlhKQXAtbHdqSmk5c1d1czFQanlCQzNkUVdSb0dJZWtPelh6QkRGUVlUUktYWnVRVC1ZcW43Q005d2U1MFhQNA?oc=5",
+      "source": "Analytics Insight",
+      "published": "10 Apr 2026",
+      "summary": "Weekly Funding Roundup: Sarvam AI Nears $350M, Perplexity Launches $1M Challenge&nbsp;&nbsp;Analytics Insight",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "CoreWeave strikes AI cloud deal with Anthropic, shares surge",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXZwd1Q2eUVjeEE1cFFuLUxWMkZ4YmtYTG52UkQ5WTlhRnF5bFN3dDl5cjh1OHJGR1M2UC01MnZPYVhnNnNFaGtmQnRJX2hnS1BkTVE5N3ZnMjBpYWNpeW1TZTFoUThISHlXNHRWUkJxZ0ZFSXdkZGR0RG1tdGZmZE94MW9rdGx0TlhiWDRvNkFHZjV0QW1raWxZSkUzV1lmUnhpSlFrd2JGbkZOUDlBS1JTb3I?oc=5",
+      "source": "Reuters",
+      "published": "10 Apr 2026",
+      "summary": "CoreWeave strikes AI cloud deal with Anthropic, shares surge&nbsp;&nbsp;Reuters",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Still in the Blast Zone: A New Ruling Deflects Some of the Privilege Bomb\u2019s Shrapnel, But Businesses Still Need to Suit Up",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOXA1Mmg5VkdiaVBFd3NBcVNHSXRsQTlNMWV4RVZBekFOV3FYTnFNWXlJQVVxXzd1THFVTjByZjlCVzB6UDFZLWtFOXMzS1A5M2FrOFlpZzAyRkwyM3VYQ1RXU0liYWRnWlJRUWtRVzR0Z05OMTdzRHdBWVV4TEhSbXdrcU9Edw?oc=5",
-      "source": "JD Supra",
+      "title": "Goodwin Joining BigLaw Firms Embracing AI-Native Trend",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1hGRVdUUk1PU21wYVkxbEk1c3FLOFJTS0dKSEl0SkJzYkcwSUh5NlAzSUdxaXpCbjliYzJidmpfd1JDU0toMjZDbWJndXZfSkZiWnBPX29UTzhiZlI2N3R1NXNqbHhXc3lMZ2VGbTk2OVZySFN2LVo3cEVPeC1QUTN6UnFnWHFBXzAtS0E0ODhEU1VWTi03ZkpITdIBXkFVX3lxTE94eWJUY3lrYjg0b2dRWERDUDdELUE2Ukt0Z19lUGdwMUhVODdRaWM3enZSQ29MWTJxY2lGQ3dMWGt5bS1mT3hWSUd5cDhGcUNXZ2FST2Y3Q3FFZk1VOXc?oc=5",
+      "source": "Law360",
+      "published": "10 Apr 2026",
+      "summary": "Goodwin Joining BigLaw Firms Embracing AI-Native Trend&nbsp;&nbsp;Law360",
+      "tags": [
+        "Global Firm",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legora bets on baseball's biggest brand to fuel US growth",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NSm5tR1NHNVdtSHVMaC1QTlJOdmJVak1KZHZTc2FEMWhCaXgtdVFKeXNld3RmNGxOMGhOUEI5V010bmVzdzhGSjBMY3VVTUtNOThyWWkxa3FmVndBQmVzY2g0b1Rwd1VaZEJKTmhqS2lCMTh5OUxBNmxR?oc=5",
+      "source": "Non-Billable",
+      "published": "10 Apr 2026",
+      "summary": "Legora bets on baseball's biggest brand to fuel US growth&nbsp;&nbsp;Non-Billable",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Sarvam AI Nears $350M Funding, Igniting India's Foundational AI Race",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVVQT2toRkxqQmNPZkhHYUhnd1BKYjBSM0tiOGlqb0ItX2NpX3JvTUVGeTlMWlNyZlhaNGh6Z29hb2lIRjBUQlFyTlR5NXZYa2ptSC1HbVctVHZjUmxiU2Yxb1o2Y0hwVms3WXluY3MxWE5jaW1Ncml6RVBmZ1pITzVUVEJXaWZYekZpQlluMVM5blplenl4OExIVHcyOV9vNVdsQTdIaDI1aG9fTGJGQzNTbE1qcVZzVzEzakV5dDhaTEJWVG9aWGoyQUkzcWpMLS1ZRDFlbnE?oc=5",
+      "source": "Whalesbook",
+      "published": "10 Apr 2026",
+      "summary": "Sarvam AI Nears $350M Funding, Igniting India's Foundational AI Race&nbsp;&nbsp;Whalesbook",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Start-up Street | Sarvam AI's mega fund-raise: Trendsetter or a one-off?",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXBCdERTUEVBMTRkMmtsNHQ3TzdYVGJoWGZNaF9tNkdBbDhHU1h2OVFBbmVGZkVybGtxSnlCaENfZmdKbFdmZTNna2FsNGtpR1FyTU1hMzJHT2FIZTR3c2dKbmhsQVgzN3hBdk1pejVzMDIyLVpqTTVoZXFfWWo0bkFVU1BRTlVMdjQ5bzFoall6WHAzWEtMaTM0R1lBWldhdFdUS09xaUh1b1Vxa0hPVFdYX3JyZFBHejh6M1J6QWNsUQ?oc=5",
+      "source": "Moneycontrol.com",
+      "published": "10 Apr 2026",
+      "summary": "Start-up Street | Sarvam AI's mega fund-raise: Trendsetter or a one-off?&nbsp;&nbsp;Moneycontrol.com",
+      "tags": [
+        "India Startup"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Will Claude Managed Agents Impact Legal Tech?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPam1NUXloa0FlSXVqQS1QOHVOQ3BHZk53SVhNN0ZKWWd3LWtucVVJbFFDRVlhR1FVakNHUjZ4Rm9JOXEzUE83WWZwc2cyQlhMYWhaMW1ZSmh2STAzMFZTT0xCS3VoZE13Q3ppb3pTQkVib0xMTXRUV1FzM2RDNlB1aFhfTWczanFBUk5aZ3BfcXNJeUk?oc=5",
+      "source": "Artificial Lawyer",
       "published": "9 Apr 2026",
-      "summary": "Still in the Blast Zone: A New Ruling Deflects Some of the Privilege Bomb\u2019s Shrapnel, But Businesses Still Need to Suit Up&nbsp;&nbsp;JD Supra",
+      "summary": "Will Claude Managed Agents Impact Legal Tech?&nbsp;&nbsp;Artificial Lawyer",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Agentic AI following GenAI\u2019s growth trajectory in legal, but with unique oversight challenges, new report shows",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFpZSEtQYXpQb3h2THYtT3ZCMkxlaU1XYTJ1LVZFcC1VNUJtTFVrLVZNRDZlUXl6S09Ub3hjb2R4QTlqTFNCQTBmSllfT0MtZVpxTnptekJ6dG03VTFxcmoxQzlVMFNobnFXNFRBUldZT2NMemtzT2U0YVFTWjZhWmNDUkk1WmxwMXBXYVRIcw?oc=5",
+      "source": "Thomson Reuters",
+      "published": "9 Apr 2026",
+      "summary": "Agentic AI following GenAI\u2019s growth trajectory in legal, but with unique oversight challenges, new report shows&nbsp;&nbsp;Thomson Reuters",
       "tags": [
         "AI Trend"
       ]
@@ -32,27 +115,25 @@
       ]
     },
     {
-      "title": "Agentic AI following GenAI\u2019s growth trajectory in legal, but with unique oversight challenges, new report shows",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFpZSEtQYXpQb3h2THYtT3ZCMkxlaU1XYTJ1LVZFcC1VNUJtTFVrLVZNRDZlUXl6S09Ub3hjb2R4QTlqTFNCQTBmSllfT0MtZVpxTnptekJ6dG03VTFxcmoxQzlVMFNobnFXNFRBUldZT2NMemtzT2U0YVFTWjZhWmNDUkk1WmxwMXBXYVRIcw?oc=5",
-      "source": "Thomson Reuters",
+      "title": "Still in the Blast Zone: A New Ruling Deflects Some of the Privilege Bomb\u2019s Shrapnel, But Businesses Still Need to Suit Up",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOXA1Mmg5VkdiaVBFd3NBcVNHSXRsQTlNMWV4RVZBekFOV3FYTnFNWXlJQVVxXzd1THFVTjByZjlCVzB6UDFZLWtFOXMzS1A5M2FrOFlpZzAyRkwyM3VYQ1RXU0liYWRnWlJRUWtRVzR0Z05OMTdzRHdBWVV4TEhSbXdrcU9Edw?oc=5",
+      "source": "JD Supra",
       "published": "9 Apr 2026",
-      "summary": "Agentic AI following GenAI\u2019s growth trajectory in legal, but with unique oversight challenges, new report shows&nbsp;&nbsp;Thomson Reuters",
+      "summary": "Still in the Blast Zone: A New Ruling Deflects Some of the Privilege Bomb\u2019s Shrapnel, But Businesses Still Need to Suit Up&nbsp;&nbsp;JD Supra",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Will Claude Managed Agents Impact Legal Tech?",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPam1NUXloa0FlSXVqQS1QOHVOQ3BHZk53SVhNN0ZKWWd3LWtucVVJbFFDRVlhR1FVakNHUjZ4Rm9JOXEzUE83WWZwc2cyQlhMYWhaMW1ZSmh2STAzMFZTT0xCS3VoZE13Q3ppb3pTQkVib0xMTXRUV1FzM2RDNlB1aFhfTWczanFBUk5aZ3BfcXNJeUk?oc=5",
-      "source": "Artificial Lawyer",
+      "title": "5th ICA International Conference 2026 on Arbitration in the Era of Globalization Brings Top Legal Experts and Global Titans Together",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcHBlS2Z1TVZjY3haU3FfcGhVUlFnYWRWTWRNa2hXbFhpeVNxNWhxT0hzRXdaMGRRdEhtRGR6X3lwa1d6RlB5akpmQ2VMdjZPdVJ2QXc1bTIxVDBSRkZIUUFBYm5wRlEzQklQUUZoYXMtWkEtb1lpVnRVc3NpLUY5V2dtUHVqVTdhdGVwYmd3RjZLQlJRT04teXFRcDFsMUNpUGJqQzNpUHNWalVfbzBYT2FUellfNWI2Zk9iMmFKNE82S0lVa2NMaG1QSkx0U0NwdVNkbGFib0J6TGt5R1JCRHFoRElmekJVWTFMYmFOeDEzSVFhemo4cUM4UU0?oc=5",
+      "source": "LawStreet Journal",
       "published": "9 Apr 2026",
-      "summary": "Will Claude Managed Agents Impact Legal Tech?&nbsp;&nbsp;Artificial Lawyer",
+      "summary": "5th ICA International Conference 2026 on Arbitration in the Era of Globalization Brings Top Legal Experts and Global Titans Together&nbsp;&nbsp;LawStreet Journal",
       "tags": [
-        "Global AI Tool"
+        "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Sarvam AI unveils 'Chanakya' vertical for critical, high-security AI needs",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTlNUaEpMMTFBcEtRMkJFSFFxWncxa05vcVVMNWlyVzlaWHpiSkk4dFFCTFZWYll4Vkd3YjRNM0dZc210dThHdVhqVjB1TGh3MHdPdER6OHBHMnRSMUg1LWhhWGd4UjlnTGxqOVVhOV9VOUFLbDBmemMtdlhuLUpyMmtrU01KRFpMcTJaZUhMbHhwTG1sbWo1QXgzMm4wTDV6STBLdjRJbXczbFZhZkxzMkYxWk1hSmNxZW1sb2NUZmNzblZT?oc=5",
