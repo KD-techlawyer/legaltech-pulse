@@ -1,6 +1,28 @@
 {
-  "date": "Saturday, 18 April 2026",
+  "date": "Sunday, 19 April 2026",
   "articles": [
+    {
+      "title": "Things You Told ChatGPT or Claude My Have Already Doomed You in Court",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XRUFKcW9wbHEyQXlwamxaR3EwWFdKSG41aWE5ZFZVUzNJTXFQd0RVYTFjanFhRDhsSGNBUjMwYTdYellxWnloY080TlUxOVIwdGNkN05JZ3lCU3lORGtuNlE2M0tWN2pRanBHQVZrREhlWXdZWnZSMA?oc=5",
+      "source": "Futurism",
+      "published": "18 Apr 2026",
+      "summary": "Things You Told ChatGPT or Claude My Have Already Doomed You in Court&nbsp;&nbsp;Futurism",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Sarvam AI unveils 'Chanakya' vertical for critical, high-security AI needs",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQVJSX3dMby1KUXgyMTZqZnF2NW5TVGVsRGFlLURRb2tVT2p3VWtsMWVXRHMwaXZ4dldFbjhMRkl4UjV2bXVNRVk2ckFKa3BrR3VpczJiU3J5emJHQ0VGbXVkazctdVk0RV94SWdSWVZGVm5ScG1nTUYzeFBBeWFFS1Bud3VtTUpvM3hyLURiTjUxY3lUNU5TdEFyVllZQlB3azk0SEs5MmxRd3BWakxIY2pla1lJeE8yLW5WTEJjTFB0NTNma2VYUzNMOVpUaUxTdzd6Y1ZQbmdSVDdnd20tMTl3VGkyUjdNQzhQNjNvd3RRdC13ZTJiRUlFY1dXcnFWVlFXUGFB?oc=5",
+      "source": "MSN",
+      "published": "18 Apr 2026",
+      "summary": "Sarvam AI unveils 'Chanakya' vertical for critical, high-security AI needs&nbsp;&nbsp;MSN",
+      "tags": [
+        "India Startup"
+      ]
+    }
+  ],
+  "archive": [
     {
       "title": "Smokeball and Thomson Reuters Partner to Create the Premier Legal Technology Ecosystem",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRUpVTGg2eWdRWDBxdGtxZWFFU3F5TGJ0R3JMS0ppTjI4TnRKYmtBUjFjYVJpSzFaRjFEZEdKQnBUWGRjTnp4Z0xZNDU3YWNzWXE0dzV5anlFa21vblJSWnZLZUozampqZnFMZENBZ295T3AyRTkxelVXQ0tCVmYydzRFZGRUUVRNMS1xUnkwdGJuZXBoUDI0dVItaDhUamNkcjhlazl4LVQ2QjB5SVVHYldNcHU0UQ?oc=5",
@@ -10,9 +32,7 @@
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "AI won't replace lawyers, but will redefine how legal teams work: SpotDraft's Shailesh Kumar",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNc1g5V2RranBUUmQ0cGRnTURGYk4xNmVIbnhLWHljTF9sUG9jaUVUMG1idUNndlVJSDJnV21IYy1uQWFpWVJITUNhelFiZlhHazRybGVnRkxQMWk1Uzdxd1I4SWttclRtVnBQRDR6ZE1ZeGRIbGZzTXBqQUdVQnBNaXJwYXhWbVlqSjI0a3pEUFMyUm1fRlVxbXhSSmN4T293OC0xT3dITWlQVkVQWGVjak9MSk1YZFBoWmtQaUJNLWFwQVp1TU9DMF9DM2ZDVHoxLWE2bXhfYmxBVUkzaWZTN1NUdEdMemdiNUZUVThTajJ5U3c0ODBvM9IB_gFBVV95cUxPYnZzTWVXR21zMXhMajgtQi1RYmdhZzMzVVNCT05OYjFjaHVtclBEb0hRQWhNanNvbmNfeUxVNkh1SThDVFc0dktRYzBWNk1xRTNHTVh2OHBCVXM4RlRjeUtYNGJscUFBWWwzM29DaFQ4WEx4QnlqYmVtNHVubmVsOHBUYnFud0RvOFJfbjVzd1FBaWduNjJpNHFPajdPZVBpM2RRbGR4SFdhcGUwTzVfSk5aU2NJZllBeXJ5UHlScnduUU96eE42V3FDYUFqN0ZuWEFjMU0waDJWN1hleV93N3U4UUxsX2Z4ZTZGWEpEVGxBR0dhUTQ0Y2t2elBHZw?oc=5",
@@ -232,16 +252,6 @@
       "summary": "Anthropic\u2019s Claude for Word turns up the heat on legal AI start\u2011ups&nbsp;&nbsp;The Lawyer",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Sarvam AI unveils 'Chanakya' vertical for critical, high-security AI needs",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQd1NIMGhpM20zQjVHbzU2Z0JCY1B6VVBsbzNRclNkYjIzM0ROOVB1QVU3SmduSHRfeTdBSVpTSGU3QktIMmd0NlgzbWVmMXZuMEw3RlNnQkl6UXVrMFRXZUVlZGJfcVhnSVBoajBpbGVhb0F6MTV4akU4RmJzeEptY0FQVjQyN0hOcVhFUFBMWWVRTjlicndJSXpDM2xlaHNDcGxhYzhsbFNEa3dfdVdYY0R6RG9vMHFoOGJQXzl2NlRxbk9EUUVtellSUWpMSkNoT3JuREFqTlMzaFRGeUR4VzFfWXBpeWI4TWpzR21sT0dFMEZqUEVlaExoNmdOQzRZVDRvMEhaY29Dc0hFS1UwMjNaMmV5R2x2Z0N1Wk0wTm45Z19ZbE81ZmdZLVJpY0tyMGlHNVdHVWJvcmZlbVRHbEx1WEd6Ri1WYk9ZbkFNQlBidmpycjhpdVp6cnZ5YjFsNXBqTFN2bWNnbEhZRlllZXhGZ1Q4RnhUZng2WDJmcG5MWnVjejFIcnBCQ20za2xNZmxhT3M0ZnhBdVZG?oc=5",
-      "source": "MSN",
-      "published": "14 Apr 2026",
-      "summary": "Sarvam AI unveils 'Chanakya' vertical for critical, high-security AI needs&nbsp;&nbsp;MSN",
-      "tags": [
-        "India Startup"
       ]
     },
     {
