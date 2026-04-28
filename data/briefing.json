@@ -1,6 +1,69 @@
 {
-  "date": "Monday, 27 April 2026",
+  "date": "Tuesday, 28 April 2026",
   "articles": [
+    {
+      "title": "Introducing PwC's Tax AI Assistant, powered by Harvey",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVk3UWQwMnhZOEtObEp0ajFSTUlBQmlra2hTdEs4OUtISXNyUFppal82Znp4QUR0TTJva21LTVNXdUlmcHJYdEdPaHBKX2MtR0hGSUYybzRxcjg5eERYSXl0TXBWMWpjeUZNSDVsOXkyUnV6OGxsdFNTSzk3ZGdTOUg1ZWRzaV9mWDRIYzRjeWZnUnZDTjdveDZR?oc=5",
+      "source": "PwC",
+      "published": "28 Apr 2026",
+      "summary": "Introducing PwC's Tax AI Assistant, powered by Harvey&nbsp;&nbsp;PwC",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Harvey and Ansarada Partner to Deliver Secure, AI-Powered Deal Workflows",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbkFxbEhHNlU2aTEtdW55cFNJSTI4VUc3X2RBNnEtOFdCQ09FQnBPaFhvVEswRkdjNXZDc1NDZUY2eXpxSGpHWVlBbHNzdkNmd0Z0b2FNMy1HV0FUT3l4TXFleDVpSjEyX2Jqa095Sl9keW9Xa3lLdktzTWt3WHR0X2FPUW95RGlKdkNOS21DY0padlpDaUdPSk9Hc2VHV2FFZVp5bWVIS3BIQjlXX0dRSUt5ZFNqN3BBSjZJVnFqQkpfcDh2Y2FhR0pTcXlKUEpjS280QUpRUmtIZVnSAeABQVVfeXFMTUQzZk9HYi14Mk8yZ1lZYjMzQ0otUnBrSFhKd1RqVWJNRmJWbzU0MWVfSkJuNlBIREQtczZXYTNXeTAtQi1EOXA0NU81bjdYMG90YjczTm1UZEdXRzZBeXN6eDZ1bGxXY2xnSUhSZzBwV1Q3ZTVRZ0NOU1hYRmd4STZ0eVQyWDFjTmg4UjhIWklVaktnb0VPZGlXaURiMi1wWmRpRkY1R3VGZkFjTVJmRnBabGdIS09BQjdNdmdNakh5ZDZ1SllIWWlvZVJGSW1JbGhmWVZlSEthSElVaFl0bUo?oc=5",
+      "source": "The Manila Times",
+      "published": "28 Apr 2026",
+      "summary": "Harvey and Ansarada Partner to Deliver Secure, AI-Powered Deal Workflows&nbsp;&nbsp;The Manila Times",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Data room platform Ansarada integrates Harvey AI",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWxUTnBGN2FzUU9DT3NhQXNRVXdVeGRuRFRoQjQ0cW5OaV9CMFR1bkdWazRTY0JrV2tjalhuUzBYbXAyUjJWa2ZqcjIwTWV4M0lTZVZCVWMzWW01WWQ5ZkZmMlNBTmcyVXk4YnJDWjJlX01HX2U2Qnljb3FySjZUVVNnbXJpN0xWY0NpMFNXdTRWeE9VbG4zV1pqTWFRTV9NTDBxNWhXLWRIVVEwbW1KRE9WTjgyMXB1R3hSV3pWMWF4Zw?oc=5",
+      "source": "Capital Brief",
+      "published": "28 Apr 2026",
+      "summary": "Data room platform Ansarada integrates Harvey AI&nbsp;&nbsp;Capital Brief",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence and Privilege: What Clients Need to Know",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0FOT3JmcXZKbk0yUXUyT1ZSZ25vaTBRVXRGNER4MXItenVlQlNDY2xXdC1JRjJlbGZHbFljNVNtbFo0VVhobHJBdHJ3OE0yNFdwMXdnbHh1akNRU1JvSzdfNjZqS3FpMHJpaVVSelA4aGNpdVdIQ1ppVnhSM3dLenF2R2tvd1k?oc=5",
+      "source": "JD Supra",
+      "published": "27 Apr 2026",
+      "summary": "Artificial Intelligence and Privilege: What Clients Need to Know&nbsp;&nbsp;JD Supra",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "How 5 Senior Firm Leaders Drive AI Adoption",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqb21valdyVUlRdlI0TzQ5Y1dYVnVjMmVNbUV0aC16UHl1OUI5VHdOSnhoLTJ6ekFRUmE1TjJQZ1owN3I3Z1NNNnhLd2ctaTU2MkEzNUdVak1BSjhncUJXeFBXNGdXWllJRkx4ZUh0YjZWTnZlMHRmUmhn?oc=5",
+      "source": "Harvey",
+      "published": "27 Apr 2026",
+      "summary": "How 5 Senior Firm Leaders Drive AI Adoption&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Gavel Launches Web-Based AI Contract Platform, Expanding 'Gavel Exec' Beyond Its Word Add-In",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNm1vR1FXTy1OV0VJaWxGTk5IV25rdkZwdmNIUXQzZ1VzTjk4TDRlN1J4N2NXYk9ZWDB3eV83cUxLUlNNOWd6Rk1MM3ZHdi1KcUpKWlljUDZCTHFQZE5CTEppT0piZ25wdWdpc01ENE5jbjFUaHowM0lfZ01NbU5LRFNRb1owWWg3YkIzMUJNZFdFd2FxeE1aeGJzYV9Va215Snd1ckt3cHlGUVZlTk5DUEthX1AwajVNLVNSa083V1hBdjA0?oc=5",
+      "source": "LawSites",
+      "published": "27 Apr 2026",
+      "summary": "Gavel Launches Web-Based AI Contract Platform, Expanding 'Gavel Exec' Beyond Its Word Add-In&nbsp;&nbsp;LawSites",
+      "tags": [
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
     {
       "title": "AI Built for Law Outperforms ChatGPT, Claude, and Gemini on Legal Reasoning Benchmark",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlpKVEI5WFJFLXZrcjA1QWtYOHZyMnNFMVFBQzlWR3VRZDlia2U0bkNZNjdRN1l5ZlpPaWNxalQ0VDJtYkViUjlwNlhWMDdEYnVQaUlYY2J4OVk3dnRjdC1NdjFWWTlNZV9IdWd6b3ctZnhTcnZaSWstNDFJSGFvQXhmQzR3OHdRM3lzS2JBS0h4Zml2MVdiNDg4TDl4bGxGYXBBOFp4Y2MzNFF6eG16b0p4dHB3WVU?oc=5",
@@ -10,9 +73,7 @@
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Freshfields Partners with Anthropic for AI Legal Innovation and Firm-Wide Adoption",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaU1yeVZkVmMtZ084NU15aGJwR2dTbXU0dDhxcVc3OC1MX2ZMek81azdHWG55UW8wT0pvRlJVWExBQ2xqTlRLdkJfSk15R1BmZ2ExZU1vaXRINGxCYTk2WHNSckthZGhSSDZFallxcmc0akhzMzRfZEoyUThUR3h3QnF3cC11TEJMdXdEX3JzaHJaRWV3NFN0cDNVTjRJdm8zY1lvRmN0YnprZnA5VmgyOXRTemVqYlBZUVhMNDZmWmxEcFhLUFNScnBkRW1EdjlkekxJcHltZWNMa1HSAdsBQVVfeXFMTmlNcnlWZFZjLWdPODVNeWhicEdnU211NHQ4cXFXNzgtTF9mTHpPNWs3R1hueVFvME9Kb0ZSVVhMQUNsak5US3ZCX0pNeUdQZmdhMWVNb2l0SDRsQmE5NlhzUnJLYWRoUkg2RWpZcXJnNGpIczM0X2RKMlE4VEd4d0Jxd3AtdUxCTHV3RF9yc2hyWkVldzRTdHAzVU40SXZvM2NZb0ZjdGJ6a2ZwOVZoMjl0U3plamJQWVFYTDQ2ZlpsRHBYS1BTUnJwZEVtRHY5ZHpMSXB5bWVjTGtR?oc=5",
