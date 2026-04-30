@@ -1,42 +1,94 @@
 {
-  "date": "Wednesday, 29 April 2026",
+  "date": "Thursday, 30 April 2026",
   "articles": [
     {
-      "title": "AI Built for Law Outperforms ChatGPT, Claude, and Gemini on Legal Reasoning Benchmark",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlpKVEI5WFJFLXZrcjA1QWtYOHZyMnNFMVFBQzlWR3VRZDlia2U0bkNZNjdRN1l5ZlpPaWNxalQ0VDJtYkViUjlwNlhWMDdEYnVQaUlYY2J4OVk3dnRjdC1NdjFWWTlNZV9IdWd6b3ctZnhTcnZaSWstNDFJSGFvQXhmQzR3OHdRM3lzS2JBS0h4Zml2MVdiNDg4TDl4bGxGYXBBOFp4Y2MzNFF6eG16b0p4dHB3WVU?oc=5",
-      "source": "The National Law Review",
-      "published": "28 Apr 2026",
-      "summary": "AI Built for Law Outperforms ChatGPT, Claude, and Gemini on Legal Reasoning Benchmark&nbsp;&nbsp;The National Law Review",
+      "title": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IY21ZYkpfWHFzZFdjaDJNYUg2T2k3NWFwOWNFTVRPTHI5dE9KX1FlZGc5czBYSFZIOUdlYTRCTEx4aGRJaC1IQnpkSDE5RkxlMjQzdXo3NjNpOXNONmcxSmt3TmRfR0g5a1hNTk1tRml6U0MtZzZJS2pn0gF_QVVfeXFMUG1JLTRyMFZCS1ZFcGtMc2JBQmV3a2JCdm1rdUU1SlVDdkt3b0oyVXNZSU9uUVF3WC1ydUxCWGZjMnlRcDU1YUFnU0hSSkdUMFVsRWZzZTJxTkg0YkJ0MFB2b2t4VTFoN2JYV3RZZGg3WjhJeW84SXotWlFCYXhUaw?oc=5",
+      "source": "CNBC",
+      "published": "30 Apr 2026",
+      "summary": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere&nbsp;&nbsp;CNBC",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Harvey and Ansarada partner to deliver secure, AI-powered legal workflows",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGN5R0lvQ01rSnlLaVVtQm1YaUhwWlVoVzRHTFA0WmJaOWtkVVFsMm1qaU8taHVlVmc1cW5aX1VEWk00U2x0VGJzblh4RE9TU1FnaVM3TWlZeU9VcTRfa2dVdXFSeG00bW5GaUFiVWtxTjlEcmJETHlmLU9wVndiLVpheVhBWk9KWFpIU0VNNnNzV0JGN3pQV0RIdTY?oc=5",
+      "source": "FutureCIO",
+      "published": "30 Apr 2026",
+      "summary": "Harvey and Ansarada partner to deliver secure, AI-powered legal workflows&nbsp;&nbsp;FutureCIO",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Microsoft Copilot Health: Another Player In AI-Driven Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmRkQkZZQ1VyQ1BGZnRkSHFBSlQ4YmhRcnpTQW9RaUFja2VFVTY1T0xlQklsdVZfRDNEeGtjejYwMXpHZnJEUDRDN1NDeGIwXzZJUGVIalJOUGQ2c1BzX2N4VDhiRjE3OVZVZTY5eXU1MUkzZkMwcWxQVW1WSUdyWnpTZFpYVmVUMHBSd0lBYjk2Z3N6VUoxVtIBngFBVV95cUxQZ3lDOVJfTXlxYzlWbm9uWFhFUmFZVnVUVXVTN1VZdlRER1ZvaXkyUDBsWkoxMDkyQW5sa2pfZDJmLUF5OEwxdG56ZEpKZGRCVzdhd0RjTmFkRUg2UVdDTGl1SW1URXhpU1drdUFNVU1IeUZHc1A0cmVRRnBLSW41dFBMcjZWMTFxNnozMTNUTzdhNUV4OGJxandMRzJGZw?oc=5",
-      "source": "The National Law Review",
-      "published": "28 Apr 2026",
-      "summary": "Microsoft Copilot Health: Another Player In AI-Driven Healthcare&nbsp;&nbsp;The National Law Review",
+      "title": "Watch Sarvam AI Cofounder On India's AI Push",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQzJGcXZkNjVxbXFYN0hRSXpnbmpDY3laRXBqTXhjQndYZmNaUWJ1cTVVdDFOcldUZ3A1dko3UXF1eGUwaFZpOXBSMC0yVndiLUlRT00wWVViOXptT2hrNEdxbmk1MFBsdHQzcnFfdTc4M0lqVEVSUDJtWGZBTUhZd0xUSTlybURTWVpwbFpqckx4U1BZRkpMYg?oc=5",
+      "source": "Bloomberg",
+      "published": "30 Apr 2026",
+      "summary": "Watch Sarvam AI Cofounder On India's AI Push&nbsp;&nbsp;Bloomberg",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Day in the Life: Legal Engineer at :Harvey:",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZURwYlZqQVBoeTdXSUtYeEpuVUVoM2MwelBoZEVfTlpTNGpfRTdaWU8tV0M5cWlOZ0g5bGpMQlZMRUpVZ2ljaGVvVDhCRVQzcTUwbGFkUHl1WGhQUnlWTXh3ekxISkVE?oc=5",
+      "source": "Harvey",
+      "published": "29 Apr 2026",
+      "summary": "Day in the Life: Legal Engineer at :Harvey:&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Claude For Word Is Weak, Suggests Ivo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTN4R2EyRHFmT0dIMmZTczhQWnlyTXk1UE9DbHFOUjQ3cFhXTTQtRzZKQ3FuNGVUR2w3dFJJWHd5cDYwSi1YdFNiaGlFSDcxdzJOQm52dmMzTDJRRDJqVW9IYzFYbzFEMWg1MG4xYUxYcEM2R18xMGtIWEtIVW9vM0Nzb1B4bXpf?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "29 Apr 2026",
+      "summary": "Claude For Word Is Weak, Suggests Ivo&nbsp;&nbsp;Artificial Lawyer",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Global regulators trail banks in AI as Mythos raises oversight concerns, report finds",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcGpBWkFKZWJtdi1EVW5xZmxHbXdqektlUkYzNzhuZTM0cXNfbVZZLVBaUE1ad2p4cHJpRmhQYmczQ05HeURNbi10dF9wNXhobU4wR3phTjN2eDhzOE9ZbDY1YnN2ZHBZdm5hd0NNN0ktenhpQW5vc182LUFFcUMxcVlwenNCVmdsbGNaMDMzZk53S2ljN09FMVY5Z0JNUDBXajEyQzlfRGk4TzNzUU5PSXZlSVpDYngwSFVuUVdHd05DSmotZHNsWk43bGh5ejRTa0c2Q1JYUTE1QVo4WWRTcDBfVURGejg0Smp5aVRXbGVYVXZL0gH0AUFVX3lxTE9wakFaQUplYm12LURVbnFmbEdtd2p6S2VSRjM3OG5lMzRxc19tVlktUFpQTVp3anhwcmlGaFBiZzNDTkd5RE1uLXR0X3A1eGhtTjBHemFOM3Z4OHM4T1lsNjVic3ZkcFl2bmF3Q003SS16eGlBbm9zXzYtQUVxQzFxWXB6c0JWZ2xsY1owMzNmTndLaWM3T0UxVjlnQk1QMFdqMTJDOV9EaThPM3NRTk9JdmVJWkNieDBIVW5RV0d3TkNKai1kc2xaTjdsaHl6NFNrRzZDUlhRMTVBWjhZZFNwMF9VREZ6ODRKanlpVFdsZVhVdks?oc=5",
-      "source": "ETLegalWorld.com",
-      "published": "28 Apr 2026",
-      "summary": "Global regulators trail banks in AI as Mythos raises oversight concerns, report finds&nbsp;&nbsp;ETLegalWorld.com",
+      "title": "Ivo Outperforms Claude for Word in Independent Contract Review Benchmark",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzhUOG42azdlRExaTVFWeDVYN19nSVNGRkQxSHBKV21RWE53T01oN3FMVEtfTEwtRkNSc24yRGtzekIyX2FGWE1hNXRMOW5faEwxdUJtRTk4SXV2cmxmMFdITEJ5Z1EtcEhiWUlVbHlmM2tZSXZZRndScm9YTlc0Y29nWmRXQ3F2aG9fODloamxwczZfZDB6VUM5Q2tJM3ptcGFoNEdtMUZ4VTdHV3R5OFZZUW9qRmxrWUl1aEZqVVYtNXkyb2lv?oc=5",
+      "source": "PR Newswire",
+      "published": "29 Apr 2026",
+      "summary": "Ivo Outperforms Claude for Word in Independent Contract Review Benchmark&nbsp;&nbsp;PR Newswire",
       "tags": [
-        "AI Trend"
+        "Contract Tech"
       ]
     },
     {
-      "title": "The Blackstone Theory of Legal Services",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xa2lDa3NyQmJ0SERCMC1JUUFqUDI5VUk0LURKUTRXeTZZenFmc3hHamxFVGMyTmlXVV9FNm9CaG9WRjJjQWJBaWUzaVUtbXVXVTZXU0xzSFFDaVZVMEUwVGRoMDE5cWtpdEpMS3JuQ0hiZw?oc=5",
-      "source": "LawFuel",
+      "title": ":Harvey: Partners with Otto Schmidt and Legal Data Analytics GmbH",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWVvTjhqZ0E1STRxLWJwamdzVjBxR1pQM1hBYkFCbVdMREhXd2U5MExreGE3dW1rU0tvZUp6X3lNM2N1eFhnNXNlWVk2N2N3SmFHVzBwNUIta0NXVzh5R2tVXzJLN1AtaHFTN3RhcXRtRF9qRUVielZrMHBpOG93ajdvbjkxTV92ZzR2enExcWFGdlpV?oc=5",
+      "source": "Harvey",
+      "published": "29 Apr 2026",
+      "summary": ":Harvey: Partners with Otto Schmidt and Legal Data Analytics GmbH&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Is Claude Really Cheaper Than Your Legal Tech Stack?",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQelNIRFExLU42Y2t0X0E1djEyb2VkdEJJdmNUUTRJeTM1QUVPc09UbG5uZGNvQ1cybm9qRTFBTVc2TXZITXc5VzljMnpFOVlUMjRMOHZCWktpeWFOaEpYdXBTZWNCdHhuM3RMR1Naa2pUTzNkcXFWTkdtaVdoOXFQU3FHd1U4RkpLc01TazZDQ09OUmZJenctVkZ3elA?oc=5",
+      "source": "Artificial Lawyer",
       "published": "28 Apr 2026",
-      "summary": "The Blackstone Theory of Legal Services&nbsp;&nbsp;LawFuel",
+      "summary": "Is Claude Really Cheaper Than Your Legal Tech Stack?&nbsp;&nbsp;Artificial Lawyer",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Andrew Tindall: In a sea of AI sameness, we must build brand",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXVHaE1rSlUxbURWVzFzcy1tUUFCM2Q3ZlVlWVE3NzZlMzVYTTJjeVhzZGdpTWVvcUF2ekdjVE1yWXF5d2pOZlpENUJCeXVraWIycml5V1pVbmI0bUljempEdFdQNHRiMWVtZmh3cUdqekdqUVpSVlNoRUtxMGgzV1NZVUd3Y2JGZTluR2F4bVJ6N182TGQ4b3Y5WHZCY01FNnRaSTU5QmkxQVg2Mng4RzdLek11OTdPWVE?oc=5",
+      "source": "The Drum",
+      "published": "28 Apr 2026",
+      "summary": "Andrew Tindall: In a sea of AI sameness, we must build brand&nbsp;&nbsp;The Drum",
       "tags": [
         "AI Trend"
       ]
@@ -52,27 +104,45 @@
       ]
     },
     {
-      "title": "Andrew Tindall: In a sea of AI sameness, we must build brand",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXVHaE1rSlUxbURWVzFzcy1tUUFCM2Q3ZlVlWVE3NzZlMzVYTTJjeVhzZGdpTWVvcUF2ekdjVE1yWXF5d2pOZlpENUJCeXVraWIycml5V1pVbmI0bUljempEdFdQNHRiMWVtZmh3cUdqekdqUVpSVlNoRUtxMGgzV1NZVUd3Y2JGZTluR2F4bVJ6N182TGQ4b3Y5WHZCY01FNnRaSTU5QmkxQVg2Mng4RzdLek11OTdPWVE?oc=5",
-      "source": "The Drum",
+      "title": "The Blackstone Theory of Legal Services",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xa2lDa3NyQmJ0SERCMC1JUUFqUDI5VUk0LURKUTRXeTZZenFmc3hHamxFVGMyTmlXVV9FNm9CaG9WRjJjQWJBaWUzaVUtbXVXVTZXU0xzSFFDaVZVMEUwVGRoMDE5cWtpdEpMS3JuQ0hiZw?oc=5",
+      "source": "LawFuel",
       "published": "28 Apr 2026",
-      "summary": "Andrew Tindall: In a sea of AI sameness, we must build brand&nbsp;&nbsp;The Drum",
+      "summary": "The Blackstone Theory of Legal Services&nbsp;&nbsp;LawFuel",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Is Claude Really Cheaper Than Your Legal Tech Stack?",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQelNIRFExLU42Y2t0X0E1djEyb2VkdEJJdmNUUTRJeTM1QUVPc09UbG5uZGNvQ1cybm9qRTFBTVc2TXZITXc5VzljMnpFOVlUMjRMOHZCWktpeWFOaEpYdXBTZWNCdHhuM3RMR1Naa2pUTzNkcXFWTkdtaVdoOXFQU3FHd1U4RkpLc01TazZDQ09OUmZJenctVkZ3elA?oc=5",
-      "source": "Artificial Lawyer",
+      "title": "Global regulators trail banks in AI as Mythos raises oversight concerns, report finds",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcGpBWkFKZWJtdi1EVW5xZmxHbXdqektlUkYzNzhuZTM0cXNfbVZZLVBaUE1ad2p4cHJpRmhQYmczQ05HeURNbi10dF9wNXhobU4wR3phTjN2eDhzOE9ZbDY1YnN2ZHBZdm5hd0NNN0ktenhpQW5vc182LUFFcUMxcVlwenNCVmdsbGNaMDMzZk53S2ljN09FMVY5Z0JNUDBXajEyQzlfRGk4TzNzUU5PSXZlSVpDYngwSFVuUVdHd05DSmotZHNsWk43bGh5ejRTa0c2Q1JYUTE1QVo4WWRTcDBfVURGejg0Smp5aVRXbGVYVXZL0gH0AUFVX3lxTE9wakFaQUplYm12LURVbnFmbEdtd2p6S2VSRjM3OG5lMzRxc19tVlktUFpQTVp3anhwcmlGaFBiZzNDTkd5RE1uLXR0X3A1eGhtTjBHemFOM3Z4OHM4T1lsNjVic3ZkcFl2bmF3Q003SS16eGlBbm9zXzYtQUVxQzFxWXB6c0JWZ2xsY1owMzNmTndLaWM3T0UxVjlnQk1QMFdqMTJDOV9EaThPM3NRTk9JdmVJWkNieDBIVW5RV0d3TkNKai1kc2xaTjdsaHl6NFNrRzZDUlhRMTVBWjhZZFNwMF9VREZ6ODRKanlpVFdsZVhVdks?oc=5",
+      "source": "ETLegalWorld.com",
       "published": "28 Apr 2026",
-      "summary": "Is Claude Really Cheaper Than Your Legal Tech Stack?&nbsp;&nbsp;Artificial Lawyer",
+      "summary": "Global regulators trail banks in AI as Mythos raises oversight concerns, report finds&nbsp;&nbsp;ETLegalWorld.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Microsoft Copilot Health: Another Player In AI-Driven Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmRkQkZZQ1VyQ1BGZnRkSHFBSlQ4YmhRcnpTQW9RaUFja2VFVTY1T0xlQklsdVZfRDNEeGtjejYwMXpHZnJEUDRDN1NDeGIwXzZJUGVIalJOUGQ2c1BzX2N4VDhiRjE3OVZVZTY5eXU1MUkzZkMwcWxQVW1WSUdyWnpTZFpYVmVUMHBSd0lBYjk2Z3N6VUoxVtIBngFBVV95cUxQZ3lDOVJfTXlxYzlWbm9uWFhFUmFZVnVUVXVTN1VZdlRER1ZvaXkyUDBsWkoxMDkyQW5sa2pfZDJmLUF5OEwxdG56ZEpKZGRCVzdhd0RjTmFkRUg2UVdDTGl1SW1URXhpU1drdUFNVU1IeUZHc1A0cmVRRnBLSW41dFBMcjZWMTFxNnozMTNUTzdhNUV4OGJxandMRzJGZw?oc=5",
+      "source": "The National Law Review",
+      "published": "28 Apr 2026",
+      "summary": "Microsoft Copilot Health: Another Player In AI-Driven Healthcare&nbsp;&nbsp;The National Law Review",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "AI Built for Law Outperforms ChatGPT, Claude, and Gemini on Legal Reasoning Benchmark",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlpKVEI5WFJFLXZrcjA1QWtYOHZyMnNFMVFBQzlWR3VRZDlia2U0bkNZNjdRN1l5ZlpPaWNxalQ0VDJtYkViUjlwNlhWMDdEYnVQaUlYY2J4OVk3dnRjdC1NdjFWWTlNZV9IdWd6b3ctZnhTcnZaSWstNDFJSGFvQXhmQzR3OHdRM3lzS2JBS0h4Zml2MVdiNDg4TDl4bGxGYXBBOFp4Y2MzNFF6eG16b0p4dHB3WVU?oc=5",
+      "source": "The National Law Review",
+      "published": "28 Apr 2026",
+      "summary": "AI Built for Law Outperforms ChatGPT, Claude, and Gemini on Legal Reasoning Benchmark&nbsp;&nbsp;The National Law Review",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Gavel Launches Web-Based AI Contract Platform, Expanding 'Gavel Exec' Beyond Its Word Add-In",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNm1vR1FXTy1OV0VJaWxGTk5IV25rdkZwdmNIUXQzZ1VzTjk4TDRlN1J4N2NXYk9ZWDB3eV83cUxLUlNNOWd6Rk1MM3ZHdi1KcUpKWlljUDZCTHFQZE5CTEppT0piZ25wdWdpc01ENE5jbjFUaHowM0lfZ01NbU5LRFNRb1owWWg3YkIzMUJNZFdFd2FxeE1aeGJzYV9Va215Snd1ckt3cHlGUVZlTk5DUEthX1AwajVNLVNSa083V1hBdjA0?oc=5",
