@@ -1,22 +1,145 @@
 {
-  "date": "Thursday, 30 April 2026",
+  "date": "Friday, 1 May 2026",
   "articles": [
     {
-      "title": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IY21ZYkpfWHFzZFdjaDJNYUg2T2k3NWFwOWNFTVRPTHI5dE9KX1FlZGc5czBYSFZIOUdlYTRCTEx4aGRJaC1IQnpkSDE5RkxlMjQzdXo3NjNpOXNONmcxSmt3TmRfR0g5a1hNTk1tRml6U0MtZzZJS2pn0gF_QVVfeXFMUG1JLTRyMFZCS1ZFcGtMc2JBQmV3a2JCdm1rdUU1SlVDdkt3b0oyVXNZSU9uUVF3WC1ydUxCWGZjMnlRcDU1YUFnU0hSSkdUMFVsRWZzZTJxTkg0YkJ0MFB2b2t4VTFoN2JYV3RZZGg3WjhJeW84SXotWlFCYXhUaw?oc=5",
-      "source": "CNBC",
+      "title": "How legal teams put Claude to work",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XS0g2bmFUdU1rdFJ1SVg3OXMzTEpfdDZ0RUw5T09WZHpOaENYaHVUUkwzT3VTRWVyS3pkSnNKLUNsZ0EyNkpGbWJLY1NTMDBXajBicHZ5ZURFMjYtVFBBODQzeHpjVHFoekhURXdDN0w5WWFGYXpfNw?oc=5",
+      "source": "Anthropic",
+      "published": "1 May 2026",
+      "summary": "How legal teams put Claude to work&nbsp;&nbsp;Anthropic",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Magic Circle firm Slaughter and May to roll out Harvey AI platform firmwide",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNG1aNVliUEJoaFFFOUpSR1FHS0F3b1F6amsxOVF6a3VQN3EwWlpCVTgwZHdJMG5lVG45dGkxeUNUXzBQc2hXVzE4NlVtSDBiY3paTFFWWlJ4ckZHSHd1OG9nVXE0WlNfNlVDcWdTSnppTWEyTVhIeFN4R0gyODQtQWVyTy1kUk9vSFZDQnFFUmc1NVZmOHV3TERYd3pscG5iQVVHQzNhNlFQdnZ1QkhNRm9TQUdkeEJXdk1RdnlvTWs?oc=5",
+      "source": "The Global Legal Post",
       "published": "30 Apr 2026",
-      "summary": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere&nbsp;&nbsp;CNBC",
+      "summary": "Magic Circle firm Slaughter and May to roll out Harvey AI platform firmwide&nbsp;&nbsp;The Global Legal Post",
+      "tags": [
+        "Global AI Tool",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "Legora Hits a $5.6 Billion Valuation With Nvidia and Atlassian Backing and Legal AI Just Became a Serious Enterprise Battleground",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNejhHOWdycl95cTJ5MVNhUmxCblpzeXBqYlVCVElBdVRLeEJPak1tRElXZl9QYXA5U1lPQ3phMGs3eUMtR21HU254TkNoVWpXSV9lbEFLR0pMOV9laEpFNDFzeXdQSEhJckU4aTlOR2xkUDhIX3RKUGpNSi1ob2ZuNER1U29HRDF3MTFjdU1TSm5WSHpsc2RoNzlXeW43cHRxVnZPU2VDa1dFTjI2azhqNnZHWlhjOThFVWhfQWFlSDhGLWZzY1hUVDdhOWFpRnhMam9lUWNLU0RjdjZDUWtDcTg1c3VxMVFaWTJN?oc=5",
+      "source": "Startup Fortune",
+      "published": "30 Apr 2026",
+      "summary": "Legora Hits a $5.6 Billion Valuation With Nvidia and Atlassian Backing and Legal AI Just Became a Serious Enterprise Battleground&nbsp;&nbsp;Startup Fortune",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnB5Y3NDVTJGcXU4YlMtRUtCMUxkX1JlZktEYmJOejFTeHpLT085aTNPMG94ZWxXRTZVZVVXY0p0VTByMWtCSU4xVExXSWQzNmJreExlcF93STd6WXRnQ0xJMGZESVpEeWJ4TnRBZDJSR09Qdms5SEdYYVludExlbjRTWHZuQ1lMVjQ3SGJVWWwyU0ZMQWVyYnpEYVRIV3ZVSG1BUkZQMVVfSnJUcE9wV2o0QnktU0NhS1pMLQ?oc=5",
+      "source": "TechCrunch",
+      "published": "30 Apr 2026",
+      "summary": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter&nbsp;&nbsp;TechCrunch",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legal AI Giant Harvey To Open Chicago Office In July",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMERLVm9Ld1BTTWVHVzR1NjJHNXkycFRBVksweFR6N0VFaTFrR01ycFVMbVR2TDVDX2JDRjkxMHRXdkJoS0ctcW9Fcm9IZHRmWFpHeU5Fc1FiNVpWeXRySExtWGZ1MnI4R1E0dmEwTU9fUGs1cDlmMEFfcTE3YUxRcHVXSGloc3FzWndXY3dtZWd4SVpZWWsw0gFeQVVfeXFMUExhTERkUy1sdDFFNHEwemVZS1phb2lQSl9VUW9vNEVRY2hnMThBV1E5a3Z2Y1dLQUo1SVdQR1d1UENTUDNlZ1Z2QU9rOTBqLXRlb0IxZDVNbjRLVGNoQQ?oc=5",
+      "source": "Law360",
+      "published": "30 Apr 2026",
+      "summary": "Legal AI Giant Harvey To Open Chicago Office In July&nbsp;&nbsp;Law360",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Loyens & Loeff modernizes the legal and tax industry with Microsoft 365 Copilot",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnFYMHVVTWt2TVZ3Z0czLWVZdFZmdnJYOXprbE5wc21aSW1kTW1fRDdYYjlwV0dyWUpsanlFS2RvNG5kbVMzVHh4NWEzeFVGRjlpWGE2dWdfLXdIZ3VJZjVUVHhJWDNaTjgzRUpwdU05WGs4NVIyUEdrdkJFVlh3S3Y3ZHZjd2RjdVh6RVRLalJDTWFOLVRaZ1JlZWE?oc=5",
+      "source": "Microsoft",
+      "published": "30 Apr 2026",
+      "summary": "Loyens & Loeff modernizes the legal and tax industry with Microsoft 365 Copilot&nbsp;&nbsp;Microsoft",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Microsoft Launches Its Own Legal Agent For Word",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "30 Apr 2026",
+      "summary": "Microsoft Launches Its Own Legal Agent For Word&nbsp;&nbsp;Artificial Lawyer",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Harvey and Ansarada partner to deliver secure, AI-powered legal workflows",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGN5R0lvQ01rSnlLaVVtQm1YaUhwWlVoVzRHTFA0WmJaOWtkVVFsMm1qaU8taHVlVmc1cW5aX1VEWk00U2x0VGJzblh4RE9TU1FnaVM3TWlZeU9VcTRfa2dVdXFSeG00bW5GaUFiVWtxTjlEcmJETHlmLU9wVndiLVpheVhBWk9KWFpIU0VNNnNzV0JGN3pQV0RIdTY?oc=5",
-      "source": "FutureCIO",
+      "title": "Swedish Legal Tech Startup Legora Lands Another $50M In Nvidia-Led Series D Extension",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkFxc2EzSkwxb2IyY2FwdXRZZmptZXJtaHBMcEhDR21Zd0drQko4bjZIbVNoWFhaRnhuUHIzU29yUWpNWEQ4Zm5WbVduWXZIbXNPT0NRc3RWUVVNSmNWclBEbkxHRGJxNW8yempWQ1hkSkY1UU5XUVdhRzB0NEVHdm9QMmpVaW85SXJ5REZCS1ByUk5mR2RBVVRLUVc2NmM?oc=5",
+      "source": "Crunchbase News",
       "published": "30 Apr 2026",
-      "summary": "Harvey and Ansarada partner to deliver secure, AI-powered legal workflows&nbsp;&nbsp;FutureCIO",
+      "summary": "Swedish Legal Tech Startup Legora Lands Another $50M In Nvidia-Led Series D Extension&nbsp;&nbsp;Crunchbase News",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Nvidia, Atlassian Invest in AI Legal Tech Startup Legora",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkJrVzNLQ0xBUUdlSXhIOHBtSHV1OGJRMnVDY1QtUjRXSlZxMy02bkdVNzZsYzcxVkFOQ3hzM21ERUdjSVdFTzhjQnJXQm1GUnpLaXR6SlpLODJxTjN5TjZKR3huYlhkdENtZG1uZHdfbS0yNXB2dTBuN2xrQnhza3Z5Zk8taVo2dTlNVnlLdmp2dndiSzY4?oc=5",
+      "source": "Bloomberg Law News",
+      "published": "30 Apr 2026",
+      "summary": "Nvidia, Atlassian Invest in AI Legal Tech Startup Legora&nbsp;&nbsp;Bloomberg Law News",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Liberty Global Tech Ventures invests in leading legal AI company Legora",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmJzUjVfVXZ5MkNMZXJWaDVLS2U1T0lZbDJMZjVNMUpqX3UxdnJkWGZWVFZHQkFSenhFOWRJcldKZDFsRUZBdFV4SThWa0lJREV0R3FkUG1wY01seFdpdmNxQ3p2Z1NveDFoNGdKNkNVTGhNWERvUnJNN21lTy1kaXZrZkQwclZwa0o4N1JMa0d1OUxRVFVnRHpxbkVLZkVWWFBnUA?oc=5",
+      "source": "libertyglobal.com",
+      "published": "30 Apr 2026",
+      "summary": "Liberty Global Tech Ventures invests in leading legal AI company Legora&nbsp;&nbsp;libertyglobal.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": ":Harvey: Partners with Otto Schmidt and Legal Data Analytics GmbH",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWVvTjhqZ0E1STRxLWJwamdzVjBxR1pQM1hBYkFCbVdMREhXd2U5MExreGE3dW1rU0tvZUp6X3lNM2N1eFhnNXNlWVk2N2N3SmFHVzBwNUIta0NXVzh5R2tVXzJLN1AtaHFTN3RhcXRtRF9qRUVielZrMHBpOG93ajdvbjkxTV92ZzR2enExcWFGdlpV?oc=5",
+      "source": "Harvey",
+      "published": "29 Apr 2026",
+      "summary": ":Harvey: Partners with Otto Schmidt and Legal Data Analytics GmbH&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Ivo Outperforms Claude for Word in Independent Contract Review Benchmark",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzhUOG42azdlRExaTVFWeDVYN19nSVNGRkQxSHBKV21RWE53T01oN3FMVEtfTEwtRkNSc24yRGtzekIyX2FGWE1hNXRMOW5faEwxdUJtRTk4SXV2cmxmMFdITEJ5Z1EtcEhiWUlVbHlmM2tZSXZZRndScm9YTlc0Y29nWmRXQ3F2aG9fODloamxwczZfZDB6VUM5Q2tJM3ptcGFoNEdtMUZ4VTdHV3R5OFZZUW9qRmxrWUl1aEZqVVYtNXkyb2lv?oc=5",
+      "source": "PR Newswire",
+      "published": "29 Apr 2026",
+      "summary": "Ivo Outperforms Claude for Word in Independent Contract Review Benchmark&nbsp;&nbsp;PR Newswire",
+      "tags": [
+        "Contract Tech"
+      ]
+    },
+    {
+      "title": "Claude For Word Is Weak, Suggests Ivo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTN4R2EyRHFmT0dIMmZTczhQWnlyTXk1UE9DbHFOUjQ3cFhXTTQtRzZKQ3FuNGVUR2w3dFJJWHd5cDYwSi1YdFNiaGlFSDcxdzJOQm52dmMzTDJRRDJqVW9IYzFYbzFEMWg1MG4xYUxYcEM2R18xMGtIWEtIVW9vM0Nzb1B4bXpf?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "29 Apr 2026",
+      "summary": "Claude For Word Is Weak, Suggests Ivo&nbsp;&nbsp;Artificial Lawyer",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Day in the Life: Legal Engineer at :Harvey:",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZURwYlZqQVBoeTdXSUtYeEpuVUVoM2MwelBoZEVfTlpTNGpfRTdaWU8tV0M5cWlOZ0g5bGpMQlZMRUpVZ2ljaGVvVDhCRVQzcTUwbGFkUHl1WGhQUnlWTXh3ekxISkVE?oc=5",
+      "source": "Harvey",
+      "published": "29 Apr 2026",
+      "summary": "Day in the Life: Legal Engineer at :Harvey:&nbsp;&nbsp;Harvey",
       "tags": [
         "Global AI Tool"
       ]
@@ -32,47 +155,25 @@
       ]
     },
     {
-      "title": "Day in the Life: Legal Engineer at :Harvey:",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZURwYlZqQVBoeTdXSUtYeEpuVUVoM2MwelBoZEVfTlpTNGpfRTdaWU8tV0M5cWlOZ0g5bGpMQlZMRUpVZ2ljaGVvVDhCRVQzcTUwbGFkUHl1WGhQUnlWTXh3ekxISkVE?oc=5",
-      "source": "Harvey",
-      "published": "29 Apr 2026",
-      "summary": "Day in the Life: Legal Engineer at :Harvey:&nbsp;&nbsp;Harvey",
+      "title": "Harvey and Ansarada partner to deliver secure, AI-powered legal workflows",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGN5R0lvQ01rSnlLaVVtQm1YaUhwWlVoVzRHTFA0WmJaOWtkVVFsMm1qaU8taHVlVmc1cW5aX1VEWk00U2x0VGJzblh4RE9TU1FnaVM3TWlZeU9VcTRfa2dVdXFSeG00bW5GaUFiVWtxTjlEcmJETHlmLU9wVndiLVpheVhBWk9KWFpIU0VNNnNzV0JGN3pQV0RIdTY?oc=5",
+      "source": "FutureCIO",
+      "published": "30 Apr 2026",
+      "summary": "Harvey and Ansarada partner to deliver secure, AI-powered legal workflows&nbsp;&nbsp;FutureCIO",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Claude For Word Is Weak, Suggests Ivo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTN4R2EyRHFmT0dIMmZTczhQWnlyTXk1UE9DbHFOUjQ3cFhXTTQtRzZKQ3FuNGVUR2w3dFJJWHd5cDYwSi1YdFNiaGlFSDcxdzJOQm52dmMzTDJRRDJqVW9IYzFYbzFEMWg1MG4xYUxYcEM2R18xMGtIWEtIVW9vM0Nzb1B4bXpf?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "29 Apr 2026",
-      "summary": "Claude For Word Is Weak, Suggests Ivo&nbsp;&nbsp;Artificial Lawyer",
+      "title": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IY21ZYkpfWHFzZFdjaDJNYUg2T2k3NWFwOWNFTVRPTHI5dE9KX1FlZGc5czBYSFZIOUdlYTRCTEx4aGRJaC1IQnpkSDE5RkxlMjQzdXo3NjNpOXNONmcxSmt3TmRfR0g5a1hNTk1tRml6U0MtZzZJS2pn0gF_QVVfeXFMUG1JLTRyMFZCS1ZFcGtMc2JBQmV3a2JCdm1rdUU1SlVDdkt3b0oyVXNZSU9uUVF3WC1ydUxCWGZjMnlRcDU1YUFnU0hSSkdUMFVsRWZzZTJxTkg0YkJ0MFB2b2t4VTFoN2JYV3RZZGg3WjhJeW84SXotWlFCYXhUaw?oc=5",
+      "source": "CNBC",
+      "published": "30 Apr 2026",
+      "summary": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere&nbsp;&nbsp;CNBC",
       "tags": [
         "AI Trend"
       ]
     },
-    {
-      "title": "Ivo Outperforms Claude for Word in Independent Contract Review Benchmark",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzhUOG42azdlRExaTVFWeDVYN19nSVNGRkQxSHBKV21RWE53T01oN3FMVEtfTEwtRkNSc24yRGtzekIyX2FGWE1hNXRMOW5faEwxdUJtRTk4SXV2cmxmMFdITEJ5Z1EtcEhiWUlVbHlmM2tZSXZZRndScm9YTlc0Y29nWmRXQ3F2aG9fODloamxwczZfZDB6VUM5Q2tJM3ptcGFoNEdtMUZ4VTdHV3R5OFZZUW9qRmxrWUl1aEZqVVYtNXkyb2lv?oc=5",
-      "source": "PR Newswire",
-      "published": "29 Apr 2026",
-      "summary": "Ivo Outperforms Claude for Word in Independent Contract Review Benchmark&nbsp;&nbsp;PR Newswire",
-      "tags": [
-        "Contract Tech"
-      ]
-    },
-    {
-      "title": ":Harvey: Partners with Otto Schmidt and Legal Data Analytics GmbH",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWVvTjhqZ0E1STRxLWJwamdzVjBxR1pQM1hBYkFCbVdMREhXd2U5MExreGE3dW1rU0tvZUp6X3lNM2N1eFhnNXNlWVk2N2N3SmFHVzBwNUIta0NXVzh5R2tVXzJLN1AtaHFTN3RhcXRtRF9qRUVielZrMHBpOG93ajdvbjkxTV92ZzR2enExcWFGdlpV?oc=5",
-      "source": "Harvey",
-      "published": "29 Apr 2026",
-      "summary": ":Harvey: Partners with Otto Schmidt and Legal Data Analytics GmbH&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "Is Claude Really Cheaper Than Your Legal Tech Stack?",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQelNIRFExLU42Y2t0X0E1djEyb2VkdEJJdmNUUTRJeTM1QUVPc09UbG5uZGNvQ1cybm9qRTFBTVc2TXZITXc5VzljMnpFOVlUMjRMOHZCWktpeWFOaEpYdXBTZWNCdHhuM3RMR1Naa2pUTzNkcXFWTkdtaVdoOXFQU3FHd1U4RkpLc01TazZDQ09OUmZJenctVkZ3elA?oc=5",
