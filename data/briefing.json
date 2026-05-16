@@ -1,43 +1,94 @@
 {
-  "date": "Friday, 15 May 2026",
+  "date": "Saturday, 16 May 2026",
   "articles": [
     {
-      "title": "HCLTech bets on Sarvam AI, to invest $150 million at $1.5 billion valuation",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa1VnRXpNTEdfazltVV9zUUlkbGF1d041NEstYi0yVkNKWE43M0ZYQ05NMjh0VE5ENGJJTGd0UndwVDRBMUtldUFUaXVIUlVLamV3RWJaQmJGZ1VHb2l3ZWJSclVGYVVpLU8tbG1qUnZnUFpPamM5aXFWLTdxV1lpdkpRTjR6T2d1M1FLNmtGdk1iemQzellRQTI2Rm5ueURYcS1iektJcG5fMDYybWhaYmRIN0EzdWRZdHIzUWo3UWFsM19KZDktZGhwNUF2RHNjWWdsYdIB2gFBVV95cUxPRnRNZmp2X1ExWTJjQ3dzUzY0clk5U1NOZ09mbGNMUmg4ejlLNmN0cGlXNnVLMGlXMFdlcWtGVjd4ZENpNWxiT0pvX0FpaURkVGp6VUxtRlRSRVdCeWZzQ1pneUMzaVFOQ2h0RjA4OFZmVEpBeTZGanRjTm9LRV8tRHFZUXJla0xQLURLajR6VzUyQTNIRGt5SVM3cTZHb2VyUHgtbmdoMWZtUnF4MGtGdXJpOEI3eHAzRmhQeHVFRlFuU054TU9YTWsydWl4c1Nra2liVXVCdXN0Zw?oc=5",
-      "source": "India Today",
+      "title": "Legal Tech Roundup: Legora, Docusign",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMVJLQVNhTHR1SHNhc25oWkcyS2lna3NxSGpzZHhxalhUT3BwNW11d29yelhIQnFaMWlmeHFkU21ITDB2LXhacEQ4azdSX0V6S0x6YTJzeGJIWnlaYTd0eXpNNFlJOHFKZEtIck00WktWSUFwOWhIRml3N1kxR2fSAV5BVV95cUxNX0QwNmtvTC1rQ3dxa2M1bFJaODJkYk5YOGcxVTJ1dTlZanNUXzh2NzRVeUhoSkpmX3ZRUFdHR2todDJJZ0o0cHVmWEJNTDdvRzllNTc1UGFJY09xQ1NB?oc=5",
+      "source": "Law360",
       "published": "15 May 2026",
-      "summary": "HCLTech bets on Sarvam AI, to invest $150 million at $1.5 billion valuation&nbsp;&nbsp;India Today",
+      "summary": "Legal Tech Roundup: Legora, Docusign&nbsp;&nbsp;Law360",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Claude for Legal Arrives, and the Legal AI Stack Gets Re-Segmented Overnight",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzM2M3RCUWdSWld5Qm5BMldwNEtGbzVEM05makdVZUNqdE85Wi1kRm5qQTRLcEZpYlhsQTdDalY2X3JVT0ZkZEd6REtlSl9jVG5lX1hlTi11Y0RZOTNQSkxCOGltbmdoWW9OLWtYSXVnNE5uN214WWZJUFppS3RuU2c0ZmFNWm5r?oc=5",
+      "source": "JD Supra",
+      "published": "15 May 2026",
+      "summary": "Claude for Legal Arrives, and the Legal AI Stack Gets Re-Segmented Overnight&nbsp;&nbsp;JD Supra",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legaltech Rundown: LexisNexis Announces Prot\u00e9g\u00e9 Updates, Deloitte Expands Legora Partnership, and More",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1E0LTJWUXNtXzRNZzJJQ0xCWHpJaXFkaXNFLUY0eUU4a2ljMXhZZnRDVFo2S0oxMnoxTmhETk4yVl9LVmVNckItLXNpcU9jaWVMeDJkS1RER3k5MHhyU2FGNFFkTVlBUTdJeVlKYVQxY3ZITG1rY2tad3RudDk4c2JoZkZDMHlWSlpoNEQ3TUhxUlpxN1MzRlM4VTRxMzlVTF9yX1ZocENnbktpczh0SUwxVVR6Ni03QW5kdGxvbzJfVTJnczdJTWpQUGlzS1B0SDNSNlBCZzFETFVH?oc=5",
+      "source": "Law.com",
+      "published": "15 May 2026",
+      "summary": "Legaltech Rundown: LexisNexis Announces Prot\u00e9g\u00e9 Updates, Deloitte Expands Legora Partnership, and More&nbsp;&nbsp;Law.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "CLOC Highlights Shift Toward Embedded Legal AI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSFlBYkxWZ0E0c3ZfYkJrWkoxR1FKYmlCUVo0T2s4MW03VHotMFVPMEY5YURtM05NNVFZdlliWW80Vng4TTQ0NU9lTHhOZEkyTF9IbW9LRkFORGhLUjQxWDFtbHFTdE4tZW5fV0NTOEVmNjZmTXFVQmItMmw3ZEtRdkp6cmFYSm05OE96bjBJU2NEQQ?oc=5",
+      "source": "Let's Data Science",
+      "published": "15 May 2026",
+      "summary": "CLOC Highlights Shift Toward Embedded Legal AI&nbsp;&nbsp;Let's Data Science",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Claude For Legal, Clio $500m, Legal Innovators California +",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0FPZEt5QXRKVDQ0eThOSFVBclV1YnB3REktQV9Eelg5MktmMUpNY0JzcGNfSU1CYlVOTXVVWGJNMmI1RXVMR2tuRTEyQkxNaXppMWViOGdjR1luUkMtQV80a2RrenptM01IZGhlRVBLRHg3cUs3VzVibTNmMDdKVmEtcjZEUDc4MzlGRDJDaDc5WUdzQnZyLTdTdTJENFRM?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "15 May 2026",
+      "summary": "Claude For Legal, Clio $500m, Legal Innovators California +&nbsp;&nbsp;Artificial Lawyer",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "5 Interesting Startup Deals You May Have Missed: A Law Firm Operating System, Building Defense Tech Near The Battlefield, And Cell-Based Milk",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNODZlTXR2ZWFCWlJ1cktKTGRWLVNCRTliNVIxd1hUWVdYcnl6ejUycDFWdWJGSjBNcHBlTUQ4VTc0QVhSNk1qTHVFcDVyWHRuQmFaXzhyOUQzcUg5YXpPVFQ0TXNFbDhKTEI3ZDgwaV9ZTkx1RnBJSUVid3pYeFkzaWFvbEFpZWpXWGUxeklyZXBjOXU5Mm5mMHFsaWx2bjl1ZHlHaktMdEoweGVHM2lldXBuRHk5SDJrVW1zZXF3?oc=5",
+      "source": "Crunchbase News",
+      "published": "15 May 2026",
+      "summary": "5 Interesting Startup Deals You May Have Missed: A Law Firm Operating System, Building Defense Tech Near The Battlefield, And Cell-Based Milk&nbsp;&nbsp;Crunchbase News",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Is HCLTech's $300 Million Investment in Sarvam AI Game-Chang",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjd5bS16ODd6UG5MaTMwWFZpNjc0bkxTUWxxU3RDRlVXTlF0bi1Za3dKUjNaUmkyNjdwS1V3U2xEMkhtYVRBQUZwVzNYazV1NGtCQ3U1dHE2d0l3dUU5dlFndHBZRkVLWTZNMDJibVhZVWVXMUk0ZDBfVHpQRWhTRUdSQi14SEZTa2JOVi1PeENPazNrdjNOVi11amxBYVdkWUxpQzlOTU5Xb19lYV9lN3plRkdUeGdTa2NfS1hIRVh0RXRt?oc=5",
+      "source": "Analytics India Magazine",
+      "published": "15 May 2026",
+      "summary": "Is HCLTech's $300 Million Investment in Sarvam AI Game-Chang&nbsp;&nbsp;Analytics India Magazine",
       "tags": [
         "India Startup"
       ]
     },
     {
-      "title": "hcltech to lead 300m round in ai startup sarvam ai at 15b valuation",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1d5WkNtR1p0NXRIZERqVU90WnBOc01YOGNaWUVVcmtHNzRxclVLalF6VVlaQmsxRUR2MDVOdTdmYnc1SmRoVlJWS3NEVHM3am9rT1IzWjFDaFZheVlMaWNvb3B1WEhRTGtPZXVvNE9UcnQwRWhoUDNyWGNreUxLUGRoQi15Zmt2ZkJjcXZseC1FM3NzUS1yQWE3T251c3BaalZOblVVd1hoNzJIN1RLcXZybnRQNndpSXJ3SVZFRW0tR28?oc=5",
-      "source": "ICICI Direct",
+      "title": "Legal AI is dead. Long live Legal AI?",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QRjdMQnFEeE04MUYyTGxsMWtmUzVVblBLWVJQOWc4UG9vNzNtdmVzUDBxdmpLalh1RWJ1TWMydWxKekZXZmJSNGFQNE5wdFU3Smpiczl0U0s5aGtldlNFVzBiV1ZyZF9HOVhXb3FtTlA4UQ?oc=5",
+      "source": "Legal IT Insider",
       "published": "15 May 2026",
-      "summary": "hcltech to lead 300m round in ai startup sarvam ai at 15b valuation&nbsp;&nbsp;ICICI Direct",
+      "summary": "Legal AI is dead. Long live Legal AI?&nbsp;&nbsp;Legal IT Insider",
       "tags": [
-        "India Startup"
+        "AI Trend"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "Baker McKenzie announces global rollout of legal AI platform Legora",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVdFR3JVdGJWUFFKekx6U05vd2hnU1ZvdGJ3akRRZ1poay1sSGU0RkFrNFRQZnRPOVdwREtWMElTTVZzdFBtN0NqOHE0MWJTM2dIMWZidmZ3S3pZdWYtaS0tWERqd1YyTWRkSmU3OGlFSVNtdnpzanNORUhhRmh5QUJSOV9yNmJVRUwtWGlmQnZnTG5mUVNTN2tfanctQmEzMWV6NVBBaTVSTENaY0hvOXBB?oc=5",
-      "source": "The Global Legal Post",
+      "title": "Preparing Law Students for AI-Powered Legal Practice",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnLWptOWUwMHFIenRwZ0tBY0psR1JVeG9IUEJDZVJDczBsZDNaSzV4N3NGZE9mZ0dzRkEyUHFhOExJdlhpMDk4VGtFdUhXSUJFdWVNaXkxV3RTbGRVdXJWbFNYVXVKYzdnb2NBRw?oc=5",
+      "source": "Harvey",
       "published": "14 May 2026",
-      "summary": "Baker McKenzie announces global rollout of legal AI platform Legora&nbsp;&nbsp;The Global Legal Post",
-      "tags": [
-        "Global AI Tool",
-        "Global Firm"
-      ]
-    },
-    {
-      "title": "Anthropic Pushes Deeper Into Legal Work With Claude Updates",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemVIdGtMUjBxTjF3LXQ5eUlxRHFqSzF5YkF4ZkdkRUl6NXdoSXpLd2FTakZCT0N5YTFjZ3VyVnZCSUlPVDdQbnI0Z1F3V0YxOFQ5M2hfYnRmRWVXSTduRmRuTk5TcFU0cmxRWFBxaGpRQ1YzWTJ3RnpNLVJJdzJBc19IQnVyaUREWExXendWZ1RtaWVyc2YtV0U0Z2V4N3huVG1hSHlUM2VTNGkt?oc=5",
-      "source": "Bloomberg Law News",
-      "published": "14 May 2026",
-      "summary": "Anthropic Pushes Deeper Into Legal Work With Claude Updates&nbsp;&nbsp;Bloomberg Law News",
+      "summary": "Preparing Law Students for AI-Powered Legal Practice&nbsp;&nbsp;Harvey",
       "tags": [
         "Global AI Tool"
       ]
@@ -53,17 +104,46 @@
       ]
     },
     {
-      "title": "Preparing Law Students for AI-Powered Legal Practice",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnLWptOWUwMHFIenRwZ0tBY0psR1JVeG9IUEJDZVJDczBsZDNaSzV4N3NGZE9mZ0dzRkEyUHFhOExJdlhpMDk4VGtFdUhXSUJFdWVNaXkxV3RTbGRVdXJWbFNYVXVKYzdnb2NBRw?oc=5",
-      "source": "Harvey",
+      "title": "Anthropic Pushes Deeper Into Legal Work With Claude Updates",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemVIdGtMUjBxTjF3LXQ5eUlxRHFqSzF5YkF4ZkdkRUl6NXdoSXpLd2FTakZCT0N5YTFjZ3VyVnZCSUlPVDdQbnI0Z1F3V0YxOFQ5M2hfYnRmRWVXSTduRmRuTk5TcFU0cmxRWFBxaGpRQ1YzWTJ3RnpNLVJJdzJBc19IQnVyaUREWExXendWZ1RtaWVyc2YtV0U0Z2V4N3huVG1hSHlUM2VTNGkt?oc=5",
+      "source": "Bloomberg Law News",
       "published": "14 May 2026",
-      "summary": "Preparing Law Students for AI-Powered Legal Practice&nbsp;&nbsp;Harvey",
+      "summary": "Anthropic Pushes Deeper Into Legal Work With Claude Updates&nbsp;&nbsp;Bloomberg Law News",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Baker McKenzie announces global rollout of legal AI platform Legora",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVdFR3JVdGJWUFFKekx6U05vd2hnU1ZvdGJ3akRRZ1poay1sSGU0RkFrNFRQZnRPOVdwREtWMElTTVZzdFBtN0NqOHE0MWJTM2dIMWZidmZ3S3pZdWYtaS0tWERqd1YyTWRkSmU3OGlFSVNtdnpzanNORUhhRmh5QUJSOV9yNmJVRUwtWGlmQnZnTG5mUVNTN2tfanctQmEzMWV6NVBBaTVSTENaY0hvOXBB?oc=5",
+      "source": "The Global Legal Post",
+      "published": "14 May 2026",
+      "summary": "Baker McKenzie announces global rollout of legal AI platform Legora&nbsp;&nbsp;The Global Legal Post",
+      "tags": [
+        "Global AI Tool",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "hcltech to lead 300m round in ai startup sarvam ai at 15b valuation",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1d5WkNtR1p0NXRIZERqVU90WnBOc01YOGNaWUVVcmtHNzRxclVLalF6VVlaQmsxRUR2MDVOdTdmYnc1SmRoVlJWS3NEVHM3am9rT1IzWjFDaFZheVlMaWNvb3B1WEhRTGtPZXVvNE9UcnQwRWhoUDNyWGNreUxLUGRoQi15Zmt2ZkJjcXZseC1FM3NzUS1yQWE3T251c3BaalZOblVVd1hoNzJIN1RLcXZybnRQNndpSXJ3SVZFRW0tR28?oc=5",
+      "source": "ICICI Direct",
+      "published": "15 May 2026",
+      "summary": "hcltech to lead 300m round in ai startup sarvam ai at 15b valuation&nbsp;&nbsp;ICICI Direct",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "HCLTech bets on Sarvam AI, to invest $150 million at $1.5 billion valuation",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa1VnRXpNTEdfazltVV9zUUlkbGF1d041NEstYi0yVkNKWE43M0ZYQ05NMjh0VE5ENGJJTGd0UndwVDRBMUtldUFUaXVIUlVLamV3RWJaQmJGZ1VHb2l3ZWJSclVGYVVpLU8tbG1qUnZnUFpPamM5aXFWLTdxV1lpdkpRTjR6T2d1M1FLNmtGdk1iemQzellRQTI2Rm5ueURYcS1iektJcG5fMDYybWhaYmRIN0EzdWRZdHIzUWo3UWFsM19KZDktZGhwNUF2RHNjWWdsYdIB2gFBVV95cUxPRnRNZmp2X1ExWTJjQ3dzUzY0clk5U1NOZ09mbGNMUmg4ejlLNmN0cGlXNnVLMGlXMFdlcWtGVjd4ZENpNWxiT0pvX0FpaURkVGp6VUxtRlRSRVdCeWZzQ1pneUMzaVFOQ2h0RjA4OFZmVEpBeTZGanRjTm9LRV8tRHFZUXJla0xQLURLajR6VzUyQTNIRGt5SVM3cTZHb2VyUHgtbmdoMWZtUnF4MGtGdXJpOEI3eHAzRmhQeHVFRlFuU054TU9YTWsydWl4c1Nra2liVXVCdXN0Zw?oc=5",
+      "source": "India Today",
+      "published": "15 May 2026",
+      "summary": "HCLTech bets on Sarvam AI, to invest $150 million at $1.5 billion valuation&nbsp;&nbsp;India Today",
+      "tags": [
+        "India Startup"
+      ]
+    },
     {
       "title": "Docusign Brings Open Source AI And MCP Integrations To Legal Contract Automation",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQm5tUFlCeXlUYmt4ajlOWmVhS3FyakpuS05NRkNyOGJsTmFvSVJocDJmam9Tdld5OEFtQ21qa2RTR3F5OWZfVVVjVjRGX2MwclZPTGhMVWNSZ2xaQ1NOcndwaFpkSlNrZjdBay02YVRwRzZsdHFZNkJGM3RmVFQ5ejFwSm53cDdaZW94SmZNN2dKV2wwVnZIa0tfbkVqc3BWdkRrRjZUZ3BWanhvN1ZkTDhTU3I2eDBtTkhOcw?oc=5",
@@ -2024,67 +2104,6 @@
       "summary": "Sarvam AI Nears $350M Funding, Igniting India's Foundational AI Race&nbsp;&nbsp;Whalesbook",
       "tags": [
         "India Startup"
-      ]
-    },
-    {
-      "title": "Legora bets on baseball's biggest brand to fuel US growth",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NSm5tR1NHNVdtSHVMaC1QTlJOdmJVak1KZHZTc2FEMWhCaXgtdVFKeXNld3RmNGxOMGhOUEI5V010bmVzdzhGSjBMY3VVTUtNOThyWWkxa3FmVndBQmVzY2g0b1Rwd1VaZEJKTmhqS2lCMTh5OUxBNmxR?oc=5",
-      "source": "Non-Billable",
-      "published": "10 Apr 2026",
-      "summary": "Legora bets on baseball's biggest brand to fuel US growth&nbsp;&nbsp;Non-Billable",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Goodwin Joining BigLaw Firms Embracing AI-Native Trend",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1hGRVdUUk1PU21wYVkxbEk1c3FLOFJTS0dKSEl0SkJzYkcwSUh5NlAzSUdxaXpCbjliYzJidmpfd1JDU0toMjZDbWJndXZfSkZiWnBPX29UTzhiZlI2N3R1NXNqbHhXc3lMZ2VGbTk2OVZySFN2LVo3cEVPeC1QUTN6UnFnWHFBXzAtS0E0ODhEU1VWTi03ZkpITdIBXkFVX3lxTE94eWJUY3lrYjg0b2dRWERDUDdELUE2Ukt0Z19lUGdwMUhVODdRaWM3enZSQ29MWTJxY2lGQ3dMWGt5bS1mT3hWSUd5cDhGcUNXZ2FST2Y3Q3FFZk1VOXc?oc=5",
-      "source": "Law360",
-      "published": "10 Apr 2026",
-      "summary": "Goodwin Joining BigLaw Firms Embracing AI-Native Trend&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global Firm",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "CoreWeave strikes AI cloud deal with Anthropic, shares surge",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXZwd1Q2eUVjeEE1cFFuLUxWMkZ4YmtYTG52UkQ5WTlhRnF5bFN3dDl5cjh1OHJGR1M2UC01MnZPYVhnNnNFaGtmQnRJX2hnS1BkTVE5N3ZnMjBpYWNpeW1TZTFoUThISHlXNHRWUkJxZ0ZFSXdkZGR0RG1tdGZmZE94MW9rdGx0TlhiWDRvNkFHZjV0QW1raWxZSkUzV1lmUnhpSlFrd2JGbkZOUDlBS1JTb3I?oc=5",
-      "source": "Reuters",
-      "published": "10 Apr 2026",
-      "summary": "CoreWeave strikes AI cloud deal with Anthropic, shares surge&nbsp;&nbsp;Reuters",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Weekly Funding Roundup: Sarvam AI Nears $350M, Perplexity Launches $1M Challenge",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEd4VXdEVFdqZGxQUTAtR3J3aGFoa2k2REczM3FkRklpXzBOSkstdC1BcVlzcFNxWG5BTDV0czVJYXg3eXBHckFadXZEN1pXanI5MDJqbkNyM3Y2clY0emlKOHdUNGd4aUxHYWtiSEQtSEI4ZU1Nd0tLRkl6a0VTcHRvbmFIOWltbm9lRE92WldyTVFwMEZfd3JicXBpTWJybU5FYk1kS0ZVMk42VW16eGl1dmxhWGkzM3fSAccBQVVfeXFMTWRndThYU1VnaVVHdGw4ZVRUQkRZNkhpS3FnTHl2RmZWREc1c09VV0hOMzNDRVZLMjNLaGdnZ1FNNU9UUFM5RDYyZk1OdWJGVXJxYWVnUThWQk9Ici1WdUdYUVZLOEFzLUNfR3lEWkdqWTlWNlFVcmxYM3c4elY5YzZqQ25ER2R2UlhKQXAtbHdqSmk5c1d1czFQanlCQzNkUVdSb0dJZWtPelh6QkRGUVlUUktYWnVRVC1ZcW43Q005d2U1MFhQNA?oc=5",
-      "source": "Analytics Insight",
-      "published": "10 Apr 2026",
-      "summary": "Weekly Funding Roundup: Sarvam AI Nears $350M, Perplexity Launches $1M Challenge&nbsp;&nbsp;Analytics Insight",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Claude Legal is here, and it\u2019s worth a closer look | Legal Loop",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzBFWEhHN0NoaG5RRmNHaW5UbWRSdm9hNDh5NTllZlZpS2lRcVk1VV91QldJTDRTQmowNlNEZTJQMkl1NkRoVkNsdUFvQUdReDltUURTRGYtcC0yRkpIRGtxQkJNeDRrWVdCV2QyZ2x6R2t2ZDdpNGxtbDluRFVmb2dkdFlqaEtua2REM3QyUTFxQ2txRVZaRXNWV192UQ?oc=5",
-      "source": "NY Daily Record",
-      "published": "10 Apr 2026",
-      "summary": "Claude Legal is here, and it\u2019s worth a closer look | Legal Loop&nbsp;&nbsp;NY Daily Record",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Inside CoCounsel Legal Reimagined with David von Ebers",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXN0OU40emhSZ0ZWQTZmWEg0R1lxLUV2TFBHWWdaMjctems0M3dyakZSRkh0XzVadko2QmhkQmN4M21ZNEJ5MGFxNTM1bmFGeHNNV3c3cV9DcERwbVNGXzBpUTIzbXozQzlLR09jcmE1MmVSMXpybVhqWEh1RURRNnhBUXEyWXhFcWh1N1RlVjZPdThnXzZtMw?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "10 Apr 2026",
-      "summary": "Inside CoCounsel Legal Reimagined with David von Ebers&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "Global AI Tool"
       ]
     }
   ]
