@@ -1,16 +1,88 @@
 {
-  "date": "Tuesday, 26 May 2026",
+  "date": "Wednesday, 27 May 2026",
   "articles": [
     {
-      "title": "Mistral AI Takes Aim at Legal Sector Through Expanded Harvey AI Partnership",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDdsQnIyUWpBS04zZk5OR1BGcS1zbGw5YmdBRnhnOG5mLTBvaVFwZFdIRmdOeGJjSkdVc1VBbTlOczN4cEswNmdnNmlkR3FEanpfSlgxRHpIUGRZU2lNNEVBWldSSERQR2ZROXNPUEFrWGdvSkpLcDFfUjdvVHMxUnN1cm1oOS1TWGEzSkt6WDZYeU9lQmpmLXRRYjlOcnJ4dGVqX0h1U29wTUZ6NFVXa0dR?oc=5",
-      "source": "WSJ",
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3ZSeUtaVl8zLUdiMHN4ZktEYXVkMFpkTU5icG1SRWR3NVViNVM4WFRSbk5yUzFYbmNTSldGLXNrRmM0dWMtZlh0V21OcGhRS0hvNGl2bEFneFotV1c4LTFLdGRqZi0yZ1oyRlRZUU1aVnlXRWpLM0JqMUhJSldONTc2SGhmTjJpZWpZ?oc=5",
+      "source": "Anthropic",
       "published": "26 May 2026",
-      "summary": "Mistral AI Takes Aim at Legal Sector Through Expanded Harvey AI Partnership&nbsp;&nbsp;WSJ",
+      "summary": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening&nbsp;&nbsp;Anthropic",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Foley & Lardner Expands Use Of AI Platform Harvey",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQUppektsUS1LZmVpNFBMa3duNi1xcl9FODc0Qll6Q2NwV2tncDJaMDd6RDFTamNTenJyb1BZQVV3TTZidjF5QnVNeXhHQUVqNTl5RVB1eWhVUWJvOXBxMXQxemRpcVVKTUdfSHNHaTNwVE55UG96aUdFa1lJQk05QzR4d0lMRFVWbFdheVo1SGfSAV5BVV95cUxOeUszUlhaazNraktYQjVZQzl2blNHbTJBZ2o2Znc3U3VCM0pOR21aN1pCNld6dW5NT3RuUkVHbk1aWVNDREFEejA1S2hDTW5kNG1UX3VpYk5pSThUeUZn?oc=5",
+      "source": "Law360",
+      "published": "26 May 2026",
+      "summary": "Foley & Lardner Expands Use Of AI Platform Harvey&nbsp;&nbsp;Law360",
       "tags": [
         "Global AI Tool"
       ]
     },
+    {
+      "title": "DeepJudge & Harvey partner to add firm knowledge to AI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHdtQjB2SUo4SFpIRjV4Yk5iOFFYYXhlT3E4WGR1dGQzcmlrN2hZaXVyU3ZremdISTA4RUtacFhjdU9nNl9ybHN6dHVRd25MOWJ3SzViMjhpajZaaGduQWhnSTJ3SmVrRjhnSkpjYzlFcjVuMWJ2U3Z5S1o0TEwxRThVNUFvMXVDVDZxaHpNQQ?oc=5",
+      "source": "SecurityBrief UK",
+      "published": "26 May 2026",
+      "summary": "DeepJudge & Harvey partner to add firm knowledge to AI&nbsp;&nbsp;SecurityBrief UK",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legal tech company deploys Mistral models",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDdoLWN5SEdmRTBlT2t2WHA3VXFZZm9VQk8wZGp0clp0LUZKcThRTVVGYUFDU1lVNjVqVTlFVy11MHVSNVR3QlR5UmRTZzd1dnRSRmF2cVhDaVkzeHZYTXJkcUdSOExveU1aM1lJb2VTTGxuOWpJS3N6a3pOR3FEcDRLMDZna2NDSm9R?oc=5",
+      "source": "Mobile World Live",
+      "published": "26 May 2026",
+      "summary": "Legal tech company deploys Mistral models&nbsp;&nbsp;Mobile World Live",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Mistral AI Taps Legal Sector With Harvey Partnership",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0xHSko2QWxORkhUOERMX21Qa1JoSGFZR0V3Y2tTRGxBVFMyeUUyMExVVXg5Z3NzRHhlamZ4SWhQWVA5Q2V1am41UExBempGcXFsOHl1YktFdkhVZ3pJSjQ3dGxtMHQ3RHFOOEYyajBWc1Rtak9ZclVFYmF4LW4zSkFkV1hLaHBfRE93cA?oc=5",
+      "source": "AI Business",
+      "published": "26 May 2026",
+      "summary": "Mistral AI Taps Legal Sector With Harvey Partnership&nbsp;&nbsp;AI Business",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Harvey and Lexis+ Dominate Legal AI Visibility, According to 5W AI Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUll4Mzc1akZva1ZqbnpGVS1qeGJlNk55YUEwNnVBVVk4Umk2UFVfM2RHMkl2ZVlJLXJCeHpqLWNlZnoyclhZcXoxN3JnLXV0b1g4NFlERGwya0huSHJ6RW1BYkY5MF9tRTQtNXBnVmpOTXRIRmw3ZHRjaG1QNnhTLXNRNVdKNE5JTzBqQV93X0NVUXJnSUNTQVNVaG80V1AxR2Z3MkR2RUQ5OEZicVRxel9pVWU2R3lldUlDWEl1STdkenBSSHJWMXB6dE83QQ?oc=5",
+      "source": "PR Newswire",
+      "published": "26 May 2026",
+      "summary": "Harvey and Lexis+ Dominate Legal AI Visibility, According to 5W AI Intelligence&nbsp;&nbsp;PR Newswire",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "How Harvey and Claude Are Reshaping Legal Tech - Duke Digital Media Community",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlBUUGpJaXFWTUhacEI1Y1o3ajZKVVBfR1NTcGI4aTZGdmxsT2FoMloxTWtpSWd6dW5VMWI0OVYtNldLdEVYdmlXNUlWeGRlSGdSQkZBWDM1R3Yxa0dJc3RkUnlwMEV4WllxY203azZZVjZRbHBVTzZ3UDBYZkZwaTB2aXdPUmhkeWhhY2hzQQ?oc=5",
+      "source": "Sites@Duke Express",
+      "published": "26 May 2026",
+      "summary": "How Harvey and Claude Are Reshaping Legal Tech - Duke Digital Media Community&nbsp;&nbsp;Sites@Duke Express",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Asia legal AI race heats up as Legora joins Harvey in regional expansion",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaXB3eWdRNktjLUx6Y0d5TjNHRlZqUGR2YTZWeDg1Y21abFFZWFRHcTRReE9yQnJCVmxkSFRLQmdFZG9uSmYyekc2Y0FYWHQtcmFpc01INzBsVmtWenFSRjNfYmlvcWhPcmFycTlyRW5FXzVkSDU3UDl3dVJQWndUTmtPRU9DaUdDR29rTWt6UEp0akg0NDBvT3RHNklaMTE5bV9BTTA2WnRjYXRaQndv?oc=5",
+      "source": "| Asian Legal Business",
+      "published": "26 May 2026",
+      "summary": "Asia legal AI race heats up as Legora joins Harvey in regional expansion&nbsp;&nbsp;| Asian Legal Business",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
     {
       "title": "Legora Opens Singapore and Tokyo Offices as Legal AI Platforms Vie for APAC Market Share",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT0pSLTJfVl82X092MHdSN1VLMTg3V0RMNXR3Q19MaDk4b0htcTAtNUFmbjJLZVZuS09DUWstT1NHbzQ2aWU4anRzejlZSFFLTHdvVlVPMFh1N1lwdjVYdGNpOVlFcU9pWm5kUUVfUU5uOGNBZ2lLcVZ1ZVZoRTFRTkVmSGtZc1BhbHJNVElKSDd1anBJUF9naHluOTgyblY5d21wM2p2akp2VGZvM0RFX0laSFJjRm5jQUNpMjBLOEREcV9ZRG11TzNWVXkwQ0hObGc0S2dxSW5NUQ?oc=5",
@@ -21,9 +93,17 @@
         "Global AI Tool",
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Mistral AI Takes Aim at Legal Sector Through Expanded Harvey AI Partnership",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDdsQnIyUWpBS04zZk5OR1BGcS1zbGw5YmdBRnhnOG5mLTBvaVFwZFdIRmdOeGJjSkdVc1VBbTlOczN4cEswNmdnNmlkR3FEanpfSlgxRHpIUGRZU2lNNEVBWldSSERQR2ZROXNPUEFrWGdvSkpLcDFfUjdvVHMxUnN1cm1oOS1TWGEzSkt6WDZYeU9lQmpmLXRRYjlOcnJ4dGVqX0h1U29wTUZ6NFVXa0dR?oc=5",
+      "source": "WSJ",
+      "published": "26 May 2026",
+      "summary": "Mistral AI Takes Aim at Legal Sector Through Expanded Harvey AI Partnership&nbsp;&nbsp;WSJ",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "Harvey: The Leading AI Legal Co-Pilot Transforming Law Firms \u2013 Full Review.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGlXV3ljaS11TTJpcGlVU2VtNUF2MEZoNUozWVRCSVM5SzVjVU9UYzlocGM0SjNDUk5YMlJWQXVlVGtvWHh2aElJZWRHVnVoNFRacGlKaTVKNDdyVWpoc2pfc1ltRDFSRzZ5ck5ta2FtOUhTR3p5QnczOVE2dlh3WnJtWlg1bXNKRENOMFk5aHJjQ2RRV2ZocXpR?oc=5",
@@ -2030,26 +2110,6 @@
       "summary": "Harvey AI will speed up 'diligence' and transform the economy in different ways: Harvey AI CEO&nbsp;&nbsp;Fox Business",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legal AI startup Legora hits a major revenue milestone",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbE1ubERFVllJdFk1UnVOeVNzcXFEdUwzeHhaZ2VYVU9ERHRoZlFrdTdldnV0bjgzVjl6dmp3NkNwV2F1TkU2SklYd0czSkc4SlRGUlFEelVtcFJZUUNuUGVhZG9uNktHUmpXdnFrVUE2Z2xDN3RWQzVRWjFyYlpsSmJHS2E2V0VnYVFDb3lsZVN4SGxnV0w3Y2VmMnp4YzE0dDU5Snd3b3lwME5uVkNKWGVqTEtXVW5NTmtRc2R0Rl82aERoUW50UWMyRUdZR0MySW9VNmNSZS1BNkFGc0NqMU83UUx5aW5Xc3d0SEVyaklMZmVRQlJpbzFzRDZfTEJHTVFxeVJ1ZktBeHZia3Z2V29UYU5KaEpLdFljaTZkNG1RYnpHUEs2Q1F6WVNMOGhlenlLekU1QTRVZGd0TkpvVktmOA?oc=5",
-      "source": "MSN",
-      "published": "21 Apr 2026",
-      "summary": "Legal AI startup Legora hits a major revenue milestone&nbsp;&nbsp;MSN",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Trader Claude's: Apr 19 \u2014 Extreme Fear in Crypto, Oil Crashes, New Prediction Bet",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0c4aVVHT2dwN2E5QV9nVTlXeDFPUDJzSDRHc0Z5OUhUekVZTEhjbVRzc3lub2V3ZmZwbDNYaDRkY0JhV1hTR21KS20taFY1ampMTzhZTzVqbS1ZYzR3WUo0bkJjLVZNZ0JWdU1pZ05VZXdnNExXMUtLd3pwVWJNd09wQXQyZw?oc=5",
-      "source": "StartupHub.ai",
-      "published": "19 Apr 2026",
-      "summary": "Trader Claude's: Apr 19 \u2014 Extreme Fear in Crypto, Oil Crashes, New Prediction Bet&nbsp;&nbsp;StartupHub.ai",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
