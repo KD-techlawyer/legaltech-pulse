@@ -1,32 +1,64 @@
 {
-  "date": "Friday, 29 May 2026",
+  "date": "Saturday, 30 May 2026",
   "articles": [
     {
-      "title": "Big Law\u2019s AI Threat to Harvey, Legora",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjlNU3FVTnZJaWpNejQyUkN3a01FbUlISXFiQ1IzcWs4cG83WlhpRElFSU5qODRVMFhWWG9ZcFJQUFMxYzRJRDNHMFF0QnljWG02Q3dveVdyMmJpNWFJZzdXNmZJY2NYVmxpZUNrc3pXeEJYcnVub3ZrOEFYbUxRYkM0eXhjdlBEWUExNlhB?oc=5",
-      "source": "The Information",
-      "published": "28 May 2026",
-      "summary": "Big Law\u2019s AI Threat to Harvey, Legora&nbsp;&nbsp;The Information",
+      "title": "India Inc deepens AI adoption to stay ahead of legal curve",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdFQyLWFNT2U3bzVvR01jcWtpQ2JVSzN6TTRyWU1kTURHYlBPZDdROTJNNWVZSm5hbWNsLW55NkRBVkQ1WEpMYlNGVlc4Q2ViaEUxNkthMGI0NHNFX0hva3Zic0xMQkdDVjB6NkJLSDhUSWZBdEN2SVhyczZtMUVNNEs1WTNpNU13Q3VTc3haV0FJdWM3RjhzdDRrTVJrMklYNnM5eEM0aGdydjlNWUQ4Y0Z6ZHlsUmJxYlJRZVFDNG9ScmZXTWpLMVh6d0tXY293aXprRzZqd3JYVU1wTC1GZjc2QTHSAeoBQVVfeXFMUHB0cy10OGo1YlBNSnF3RUY2OGEzY0ItelpYNnJmclJ2X2hrVFFVS1lJbEh0b3FXaVlNRE90RlRGN2tPVzZDeE9uaUNXaDI3Ylo0U2syYlFGU05KVEtQN1JtTEdPWW51UHQ2NGtvOWJOYUQ3T3FkamVpRmZVRXlNVWVMWjdkcEwyT2U3V3ZSeHgwZTJuM3IyX2RISTM3bWwzNDZ4cHB1cG93T2FhUU5zVE5uODlvOEJHazlqWDl3UkRpNDE1THo2MFVyUUVudWc4bWxtdHdNMWR1d3BMTmdrOVdmSGw4MWdKNlJn?oc=5",
+      "source": "The Economic Times",
+      "published": "29 May 2026",
+      "summary": "India Inc deepens AI adoption to stay ahead of legal curve&nbsp;&nbsp;The Economic Times",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legaltech Rundown: Relativity Announces Claude Activity Integration, Norm Law Announces New Hires, and More",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTk9aSUVVdV9RclJvZzRERGlnbHNoS3NaczFqSjNFbkpkTENzSjRyd1lWbUFjV0hWWnRMVXFycFlMOTBOWThPNDRIUUx4NUZFTk9xQnNjSGpqSjQ0cTNGSWY4Q19kOVUzUWVORU12Q0EtRTc3Vmprc0poc2RMbFFXT1FjZ3JkeDhWa0JnWnR3UmpPVFR5SGkzakpaYXdZVk51X3V5blVEbFJSRHZzbm91b211Sldnem50MjlsM28tenhOdnVMZlhzZHEyTm90VTRJWDBWNWZ5THFSVHNZQWtyVlFRMnM?oc=5",
+      "source": "Law.com",
+      "published": "29 May 2026",
+      "summary": "Legaltech Rundown: Relativity Announces Claude Activity Integration, Norm Law Announces New Hires, and More&nbsp;&nbsp;Law.com",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "New AI Warning: Don\u2019t Discuss Your Legal Problems With Claude Or ChatGPT",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUpMR0x1eGxUY2RJQ1FMTlNZUEJ4YVg0dnVOa0JWd1dYdjhmcTlhaW5jUWI3UHlndkVibXlKTW55RmcwRlZTal9Dc1RiYV9Ma1BjemZXUnJCRnZSZzVneFg2bGtzNEZzd1FZeWFXQk92NVZwUXA4b01LXzBoRmFhWnhpb2twb1RERTI5ZElaVnNVLUREeXFnSFJYcGJLWGRDdzhJVFZqLVRKcTg3Rmhfc0tUaHZSMjIzZThoTURxdk1rUQ?oc=5",
-      "source": "Forbes",
-      "published": "28 May 2026",
-      "summary": "New AI Warning: Don\u2019t Discuss Your Legal Problems With Claude Or ChatGPT&nbsp;&nbsp;Forbes",
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "29 May 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": ":Harvey: FORUM: From Piloting AI to Operationalizing it",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUENhMnlRQUtTamh6ZnRPRTZQM3FVZWRzamZPUEZjb3BDRkpHV0tQWVN1Mkdpbmc5c2FBc3RVYlJmNkQ1ZkdQUTJJVGNva2dLTklTQzZPZ2hZV0lHOVdhUXZhMG1hMV9KZ1NuY0F5aEkwYTlhbEdISlhfeGZldGd4WDE1UkhBQQ?oc=5",
+      "source": "Harvey",
+      "published": "29 May 2026",
+      "summary": ":Harvey: FORUM: From Piloting AI to Operationalizing it&nbsp;&nbsp;Harvey",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Anthropic: San Francisco AI company vaults to a $965 billion valuation with new funding as Claude demand surges",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDBkcWRmVGMyV1ZZUlpxLTZaZktya1Y4VmJvWWhaZEJnTFNuMUM3b0tiWTFTZERFQU1mdlF3VG5GQ254ekxlWnhTTkEzX1BpT1ZVbWxsT2U5QzN2c1lHeXdPcnh4MWdjTG8xX3hIeHZQcjZYWkdGN1NZNXdQbVVEYXJMUFdDMlVMQ1Y4OWxpWERSNHBTb3IyQ09NOEl4RkhCM2JwZDBrSWNzSEtSVE9QakEyOTZrUzU2VEc3SE8ybkJNX2ZzVFRVZEJjZFXSAdIBQVVfeXFMTXNXNW02dEUyMkZUM0V0V1BIYkNuTkF5T1JvZWNqU3JzMWxORUtMQXlCYmlFbVBKZUZIU1dFNThyRGN4R3F0VFJmWE9ObWUyLXZSaEd1aTYxaTZRQkk3MzAtMHNGUnZFVkNlM0pnTHlqeUZ4Z21yWERPeFZTTE9wR0RBanJheGg3bEpUNkZwYlhqd1RUWW9OUG9VWl9wQnRDVy1TM1Z3MWhoT0lsdFVYR0FidURpNHozVVhTZ0Nmck1XalUxU1ZodU45N3AwMnYyd1RR?oc=5",
-      "source": "ABC7 Bay Area",
+      "title": "Sarvam AI Begins Hiring for New San Francisco Office",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEJQY3I2TzB0bUhScXNaanBxdnRWTDB1WGpueGY1U0I2WVhjQktpY0kzY0twVW96d2RBTU9PRHp2SnBKeXVkWjc2SVlUV1pSd0RpNElOMVlaZjFnRWFKN2x3eFdVc2VGRTFhWFFUd09DTXJzT0tFYmpINkJjNUJTNTZfVU12QjRmQmxuck1uNkN2amZ0?oc=5",
+      "source": "Analytics India Magazine",
+      "published": "29 May 2026",
+      "summary": "Sarvam AI Begins Hiring for New San Francisco Office&nbsp;&nbsp;Analytics India Magazine",
+      "tags": [
+        "India Startup"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Introducing Claude Opus 4.8",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5",
+      "source": "Anthropic",
       "published": "28 May 2026",
-      "summary": "Anthropic: San Francisco AI company vaults to a $965 billion valuation with new funding as Claude demand surges&nbsp;&nbsp;ABC7 Bay Area",
+      "summary": "Introducing Claude Opus 4.8&nbsp;&nbsp;Anthropic",
       "tags": [
         "AI Trend"
       ]
@@ -42,17 +74,35 @@
       ]
     },
     {
-      "title": "Introducing Claude Opus 4.8",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5",
-      "source": "Anthropic",
+      "title": "Anthropic: San Francisco AI company vaults to a $965 billion valuation with new funding as Claude demand surges",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDBkcWRmVGMyV1ZZUlpxLTZaZktya1Y4VmJvWWhaZEJnTFNuMUM3b0tiWTFTZERFQU1mdlF3VG5GQ254ekxlWnhTTkEzX1BpT1ZVbWxsT2U5QzN2c1lHeXdPcnh4MWdjTG8xX3hIeHZQcjZYWkdGN1NZNXdQbVVEYXJMUFdDMlVMQ1Y4OWxpWERSNHBTb3IyQ09NOEl4RkhCM2JwZDBrSWNzSEtSVE9QakEyOTZrUzU2VEc3SE8ybkJNX2ZzVFRVZEJjZFXSAdIBQVVfeXFMTXNXNW02dEUyMkZUM0V0V1BIYkNuTkF5T1JvZWNqU3JzMWxORUtMQXlCYmlFbVBKZUZIU1dFNThyRGN4R3F0VFJmWE9ObWUyLXZSaEd1aTYxaTZRQkk3MzAtMHNGUnZFVkNlM0pnTHlqeUZ4Z21yWERPeFZTTE9wR0RBanJheGg3bEpUNkZwYlhqd1RUWW9OUG9VWl9wQnRDVy1TM1Z3MWhoT0lsdFVYR0FidURpNHozVVhTZ0Nmck1XalUxU1ZodU45N3AwMnYyd1RR?oc=5",
+      "source": "ABC7 Bay Area",
       "published": "28 May 2026",
-      "summary": "Introducing Claude Opus 4.8&nbsp;&nbsp;Anthropic",
+      "summary": "Anthropic: San Francisco AI company vaults to a $965 billion valuation with new funding as Claude demand surges&nbsp;&nbsp;ABC7 Bay Area",
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "New AI Warning: Don\u2019t Discuss Your Legal Problems With Claude Or ChatGPT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUpMR0x1eGxUY2RJQ1FMTlNZUEJ4YVg0dnVOa0JWd1dYdjhmcTlhaW5jUWI3UHlndkVibXlKTW55RmcwRlZTal9Dc1RiYV9Ma1BjemZXUnJCRnZSZzVneFg2bGtzNEZzd1FZeWFXQk92NVZwUXA4b01LXzBoRmFhWnhpb2twb1RERTI5ZElaVnNVLUREeXFnSFJYcGJLWGRDdzhJVFZqLVRKcTg3Rmhfc0tUaHZSMjIzZThoTURxdk1rUQ?oc=5",
+      "source": "Forbes",
+      "published": "28 May 2026",
+      "summary": "New AI Warning: Don\u2019t Discuss Your Legal Problems With Claude Or ChatGPT&nbsp;&nbsp;Forbes",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Big Law\u2019s AI Threat to Harvey, Legora",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjlNU3FVTnZJaWpNejQyUkN3a01FbUlISXFiQ1IzcWs4cG83WlhpRElFSU5qODRVMFhWWG9ZcFJQUFMxYzRJRDNHMFF0QnljWG02Q3dveVdyMmJpNWFJZzdXNmZJY2NYVmxpZUNrc3pXeEJYcnVub3ZrOEFYbUxRYkM0eXhjdlBEWUExNlhB?oc=5",
+      "source": "The Information",
+      "published": "28 May 2026",
+      "summary": "Big Law\u2019s AI Threat to Harvey, Legora&nbsp;&nbsp;The Information",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "Asia legal AI race heats up as Legora joins Harvey in regional expansion",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaXB3eWdRNktjLUx6Y0d5TjNHRlZqUGR2YTZWeDg1Y21abFFZWFRHcTRReE9yQnJCVmxkSFRLQmdFZG9uSmYyekc2Y0FYWHQtcmFpc01INzBsVmtWenFSRjNfYmlvcWhPcmFycTlyRW5FXzVkSDU3UDl3dVJQWndUTmtPRU9DaUdDR29rTWt6UEp0akg0NDBvT3RHNklaMTE5bV9BTTA2WnRjYXRaQndv?oc=5",
@@ -2030,56 +2080,6 @@
       "summary": "Trust in Legal AI: Why Harvey is Betting Big on Transparency&nbsp;&nbsp;MEXC",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Beyond the hype: What corporate legal teams actually need from AI",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTA3SlJ6SDdnQlhyNHNfeWdESWRZWlU1N0dIMl95U2QxZDFURlJFcjl2TUZFQ0lQb09vM2tvX3ZqU0c1MWpUY04xdHFmRGpvSFVLX2ppZ28yc0VRamZvcmJwWW9kRXJOQkNuMFhMaV9KTDZDbUxtclA1Qjc1M0k5clI0ZThrTlFyR2VNdUlZaVNjN0tBMnRoWlBVN2g5cHdEcVpzeldn?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "21 Apr 2026",
-      "summary": "Beyond the hype: What corporate legal teams actually need from AI&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "What true deep research looks like",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IQV9EdWRDTGdtMnhyN2k5bzFBa19nQ1J5cDFEb2tEcHJMeXpzanBfSnZMdTFlODRycjJlelcwZ19XVDZUcnlQcDBnTGFoQnpTSUNoWENOQlAtUkJxZWF5TDNVZm54cjFZblJ0akZxOWJzdVdEb1N1SW1CVm1fZw?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "21 Apr 2026",
-      "summary": "What true deep research looks like&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Agentic AI Liability: Managing Accountability in Autonomous Legal Workflows",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93QXFoWkhqRlFUenYwTG5sOFlKTGp2dHBjT3JCVV83X2U4NG9BOEVGM0NkTWZKbTQwRkY1YlVKVWpPbUJQZzlKTEdHMkpBQmV3WF9CZ1hjLXlVNkhJcjVfaUxsQnZGRi1mT3VEbWlBdGZ5N3ZBRWVxQ0N3SFM?oc=5",
-      "source": "JD Supra",
-      "published": "21 Apr 2026",
-      "summary": "Agentic AI Liability: Managing Accountability in Autonomous Legal Workflows&nbsp;&nbsp;JD Supra",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Sarvam AI: Silicon Valley critic now praises India's homegrown startup; union minister applauds",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQUdhY0JXdDg4M25QRDE4WTl1em0wZW1vcDBoSExRbWUxYU9EVzVtSE5RLXVWOUdQTngxMElTZnFhTWg3UW0tcExwUG13YnJFQ1dlWmJvX1VzdExyRW9rUHQ3MWVPX1lzTnEyTkhyQWx4SjRVcWlTazdCYzVjYUhzeHU4MUNhMFpub2lQOG9pVHBlRE5nRGtJVHU4WWlxUnFPZEhER24wZ2FISlpyX0tFdVR5TmNZSjBQdTVva1VDTmZKWjNPMW9leTg3S0F0TmszWTZxTkc0dklCVDg5bWQ5NUdjSzBuQlQzdW9wWjI4MnhDenQwdHNkQXNld3BQSkNJU3RCa04zYkQ0TE94UFNQcXh1bHhfMGs?oc=5",
-      "source": "Dailyhunt",
-      "published": "21 Apr 2026",
-      "summary": "Sarvam AI: Silicon Valley critic now praises India's homegrown startup; union minister applauds&nbsp;&nbsp;Dailyhunt",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Anthropic Argues for Fair Use in UMG\u2019s AI Lawsuit: \u2018Training on Lyrics Is Transformative\u2019",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkhQaHdDbTBTY0FSd2ZTcEpwOVlaeFBpSnV0VmV5a0laVGdja0ZhZnYyWWJNVjRsWEJmNmt6akotcU5xLXM5c0VrdHg1T085Ql9odDN0Z3JIMWdzcHVOX1NpclNRanRDOEhmMmtrajk2QVdRVXdSbXBaMzE4SWZmc0NwYnhpbjdMSkJmQUJ3VmxBQQ?oc=5",
-      "source": "billboard.com",
-      "published": "22 Apr 2026",
-      "summary": "Anthropic Argues for Fair Use in UMG\u2019s AI Lawsuit: \u2018Training on Lyrics Is Transformative\u2019&nbsp;&nbsp;billboard.com",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
