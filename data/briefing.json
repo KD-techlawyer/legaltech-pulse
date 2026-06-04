@@ -1,12 +1,32 @@
 {
-  "date": "Wednesday, 3 June 2026",
+  "date": "Thursday, 4 June 2026",
   "articles": [
     {
-      "title": "Claude Opus 4.8 Fails Legal Honesty Test in New Benchmark",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaU9XMHRXQnphU2p3My0wSEhIdE54OXV4QlZiRk1YakxpUnVodEk3SUN6WTR5Y1NJM2pPR0RuNGY4X2F5djRRQWFIOE53NVcxN0ZiT003elAydXhIVWllN0tXYXdmQ21QNVdDdzhCTnkydXJGNzZEbFVBSWdLbU1IVV9kc2xHeDVlUXNDVnpmSGJLbFhy?oc=5",
-      "source": "The Tech Buzz",
+      "title": "Challengers test defences of legal tech stalwarts",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BcFB4dDhrd3pHQThKeG82Vmw1ay13a0xpVF9jcG9HdTE2TnVQRGdoNGxKU2thdkplX3RVLWRUY2FkQXV0WWxybHlYekRnNkxPMHpnb2o0aUVaeHEtcFk3Zlh5cm55TV9QYWllZzZZODg?oc=5",
+      "source": "Financial Times",
+      "published": "4 Jun 2026",
+      "summary": "Challengers test defences of legal tech stalwarts&nbsp;&nbsp;Financial Times",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "HMD debuts Vibe 2 5G smartphone in India featuring Sarvam AI's Indus chatbot",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkROdm16bGJkdUVSRnotcUxsME5nM1lTQlN4OVNLWE5zOWxrdHIxRmZnVmRva0tMTVdDUW1GVjVzSGRNRXM5MUVHdE9GckhqUl9RVDdOZzdEc1NwbndDWTlpOHBnRWxQNHpzMER5YXd2M0VHdzBJdWZucHRQV1V5WV9OSWJqQmkwSGFFeFhMR2NPR0ROOGRuMERMbFQzSF9WdGZEQWd3TXBicTZjWmp0RjFuLVJvVG02NFE?oc=5",
+      "source": "Telecompaper",
+      "published": "4 Jun 2026",
+      "summary": "HMD debuts Vibe 2 5G smartphone in India featuring Sarvam AI's Indus chatbot&nbsp;&nbsp;Telecompaper",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "OpenAI targets finance, legal sectors as Claude gains ground",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONHgteW9rZV9Ba1dxa1hqWmFubk5FMFdGcWFlMkZRREN5NFktRE5BUEstby00YXZSaDFONF9XNF9JemNvU0JZd3pta1hzbFJUWFFoUVF0TWZLN0pzTVFBNmtnT1B5Sm14V0hTU2tCNXp4U05VTk42R2lfM2tJc0JPNlBzbDQydkY2Z241dFJKSllyalBmLVlQLXVFZmtyYVFpaWVtM1NPUG9pbWU3Z0pxX3RQX3VicDdfXzltOXR3d3k1OFplczMzYTc0YmdEbDJP?oc=5",
+      "source": "MSN",
       "published": "3 Jun 2026",
-      "summary": "Claude Opus 4.8 Fails Legal Honesty Test in New Benchmark&nbsp;&nbsp;The Tech Buzz",
+      "summary": "OpenAI targets finance, legal sectors as Claude gains ground&nbsp;&nbsp;MSN",
       "tags": [
         "Global AI Tool"
       ]
@@ -22,11 +42,125 @@
       ]
     },
     {
-      "title": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tcWZOdVZpTFVFWnp2WTU4ZVpyRExNcDUwQW01bDUwVEotQU5hRWVEWGJ0dGsxMm1CSlkxZ1N0clBYYlBuQmNGcmZ4ejVJZXYtYkxOc3l5eEYyTENfYWp6NkFJQzRuV2lObUZ3?oc=5",
-      "source": "ZDNET",
+      "title": "Best Enterprise Legal Management Software: 2026 Comparison Guide",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObjVGZUtwNHFkRHl2ekxWaTU1X081ZEZ2N0ZtLTdrTHFGVVpJMERQTXVES1Nfa2RYSVFJM2RHT1ZUejVycmIzQlFnd3FTMWZpQWVvTVhkNlRudkhGblFVSmlKbXYyTlkzU3NwTFR4VGthTUhwbU96RFVrdlRhOEx3Yg?oc=5",
+      "source": "JD Supra",
       "published": "3 Jun 2026",
-      "summary": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it&nbsp;&nbsp;ZDNET",
+      "summary": "Best Enterprise Legal Management Software: 2026 Comparison Guide&nbsp;&nbsp;JD Supra",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Superlegal Launches the AI Law Firm for U.S. Construction",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeVhtR1I5bGZpRzVzNVdhWjU3QzhoLXlDalVJWU1LcGVvMDlkdGFVN0N1R0U3VTRHUHBRZTVKeDRBRDI1WnRrYzgwYWRIR2hGTng0NkJSaU9fcU9uTU5WSEg4UUthaklQMlRTRE9IM1dKN2xhSldmd2FBMEFFaVo0eFZPcXVXZWRqaDZnUGFVZ0czT05OUG44ODE2blRKbFZXRFZPSjRpQmVaZERCeGw0aVFISENNdGROM3c?oc=5",
+      "source": "TradingView",
+      "published": "3 Jun 2026",
+      "summary": "Superlegal Launches the AI Law Firm for U.S. Construction&nbsp;&nbsp;TradingView",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Dua Associates deploys Legora AI",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnBJQWk2Y0liWWtXSFNWOFJvV3M5X0VTckswNGo5Q1J4M05fZjNCa2toVDg1R2k5N1lfZExWTjlzT0pCbEV0bFlDYmx3bFVucUV4TWZLa1ppakp6amEwa0tXSzk0REtfaWhrZWp1Q1B2TktlMk54Z045Y1l6dVhHQVFjMWJ2Mnl3dm9LQ0ZWN0o3NEtJVGRmbzR2TkYweWZRa3k2djNrbXV3MGFFNDlrZVhnMl9pU3pFWGY3RWRhSk92TlcwV2kzZUhFVzN0ZnNo0gHQAUFVX3lxTE5KcElBaTZjSWJZa1dIU1Y4Um9XczlfRVNySzA0ajlDUngzTl9mM0Jra2hUODVHaTk3WV9kTFZOOXNPSkJsRXRsWUNibHdsVW5xRXhNZktrWmlqSnpqYTBrS1dLOTRES19paGtlanVDUHZOS2UyTnhnTjljWXp1WEdBUWMxYnYyeXd2b0tDRlY3Sjc0S0lUZGZvNHZORjB5ZlFreTZ2M2ttdXcwYUU0OWtlWGcyX2lTekVYZjdFZGFKT3ZOVzBXaTNlSEVXM3Rmc2g?oc=5",
+      "source": "ETLegalWorld.com",
+      "published": "3 Jun 2026",
+      "summary": "Dua Associates deploys Legora AI&nbsp;&nbsp;ETLegalWorld.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Litera announces Foundation 365, integrating its CRM capabilities across the Microsoft Suite",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUU5VFFoT21rcWVieHNDUGpTYWNKdnAxWXU0cUw3YXphbkwtWTJudklLUllqd1U0bTR3alNnUWtyRWVjUy12dFpPbzB6WGxqdzRzejZtVFl1a0h3c19tcGRkR2w1NzRQbldteV82ZzhKVUFwUlNoNjJUVDIyLWlOdGYyYkp2UVdQaGxiN1FFdTFUYmI1MldkYzJLQk0tS3hlWXgwX3hXUlhlUE9ib2V0bUNORHZiaF9iTk5YQQ?oc=5",
+      "source": "Legal IT Insider",
+      "published": "3 Jun 2026",
+      "summary": "Litera announces Foundation 365, integrating its CRM capabilities across the Microsoft Suite&nbsp;&nbsp;Legal IT Insider",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Wordsmith raises $70M Series B to bring legal work back in-house as Harvey hits $11B and the legal AI arms race accelerates",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd0szNzJ3N052bDlWQ1JHNm51cHFKeU9QOVpkM001akRHZjlQVnlMdEVHXzRKS2t5dks3U1RidE04cjJGM0lkdzdERXJsUFdDalc2b1lrS2VhMFJFUHFENm55d0lnTS1INnVNdHJYS3JBOHF0NE1lVWRLNlVVMmJ2YWw5N3lSd3JSeERJWGM4cmtPMzROazRLRGYwd1UxR1lCb3hlTG8ydG14cVlMWkpBOGVPcXhCcFZYc0p0dlZBNnRtNnJ5LVQ4QTRTbExsb3g5TXRXSmtmaW8yZTZhT1JaLTgxcnI?oc=5",
+      "source": "Tech Funding News",
+      "published": "3 Jun 2026",
+      "summary": "Wordsmith raises $70M Series B to bring legal work back in-house as Harvey hits $11B and the legal AI arms race accelerates&nbsp;&nbsp;Tech Funding News",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora Acquires Cadastral to Bring AI-Native Legal Intelligence to Commercial Real Estate",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcklGaDNkWUlvYjQzc2o4ZTJFV2JvMy1takFaTHprQ1ZUUk4zZnJDU0praFBVQUlzdmNSZDN0Q3Ewd0hSc2hTVlgzN0dpSkVkQnRnRGF5amFydkhDejJiNHo3NFdWMVRyeTYzVnF4VHQ4SzktdXJRa2c2a2dSaVktTFpkekhwRW5pMlJFc3o3di1QMXZITFJZckVGMzNxYnAtSGp4czAxVG9NOGN2bEhhc0R3WVg2S2lKdnc?oc=5",
+      "source": "Proptech Connect",
+      "published": "3 Jun 2026",
+      "summary": "Legora Acquires Cadastral to Bring AI-Native Legal Intelligence to Commercial Real Estate&nbsp;&nbsp;Proptech Connect",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "ET Most Innovative AI Product Awards 2026: How AI-powered legal technology is transforming legal research,",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQeTNvSVlzZU5WTVFCWVdiT0dVWkZWM1BHMS11UDdIVENhcF9vYVpUMXVvV3ZLaDZYZnY5c0kzQTk5OXNhLXAwRDJ6OUdDYko3ZE1XOWI1b1U4Wm1tVHZXUXQwMXo1dUllLUljUk43RjAwbDhfNzFPeTFIclN0VkctZjVnLVhGWVlsRFk5T2xrb09EbFVfU2dDS2pmS1Jzam9YRWc0Rk12MzJVUXZ3dkI4UkJ6NkFEUlh5WG40UmtSUU1GNXNGTy02OFQxR01ublhrcGNFN19vM0lueDlDNmhJRGNpZnpYdUJRc1U5UjNIUTBha1FtTWFyQS1FbDE4QnNNMnBVbXp3b2NaYksxQ2p6ME1NSV92OUxJaThyblNiOHJIajdlblFMRWQ0clhUajFkeXfSAbcCQVVfeXFMT0dKSHpLUkV4SUdkYmhVaWw4akZPT0pqajJfOXI3TjRHMnVsVHVYemVLYWIzSDhVNlhXbXRmQnlSc18zNURXT2plWi1vYjA1ckl2OGozUUJoRU9aNUx2U3VZRWRObVZZblB1OEllODdzaFAyay1iYlNVU1d2dnVoUEpOOWFzZ0RtcUdpbWM4N3ZJY0MyNDZnaEpFS19KamtieGxIVmJTOW9yT25uU2JTMDFJaXR4NUYySFBOdUhweUdPS2FsTE1QSWUtel94X1BFcXg2cW5EVFFkbFpCQ01yLTA1aTRxQUkzYnEwNnJxeldZN3ZLZUtkeGlUSVNteDI1MGZjc3B1VmpzVnpFU3hTZWYtbmQ1aFVtQ0g4empiaGdOYi1Bc0U3WDEyV0p2XzBrSjdWYTh4V3M?oc=5",
+      "source": "The Economic Times",
+      "published": "2 Jun 2026",
+      "summary": "ET Most Innovative AI Product Awards 2026: How AI-powered legal technology is transforming legal research,&nbsp;&nbsp;The Economic Times",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Ironclad Founder Jason Boehmig Joins OpenAI To Develop Products for the Legal Sector",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWURHaks4UUNTQUJMREpyOHBGOTJsZ2JfaDZ1akJOSFVnV2pERl8wUUJzLW9qVlJPS1pmMzVNNi10cU9NTzd0OVpTcnMzNFBNaHd1LTZKMVR6empyLTB5eHp0TUZYdnlrWGwyZUxSYi1JQ3dkQWZmMXFZNEFQLU9JQUtFazlwN3otb2p0LThhY253WnBCa1dVLUEwUzRYdGdGaS1kdk1aMF9KZ18tZVVSV2RmYmJpc1M5NUQtWjN3?oc=5",
+      "source": "LawSites | by Robert Ambrogi",
+      "published": "2 Jun 2026",
+      "summary": "Ironclad Founder Jason Boehmig Joins OpenAI To Develop Products for the Legal Sector&nbsp;&nbsp;LawSites | by Robert Ambrogi",
+      "tags": [
+        "Global AI Tool",
+        "Contract Tech"
+      ]
+    },
+    {
+      "title": "Legora buys real estate AI startup in fourth deal of the year",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTy1fVmEzTGlTVDFhUDluVkFRaEE1N3pETGRieXg3cmFzeEZKTC10V0s3RWV4NGFkeHdIQ3NXcFRJZ0phQmdLUkZqUEN0SWxXMnBaelVPOGlUcFhWTGM4MnhnVkZjWklCRW5lYVJGanZnSHllZm1kbkUzb2FaY0lIbk0tZTVVVDV6YTdTS242cnBYaFBMWEE?oc=5",
+      "source": "Non-Billable",
+      "published": "2 Jun 2026",
+      "summary": "Legora buys real estate AI startup in fourth deal of the year&nbsp;&nbsp;Non-Billable",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Exclusive: Sarvam AI To Open Voice AI Agents Platform For Public Use",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLW1YdmV3eGtHSXV1OXhzeTJpSW9vSk9ZOTBWbGJjNXY0RkIwbVViVFVUNU1pQVlTcUlWa0N3NmFxeFR0WjM1OXFHbW8taUFNYlVLLWlRYkVNU1RnTm93U01RT2t6MExCX3BmT1poY3JJS0ZNLXFQc3hVTUNpdHFibTY2Y1dCbmRRNzNObW5TbGZJVk9MNVE?oc=5",
+      "source": "Inc42",
+      "published": "2 Jun 2026",
+      "summary": "Exclusive: Sarvam AI To Open Voice AI Agents Platform For Public Use&nbsp;&nbsp;Inc42",
+      "tags": [
+        "India Startup",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Sarvam AI Opens Voice Agents Platform to Public",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeXBTTWFfalZrd1gtSVVVTW1XbFprS2g2MzhRV2ZtaHBYeWc4dFJzeFp2cDQtcTllVGFHTkRPeUNhQVBEXzl4Ukc2R3NueldxV09rV0ZhZktnVzF3eVE2SFQ2NW5WcWpTVmUtaTd0RU5BUG1lcUliYjdJdW1HMGdnbkt2Tnh3Q3ZDcGhBZmVoRUZ5QVU?oc=5",
+      "source": "Let's Data Science",
+      "published": "2 Jun 2026",
+      "summary": "Sarvam AI Opens Voice Agents Platform to Public&nbsp;&nbsp;Let's Data Science",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Legora Acquires Commercial Real Estate AI Co. Cadastral",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVJVb05tTnJiSEdWNEdnOENuQm8zS2l3Q05qdWsxWkFwakRFbTRpVWk1bEJyVUY0Nm1rVWszRXBtS1ZNX2lPaHNzazIzUnM0bjJMc1hTS2NjbjdiVVljWnB2Q0pweVFaQXJfSndhOXA2T2F5TnktV2pfZ2plQkhqeHZUbmtlMmc4LW51dm0xcXJKTkROVlZRd3IxYTlVMkhOWTJsY29UM3dyS0hTVGRLdtIBXkFVX3lxTE9jQllwckk5QTZJMU9jUkprakpaVzMwdXNKSHNxeWRkWGNfZC1IT3FRZG04V1dVeFNORWxvVTgtN1VIcWk5WG9LYnQ3UTNNeVlMcGttVEp0R3E3OThHUnc?oc=5",
+      "source": "Law360",
+      "published": "2 Jun 2026",
+      "summary": "Legora Acquires Commercial Real Estate AI Co. Cadastral&nbsp;&nbsp;Law360",
       "tags": [
         "Global AI Tool"
       ]
@@ -42,69 +176,25 @@
       ]
     },
     {
-      "title": "Legora Acquires Commercial Real Estate AI Co. Cadastral",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVJVb05tTnJiSEdWNEdnOENuQm8zS2l3Q05qdWsxWkFwakRFbTRpVWk1bEJyVUY0Nm1rVWszRXBtS1ZNX2lPaHNzazIzUnM0bjJMc1hTS2NjbjdiVVljWnB2Q0pweVFaQXJfSndhOXA2T2F5TnktV2pfZ2plQkhqeHZUbmtlMmc4LW51dm0xcXJKTkROVlZRd3IxYTlVMkhOWTJsY29UM3dyS0hTVGRLdtIBXkFVX3lxTE9jQllwckk5QTZJMU9jUkprakpaVzMwdXNKSHNxeWRkWGNfZC1IT3FRZG04V1dVeFNORWxvVTgtN1VIcWk5WG9LYnQ3UTNNeVlMcGttVEp0R3E3OThHUnc?oc=5",
-      "source": "Law360",
-      "published": "2 Jun 2026",
-      "summary": "Legora Acquires Commercial Real Estate AI Co. Cadastral&nbsp;&nbsp;Law360",
+      "title": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tcWZOdVZpTFVFWnp2WTU4ZVpyRExNcDUwQW01bDUwVEotQU5hRWVEWGJ0dGsxMm1CSlkxZ1N0clBYYlBuQmNGcmZ4ejVJZXYtYkxOc3l5eEYyTENfYWp6NkFJQzRuV2lObUZ3?oc=5",
+      "source": "ZDNET",
+      "published": "3 Jun 2026",
+      "summary": "I compared Claude Opus 4.8 with 4.7 in a 10-round honesty test - and a legal prompt broke it&nbsp;&nbsp;ZDNET",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Sarvam AI Opens Voice Agents Platform to Public",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeXBTTWFfalZrd1gtSVVVTW1XbFprS2g2MzhRV2ZtaHBYeWc4dFJzeFp2cDQtcTllVGFHTkRPeUNhQVBEXzl4Ukc2R3NueldxV09rV0ZhZktnVzF3eVE2SFQ2NW5WcWpTVmUtaTd0RU5BUG1lcUliYjdJdW1HMGdnbkt2Tnh3Q3ZDcGhBZmVoRUZ5QVU?oc=5",
-      "source": "Let's Data Science",
-      "published": "2 Jun 2026",
-      "summary": "Sarvam AI Opens Voice Agents Platform to Public&nbsp;&nbsp;Let's Data Science",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Exclusive: Sarvam AI To Open Voice AI Agents Platform For Public Use",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLW1YdmV3eGtHSXV1OXhzeTJpSW9vSk9ZOTBWbGJjNXY0RkIwbVViVFVUNU1pQVlTcUlWa0N3NmFxeFR0WjM1OXFHbW8taUFNYlVLLWlRYkVNU1RnTm93U01RT2t6MExCX3BmT1poY3JJS0ZNLXFQc3hVTUNpdHFibTY2Y1dCbmRRNzNObW5TbGZJVk9MNVE?oc=5",
-      "source": "Inc42",
-      "published": "2 Jun 2026",
-      "summary": "Exclusive: Sarvam AI To Open Voice AI Agents Platform For Public Use&nbsp;&nbsp;Inc42",
-      "tags": [
-        "India Startup",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legora buys real estate AI startup in fourth deal of the year",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTy1fVmEzTGlTVDFhUDluVkFRaEE1N3pETGRieXg3cmFzeEZKTC10V0s3RWV4NGFkeHdIQ3NXcFRJZ0phQmdLUkZqUEN0SWxXMnBaelVPOGlUcFhWTGM4MnhnVkZjWklCRW5lYVJGanZnSHllZm1kbkUzb2FaY0lIbk0tZTVVVDV6YTdTS242cnBYaFBMWEE?oc=5",
-      "source": "Non-Billable",
-      "published": "2 Jun 2026",
-      "summary": "Legora buys real estate AI startup in fourth deal of the year&nbsp;&nbsp;Non-Billable",
+      "title": "Claude Opus 4.8 Fails Legal Honesty Test in New Benchmark",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaU9XMHRXQnphU2p3My0wSEhIdE54OXV4QlZiRk1YakxpUnVodEk3SUN6WTR5Y1NJM2pPR0RuNGY4X2F5djRRQWFIOE53NVcxN0ZiT003elAydXhIVWllN0tXYXdmQ21QNVdDdzhCTnkydXJGNzZEbFVBSWdLbU1IVV9kc2xHeDVlUXNDVnpmSGJLbFhy?oc=5",
+      "source": "The Tech Buzz",
+      "published": "3 Jun 2026",
+      "summary": "Claude Opus 4.8 Fails Legal Honesty Test in New Benchmark&nbsp;&nbsp;The Tech Buzz",
       "tags": [
         "Global AI Tool"
       ]
     },
-    {
-      "title": "Ironclad Founder Jason Boehmig Joins OpenAI To Develop Products for the Legal Sector",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWURHaks4UUNTQUJMREpyOHBGOTJsZ2JfaDZ1akJOSFVnV2pERl8wUUJzLW9qVlJPS1pmMzVNNi10cU9NTzd0OVpTcnMzNFBNaHd1LTZKMVR6empyLTB5eHp0TUZYdnlrWGwyZUxSYi1JQ3dkQWZmMXFZNEFQLU9JQUtFazlwN3otb2p0LThhY253WnBCa1dVLUEwUzRYdGdGaS1kdk1aMF9KZ18tZVVSV2RmYmJpc1M5NUQtWjN3?oc=5",
-      "source": "LawSites | by Robert Ambrogi",
-      "published": "2 Jun 2026",
-      "summary": "Ironclad Founder Jason Boehmig Joins OpenAI To Develop Products for the Legal Sector&nbsp;&nbsp;LawSites | by Robert Ambrogi",
-      "tags": [
-        "Global AI Tool",
-        "Contract Tech"
-      ]
-    },
-    {
-      "title": "ET Most Innovative AI Product Awards 2026: How AI-powered legal technology is transforming legal research,",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQeTNvSVlzZU5WTVFCWVdiT0dVWkZWM1BHMS11UDdIVENhcF9vYVpUMXVvV3ZLaDZYZnY5c0kzQTk5OXNhLXAwRDJ6OUdDYko3ZE1XOWI1b1U4Wm1tVHZXUXQwMXo1dUllLUljUk43RjAwbDhfNzFPeTFIclN0VkctZjVnLVhGWVlsRFk5T2xrb09EbFVfU2dDS2pmS1Jzam9YRWc0Rk12MzJVUXZ3dkI4UkJ6NkFEUlh5WG40UmtSUU1GNXNGTy02OFQxR01ublhrcGNFN19vM0lueDlDNmhJRGNpZnpYdUJRc1U5UjNIUTBha1FtTWFyQS1FbDE4QnNNMnBVbXp3b2NaYksxQ2p6ME1NSV92OUxJaThyblNiOHJIajdlblFMRWQ0clhUajFkeXfSAbcCQVVfeXFMT0dKSHpLUkV4SUdkYmhVaWw4akZPT0pqajJfOXI3TjRHMnVsVHVYemVLYWIzSDhVNlhXbXRmQnlSc18zNURXT2plWi1vYjA1ckl2OGozUUJoRU9aNUx2U3VZRWRObVZZblB1OEllODdzaFAyay1iYlNVU1d2dnVoUEpOOWFzZ0RtcUdpbWM4N3ZJY0MyNDZnaEpFS19KamtieGxIVmJTOW9yT25uU2JTMDFJaXR4NUYySFBOdUhweUdPS2FsTE1QSWUtel94X1BFcXg2cW5EVFFkbFpCQ01yLTA1aTRxQUkzYnEwNnJxeldZN3ZLZUtkeGlUSVNteDI1MGZjc3B1VmpzVnpFU3hTZWYtbmQ1aFVtQ0g4empiaGdOYi1Bc0U3WDEyV0p2XzBrSjdWYTh4V3M?oc=5",
-      "source": "The Economic Times",
-      "published": "2 Jun 2026",
-      "summary": "ET Most Innovative AI Product Awards 2026: How AI-powered legal technology is transforming legal research,&nbsp;&nbsp;The Economic Times",
-      "tags": [
-        "AI Trend"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "Claude For Legal Has Over 90 AI Agents",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUkNrUXRYSXR0a2ZwbWZQQmdzc1RlaXZwR3R4UDVvRFFjTDlvNlBHNEJqR1d0MGVsNnFYWjkxcDkxejVsTDJvVWdFcTFFekNNaWJoQURtNFVkaW9BbTE0a05vTVdBcUFTY3VKX2w2Z2poU09tQUdVVmM2Y3BkOHhqQUNkMXo2LVhNRE9B?oc=5",
@@ -2039,97 +2129,6 @@
       "summary": "Andrew Tindall: In a sea of AI sameness, we must build brand&nbsp;&nbsp;The Drum",
       "tags": [
         "AI Trend"
-      ]
-    },
-    {
-      "title": "Lawyers, counselors grapple with what AI can and cannot replace",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNekVDMkhxU295eHEzd1RoekNDaEswRElzVzFjdUZYRTZHcThXMVZrLUNRQmpCa1VBNTlFdjVlUDk0OGdmRDY3SGgzN0loVnJ4aEluUFlBcFBkVWtyVTIwdmlUX3dteWROOW9SSTVLT1pTSnlrTzNZOHVIeFhzOEpmQVlIMWExY2NZWFdvVGNjM0tJTlVuSW5EM0pqeW5nM2VLMjBiT0RfRTQ0VENfaG1fZTUwWDdsZm1qQXV30gHAAUFVX3lxTE9Zc2tNSFRrTkdGOEprMmtCQU1VY0t3ZUtValQtbXA4OFJpR1ozOWFGR3dheHZMQy1hOWQzTi0xRVBWWDRMUkRkWWE3RkNCRUFlUG1JVUtvYkVTUV9JSkRDelVMVXIwOE9mSHUzbG9qTDBFY1NRbHJRSTVwVW9NaDlzUEk0RDlPX28weDk1MlJSczNtOS1iUFZ3aVIydVhTMG5TUXAwZlpaUTlDT2Z4N2hMREI5b0hId1BWMWpGYXBjMw?oc=5",
-      "source": "The Korea Times",
-      "published": "28 Apr 2026",
-      "summary": "Lawyers, counselors grapple with what AI can and cannot replace&nbsp;&nbsp;The Korea Times",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "The Blackstone Theory of Legal Services",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xa2lDa3NyQmJ0SERCMC1JUUFqUDI5VUk0LURKUTRXeTZZenFmc3hHamxFVGMyTmlXVV9FNm9CaG9WRjJjQWJBaWUzaVUtbXVXVTZXU0xzSFFDaVZVMEUwVGRoMDE5cWtpdEpMS3JuQ0hiZw?oc=5",
-      "source": "LawFuel",
-      "published": "28 Apr 2026",
-      "summary": "The Blackstone Theory of Legal Services&nbsp;&nbsp;LawFuel",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Global regulators trail banks in AI as Mythos raises oversight concerns, report finds",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcGpBWkFKZWJtdi1EVW5xZmxHbXdqektlUkYzNzhuZTM0cXNfbVZZLVBaUE1ad2p4cHJpRmhQYmczQ05HeURNbi10dF9wNXhobU4wR3phTjN2eDhzOE9ZbDY1YnN2ZHBZdm5hd0NNN0ktenhpQW5vc182LUFFcUMxcVlwenNCVmdsbGNaMDMzZk53S2ljN09FMVY5Z0JNUDBXajEyQzlfRGk4TzNzUU5PSXZlSVpDYngwSFVuUVdHd05DSmotZHNsWk43bGh5ejRTa0c2Q1JYUTE1QVo4WWRTcDBfVURGejg0Smp5aVRXbGVYVXZL0gH0AUFVX3lxTE9wakFaQUplYm12LURVbnFmbEdtd2p6S2VSRjM3OG5lMzRxc19tVlktUFpQTVp3anhwcmlGaFBiZzNDTkd5RE1uLXR0X3A1eGhtTjBHemFOM3Z4OHM4T1lsNjVic3ZkcFl2bmF3Q003SS16eGlBbm9zXzYtQUVxQzFxWXB6c0JWZ2xsY1owMzNmTndLaWM3T0UxVjlnQk1QMFdqMTJDOV9EaThPM3NRTk9JdmVJWkNieDBIVW5RV0d3TkNKai1kc2xaTjdsaHl6NFNrRzZDUlhRMTVBWjhZZFNwMF9VREZ6ODRKanlpVFdsZVhVdks?oc=5",
-      "source": "ETLegalWorld.com",
-      "published": "28 Apr 2026",
-      "summary": "Global regulators trail banks in AI as Mythos raises oversight concerns, report finds&nbsp;&nbsp;ETLegalWorld.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Microsoft Copilot Health: Another Player In AI-Driven Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmRkQkZZQ1VyQ1BGZnRkSHFBSlQ4YmhRcnpTQW9RaUFja2VFVTY1T0xlQklsdVZfRDNEeGtjejYwMXpHZnJEUDRDN1NDeGIwXzZJUGVIalJOUGQ2c1BzX2N4VDhiRjE3OVZVZTY5eXU1MUkzZkMwcWxQVW1WSUdyWnpTZFpYVmVUMHBSd0lBYjk2Z3N6VUoxVtIBngFBVV95cUxQZ3lDOVJfTXlxYzlWbm9uWFhFUmFZVnVUVXVTN1VZdlRER1ZvaXkyUDBsWkoxMDkyQW5sa2pfZDJmLUF5OEwxdG56ZEpKZGRCVzdhd0RjTmFkRUg2UVdDTGl1SW1URXhpU1drdUFNVU1IeUZHc1A0cmVRRnBLSW41dFBMcjZWMTFxNnozMTNUTzdhNUV4OGJxandMRzJGZw?oc=5",
-      "source": "The National Law Review",
-      "published": "28 Apr 2026",
-      "summary": "Microsoft Copilot Health: Another Player In AI-Driven Healthcare&nbsp;&nbsp;The National Law Review",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "AI Built for Law Outperforms ChatGPT, Claude, and Gemini on Legal Reasoning Benchmark",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlpKVEI5WFJFLXZrcjA1QWtYOHZyMnNFMVFBQzlWR3VRZDlia2U0bkNZNjdRN1l5ZlpPaWNxalQ0VDJtYkViUjlwNlhWMDdEYnVQaUlYY2J4OVk3dnRjdC1NdjFWWTlNZV9IdWd6b3ctZnhTcnZaSWstNDFJSGFvQXhmQzR3OHdRM3lzS2JBS0h4Zml2MVdiNDg4TDl4bGxGYXBBOFp4Y2MzNFF6eG16b0p4dHB3WVU?oc=5",
-      "source": "The National Law Review",
-      "published": "28 Apr 2026",
-      "summary": "AI Built for Law Outperforms ChatGPT, Claude, and Gemini on Legal Reasoning Benchmark&nbsp;&nbsp;The National Law Review",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Gavel Launches Web-Based AI Contract Platform, Expanding 'Gavel Exec' Beyond Its Word Add-In",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNm1vR1FXTy1OV0VJaWxGTk5IV25rdkZwdmNIUXQzZ1VzTjk4TDRlN1J4N2NXYk9ZWDB3eV83cUxLUlNNOWd6Rk1MM3ZHdi1KcUpKWlljUDZCTHFQZE5CTEppT0piZ25wdWdpc01ENE5jbjFUaHowM0lfZ01NbU5LRFNRb1owWWg3YkIzMUJNZFdFd2FxeE1aeGJzYV9Va215Snd1ckt3cHlGUVZlTk5DUEthX1AwajVNLVNSa083V1hBdjA0?oc=5",
-      "source": "LawSites",
-      "published": "27 Apr 2026",
-      "summary": "Gavel Launches Web-Based AI Contract Platform, Expanding 'Gavel Exec' Beyond Its Word Add-In&nbsp;&nbsp;LawSites",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "How 5 Senior Firm Leaders Drive AI Adoption",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqb21valdyVUlRdlI0TzQ5Y1dYVnVjMmVNbUV0aC16UHl1OUI5VHdOSnhoLTJ6ekFRUmE1TjJQZ1owN3I3Z1NNNnhLd2ctaTU2MkEzNUdVak1BSjhncUJXeFBXNGdXWllJRkx4ZUh0YjZWTnZlMHRmUmhn?oc=5",
-      "source": "Harvey",
-      "published": "27 Apr 2026",
-      "summary": "How 5 Senior Firm Leaders Drive AI Adoption&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence and Privilege: What Clients Need to Know",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0FOT3JmcXZKbk0yUXUyT1ZSZ25vaTBRVXRGNER4MXItenVlQlNDY2xXdC1JRjJlbGZHbFljNVNtbFo0VVhobHJBdHJ3OE0yNFdwMXdnbHh1akNRU1JvSzdfNjZqS3FpMHJpaVVSelA4aGNpdVdIQ1ppVnhSM3dLenF2R2tvd1k?oc=5",
-      "source": "JD Supra",
-      "published": "27 Apr 2026",
-      "summary": "Artificial Intelligence and Privilege: What Clients Need to Know&nbsp;&nbsp;JD Supra",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Data room platform Ansarada integrates Harvey AI",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWxUTnBGN2FzUU9DT3NhQXNRVXdVeGRuRFRoQjQ0cW5OaV9CMFR1bkdWazRTY0JrV2tjalhuUzBYbXAyUjJWa2ZqcjIwTWV4M0lTZVZCVWMzWW01WWQ5ZkZmMlNBTmcyVXk4YnJDWjJlX01HX2U2Qnljb3FySjZUVVNnbXJpN0xWY0NpMFNXdTRWeE9VbG4zV1pqTWFRTV9NTDBxNWhXLWRIVVEwbW1KRE9WTjgyMXB1R3hSV3pWMWF4Zw?oc=5",
-      "source": "Capital Brief",
-      "published": "28 Apr 2026",
-      "summary": "Data room platform Ansarada integrates Harvey AI&nbsp;&nbsp;Capital Brief",
-      "tags": [
-        "Global AI Tool"
       ]
     }
   ]
