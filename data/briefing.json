@@ -1,22 +1,125 @@
 {
-  "date": "Friday, 5 June 2026",
+  "date": "Saturday, 6 June 2026",
   "articles": [
     {
-      "title": "HCLTech, which sells to the world, invested $150M in Sarvam AI, which is built for India",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVWFXVzVMMkFPX25DRkppY21GSWZqWGJGNjNzWGFPODBBdzg4cEgtY3J1ZjlhQ2YzalpoSVZCY21SQlYzak9yc1p2dEkyTGxYeFY2YmdENU42WEgzdk4xT0xaZVc5dTBXdGF1dm00d2p5ZGJhTFNLcmY5RHZxamMwdnBYNGZ2MW53MWJUWXg5Vkk4TlhhaVJ3UTVWN3pPcVVBbGhiNmZSTjFzYzc3N1lyTGpKR0I0emFTNHJWNjhIX2x6cGg0cEM5ZUZGWVlERTM5bks1WnNHYUdmVndwZXFjTTh5ZklVdWp6MG5zc2NaYTh6MU0tOTIteWZfNGdjQ0FTeE52U00zX0F3MkxzZkZFX3JHcG1zUHBYNlE?oc=5",
-      "source": "The Ken",
-      "published": "5 Jun 2026",
-      "summary": "HCLTech, which sells to the world, invested $150M in Sarvam AI, which is built for India&nbsp;&nbsp;The Ken",
+      "title": "Oregon Supreme Court dismisses petition because of false AI-generated legal citations - Oregon Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fa1M0SVhwTW1NOEozaTRsR0NBa0ZqMVlTM3Bpamp1MFV1TXk3X1JPbDFRSzFJTXlYQm1pTExKSE1zU1VoR0RINThNTVlrRWJVVmlmRF90QXQ5TVNMaGp4d3dNRVdoUGUtd09kN3J6MjdqeXdvUzFwa1ZOVlFWWFk?oc=5",
+      "source": "Oregon Public Broadcasting - OPB",
+      "published": "6 Jun 2026",
+      "summary": "Oregon Supreme Court dismisses petition because of false AI-generated legal citations&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
       "tags": [
-        "India Startup"
+        "AI Trend"
       ]
     },
     {
-      "title": "Legora acquires commercial real estate AI platform Cadastral",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTFYTmd3aDdCYlJWZjdudjlid3ZfbWptaE5PUVBPWWlVSlZlVlhmczhhSUFpazZYaXVQRGtFT3E3dmFac0VSNFJ1WTZmakdiWEpDMFdlNE5TOW5QanI3ZDZiNDZjNGNpdzBUbFdma2xSRDRTVXNzZkhHQXBadTItVURGcXVfMlVNRk1VQnR6eWxodV8xeWYxZmRXMkZZTldiMHluYWJobE5PTms?oc=5",
-      "source": "The Global Legal Post",
+      "title": "Litera brings Foundation 365 to Microsoft 365 Copilot",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVgybGx0aGJTOXNXS25SelNKT3EzT3RFMUZHUTQ5LXFZcDUwQURhRC16MFo2X2tscGM3QmlBc0pkd1hPVDhNV0RYRUhLYlJKQnhNNkhhY2NERnB3a3BmMkpVVzZHeGFlR0Z5bXRTR1F6Zy1ZN1VqS3IzNkx5RW9XOGx3Q1F1OEE1OUE?oc=5",
+      "source": "IT Brief Australia",
+      "published": "5 Jun 2026",
+      "summary": "Litera brings Foundation 365 to Microsoft 365 Copilot&nbsp;&nbsp;IT Brief Australia",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "How Legal Teams are Using AI for Legal Discovery",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Snd4dDR1dVozM2tmTHNWaGg2V0U5cmlrUjF2STh3ei1DbEFrSm1LZkhqV0VXaGw0WmVvVlRCQmMxcmVDa09xQkk4bVQwQ1BpUUxoNHQtT1FZTTVLR1RKZmo5NEFvR2dZTjRZYg?oc=5",
+      "source": "Harvey",
+      "published": "5 Jun 2026",
+      "summary": "How Legal Teams are Using AI for Legal Discovery&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "AI for eDiscovery: Faster Document Review Without the Risk",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01Q2VHVGE0Qm5keFNIbXdVSXJJbWhOekJRQ3BJUVRudGRWcUFvU1ZKNlkwU2RLOTJmRmFRc0hBSHR3YWNJOVRoY01tdUYyYmdPbnJaS0IwYUdHLU0tVllIc0F3bkc5Zw?oc=5",
+      "source": "Harvey",
+      "published": "5 Jun 2026",
+      "summary": "AI for eDiscovery: Faster Document Review Without the Risk&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Announcing our ISO 42001 Certification",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DV0stbVdoNWptS2dTZjFacjBDTG92UWVCYlRkNkU0Y3R4YllhekJuRFFUaUtzQ1RlcDUzbXlDVEVIVGpwbjB4T0R0UVFSQWQzQlNGVU9pblFPWDA?oc=5",
+      "source": "Harvey",
+      "published": "5 Jun 2026",
+      "summary": "Announcing our ISO 42001 Certification&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora CEO on AI in Legal Tech",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUN5RkxMZHAzOXpydzJBNHU4Tk5OT3lUY09rWkc4U0JNSWRUSGZwNjRyT1gyT01pWWJzYUdjSkVLTlFrdmxoa3V2aGJ1cUtiM19CdlNWZm5ISXZqOXY3RWdXQllDSENlaXR6UkRsVGZicTBiNUtHZ2lteTAxYTVXNlo4a2RUV1VJQWszdnZfSmlfbUl3NFdVSQ?oc=5",
+      "source": "StartupHub.ai",
+      "published": "5 Jun 2026",
+      "summary": "Legora CEO on AI in Legal Tech&nbsp;&nbsp;StartupHub.ai",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "What A Time For Legal AI! + Legal Innovators California",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUS1tdFJ6dTZkRlVtRWZKWjE3aHctb09GaFNGRXpqbk16VXloS3REYTRtb3dxSW1ZOTdtOERmX1dONTNOdEZ5cnRXVVJRV0R1dDZnVjdWajFIWEhvYmstWmkxQXJYbGVDTUJIcWZLaExrWWxDbE1VMldQR2MzVlEySFRqeW1qNlVKTVJmLTVPV18wSFU3VXNlc0F6cGZidw?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "5 Jun 2026",
+      "summary": "What A Time For Legal AI! + Legal Innovators California&nbsp;&nbsp;Artificial Lawyer",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GeFBMQ0JuS1pBWDJHZUFPck9wQ09FTEsweXlxY2N5c0JmNjhNM2RNcFFWd2JaYU5Yc0J6ZFlHQ2VzMWM1Zk5iMDM4WTZhVmtqT2JFbEpTbi1GaEJ2ZUF1RmNMaFdhbTlUYmpwNXVOdlNQMzFPMFRLcUlwTm1kMDQ?oc=5",
+      "source": "Crunchbase News",
+      "published": "5 Jun 2026",
+      "summary": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity&nbsp;&nbsp;Crunchbase News",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Register Now | CADRE and DY Patil School of Law | Two-Credit/Certificate Course on Legal Tech & Digital Dispute Resolution | Apply before 15 June 2026",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJRQmw5VlJjS3JyZWJBN0FIamttMndEcWNxOXI2UDhZdjMzWTR6bkxCeFQwOS0weUhvQXVrVFF6NmFzNHFQSm53MjhyRXdEYUxmTGluYzhOdl9oTDJQUmVwaUtDWUtpclBNUUtyWjljTU5IZm9QX3VsSkdZNjN1UlhzcVByYzRndjY1UzVXWmpZYmJaaFNjX3REcmZWWWJwb0VNVUU3N3hUREgyRmVXeElR?oc=5",
+      "source": "SCC Online",
+      "published": "5 Jun 2026",
+      "summary": "Register Now | CADRE and DY Patil School of Law | Two-Credit/Certificate Course on Legal Tech & Digital Dispute Resolution | Apply before 15 June 2026&nbsp;&nbsp;SCC Online",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "CADRE ODR legal tech certificate course 2026 Archives",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS2ZIMmM0bWZnb3hLbmxoejFRUjhqaFF0NlJvdENvclBlbTJxckZSZjhKTTZXbGZlQTZYSDd2VVlVcDc3Y3hVNkF2TE1Bd2ROeE1YTnZjU2Z1TUY4QVBteEYtNXdzWmx4WnZqQjFaWHlIcVpiYkJVZGR6cm84RXFZai03dGRQdTdaRlZ6MEtB?oc=5",
+      "source": "SCC Online",
+      "published": "5 Jun 2026",
+      "summary": "CADRE ODR legal tech certificate course 2026 Archives&nbsp;&nbsp;SCC Online",
+      "tags": [
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Sarvam AI partners with YCP India to accelerate enterprise AI adoption across India",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTRYVlJSQUg4eVR5X2RkU29oR042Y0pxX29iUVkxV3RnOThlVmtfQWhYV3oxS0gtV0NLUy1NMXMyN0VMLUdxdUFMZ2FDQU5uZTNCbkpVSlJzRnZ3LUZnRUdfUGhYZVgwZVhlNnVzOC1ISTFNZkJnWXBQek4wanlRVWc4RXcwSVlkSVFQczRjT3ZSbENXeVBCSmZxOFE5VlFhYV9iQXpObW9BX1FneHY3OC1tbHIxWnUwR0ZBSW9TYlUwbjNGd0ZYUXVIUjVEQklzSGhPaENudHpON2lY?oc=5",
+      "source": "MSN",
       "published": "4 Jun 2026",
-      "summary": "Legora acquires commercial real estate AI platform Cadastral&nbsp;&nbsp;The Global Legal Post",
+      "summary": "Sarvam AI partners with YCP India to accelerate enterprise AI adoption across India&nbsp;&nbsp;MSN",
+      "tags": [
+        "India Startup",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "PitchBook Announces New Premium Connector Integration with Harvey, Bringing Private Market Intelligence Into AI-Native Legal and Deal Workflows",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZ0JYTktXbUduLXV6Njl3TmVPM25SMkNmb01YcXYzcDVmZlI4czFJSlNzdDNjazJCMzVBdTFIa3JidVMwbllXdTJEdzNxSzJBU3BVMDZ6bjdVbjI0NElmRnRIWS00dmVOa1YtMkEya3J6R2pqbUV5cmFzcVVLbDhIWW9ZUE1uVU5xeDRtVWpQMDZCeUVVb1J3ZXhuRHUwZmFfVGJmT2FNVEtQcEwtck1wd1pMSHJlNWpzSV9aXzlMOHlCd2c4d0N5Z2ItYllKaHhScVBQMFJiVmwycjBMVDdKTXd5WW1zbEZROE41X3dlRU1JMmREUmVDanZXeC1zakx3TlNKY0pmZUNnOFRMU0EzQXJ3UTluRFRZRUw3eENZTjFLV2wtaWc?oc=5",
+      "source": "Business Wire",
+      "published": "4 Jun 2026",
+      "summary": "PitchBook Announces New Premium Connector Integration with Harvey, Bringing Private Market Intelligence Into AI-Native Legal and Deal Workflows&nbsp;&nbsp;Business Wire",
       "tags": [
         "Global AI Tool"
       ]
@@ -32,28 +135,25 @@
       ]
     },
     {
-      "title": "PitchBook Announces New Premium Connector Integration with Harvey, Bringing Private Market Intelligence Into AI-Native Legal and Deal Workflows",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZ0JYTktXbUduLXV6Njl3TmVPM25SMkNmb01YcXYzcDVmZlI4czFJSlNzdDNjazJCMzVBdTFIa3JidVMwbllXdTJEdzNxSzJBU3BVMDZ6bjdVbjI0NElmRnRIWS00dmVOa1YtMkEya3J6R2pqbUV5cmFzcVVLbDhIWW9ZUE1uVU5xeDRtVWpQMDZCeUVVb1J3ZXhuRHUwZmFfVGJmT2FNVEtQcEwtck1wd1pMSHJlNWpzSV9aXzlMOHlCd2c4d0N5Z2ItYllKaHhScVBQMFJiVmwycjBMVDdKTXd5WW1zbEZROE41X3dlRU1JMmREUmVDanZXeC1zakx3TlNKY0pmZUNnOFRMU0EzQXJ3UTluRFRZRUw3eENZTjFLV2wtaWc?oc=5",
-      "source": "Business Wire",
+      "title": "Legora acquires commercial real estate AI platform Cadastral",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTFYTmd3aDdCYlJWZjdudjlid3ZfbWptaE5PUVBPWWlVSlZlVlhmczhhSUFpazZYaXVQRGtFT3E3dmFac0VSNFJ1WTZmakdiWEpDMFdlNE5TOW5QanI3ZDZiNDZjNGNpdzBUbFdma2xSRDRTVXNzZkhHQXBadTItVURGcXVfMlVNRk1VQnR6eWxodV8xeWYxZmRXMkZZTldiMHluYWJobE5PTms?oc=5",
+      "source": "The Global Legal Post",
       "published": "4 Jun 2026",
-      "summary": "PitchBook Announces New Premium Connector Integration with Harvey, Bringing Private Market Intelligence Into AI-Native Legal and Deal Workflows&nbsp;&nbsp;Business Wire",
+      "summary": "Legora acquires commercial real estate AI platform Cadastral&nbsp;&nbsp;The Global Legal Post",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Sarvam AI partners with YCP India to accelerate enterprise AI adoption across India",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTRYVlJSQUg4eVR5X2RkU29oR042Y0pxX29iUVkxV3RnOThlVmtfQWhYV3oxS0gtV0NLUy1NMXMyN0VMLUdxdUFMZ2FDQU5uZTNCbkpVSlJzRnZ3LUZnRUdfUGhYZVgwZVhlNnVzOC1ISTFNZkJnWXBQek4wanlRVWc4RXcwSVlkSVFQczRjT3ZSbENXeVBCSmZxOFE5VlFhYV9iQXpObW9BX1FneHY3OC1tbHIxWnUwR0ZBSW9TYlUwbjNGd0ZYUXVIUjVEQklzSGhPaENudHpON2lY?oc=5",
-      "source": "MSN",
-      "published": "4 Jun 2026",
-      "summary": "Sarvam AI partners with YCP India to accelerate enterprise AI adoption across India&nbsp;&nbsp;MSN",
+      "title": "HCLTech, which sells to the world, invested $150M in Sarvam AI, which is built for India",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVWFXVzVMMkFPX25DRkppY21GSWZqWGJGNjNzWGFPODBBdzg4cEgtY3J1ZjlhQ2YzalpoSVZCY21SQlYzak9yc1p2dEkyTGxYeFY2YmdENU42WEgzdk4xT0xaZVc5dTBXdGF1dm00d2p5ZGJhTFNLcmY5RHZxamMwdnBYNGZ2MW53MWJUWXg5Vkk4TlhhaVJ3UTVWN3pPcVVBbGhiNmZSTjFzYzc3N1lyTGpKR0I0emFTNHJWNjhIX2x6cGg0cEM5ZUZGWVlERTM5bks1WnNHYUdmVndwZXFjTTh5ZklVdWp6MG5zc2NaYTh6MU0tOTIteWZfNGdjQ0FTeE52U00zX0F3MkxzZkZFX3JHcG1zUHBYNlE?oc=5",
+      "source": "The Ken",
+      "published": "5 Jun 2026",
+      "summary": "HCLTech, which sells to the world, invested $150M in Sarvam AI, which is built for India&nbsp;&nbsp;The Ken",
       "tags": [
-        "India Startup",
-        "AI Trend"
+        "India Startup"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Legora Acquires Cadastral to Bring AI-Native Legal Intelligence to Commercial Real Estate",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcklGaDNkWUlvYjQzc2o4ZTJFV2JvMy1takFaTHprQ1ZUUk4zZnJDU0praFBVQUlzdmNSZDN0Q3Ewd0hSc2hTVlgzN0dpSkVkQnRnRGF5amFydkhDejJiNHo3NFdWMVRyeTYzVnF4VHQ4SzktdXJRa2c2a2dSaVktTFpkekhwRW5pMlJFc3o3di1QMXZITFJZckVGMzNxYnAtSGp4czAxVG9NOGN2bEhhc0R3WVg2S2lKdnc?oc=5",
@@ -2029,57 +2129,6 @@
       "summary": "Microsoft Launches Its Own Legal Agent For Word&nbsp;&nbsp;Artificial Lawyer",
       "tags": [
         "AI Trend"
-      ]
-    },
-    {
-      "title": "Loyens & Loeff modernizes the legal and tax industry with Microsoft 365 Copilot",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnFYMHVVTWt2TVZ3Z0czLWVZdFZmdnJYOXprbE5wc21aSW1kTW1fRDdYYjlwV0dyWUpsanlFS2RvNG5kbVMzVHh4NWEzeFVGRjlpWGE2dWdfLXdIZ3VJZjVUVHhJWDNaTjgzRUpwdU05WGs4NVIyUEdrdkJFVlh3S3Y3ZHZjd2RjdVh6RVRLalJDTWFOLVRaZ1JlZWE?oc=5",
-      "source": "Microsoft",
-      "published": "30 Apr 2026",
-      "summary": "Loyens & Loeff modernizes the legal and tax industry with Microsoft 365 Copilot&nbsp;&nbsp;Microsoft",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legal AI Giant Harvey To Open Chicago Office In July",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMERLVm9Ld1BTTWVHVzR1NjJHNXkycFRBVksweFR6N0VFaTFrR01ycFVMbVR2TDVDX2JDRjkxMHRXdkJoS0ctcW9Fcm9IZHRmWFpHeU5Fc1FiNVpWeXRySExtWGZ1MnI4R1E0dmEwTU9fUGs1cDlmMEFfcTE3YUxRcHVXSGloc3FzWndXY3dtZWd4SVpZWWsw0gFeQVVfeXFMUExhTERkUy1sdDFFNHEwemVZS1phb2lQSl9VUW9vNEVRY2hnMThBV1E5a3Z2Y1dLQUo1SVdQR1d1UENTUDNlZ1Z2QU9rOTBqLXRlb0IxZDVNbjRLVGNoQQ?oc=5",
-      "source": "Law360",
-      "published": "30 Apr 2026",
-      "summary": "Legal AI Giant Harvey To Open Chicago Office In July&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnB5Y3NDVTJGcXU4YlMtRUtCMUxkX1JlZktEYmJOejFTeHpLT085aTNPMG94ZWxXRTZVZVVXY0p0VTByMWtCSU4xVExXSWQzNmJreExlcF93STd6WXRnQ0xJMGZESVpEeWJ4TnRBZDJSR09Qdms5SEdYYVludExlbjRTWHZuQ1lMVjQ3SGJVWWwyU0ZMQWVyYnpEYVRIV3ZVSG1BUkZQMVVfSnJUcE9wV2o0QnktU0NhS1pMLQ?oc=5",
-      "source": "TechCrunch",
-      "published": "30 Apr 2026",
-      "summary": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter&nbsp;&nbsp;TechCrunch",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora Hits a $5.6 Billion Valuation With Nvidia and Atlassian Backing and Legal AI Just Became a Serious Enterprise Battleground",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNejhHOWdycl95cTJ5MVNhUmxCblpzeXBqYlVCVElBdVRLeEJPak1tRElXZl9QYXA5U1lPQ3phMGs3eUMtR21HU254TkNoVWpXSV9lbEFLR0pMOV9laEpFNDFzeXdQSEhJckU4aTlOR2xkUDhIX3RKUGpNSi1ob2ZuNER1U29HRDF3MTFjdU1TSm5WSHpsc2RoNzlXeW43cHRxVnZPU2VDa1dFTjI2azhqNnZHWlhjOThFVWhfQWFlSDhGLWZzY1hUVDdhOWFpRnhMam9lUWNLU0RjdjZDUWtDcTg1c3VxMVFaWTJN?oc=5",
-      "source": "Startup Fortune",
-      "published": "30 Apr 2026",
-      "summary": "Legora Hits a $5.6 Billion Valuation With Nvidia and Atlassian Backing and Legal AI Just Became a Serious Enterprise Battleground&nbsp;&nbsp;Startup Fortune",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Magic Circle firm Slaughter and May to roll out Harvey AI platform firmwide",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNG1aNVliUEJoaFFFOUpSR1FHS0F3b1F6amsxOVF6a3VQN3EwWlpCVTgwZHdJMG5lVG45dGkxeUNUXzBQc2hXVzE4NlVtSDBiY3paTFFWWlJ4ckZHSHd1OG9nVXE0WlNfNlVDcWdTSnppTWEyTVhIeFN4R0gyODQtQWVyTy1kUk9vSFZDQnFFUmc1NVZmOHV3TERYd3pscG5iQVVHQzNhNlFQdnZ1QkhNRm9TQUdkeEJXdk1RdnlvTWs?oc=5",
-      "source": "The Global Legal Post",
-      "published": "30 Apr 2026",
-      "summary": "Magic Circle firm Slaughter and May to roll out Harvey AI platform firmwide&nbsp;&nbsp;The Global Legal Post",
-      "tags": [
-        "Global AI Tool",
-        "Global Firm"
       ]
     }
   ]
