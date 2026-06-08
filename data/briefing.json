@@ -1,82 +1,34 @@
 {
-  "date": "Sunday, 7 June 2026",
+  "date": "Monday, 8 June 2026",
   "articles": [
     {
-      "title": "Oregon Supreme Court dismisses petition because of false AI-generated legal citations - Oregon Public Broadcasting",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fa1M0SVhwTW1NOEozaTRsR0NBa0ZqMVlTM3Bpamp1MFV1TXk3X1JPbDFRSzFJTXlYQm1pTExKSE1zU1VoR0RINThNTVlrRWJVVmlmRF90QXQ5TVNMaGp4d3dNRVdoUGUtd09kN3J6MjdqeXdvUzFwa1ZOVlFWWFk?oc=5",
-      "source": "Oregon Public Broadcasting - OPB",
-      "published": "6 Jun 2026",
-      "summary": "Oregon Supreme Court dismisses petition because of false AI-generated legal citations&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
+      "title": "Sarvam AI Turned Down by SoftBank and a16z But Nears $1.5 Billion Valuation",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlpaSVJvUm82bER5V2JJOEdWQmR5a3RxX3J5RXpaUGtpbGhxZ3pwalZrRjdXMkU4M3VqWHktaUNqTDBNS2JfX3ZLRmd1VFFRajlKSzA0bk4wX3BXNURMVmZITE9yRmI4RFROY3E2c3VtdV94STRzTjQ4ZFY5X3NzODlCUDVzYWtIZkJPd2xibG8yVVBMWTM0QTlZbTJDVlZjazdueHlnZnotT3ZReExJbXN3TW93Zw?oc=5",
+      "source": "HinduPost",
+      "published": "8 Jun 2026",
+      "summary": "Sarvam AI Turned Down by SoftBank and a16z But Nears $1.5 Billion Valuation&nbsp;&nbsp;HinduPost",
       "tags": [
-        "AI Trend"
+        "India Startup"
       ]
     },
     {
-      "title": "Litera brings Foundation 365 to Microsoft 365 Copilot",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVgybGx0aGJTOXNXS25SelNKT3EzT3RFMUZHUTQ5LXFZcDUwQURhRC16MFo2X2tscGM3QmlBc0pkd1hPVDhNV0RYRUhLYlJKQnhNNkhhY2NERnB3a3BmMkpVVzZHeGFlR0Z5bXRTR1F6Zy1ZN1VqS3IzNkx5RW9XOGx3Q1F1OEE1OUE?oc=5",
-      "source": "IT Brief Australia",
-      "published": "5 Jun 2026",
-      "summary": "Litera brings Foundation 365 to Microsoft 365 Copilot&nbsp;&nbsp;IT Brief Australia",
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "7 Jun 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
       "tags": [
-        "AI Trend"
+        "India Startup"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "How Legal Teams are Using AI for Legal Discovery",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Snd4dDR1dVozM2tmTHNWaGg2V0U5cmlrUjF2STh3ei1DbEFrSm1LZkhqV0VXaGw0WmVvVlRCQmMxcmVDa09xQkk4bVQwQ1BpUUxoNHQtT1FZTTVLR1RKZmo5NEFvR2dZTjRZYg?oc=5",
-      "source": "Harvey",
+      "title": "CADRE ODR legal tech certificate course 2026 Archives",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS2ZIMmM0bWZnb3hLbmxoejFRUjhqaFF0NlJvdENvclBlbTJxckZSZjhKTTZXbGZlQTZYSDd2VVlVcDc3Y3hVNkF2TE1Bd2ROeE1YTnZjU2Z1TUY4QVBteEYtNXdzWmx4WnZqQjFaWHlIcVpiYkJVZGR6cm84RXFZai03dGRQdTdaRlZ6MEtB?oc=5",
+      "source": "SCC Online",
       "published": "5 Jun 2026",
-      "summary": "How Legal Teams are Using AI for Legal Discovery&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "AI for eDiscovery: Faster Document Review Without the Risk",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01Q2VHVGE0Qm5keFNIbXdVSXJJbWhOekJRQ3BJUVRudGRWcUFvU1ZKNlkwU2RLOTJmRmFRc0hBSHR3YWNJOVRoY01tdUYyYmdPbnJaS0IwYUdHLU0tVllIc0F3bkc5Zw?oc=5",
-      "source": "Harvey",
-      "published": "5 Jun 2026",
-      "summary": "AI for eDiscovery: Faster Document Review Without the Risk&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Announcing our ISO 42001 Certification",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DV0stbVdoNWptS2dTZjFacjBDTG92UWVCYlRkNkU0Y3R4YllhekJuRFFUaUtzQ1RlcDUzbXlDVEVIVGpwbjB4T0R0UVFSQWQzQlNGVU9pblFPWDA?oc=5",
-      "source": "Harvey",
-      "published": "5 Jun 2026",
-      "summary": "Announcing our ISO 42001 Certification&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora CEO on AI in Legal Tech",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUN5RkxMZHAzOXpydzJBNHU4Tk5OT3lUY09rWkc4U0JNSWRUSGZwNjRyT1gyT01pWWJzYUdjSkVLTlFrdmxoa3V2aGJ1cUtiM19CdlNWZm5ISXZqOXY3RWdXQllDSENlaXR6UkRsVGZicTBiNUtHZ2lteTAxYTVXNlo4a2RUV1VJQWszdnZfSmlfbUl3NFdVSQ?oc=5",
-      "source": "StartupHub.ai",
-      "published": "5 Jun 2026",
-      "summary": "Legora CEO on AI in Legal Tech&nbsp;&nbsp;StartupHub.ai",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "What A Time For Legal AI! + Legal Innovators California",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUS1tdFJ6dTZkRlVtRWZKWjE3aHctb09GaFNGRXpqbk16VXloS3REYTRtb3dxSW1ZOTdtOERmX1dONTNOdEZ5cnRXVVJRV0R1dDZnVjdWajFIWEhvYmstWmkxQXJYbGVDTUJIcWZLaExrWWxDbE1VMldQR2MzVlEySFRqeW1qNlVKTVJmLTVPV18wSFU3VXNlc0F6cGZidw?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "5 Jun 2026",
-      "summary": "What A Time For Legal AI! + Legal Innovators California&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GeFBMQ0JuS1pBWDJHZUFPck9wQ09FTEsweXlxY2N5c0JmNjhNM2RNcFFWd2JaYU5Yc0J6ZFlHQ2VzMWM1Zk5iMDM4WTZhVmtqT2JFbEpTbi1GaEJ2ZUF1RmNMaFdhbTlUYmpwNXVOdlNQMzFPMFRLcUlwTm1kMDQ?oc=5",
-      "source": "Crunchbase News",
-      "published": "5 Jun 2026",
-      "summary": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity&nbsp;&nbsp;Crunchbase News",
+      "summary": "CADRE ODR legal tech certificate course 2026 Archives&nbsp;&nbsp;SCC Online",
       "tags": [
         "AI Trend"
       ]
@@ -92,17 +44,85 @@
       ]
     },
     {
-      "title": "CADRE ODR legal tech certificate course 2026 Archives",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS2ZIMmM0bWZnb3hLbmxoejFRUjhqaFF0NlJvdENvclBlbTJxckZSZjhKTTZXbGZlQTZYSDd2VVlVcDc3Y3hVNkF2TE1Bd2ROeE1YTnZjU2Z1TUY4QVBteEYtNXdzWmx4WnZqQjFaWHlIcVpiYkJVZGR6cm84RXFZai03dGRQdTdaRlZ6MEtB?oc=5",
-      "source": "SCC Online",
+      "title": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GeFBMQ0JuS1pBWDJHZUFPck9wQ09FTEsweXlxY2N5c0JmNjhNM2RNcFFWd2JaYU5Yc0J6ZFlHQ2VzMWM1Zk5iMDM4WTZhVmtqT2JFbEpTbi1GaEJ2ZUF1RmNMaFdhbTlUYmpwNXVOdlNQMzFPMFRLcUlwTm1kMDQ?oc=5",
+      "source": "Crunchbase News",
       "published": "5 Jun 2026",
-      "summary": "CADRE ODR legal tech certificate course 2026 Archives&nbsp;&nbsp;SCC Online",
+      "summary": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity&nbsp;&nbsp;Crunchbase News",
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "What A Time For Legal AI! + Legal Innovators California",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUS1tdFJ6dTZkRlVtRWZKWjE3aHctb09GaFNGRXpqbk16VXloS3REYTRtb3dxSW1ZOTdtOERmX1dONTNOdEZ5cnRXVVJRV0R1dDZnVjdWajFIWEhvYmstWmkxQXJYbGVDTUJIcWZLaExrWWxDbE1VMldQR2MzVlEySFRqeW1qNlVKTVJmLTVPV18wSFU3VXNlc0F6cGZidw?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "5 Jun 2026",
+      "summary": "What A Time For Legal AI! + Legal Innovators California&nbsp;&nbsp;Artificial Lawyer",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legora CEO on AI in Legal Tech",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUN5RkxMZHAzOXpydzJBNHU4Tk5OT3lUY09rWkc4U0JNSWRUSGZwNjRyT1gyT01pWWJzYUdjSkVLTlFrdmxoa3V2aGJ1cUtiM19CdlNWZm5ISXZqOXY3RWdXQllDSENlaXR6UkRsVGZicTBiNUtHZ2lteTAxYTVXNlo4a2RUV1VJQWszdnZfSmlfbUl3NFdVSQ?oc=5",
+      "source": "StartupHub.ai",
+      "published": "5 Jun 2026",
+      "summary": "Legora CEO on AI in Legal Tech&nbsp;&nbsp;StartupHub.ai",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Announcing our ISO 42001 Certification",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DV0stbVdoNWptS2dTZjFacjBDTG92UWVCYlRkNkU0Y3R4YllhekJuRFFUaUtzQ1RlcDUzbXlDVEVIVGpwbjB4T0R0UVFSQWQzQlNGVU9pblFPWDA?oc=5",
+      "source": "Harvey",
+      "published": "5 Jun 2026",
+      "summary": "Announcing our ISO 42001 Certification&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "AI for eDiscovery: Faster Document Review Without the Risk",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01Q2VHVGE0Qm5keFNIbXdVSXJJbWhOekJRQ3BJUVRudGRWcUFvU1ZKNlkwU2RLOTJmRmFRc0hBSHR3YWNJOVRoY01tdUYyYmdPbnJaS0IwYUdHLU0tVllIc0F3bkc5Zw?oc=5",
+      "source": "Harvey",
+      "published": "5 Jun 2026",
+      "summary": "AI for eDiscovery: Faster Document Review Without the Risk&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "How Legal Teams are Using AI for Legal Discovery",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Snd4dDR1dVozM2tmTHNWaGg2V0U5cmlrUjF2STh3ei1DbEFrSm1LZkhqV0VXaGw0WmVvVlRCQmMxcmVDa09xQkk4bVQwQ1BpUUxoNHQtT1FZTTVLR1RKZmo5NEFvR2dZTjRZYg?oc=5",
+      "source": "Harvey",
+      "published": "5 Jun 2026",
+      "summary": "How Legal Teams are Using AI for Legal Discovery&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Litera brings Foundation 365 to Microsoft 365 Copilot",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVgybGx0aGJTOXNXS25SelNKT3EzT3RFMUZHUTQ5LXFZcDUwQURhRC16MFo2X2tscGM3QmlBc0pkd1hPVDhNV0RYRUhLYlJKQnhNNkhhY2NERnB3a3BmMkpVVzZHeGFlR0Z5bXRTR1F6Zy1ZN1VqS3IzNkx5RW9XOGx3Q1F1OEE1OUE?oc=5",
+      "source": "IT Brief Australia",
+      "published": "5 Jun 2026",
+      "summary": "Litera brings Foundation 365 to Microsoft 365 Copilot&nbsp;&nbsp;IT Brief Australia",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Oregon Supreme Court dismisses petition because of false AI-generated legal citations - Oregon Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fa1M0SVhwTW1NOEozaTRsR0NBa0ZqMVlTM3Bpamp1MFV1TXk3X1JPbDFRSzFJTXlYQm1pTExKSE1zU1VoR0RINThNTVlrRWJVVmlmRF90QXQ5TVNMaGp4d3dNRVdoUGUtd09kN3J6MjdqeXdvUzFwa1ZOVlFWWFk?oc=5",
+      "source": "Oregon Public Broadcasting - OPB",
+      "published": "6 Jun 2026",
+      "summary": "Oregon Supreme Court dismisses petition because of false AI-generated legal citations&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
+      "tags": [
+        "AI Trend"
+      ]
+    },
     {
       "title": "Sarvam AI partners with YCP India to accelerate enterprise AI adoption across India",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTRYVlJSQUg4eVR5X2RkU29oR042Y0pxX29iUVkxV3RnOThlVmtfQWhYV3oxS0gtV0NLUy1NMXMyN0VMLUdxdUFMZ2FDQU5uZTNCbkpVSlJzRnZ3LUZnRUdfUGhYZVgwZVhlNnVzOC1ISTFNZkJnWXBQek4wanlRVWc4RXcwSVlkSVFQczRjT3ZSbENXeVBCSmZxOFE5VlFhYV9iQXpObW9BX1FneHY3OC1tbHIxWnUwR0ZBSW9TYlUwbjNGd0ZYUXVIUjVEQklzSGhPaENudHpON2lY?oc=5",
@@ -496,16 +516,6 @@
       "summary": ":Harvey: FORUM: From Piloting AI to Operationalizing it&nbsp;&nbsp;Harvey",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "29 May 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
       ]
     },
     {
@@ -2037,96 +2047,6 @@
       "source": "Neowin",
       "published": "1 May 2026",
       "summary": "Microsoft Word gets a new AI Legal Agent to review contracts and generate redlines&nbsp;&nbsp;Neowin",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0ZNams1TVNLdHhsRmdZTkw5eWlnM2ptdU13X2R1LXFVSklMSkRxMFJtdEZzb2k5RkgyMkV0MFVjSDhkdG1kdXNjc1Vzdm55Zk5NaHpRT1BGVElVYlhDZ1VPeTBNQkRhNHAtMkZTcXBkcXJRNUNMNFk0SWlOY0dBNExzTHJFbXd2Nkp6SUdSUFlZOER2TDRjZDZQcEtGR1dhdFE?oc=5",
-      "source": "The Tech Buzz",
-      "published": "1 May 2026",
-      "summary": "Microsoft wants lawyers to trust its new AI agent in Word documents&nbsp;&nbsp;The Tech Buzz",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Slaughter and May rolls out AI tool Harvey firmwide",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFp2RjVkVG92X1hzRHJDSFc0aFJTOTAwYmdSTko1VFdlUHZ4OHB5VllSUTl2ek4yQWc3ZXRMSlNYY2R0cXJSMnYxa3lob3M0WkZWeGt4ajRnbG9zblAxakI5WFZUZktuVVlqZGNXNEJlRHdyengwY1JQM0VVMWJjUHZOTmpZNHkydTBKTE9DX1JYQQ?oc=5",
-      "source": "Legal Cheek",
-      "published": "1 May 2026",
-      "summary": "Slaughter and May rolls out AI tool Harvey firmwide&nbsp;&nbsp;Legal Cheek",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Think Before You Prompt: AI Use May Waive Your Attorney-Client Privilege",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcTNPZnBpVHd5ck5wd0Jma2RSeTNSdVRpZmg1UEtibFdnbVBoNWNFMG5KUmN2d3YtZXVmUUFHaXBhM2RLbFFpNnpONTJScnJzUlgyWTItd0xqVGRfdnpidDJBSzlNemtIVUthaHdqcVFPWDlzSVVTU0tlaEJxY2xyOWJ0NA?oc=5",
-      "source": "JD Supra",
-      "published": "1 May 2026",
-      "summary": "Think Before You Prompt: AI Use May Waive Your Attorney-Client Privilege&nbsp;&nbsp;JD Supra",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "April\u2019s CoCounsel Legal Releases",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZU1VVE1aYzFPS3pzLXdvcUxMek1jT3FjQlFGWGlyS01VU2ZCWHAwWFFsVFFERnZBbHJQd29VeE83cmF0WEVDcy1CYl9lbzYxQTJVTXd3MWExNk05b0ZLeFhaRWEyWEliNzhRc0Q0b0VXZzh3YlpQN0txVXgxcDBUYWVpNG5QZlZ5aHYxSGxpNA?oc=5",
-      "source": "Thomson Reuters",
-      "published": "1 May 2026",
-      "summary": "April\u2019s CoCounsel Legal Releases&nbsp;&nbsp;Thomson Reuters",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey Videos - Speed Up Your Analyses with Review Tables in Harvey",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3dFBGT1pkaUJiNU41ekpxblpnY2ZVNjBzcV9YSTNyMXlfLWk2OXFKZEtkQmkyX09qbjhLMFNnYjAtd0djMzdXZUxfdVZyOEpIaGM3dDVsNzJOOFRQZXp3Qm1JM0tkNnF2Q1h2ZQ?oc=5",
-      "source": "Harvey",
-      "published": "1 May 2026",
-      "summary": "Harvey Videos - Speed Up Your Analyses with Review Tables in Harvey&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Liberty Global Tech Ventures invests in leading legal AI company Legora",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmJzUjVfVXZ5MkNMZXJWaDVLS2U1T0lZbDJMZjVNMUpqX3UxdnJkWGZWVFZHQkFSenhFOWRJcldKZDFsRUZBdFV4SThWa0lJREV0R3FkUG1wY01seFdpdmNxQ3p2Z1NveDFoNGdKNkNVTGhNWERvUnJNN21lTy1kaXZrZkQwclZwa0o4N1JMa0d1OUxRVFVnRHpxbkVLZkVWWFBnUA?oc=5",
-      "source": "libertyglobal.com",
-      "published": "30 Apr 2026",
-      "summary": "Liberty Global Tech Ventures invests in leading legal AI company Legora&nbsp;&nbsp;libertyglobal.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Nvidia, Atlassian Invest in AI Legal Tech Startup Legora",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkJrVzNLQ0xBUUdlSXhIOHBtSHV1OGJRMnVDY1QtUjRXSlZxMy02bkdVNzZsYzcxVkFOQ3hzM21ERUdjSVdFTzhjQnJXQm1GUnpLaXR6SlpLODJxTjN5TjZKR3huYlhkdENtZG1uZHdfbS0yNXB2dTBuN2xrQnhza3Z5Zk8taVo2dTlNVnlLdmp2dndiSzY4?oc=5",
-      "source": "Bloomberg Law News",
-      "published": "30 Apr 2026",
-      "summary": "Nvidia, Atlassian Invest in AI Legal Tech Startup Legora&nbsp;&nbsp;Bloomberg Law News",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Swedish Legal Tech Startup Legora Lands Another $50M In Nvidia-Led Series D Extension",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkFxc2EzSkwxb2IyY2FwdXRZZmptZXJtaHBMcEhDR21Zd0drQko4bjZIbVNoWFhaRnhuUHIzU29yUWpNWEQ4Zm5WbVduWXZIbXNPT0NRc3RWUVVNSmNWclBEbkxHRGJxNW8yempWQ1hkSkY1UU5XUVdhRzB0NEVHdm9QMmpVaW85SXJ5REZCS1ByUk5mR2RBVVRLUVc2NmM?oc=5",
-      "source": "Crunchbase News",
-      "published": "30 Apr 2026",
-      "summary": "Swedish Legal Tech Startup Legora Lands Another $50M In Nvidia-Led Series D Extension&nbsp;&nbsp;Crunchbase News",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Microsoft Launches Its Own Legal Agent For Word",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "30 Apr 2026",
-      "summary": "Microsoft Launches Its Own Legal Agent For Word&nbsp;&nbsp;Artificial Lawyer",
       "tags": [
         "AI Trend"
       ]
