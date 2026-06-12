@@ -1,52 +1,34 @@
 {
-  "date": "Thursday, 11 June 2026",
+  "date": "Friday, 12 June 2026",
   "articles": [
     {
-      "title": "Legora opens London engineering hub and three European offices as legal AI demand forces $5.6B startup to chase its own customers",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSDF2RDRtQWVUSk1OYmFkdDF4ZVpRc1pLMjdTZ3hqdFVzQXg1T0NkSV9MU1BtOEM5Y0NVWHNSVi11NVRMSTN4MEtKZHNUZUM3LWZzYWZlNGxGZVB6bGF3Zk9LZHVOQmh6NEZ3UU5iTHU3YW54R2dIbm5EMmRycTFNd2NjYXNIX1IyQXBjSHBPT2JsZVlEU1RQNk1BeXhqdF94bWppZWtsNzIyNk5HQWp1aUlsSWdzTkZPRFlybkRJODZwMEhnSkpxODJ3VDlSRlJzMjFKRGFlV2JLMWUydF9vbTBfd0NJSUJrZTdhMWlB?oc=5",
-      "source": "Tech Funding News",
+      "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5nUHlsdmNnT25PcUpTYUFLYS1FSHl3bmdpRE0wN0NfSzBSd3FRdkVtT1VPSE55bmJnczN3aGFmRUlyTmhPVlRJYlhHOElpZGl2X0hpMW1iZU0yMVJOZHhjaVU3RXVWa19xUTJTY2c4T2JUNmhRXzRVMUdsdXgtTVFhRG9yd1FQSU03SVN2ZjhnQ0I3RWdPZEh4aEVVSDc3RTdndzV2VWY?oc=5",
+      "source": "Reuters",
       "published": "11 Jun 2026",
-      "summary": "Legora opens London engineering hub and three European offices as legal AI demand forces $5.6B startup to chase its own customers&nbsp;&nbsp;Tech Funding News",
+      "summary": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI&nbsp;&nbsp;Reuters",
       "tags": [
-        "Global AI Tool"
+        "AI Trend"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "Manhattan\u2019s Red-Hot Office Market Poised for Its Best Year Since 2000",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFBETlVYSHZqQVJRYm9URnRuUFNlOXhYQnlaa1NGNDhtbERQOTFUa05XdXE3azRHcE5adDBZMnYtaThsU0taV0JWX3oyR2llQWF0V2RZcW9Tcm9wQ1RidmlycExVZUtIMUpXcWowdTVwdjhGcDJkY3RkNnBuSTFfcTNueHBSUTZyclNQYTQteG14Q3cxcWJQRjBBN20yRkhhYXVXV01ESTFyOFF1czlhcDJsZks2VmFtc180T2lyRHNrMVU?oc=5",
-      "source": "WSJ",
-      "published": "11 Jun 2026",
-      "summary": "Manhattan\u2019s Red-Hot Office Market Poised for Its Best Year Since 2000&nbsp;&nbsp;WSJ",
+      "title": "eStamping and Aadhaar eSign: The twin pillars accelerating India's digital agreements and contracts",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxON1hFZlhSdUJraXRRanpHbk1JZGItZjBTM2Vsa000dVN0Q2xmUHNjeUhNWkpUMkZMdW1zMG5zZzhUN25xOXpWY2dGSFJMZktjTmNRSXd4YVhRZjZ1R3hCOERNQ28zUVJMODRfUE1JTm9aZm9USTEyT204UmF1emN4dnJ4Tl9yWTVPOGdST1hWZDhaRlh1OUd2MExQUGtIaHEwOS12dHRDMjdzcjdqa2VYNEJRTFViekZzcXBMTHBSanJwMDRZd2Nvdl9tOWQ2NnhHT084Z0ZxWFczc1lzY2o0WVpRbnR6Uk9KLU04VVBMSDU4UUNMamU3NGhuTlRSTncya1RlZFZJM0hIV3ZSaGhheWxhZVIzUHBKYzVqMVd4NNIB6wFBVV95cUxObkNyU255TVh6OC1nM09XRU92blRqUThqUkt3STRpNXdzbnp4cUlNbXVlMlZwUUc4MFZEV3J0WFo2aDF1dTI5cmNyV2ZVVlJJN2lOd0d4Z1JTM0F3bzRzX0hKYnhCTmd6OUV0Sk1Sb1hiU09zbzRmM3hhVEsxd2FjbllFQWRzX0pkODlwZlExenhvem5jdlNVN3FPMnVlU2ZhZkFzdXhmYXVmZXRmbnhPMk5PNGVHSDlUUXRoRTdjOVdBeEJ4VE14N1o4Z2xodlNoVmp0TmlTaG0wVlE2aUFsQXhvQkxxRC1MSmxJ?oc=5",
+      "source": "ETLegalWorld.com",
+      "published": "10 Jun 2026",
+      "summary": "eStamping and Aadhaar eSign: The twin pillars accelerating India's digital agreements and contracts&nbsp;&nbsp;ETLegalWorld.com",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
+      "title": "Lovable, Harvey & Assembly AI: How the Fastest AI Companies Rebuilt Customer Success. And Why NPS and Activity Scores Are Dead",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnNQOTB5U2ZyaFptemJpR3JkYlY4VTNrWjdTZWkwc0dBZjR5b0xKM19FYUtPQlRMZEtmNG9aTWZTeF95YkZXUXZUS0d2V0hfNkRKak90ekFLSnZxS01aRThoQWZBTzg2amtjZ0FYcUduUmpNd1NVTUNXN1VNYlZXelJGMi16ajB6X09QNkU5elNzdld6SE1WSEEtc3FyYmIwZTk5UE9lNA?oc=5",
+      "source": "saastr.com",
       "published": "10 Jun 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Policy on the AI Exponential",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LYS01Sm5aOUUyclZ2MTVsalAtVWI2aWVfaUhpWGY2cWJJRl9tY1NEb0ZXR25KanNRVkozX0xyVG1wa0Ztd29nRWtSS2Y2Q21TdFhjbXlDdm5wVFZOa05tY0ZNa1o?oc=5",
-      "source": "Anthropic",
-      "published": "10 Jun 2026",
-      "summary": "Policy on the AI Exponential&nbsp;&nbsp;Anthropic",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "AI Maturity in Legal and Why Some Teams Move Faster",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByWXFhRENhbVV4d3NtUWkyZHNNbkhiY2ZQRUFTckh3dFo5d1BPSDQyNUhRckdOX1QtN2dnakViMF9KUmFmOFVWZEcxZFhRNkJVVlFWUlVPQQ?oc=5",
-      "source": "Harvey",
-      "published": "10 Jun 2026",
-      "summary": "AI Maturity in Legal and Why Some Teams Move Faster&nbsp;&nbsp;Harvey",
+      "summary": "Lovable, Harvey & Assembly AI: How the Fastest AI Companies Rebuilt Customer Success. And Why NPS and Activity Scores Are Dead&nbsp;&nbsp;saastr.com",
       "tags": [
         "Global AI Tool"
       ]
@@ -62,27 +44,55 @@
       ]
     },
     {
-      "title": "Lovable, Harvey & Assembly AI: How the Fastest AI Companies Rebuilt Customer Success. And Why NPS and Activity Scores Are Dead",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnNQOTB5U2ZyaFptemJpR3JkYlY4VTNrWjdTZWkwc0dBZjR5b0xKM19FYUtPQlRMZEtmNG9aTWZTeF95YkZXUXZUS0d2V0hfNkRKak90ekFLSnZxS01aRThoQWZBTzg2amtjZ0FYcUduUmpNd1NVTUNXN1VNYlZXelJGMi16ajB6X09QNkU5elNzdld6SE1WSEEtc3FyYmIwZTk5UE9lNA?oc=5",
-      "source": "saastr.com",
+      "title": "AI Maturity in Legal and Why Some Teams Move Faster",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByWXFhRENhbVV4d3NtUWkyZHNNbkhiY2ZQRUFTckh3dFo5d1BPSDQyNUhRckdOX1QtN2dnakViMF9KUmFmOFVWZEcxZFhRNkJVVlFWUlVPQQ?oc=5",
+      "source": "Harvey",
       "published": "10 Jun 2026",
-      "summary": "Lovable, Harvey & Assembly AI: How the Fastest AI Companies Rebuilt Customer Success. And Why NPS and Activity Scores Are Dead&nbsp;&nbsp;saastr.com",
+      "summary": "AI Maturity in Legal and Why Some Teams Move Faster&nbsp;&nbsp;Harvey",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "eStamping and Aadhaar eSign: The twin pillars accelerating India's digital agreements and contracts",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxON1hFZlhSdUJraXRRanpHbk1JZGItZjBTM2Vsa000dVN0Q2xmUHNjeUhNWkpUMkZMdW1zMG5zZzhUN25xOXpWY2dGSFJMZktjTmNRSXd4YVhRZjZ1R3hCOERNQ28zUVJMODRfUE1JTm9aZm9USTEyT204UmF1emN4dnJ4Tl9yWTVPOGdST1hWZDhaRlh1OUd2MExQUGtIaHEwOS12dHRDMjdzcjdqa2VYNEJRTFViekZzcXBMTHBSanJwMDRZd2Nvdl9tOWQ2NnhHT084Z0ZxWFczc1lzY2o0WVpRbnR6Uk9KLU04VVBMSDU4UUNMamU3NGhuTlRSTncya1RlZFZJM0hIV3ZSaGhheWxhZVIzUHBKYzVqMVd4NNIB6wFBVV95cUxObkNyU255TVh6OC1nM09XRU92blRqUThqUkt3STRpNXdzbnp4cUlNbXVlMlZwUUc4MFZEV3J0WFo2aDF1dTI5cmNyV2ZVVlJJN2lOd0d4Z1JTM0F3bzRzX0hKYnhCTmd6OUV0Sk1Sb1hiU09zbzRmM3hhVEsxd2FjbllFQWRzX0pkODlwZlExenhvem5jdlNVN3FPMnVlU2ZhZkFzdXhmYXVmZXRmbnhPMk5PNGVHSDlUUXRoRTdjOVdBeEJ4VE14N1o4Z2xodlNoVmp0TmlTaG0wVlE2aUFsQXhvQkxxRC1MSmxJ?oc=5",
-      "source": "ETLegalWorld.com",
+      "title": "Policy on the AI Exponential",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LYS01Sm5aOUUyclZ2MTVsalAtVWI2aWVfaUhpWGY2cWJJRl9tY1NEb0ZXR25KanNRVkozX0xyVG1wa0Ztd29nRWtSS2Y2Q21TdFhjbXlDdm5wVFZOa05tY0ZNa1o?oc=5",
+      "source": "Anthropic",
       "published": "10 Jun 2026",
-      "summary": "eStamping and Aadhaar eSign: The twin pillars accelerating India's digital agreements and contracts&nbsp;&nbsp;ETLegalWorld.com",
+      "summary": "Policy on the AI Exponential&nbsp;&nbsp;Anthropic",
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "10 Jun 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Manhattan\u2019s Red-Hot Office Market Poised for Its Best Year Since 2000",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFBETlVYSHZqQVJRYm9URnRuUFNlOXhYQnlaa1NGNDhtbERQOTFUa05XdXE3azRHcE5adDBZMnYtaThsU0taV0JWX3oyR2llQWF0V2RZcW9Tcm9wQ1RidmlycExVZUtIMUpXcWowdTVwdjhGcDJkY3RkNnBuSTFfcTNueHBSUTZyclNQYTQteG14Q3cxcWJQRjBBN20yRkhhYXVXV01ESTFyOFF1czlhcDJsZks2VmFtc180T2lyRHNrMVU?oc=5",
+      "source": "WSJ",
+      "published": "11 Jun 2026",
+      "summary": "Manhattan\u2019s Red-Hot Office Market Poised for Its Best Year Since 2000&nbsp;&nbsp;WSJ",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legora opens London engineering hub and three European offices as legal AI demand forces $5.6B startup to chase its own customers",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSDF2RDRtQWVUSk1OYmFkdDF4ZVpRc1pLMjdTZ3hqdFVzQXg1T0NkSV9MU1BtOEM5Y0NVWHNSVi11NVRMSTN4MEtKZHNUZUM3LWZzYWZlNGxGZVB6bGF3Zk9LZHVOQmh6NEZ3UU5iTHU3YW54R2dIbm5EMmRycTFNd2NjYXNIX1IyQXBjSHBPT2JsZVlEU1RQNk1BeXhqdF94bWppZWtsNzIyNk5HQWp1aUlsSWdzTkZPRFlybkRJODZwMEhnSkpxODJ3VDlSRlJzMjFKRGFlV2JLMWUydF9vbTBfd0NJSUJrZTdhMWlB?oc=5",
+      "source": "Tech Funding News",
+      "published": "11 Jun 2026",
+      "summary": "Legora opens London engineering hub and three European offices as legal AI demand forces $5.6B startup to chase its own customers&nbsp;&nbsp;Tech Funding News",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "Sarvam AI Launches New Multilingual Foundation Models to Advance India\u2019s Indigenous AI Ecosystem",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbmo2V3RHY0hoTzZjZGlUR3Y4QmMyQjREdWZjbDJqb3l4ZnQ0YUV4OWh4Y2RzR2tROEY1RFV1LWREanQxZHdTdVJ4ZWpMYlZZZVpjelhuZDI3UVFXb3hpN2lEa3lsNExLNWs1REFXaGhuWEVjRjhINVBVMTVzMDNYckhsU2lBYkVNb0o4QW0tZUs4MVJvWUdRMDJFeEx6cmI2SEtzbDBnU2ZuTXNaNjdHVVlOYU5rb1diS3NzR2txWjFnRzVQUi1J?oc=5",
@@ -2027,88 +2037,6 @@
       "summary": "This \u2018game changer\u2019 free app could blow up the $23b legal AI sector&nbsp;&nbsp;AFR",
       "tags": [
         "AI Trend"
-      ]
-    },
-    {
-      "title": "Harvey Drives Forward Use of Legal Agents",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzI5VzNKLTV6V0xEUk1zWkVOYkhqYjM5ZVM4WWRMdVRnWEE4RmczUTNnZm9zdGpiZndLbFJWWDZEQ1RqSkh6ZUFWSlBXYkoydVNPS3F2T2dWRHlnUFk3c2hTTm9MVXpYcm5jVkp4bUpqU3VGdWc4Nl9QczNRU2FfQzBNaS1Zdm9Yc2lycU5Haw?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "5 May 2026",
-      "summary": "Harvey Drives Forward Use of Legal Agents&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "How litigators save 6 weeks a year and $60k recovered billable time",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONy04anBobmh0UTRmNkRZZWxvekE4OTF5WVlPdDdkOHQ1M3h1UjZqcXppM0pxZkg0QmR6dzRiWnEzSXh6cEw2N2dqZ2lzOG45TFVZQlNySHg0TXh5NkdDMkdtWUJyR2xENjZ0LWJpcDgxY29Rc3hpT25fQ0w4cGFrenBHRWVJSS1SZEhzMmRlMXU2MTBXM2drcHJKdw?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "5 May 2026",
-      "summary": "How litigators save 6 weeks a year and $60k recovered billable time&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Harvey Launches Pre-Built AI Agents, Self-Service Customization Tool",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWhNN1ItdHVfYzQ2VW5jZWhiUnhDYlVkdGgzZzNmbFctcE9URDI0YW02bUZORnNmOS1YVjFvS2Y2ZUdCWTAzWUhja0p2TjNaZTBnZGRHc3d2a0dXTlUwNzk5V0RfRkFQRUVDU19ENEtldmkzYWFob29sZ0IyZUxhVFlXamRlRjBTSWs4NDdJMS1ydE9kQzJic01KVkpnOTNLcWpxeTdoMjAyNU8wWk1xZ19xOA?oc=5",
-      "source": "Law.com",
-      "published": "5 May 2026",
-      "summary": "Harvey Launches Pre-Built AI Agents, Self-Service Customization Tool&nbsp;&nbsp;Law.com",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Linklaters Launches Client-Facing AI Practice Group",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXo5NWdQazUzckJYUHJhSlU1STV4UDFscjY4R21xNWE5X19tVWhvSUhlMFMyRzg5WGF1NGEzMGZ3RmlRZ1RjUGNEcEVwM3lGcHpSblloWXZRTUlXN21pM0pzeWh1N0hHNkdlVkZhRUM2ZUVMQU9rWVlmTHVxQk5la0tSY1hCdld4MUJhR3BfRG9JWnR1aTlxS0syWDZoNWl3Q3hQZ2h4Zlc3dkFR0gFeQVVfeXFMTXMwdXhBemRNNmJab0RlYzhESXZfV29hdGhZWmRYb0VZSEMySGs3Zmpqd0RmdHlMT09TelhfVlpNVGYzR3BoaEJDZ2JWaTY2anRvNWE4U2FnTVpSQmVaUQ?oc=5",
-      "source": "Law360",
-      "published": "5 May 2026",
-      "summary": "Linklaters Launches Client-Facing AI Practice Group&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global Firm"
-      ]
-    },
-    {
-      "title": "Built by Lawyers, Tailored by You",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tUmU1UE9RdkhKdVA1bEo5Nlh2TGw4eXphU25MOVBxcFEzd21FNGhnMW50QXhNY2h6SklHTGNyX2Q1bmVSV2Q0bVJoMDlUZHRSdVJzTTgzdmczZlN1QnAwLUFIYlZGVm1Ldldn?oc=5",
-      "source": "Harvey",
-      "published": "5 May 2026",
-      "summary": "Built by Lawyers, Tailored by You&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Inside legal AI startup Legora\u2019s celebrity and sports partnerships playbook",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdms0U2ltNVZ1eUlISEtHeDZfakZNYXV3NEJQbC01X2Z0X2xWZWluNUMyUk5RSy1FLXFzT2FfY1YyTGQzWGloZmRyYVFiVXY5eTl1TU01SWhYMDF0dHZaZTlVSHNQS1piOVJDTGF6YzlXcXFsX2JKLTNyZDJrdkFHS2R1SWtnemhJcTYzUVNLM0g4YmFicjlnbUlvd2JWSlZhNk10cjRjZUhnc05YMVd6dlh6cUM?oc=5",
-      "source": "Marketing Brew",
-      "published": "5 May 2026",
-      "summary": "Inside legal AI startup Legora\u2019s celebrity and sports partnerships playbook&nbsp;&nbsp;Marketing Brew",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Built by Lawyers, Tailored by You: Harvey Launches Purpose-Built Legal Agents Across Every Major Practice Area",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVVuUFVaLTMyMFVoSnpRQmhVeXRWN2tNVDU1b2VOTzZEaDV3R0JFTGRHcTFTWVNMazh4eE50eElxOE45V0c5cDFIM3B0dEJVWWk3RzBnZGZMbUt5bzJlajhreU90X285S0dMdm1XbXIxZ21UOVpOcVRHbkJYc3BMRFp3Z3lRTFJTYkZ6Yk9vWE1KN2hvc05RM2FmSnVuQmROSGMxdjlsX3JDNGJsRTA1Vko3dVRvd0MyMWhKSkFPOGN1Ui1IZlk5NkdtYlVQaHVtdXRvQ3UwM3ZRY2FGWFE?oc=5",
-      "source": "Laotian Times",
-      "published": "5 May 2026",
-      "summary": "Built by Lawyers, Tailored by You: Harvey Launches Purpose-Built Legal Agents Across Every Major Practice Area&nbsp;&nbsp;Laotian Times",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Inside the AI Transformation of Legal with Unicorn Startup, Harvey",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW9HOTlKYjEyZmRqOXluYmZyd2pBS2ZpM1M3YUZxdG92M19lS3hFSEllYjUyV3dfYVBGQWowV0MzNENldncxUTR6LXlBS2JsV1NCaWxzY1E0TGhrajAyV3VMa3Jyc0pxd0NkVGFsV1NhQnI1bE1JWFlYeF94S3RJeVItZV9VdUhaTHF4UERZWDA1UGk2TE04MlFXTWVCR29NcTdQZllIbkpodXdhZGRlT1VIVzA1dTF1dW9ZbDl2Yw?oc=5",
-      "source": "Foley Hoag",
-      "published": "6 May 2026",
-      "summary": "Inside the AI Transformation of Legal with Unicorn Startup, Harvey&nbsp;&nbsp;Foley Hoag",
-      "tags": [
-        "Global AI Tool"
       ]
     }
   ]
