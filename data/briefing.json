@@ -1,62 +1,24 @@
 {
-  "date": "Saturday, 13 June 2026",
+  "date": "Sunday, 14 June 2026",
   "articles": [
     {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "12 Jun 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Faegre Drinker deploys new AI tools, expands ethics training",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHNVUC1zVmJIRmpNQ2g0SHBLVmxSbGdUbmxkRkFUOGhOLXV5LXUxaURYMkRxVC1kdEhFcV9pUDBKMG5tRXlpbzAxcTZ2UVR4SXR2S1poQ3JWLVpVLTJ0ZXVYM28yRG52V2VUWW5TTTU0bUpLRHc0cm9mVTBmaUtoUnlEX3lnTGV3R2JhTEVQQ29FbjJDcUtMazFSV28zSnVUaTlB?oc=5",
-      "source": "The Indiana Lawyer",
-      "published": "12 Jun 2026",
-      "summary": "Faegre Drinker deploys new AI tools, expands ethics training&nbsp;&nbsp;The Indiana Lawyer",
+      "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZTNFalowWHVUV2FhOGlEcWgxVWdISzBVLXJfN2FXOXBjdkVhRG0wVFRyNURuMHNxREtKeENYSkdWdm45OXBTd2xaUzlZQjBTQ2dQWjgzOUtCZw?oc=5",
+      "source": "BBC",
+      "published": "13 Jun 2026",
+      "summary": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears&nbsp;&nbsp;BBC",
       "tags": [
         "AI Trend"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "Seth Wilson: 3 ways lawyers can use Word and Copilot more effectively",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1lESTRiOG5IcnBOc0cyeUpXMDF0a1kwYXF4NHJkNlVJZkQ0S0JHcm5aV0ZkYm51OU9TM0xzdnVSVmFFUFNUckxXck9QWDVXUE1uYWtNdUgtMF9PSFRWQnZNN0RFSDN5bjlLb01sRmhEZ2JRVXY1YkdoUjhnRWRSeFZ6ZlBKalVQNk85d1Y0NGwxb1VIQ2ZwSGhUTktodzF5ZllCeVY2ZXVSVGlQTDRN?oc=5",
-      "source": "The Indiana Lawyer",
+      "title": "Compressing multistate research and complex return preparation with CoCounsel Tax and GoSystem Tax RS",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdm5VV0dJb2FDTWZCM0hvTlA0MHoyRC1wQUNhMEtDYzh0Yl90MXBHYWJTSVk2b2JVOXJZb3E4TFlvNW1GZUgzakVFa0toczRkdVJtWGVZb2tuRjQ5czlWMEI0dFozSUZIQ3NqNjRtNk9UbVVWVGNjQ00tcUxGZlJsLXplc081MWwzTGFHeWNaZU1DTmY4MlBicDJJQmlmMGhZWlJrUDlGd2dxcWlqb1A4bUJnU2ZIUTJGNm90QUNCVk9YMHNrQnFXZWNVYmcyWWZCWjN5b1RKaDNiT0xhN1JLeU55ZnFadTVVZkg3cUN3?oc=5",
+      "source": "Thomson Reuters tax and accounting",
       "published": "12 Jun 2026",
-      "summary": "Seth Wilson: 3 ways lawyers can use Word and Copilot more effectively&nbsp;&nbsp;The Indiana Lawyer",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Relativity Acquires Gavel to Extend its AI Platform for Legal Data Intelligence into Microsoft Word",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQlRJUmlNVUdkeUY4UEw2dWw5X3V1YUItMnhLU2dPNXJ5QS1hNWtfTy10d0M4SUFxZkxXekJEd3RVR2ZWNDNESjVUdzJaRzI3NjVQMGgtQVpFYWo1VkhNcHZiNlVhdDJyS3pPa2ViSmhIMURfSzlTZWM2MTkyaGRqaldBc3c5cVBWYkZuYWlDYUxBaEhrUWNlYWhuSHY5emFkLUhzQWI3VlBaMzBCdEhUM3JzNURGdlFBbVRveTJSQ0NYLXY2WnNBWW9RcUtMX05FSXR1ZDEwLTMzZ0hOb2dUT2U2MEh0N3VGUmtDdlFtMA?oc=5",
-      "source": "PR Newswire",
-      "published": "12 Jun 2026",
-      "summary": "Relativity Acquires Gavel to Extend its AI Platform for Legal Data Intelligence into Microsoft Word&nbsp;&nbsp;PR Newswire",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legaltech Rundown: Legora Announces Partnership With Wolters Kluwer, Harvey Teams Up With Datasite, and More",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVXU2RFBmeTk3VmJ4SUMySGlucVhLYWhwUDE4MjVOajRjblV4N1luOHJXV3lRdEVkXzlKUUg2Y3FnMGhhZXlJRmxnenJfd3lNN1NCaUp3UzNRU3R1QXE3dXpYbmhlWjU4NzRLVU5yZ3d1VmtSX1BHdk5vd0dVU09SWEtkTmFyWTR2SURRN0xyWTJsNTA2V1B3MDU5WGpNQmJBSlBOSWFSMVlySVBkR3hNSmQyZGtndFJ5bzdVVTdiVEIwVVpoMHVweFhLTEFwQmpQMm9SYUE3NVZDaGZGRTI5QXRQY2JZSWc?oc=5",
-      "source": "Law.com",
-      "published": "12 Jun 2026",
-      "summary": "Legaltech Rundown: Legora Announces Partnership With Wolters Kluwer, Harvey Teams Up With Datasite, and More&nbsp;&nbsp;Law.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Anthropic\u2019s Claude Fable 5 launch \u2013 What matters to legal",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaV9Wb1UxY1l0SGkwNmdXZnp0MTlTa1JzMFUxQXEtdlhKRFhyNzBCU29XSEhEbzkzTzZUQ3NNRy1FTGNQTXRzQ2llcTMyUU8zUDZ0TlV3MGdEVXFaUWZNUkNqX3JjeTg5cEQySTFfQUFac2VvLXRaQnZVTlJSLVpxNVpBMTd1R3VzMEtB?oc=5",
-      "source": "Legal IT Insider",
-      "published": "12 Jun 2026",
-      "summary": "Anthropic\u2019s Claude Fable 5 launch \u2013 What matters to legal&nbsp;&nbsp;Legal IT Insider",
+      "summary": "Compressing multistate research and complex return preparation with CoCounsel Tax and GoSystem Tax RS&nbsp;&nbsp;Thomson Reuters tax and accounting",
       "tags": [
         "Global AI Tool"
       ]
@@ -72,17 +34,65 @@
       ]
     },
     {
-      "title": "Compressing multistate research and complex return preparation with CoCounsel Tax and GoSystem Tax RS",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdm5VV0dJb2FDTWZCM0hvTlA0MHoyRC1wQUNhMEtDYzh0Yl90MXBHYWJTSVk2b2JVOXJZb3E4TFlvNW1GZUgzakVFa0toczRkdVJtWGVZb2tuRjQ5czlWMEI0dFozSUZIQ3NqNjRtNk9UbVVWVGNjQ00tcUxGZlJsLXplc081MWwzTGFHeWNaZU1DTmY4MlBicDJJQmlmMGhZWlJrUDlGd2dxcWlqb1A4bUJnU2ZIUTJGNm90QUNCVk9YMHNrQnFXZWNVYmcyWWZCWjN5b1RKaDNiT0xhN1JLeU55ZnFadTVVZkg3cUN3?oc=5",
-      "source": "Thomson Reuters tax and accounting",
+      "title": "Anthropic\u2019s Claude Fable 5 launch \u2013 What matters to legal",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaV9Wb1UxY1l0SGkwNmdXZnp0MTlTa1JzMFUxQXEtdlhKRFhyNzBCU29XSEhEbzkzTzZUQ3NNRy1FTGNQTXRzQ2llcTMyUU8zUDZ0TlV3MGdEVXFaUWZNUkNqX3JjeTg5cEQySTFfQUFac2VvLXRaQnZVTlJSLVpxNVpBMTd1R3VzMEtB?oc=5",
+      "source": "Legal IT Insider",
       "published": "12 Jun 2026",
-      "summary": "Compressing multistate research and complex return preparation with CoCounsel Tax and GoSystem Tax RS&nbsp;&nbsp;Thomson Reuters tax and accounting",
+      "summary": "Anthropic\u2019s Claude Fable 5 launch \u2013 What matters to legal&nbsp;&nbsp;Legal IT Insider",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Legaltech Rundown: Legora Announces Partnership With Wolters Kluwer, Harvey Teams Up With Datasite, and More",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVXU2RFBmeTk3VmJ4SUMySGlucVhLYWhwUDE4MjVOajRjblV4N1luOHJXV3lRdEVkXzlKUUg2Y3FnMGhhZXlJRmxnenJfd3lNN1NCaUp3UzNRU3R1QXE3dXpYbmhlWjU4NzRLVU5yZ3d1VmtSX1BHdk5vd0dVU09SWEtkTmFyWTR2SURRN0xyWTJsNTA2V1B3MDU5WGpNQmJBSlBOSWFSMVlySVBkR3hNSmQyZGtndFJ5bzdVVTdiVEIwVVpoMHVweFhLTEFwQmpQMm9SYUE3NVZDaGZGRTI5QXRQY2JZSWc?oc=5",
+      "source": "Law.com",
+      "published": "12 Jun 2026",
+      "summary": "Legaltech Rundown: Legora Announces Partnership With Wolters Kluwer, Harvey Teams Up With Datasite, and More&nbsp;&nbsp;Law.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Relativity Acquires Gavel to Extend its AI Platform for Legal Data Intelligence into Microsoft Word",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQlRJUmlNVUdkeUY4UEw2dWw5X3V1YUItMnhLU2dPNXJ5QS1hNWtfTy10d0M4SUFxZkxXekJEd3RVR2ZWNDNESjVUdzJaRzI3NjVQMGgtQVpFYWo1VkhNcHZiNlVhdDJyS3pPa2ViSmhIMURfSzlTZWM2MTkyaGRqaldBc3c5cVBWYkZuYWlDYUxBaEhrUWNlYWhuSHY5emFkLUhzQWI3VlBaMzBCdEhUM3JzNURGdlFBbVRveTJSQ0NYLXY2WnNBWW9RcUtMX05FSXR1ZDEwLTMzZ0hOb2dUT2U2MEh0N3VGUmtDdlFtMA?oc=5",
+      "source": "PR Newswire",
+      "published": "12 Jun 2026",
+      "summary": "Relativity Acquires Gavel to Extend its AI Platform for Legal Data Intelligence into Microsoft Word&nbsp;&nbsp;PR Newswire",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Seth Wilson: 3 ways lawyers can use Word and Copilot more effectively",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1lESTRiOG5IcnBOc0cyeUpXMDF0a1kwYXF4NHJkNlVJZkQ0S0JHcm5aV0ZkYm51OU9TM0xzdnVSVmFFUFNUckxXck9QWDVXUE1uYWtNdUgtMF9PSFRWQnZNN0RFSDN5bjlLb01sRmhEZ2JRVXY1YkdoUjhnRWRSeFZ6ZlBKalVQNk85d1Y0NGwxb1VIQ2ZwSGhUTktodzF5ZllCeVY2ZXVSVGlQTDRN?oc=5",
+      "source": "The Indiana Lawyer",
+      "published": "12 Jun 2026",
+      "summary": "Seth Wilson: 3 ways lawyers can use Word and Copilot more effectively&nbsp;&nbsp;The Indiana Lawyer",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Faegre Drinker deploys new AI tools, expands ethics training",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHNVUC1zVmJIRmpNQ2g0SHBLVmxSbGdUbmxkRkFUOGhOLXV5LXUxaURYMkRxVC1kdEhFcV9pUDBKMG5tRXlpbzAxcTZ2UVR4SXR2S1poQ3JWLVpVLTJ0ZXVYM28yRG52V2VUWW5TTTU0bUpLRHc0cm9mVTBmaUtoUnlEX3lnTGV3R2JhTEVQQ29FbjJDcUtMazFSV28zSnVUaTlB?oc=5",
+      "source": "The Indiana Lawyer",
+      "published": "12 Jun 2026",
+      "summary": "Faegre Drinker deploys new AI tools, expands ethics training&nbsp;&nbsp;The Indiana Lawyer",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "12 Jun 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "tags": [
+        "India Startup"
+      ]
+    },
     {
       "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5nUHlsdmNnT25PcUpTYUFLYS1FSHl3bmdpRE0wN0NfSzBSd3FRdkVtT1VPSE55bmJnczN3aGFmRUlyTmhPVlRJYlhHOElpZGl2X0hpMW1iZU0yMVJOZHhjaVU3RXVWa19xUTJTY2c4T2JUNmhRXzRVMUdsdXgtTVFhRG9yd1FQSU03SVN2ZjhnQ0I3RWdPZEh4aEVVSDc3RTdndzV2VWY?oc=5",
@@ -2027,86 +2037,6 @@
       "summary": "Harvey AI to sponsor Valkyries, Warriors, Liberty&nbsp;&nbsp;Sports Business Journal",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora Buys Aussie Biz To Add Real-Time Regulatory Data",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkpsWW9PdW1hcUxraUYtX2gtVE9GMUhtN0d6Q2ItTzBuMnFHN0dBbnhoV013V09JTlJSd19yZl9GY0ZkZWpqUmpCaHFHOTUxXzZEdHdBNFM0WF9uMTNORENobVd4LURpamFTWEVscG9PakNKOTc5cWl3QkN4ZFpBMzhqeHZzcXJ5Y3Z1LVd1V2o1dHZNQXRWRGo0enh1dV9jQlJuX0trVE5IcUlPdHc0UVJ30gFeQVVfeXFMUFBEYkNZOUwtTEV6T3BCZVg1UWF4QmVUNC1CU3BYM0UzZnc0aWJtaTBhaXU5ZTIxM2JhcGlDMkl0TTB3YkRNcVZ5T1N6Z0NMMk5sVDg2TW1SaDB5RzRqUQ?oc=5",
-      "source": "Law360",
-      "published": "6 May 2026",
-      "summary": "Legora Buys Aussie Biz To Add Real-Time Regulatory Data&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "From Access to Habit: How Womble Bond Dickinson Made AI Part of Every Lawyer\u2019s Day",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUkN2YUhwSi1qeDRyMV9SZklrZlFJV0dxVXN5YWd5UHBjNGJsdnQwRWJSR2s2RkVjTjBrLTk0ajJBZHBUeTFGSDJzdVJteGpmQ0J0U0ptLWE0X2tXcmVOMHJIVW04OGVTeVB5ZHpfMWttRUVzY2x6ZEp0U3hjSUYzMXQzMDBEZi1IYmZibXRUeUstNE9sS1YwXzFaeU85ZVE3TVlPTlhIZHR0b3p6dGloRktLRG0xRldldnZXM2ZxYzQ1YXdlbi1DTTJiRXc5NEhz?oc=5",
-      "source": "Thomson Reuters",
-      "published": "6 May 2026",
-      "summary": "From Access to Habit: How Womble Bond Dickinson Made AI Part of Every Lawyer\u2019s Day&nbsp;&nbsp;Thomson Reuters",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Harvey Launches \u2018Legal Agent Bench\u2019",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUU1WXFLYUp4bUhsaHdRYVZxTFZmanUwT051TFlBWW43cEdUdDFZSjF3bktrd28zRVRjUmxZSXVZRFdqcEpIWmhHc3VqQmhINEh6WmdyV2p3Wm5VLWc5X0hZVUo1QUJtZ05Kd0h0MVZFZXJ0d2MxWjM3UFpxcEtRdF85TTM?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "6 May 2026",
-      "summary": "Harvey Launches \u2018Legal Agent Bench\u2019&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Introducing Harvey\u2019s Legal Agent Benchmark",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuR0RCVE05U1c0TkFuNzY0a1dkZEJiTkk5elZ4YV9hWDF4V2d6bDBGU3VEWXJTWVpjM0dPMWp1Q1dXYks3VmtnS1RNOGphRkkwWXhmMEFfdmpBRmZoMGZOZTN1bUwxYVA3UEt2X043Zi1mUmJ5eEpR?oc=5",
-      "source": "Harvey",
-      "published": "6 May 2026",
-      "summary": "Introducing Harvey\u2019s Legal Agent Benchmark&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Golden State Valkyries and Warriors Name :Harvey: the Official Legal AI Partner",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDRDNXN6S2t4dVNCbXVVa25ra092RzBKT29Eek40TEphazdGM1VCdEJZY0xydmpzNGRKczVKbWVNQ2hDVkVZTU9Fam5ERmtuYW1nRkl5MWtkRGdPNUhsazJ3MExCTkNvNk5zZHh6TUlEeF9XLTMyeWRRNzd4NHhzM1d2aHhpbG9iNjVTdkJ0SkpMLUczOWdxdzY1UXhzQklXbFdJclZhWQ?oc=5",
-      "source": "Harvey",
-      "published": "6 May 2026",
-      "summary": "Golden State Valkyries and Warriors Name :Harvey: the Official Legal AI Partner&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legal AI startup Legora hits $5.6 valuation and its battle with Harvey just got hotter",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTzhzaXh4VndvZVZUTmRZREZjbWEtdm1jRXE5VVpiVXFfVll2THRKWUdrOTczcU9OZURQcy1vZC1VTkgyanpfRTNOYVl3dFUtbUY1b2d6ZzJRTHp3ZTJWckd2S3U2NFZHWXI1d1hNRGhJVEZmOWdGZjd0N09zOTBZNVVYZTFsaG5KeGNidEhwTGlnYkJoSnpTMFlGT3lhdjVJc29EOUZ1MFlWMDIzVDZhTmlyTmlvZC05N0swYV9idWxacGVSR25lc0dZRW5IQ200?oc=5",
-      "source": "MSN",
-      "published": "6 May 2026",
-      "summary": "Legal AI startup Legora hits $5.6 valuation and its battle with Harvey just got hotter&nbsp;&nbsp;MSN",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Trusted, verifiable answers for courts with AI",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaUJzOUxyaGd2a3UySm1fMjl4WHVza1FOYWlXcUxjZlZSck44Z0xDXzNta2RyR3ltSnExTDBScVpnUGJOdG01M0Y3aExDNTFWR0VCS2MzaHgzRGVvcE1KQ1lUenQ1WWFYWEx5NDdYODF4YTY0RFNBbGk1SFNnVXNWdF9OWlkzOXdsaUdzaUlKU0tVN2N3Zkp6LU91T2pyaGpNaUtyajFJeDdZWUdJWEI5SHlxYWJnTjlVRmc?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "6 May 2026",
-      "summary": "Trusted, verifiable answers for courts with AI&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "This \u2018game changer\u2019 free app could blow up the $23b legal AI sector",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlRCZktQWnJUdWhSWHFZQUNuWTVxWl85dUlpOEhnb0hGQW9mbUFTdF9FUlZEWF9xWklZWEpiaWZtQkYtcDhpYXg5NE1ZQllweGU5NFpmRTB6V0xiWTRETUhHTWVOVUlQVHZOa0owbDEzWEVBMVZwTTEtM29NUzEyRlhOLUhtMVA1RU1Oc2RSbGpPd1FzaXFlZmZUcEFOcXBiM0dZLWRMbHRxZVoyOEhxTnRoOTMyYjFsOTFyRUVfWTVWZ18zYUVOd2F6TF9QeWc?oc=5",
-      "source": "AFR",
-      "published": "7 May 2026",
-      "summary": "This \u2018game changer\u2019 free app could blow up the $23b legal AI sector&nbsp;&nbsp;AFR",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
