@@ -1,72 +1,84 @@
 {
-  "date": "Friday, 19 June 2026",
+  "date": "Saturday, 20 June 2026",
   "articles": [
     {
-      "title": "Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmt3NnJmLXBtQ2R0bFVyX0paZG5OTm5HZFBTcC1iNEhtSWJ6X3pGWFB4LWtHS3FRbmMwcXNVQmE4V0JPUXJpYXdMQ1lGTzRtclpvVW53bktHa2ktcWFQbW84UW1Bck9lUThxYUYtS3JqQXNOb3lDS1FsYWMyUUt0VUMtYW4yUWUtdDJyQnZoSE9VMVBlOGRLVFBRODV0LXdzRGxCWFR5UV9qYzhpQUZ0NTAxa0poSzljNnNiR0o2OUtpQzU1VzUyVjlzOXhUbE5fWWNkRw?oc=5",
-      "source": "Nikkei Asia",
-      "published": "18 Jun 2026",
-      "summary": "Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats&nbsp;&nbsp;Nikkei Asia",
+      "title": "\"Garbage in, garbage out\" still applies: : Legal Tech Talk 2026 Panel discusses Tech Adoption and AI use in legal practice",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVNTeVI5WFFpbFlBQzljZ2VXS2NmOU9RcDQ0SnN2Ny1pVGlzUXdyZ28yZEtUNFhhLWs3bDB2Vk0yenFMbmV1QWF6bkFDSWhnUERQaUxaWVlOaGRGMG50SlltbkRmNVRDVGZLN3p6WTM1bzlVSV9fUVpyeEZpcUVKUmJUT0FKNnN0T2tzZGIzS21hbGdhSVhqRHc3NWRvXzI4UnNaQ2Rncw?oc=5",
+      "source": "SCC Online",
+      "published": "20 Jun 2026",
+      "summary": "\"Garbage in, garbage out\" still applies: : Legal Tech Talk 2026 Panel discusses Tech Adoption and AI use in legal practice&nbsp;&nbsp;SCC Online",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Harvey Announces Development of Custom Legal-Specific AI Models",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHZUd0JoX1hPaHBWakU1cldnRjc5ODVEMHRmSnpDN2dwV2dLNG1ROVp1NG0zeHBmaGw4TlMwNi1nYWZMaFV6eFFDcHFGOXAtODk1N21fUnpYbEpFckFTanhmLXpBSUFEVGV6QlBRcVZ0SThWZW1QNHkyR0FoMEZDV0E2dE4tRURuRUl3R0ZDVEd6SGhodEEzY2FfYXExX1NQV05pV3IwQTVxaXQwZHdJ?oc=5",
-      "source": "Law.com",
-      "published": "18 Jun 2026",
-      "summary": "Harvey Announces Development of Custom Legal-Specific AI Models&nbsp;&nbsp;Law.com",
+      "title": "[Weekly funding roundup June 13-19] Sarvam AI's massive funding round boosts VC inflow",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXlZU1FTNV9RZ1YtYVlnUDQtd3hsOXJyNUdMUnhSQnNsT0xkbVB6NnNtLUU3cTNYT2w0NDJQelcyZjl1NURfU0o1SmFIRjBRMUhPbENxZ1lvNGpoNUM1WldKMmRTd1BYeUJnY1JzODM4UlNmSGY2Z1JScUxENGJpUHpPZEphdHJmTk1FREhBTUdWZFZBOG4teFEzdHdGMTBpaHROZkRmNFpKbjZwY2ZNYVBmcw?oc=5",
+      "source": "YourStory.com",
+      "published": "19 Jun 2026",
+      "summary": "[Weekly funding roundup June 13-19] Sarvam AI's massive funding round boosts VC inflow&nbsp;&nbsp;YourStory.com",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Lutnick\u2019s Anthropic Crackdown Claims New Power Over AI Models",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnlDaXdrZDNjc1R3UGUyRlBybTJiWHJ3N0RiU2F6ZmJSY1pFdGZOUUx0ZDJyaTZGTldMT3o1UDdBdUJycnRyTU1IQ2ZYWWdDeGJ4ZGVkb1QtbXhUWVFHQ1hTLVRiLXZla1l3c2FvR0lDc0xwbXc1LUZOdHdrVzV4Z0R5ZmRnMlhtWDNIQjlaV0lsYjlrU3Ffelk4QW5uZzlCRFg1WE82VWh2NGNUVWY3cHNR?oc=5",
+      "source": "Bloomberg.com",
+      "published": "19 Jun 2026",
+      "summary": "Lutnick\u2019s Anthropic Crackdown Claims New Power Over AI Models&nbsp;&nbsp;Bloomberg.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Investor Rights Alert: Microsoft (MSFT) Faces Securities",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNYlRMbF9PQml4b1MwamtrQU9yd1J2M255N3R0ckpjR01kd2VnWjN1Z01xaXhhdmxWM0xvdnRLbVJSSkVENThCTjFiZWhiZkNwd0lUdzdjOUl5M1lJV1NDNXBsTTg3endsMEtlTjhyTjFpLVAzcy0zclppQjF6blgtWXRVUnZSam5mM2lqUDF2di0zTi12aUgwd1V2ajhFSzd1Y3lnVXFEbTJxbGl2NUI3ZzZ1OW5LYXZyMW5Kb3dfYTV4cEtXVDdLR3FfSko2Wi1UWi1icWFsUU5Cb1lzZi1qclNSeHNLZ1hzWjNQUTd4blZzV2dnSF9oT0t6TjgwT09DS2RRajVHbVR0aV9od2FWYU83dHB2WXVETmlpV24wMnAzTVd5NlREZ2cwa0RxSzBwSDVrTzJNOFhnUWUtRWVzclVOcC1iZw?oc=5",
+      "source": "GlobeNewswire",
+      "published": "19 Jun 2026",
+      "summary": "Investor Rights Alert: Microsoft (MSFT) Faces Securities&nbsp;&nbsp;GlobeNewswire",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
+      "source": "Startup Fortune",
+      "published": "19 Jun 2026",
+      "summary": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&nbsp;&nbsp;Startup Fortune",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Anthropic and Sarvam AI Share Something Beyond Their Focus on AI",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlVRNi1jTVRjdzN1UG5oNFlmaUxGazhoU0hPTDNTRVZHV1hVYUJnMUhYcGxleVVKenBLSzBoWkczeHcxaWtrQ3U2Y0ItNElFaWtBZUUzNHBZSkJaRTBTY2lJQXJCQld3Sm03VFl5MF9Fbm15WEE2VWVFNDl0ZC1KVFkxLUxfbVowbmZZaVM2YnFIUElnNl9nR0pjNmhScXE4?oc=5",
-      "source": "Yahoo Finance",
-      "published": "18 Jun 2026",
-      "summary": "Anthropic and Sarvam AI Share Something Beyond Their Focus on AI&nbsp;&nbsp;Yahoo Finance",
+      "title": "Harvey CEO says the company's AI usage jumped from 1 trillion tokens a month to 12 trillion",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HekV0QlRzOXhIOW9uMk9uakF3d05YMGFKWmJTcE5Rcmxndm8tVlpxSVRzN0Y0SUk2WldjaHI5TVFfYmw4U3BDMi10WFIzeVo5REV0eWNINlNOYlBkR0pkdDd4eUc1XzVZV29QZFhld0FSUQ?oc=5",
+      "source": "Business Insider",
+      "published": "19 Jun 2026",
+      "summary": "Harvey CEO says the company's AI usage jumped from 1 trillion tokens a month to 12 trillion&nbsp;&nbsp;Business Insider",
       "tags": [
-        "India Startup"
+        "Global AI Tool"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "Sarvam AI Hits $1.5 Billion Valuation as HCLTech Bets $150 Million on India Sovereign AI",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2VFTXplY1BqenpUb0JZZkc3N0VqQlptOTdtOXJQZ1pRb0NDUEtfcGVPLXN1d29XUFlsa0p1eEpPUXhtcWVRRXM2QXMzaTBuV3NVY2FkX2ZmRDh6N1lDRXNBNXFmX3d5ME1taERwRnY5RWRKSU5jdWNxQWZELU9rVXllR243Sk5WWGZ3T29tMkUxOEh4RThFMjB5Z2dnQTU0c0t6WWZPeXJ0am1FY0FWZWJQUnVWMTdudUJxUDh3ejZLUF84cnMwanpCVW45dlU?oc=5",
-      "source": "Tech Times",
+      "title": "A $5.6 billion valuation and rapid global expansion\u2014this AI European scaler even threw in a free Jude Law",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzbmNVb0YxWkRzeGYzMHZBbmFqRGhaa1ptODVFNkU1OXZCTWRPcWljZXhzYllXNXRYMVpxeTd1Y1JLZTN1cEs1b2tBWk1qcUliR1MtYkhMUkpVRUpHS2lHaVlyVEwxZGFTUU10bVBQeUNjWk94YjZkUjUtNA?oc=5",
+      "source": "Fortune",
       "published": "18 Jun 2026",
-      "summary": "Sarvam AI Hits $1.5 Billion Valuation as HCLTech Bets $150 Million on India Sovereign AI&nbsp;&nbsp;Tech Times",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "How to Become a Tech-Powered General Counsel: LegalTechTalk 2026 Panel Explores Legal Transformation, AI and Business Strategy",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMVdCYzJjLTg0X1M3UDQxd2RMQXZsVnlHaHg1a1dVdUMzY2lmMTNMVTJfQVRaa3YxazVrMmFZcDhrMUlFWGRMZEZYU3kweTFxWFR6NTJHMUZKYWxnNzhvNG5GMEZwc09weF9fVWhtMjRKeldGdzNsMXpVWFZ6SzlhM3h4M1A4d3JrSFpTYTRuWWM3MVp0OWh3NjZTQXY3cDRMUlBKdElhOEY5VjhLSlFTbUtFdFoyZ2dlNkI2SERQT01pSHdjSlFZcTdlQVhXb2hoSHFZY0kxY3l0MHZnTk5iZ2ZCR190cGlvQzlCYklPWQ?oc=5",
-      "source": "SCC Online",
-      "published": "18 Jun 2026",
-      "summary": "How to Become a Tech-Powered General Counsel: LegalTechTalk 2026 Panel Explores Legal Transformation, AI and Business Strategy&nbsp;&nbsp;SCC Online",
+      "summary": "A $5.6 billion valuation and rapid global expansion\u2014this AI European scaler even threw in a free Jude Law&nbsp;&nbsp;Fortune",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "HCLTech\u2019s Sarvam AI Bet: Is Patient Capital Finally Here?",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzk1NTdnU3pqYVotbDF4eFJ1VjhfdlZpTGhybVVuMXEzd0tXXzR2S0Z3UFEyNE1lNEtwVURUSGpkX1VLa2RQSXZOYTB6Q1UwajhPQUFJUjAyTHJidjNxZW55bG9Vc3ZOcDR1ZHRta2labGJ6TXRQcm1EejBBbC00dDFXX0tEbDY4dHc?oc=5",
-      "source": "Inc42",
+      "title": "Legal Tech Talk 2026: How to Become a Tech-Powered General Counsel | SCC Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2k1elpiY1dwMFd4VWhpQ3hXUFZaV1dMYVpHSlJMYzBOdHlFaV9pcmttY2NBR29JOUtQRExWOWswRHNYeGpfb3hRUkVzSUNsSS1aRWI2RU11cFJFNUFwV3dSdjEtX2owRXlTQUhKT1lVd3BGZ2JSUFhTWk56Z2V4MzdycWtlaFdDMk9zV0cwUnJGUWF2ZFF1eW9jUFd4SS1MaVczLWdrUldiclBUWDRFb2NMRFc2NzRrbG01OGY4U2pMZTlKa3c?oc=5",
+      "source": "SCC Online",
       "published": "18 Jun 2026",
-      "summary": "HCLTech\u2019s Sarvam AI Bet: Is Patient Capital Finally Here?&nbsp;&nbsp;Inc42",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "MSFT Breaking News: Microsoft Corporation Sued for Securities Fra",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVRCckNobHdtLVM0UndyMDFCempBV1dGVUNLRnVmU3I3S0dfWDZ6WVBlS3V0UFRqZ3l4WGdiQmZPZk5wMFJ4N243SVhzTHA4OW9HTUV5VTZMRHpURnpuVE5tdFJXMUJ5V0VGemlrd0s1dUJTNHBwU0VjVDFuVzZTVzNoamxHZ2NiZ29pTG5qbXctZTBqOTYzUjBlbGRRbkdLQWpwZ3BDaFRweExy?oc=5",
-      "source": "The National Law Review",
-      "published": "18 Jun 2026",
-      "summary": "MSFT Breaking News: Microsoft Corporation Sued for Securities Fra&nbsp;&nbsp;The National Law Review",
+      "summary": "Legal Tech Talk 2026: How to Become a Tech-Powered General Counsel | SCC Times&nbsp;&nbsp;SCC Online",
       "tags": [
         "AI Trend"
       ]
@@ -82,27 +94,75 @@
       ]
     },
     {
-      "title": "Legal Tech Talk 2026: How to Become a Tech-Powered General Counsel | SCC Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2k1elpiY1dwMFd4VWhpQ3hXUFZaV1dMYVpHSlJMYzBOdHlFaV9pcmttY2NBR29JOUtQRExWOWswRHNYeGpfb3hRUkVzSUNsSS1aRWI2RU11cFJFNUFwV3dSdjEtX2owRXlTQUhKT1lVd3BGZ2JSUFhTWk56Z2V4MzdycWtlaFdDMk9zV0cwUnJGUWF2ZFF1eW9jUFd4SS1MaVczLWdrUldiclBUWDRFb2NMRFc2NzRrbG01OGY4U2pMZTlKa3c?oc=5",
-      "source": "SCC Online",
+      "title": "MSFT Breaking News: Microsoft Corporation Sued for Securities Fra",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVRCckNobHdtLVM0UndyMDFCempBV1dGVUNLRnVmU3I3S0dfWDZ6WVBlS3V0UFRqZ3l4WGdiQmZPZk5wMFJ4N243SVhzTHA4OW9HTUV5VTZMRHpURnpuVE5tdFJXMUJ5V0VGemlrd0s1dUJTNHBwU0VjVDFuVzZTVzNoamxHZ2NiZ29pTG5qbXctZTBqOTYzUjBlbGRRbkdLQWpwZ3BDaFRweExy?oc=5",
+      "source": "The National Law Review",
       "published": "18 Jun 2026",
-      "summary": "Legal Tech Talk 2026: How to Become a Tech-Powered General Counsel | SCC Times&nbsp;&nbsp;SCC Online",
+      "summary": "MSFT Breaking News: Microsoft Corporation Sued for Securities Fra&nbsp;&nbsp;The National Law Review",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "A $5.6 billion valuation and rapid global expansion\u2014this AI European scaler even threw in a free Jude Law",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzbmNVb0YxWkRzeGYzMHZBbmFqRGhaa1ptODVFNkU1OXZCTWRPcWljZXhzYllXNXRYMVpxeTd1Y1JLZTN1cEs1b2tBWk1qcUliR1MtYkhMUkpVRUpHS2lHaVlyVEwxZGFTUU10bVBQeUNjWk94YjZkUjUtNA?oc=5",
-      "source": "Fortune",
+      "title": "HCLTech\u2019s Sarvam AI Bet: Is Patient Capital Finally Here?",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzk1NTdnU3pqYVotbDF4eFJ1VjhfdlZpTGhybVVuMXEzd0tXXzR2S0Z3UFEyNE1lNEtwVURUSGpkX1VLa2RQSXZOYTB6Q1UwajhPQUFJUjAyTHJidjNxZW55bG9Vc3ZOcDR1ZHRta2labGJ6TXRQcm1EejBBbC00dDFXX0tEbDY4dHc?oc=5",
+      "source": "Inc42",
       "published": "18 Jun 2026",
-      "summary": "A $5.6 billion valuation and rapid global expansion\u2014this AI European scaler even threw in a free Jude Law&nbsp;&nbsp;Fortune",
+      "summary": "HCLTech\u2019s Sarvam AI Bet: Is Patient Capital Finally Here?&nbsp;&nbsp;Inc42",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "How to Become a Tech-Powered General Counsel: LegalTechTalk 2026 Panel Explores Legal Transformation, AI and Business Strategy",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMVdCYzJjLTg0X1M3UDQxd2RMQXZsVnlHaHg1a1dVdUMzY2lmMTNMVTJfQVRaa3YxazVrMmFZcDhrMUlFWGRMZEZYU3kweTFxWFR6NTJHMUZKYWxnNzhvNG5GMEZwc09weF9fVWhtMjRKeldGdzNsMXpVWFZ6SzlhM3h4M1A4d3JrSFpTYTRuWWM3MVp0OWh3NjZTQXY3cDRMUlBKdElhOEY5VjhLSlFTbUtFdFoyZ2dlNkI2SERQT01pSHdjSlFZcTdlQVhXb2hoSHFZY0kxY3l0MHZnTk5iZ2ZCR190cGlvQzlCYklPWQ?oc=5",
+      "source": "SCC Online",
+      "published": "18 Jun 2026",
+      "summary": "How to Become a Tech-Powered General Counsel: LegalTechTalk 2026 Panel Explores Legal Transformation, AI and Business Strategy&nbsp;&nbsp;SCC Online",
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Sarvam AI Hits $1.5 Billion Valuation as HCLTech Bets $150 Million on India Sovereign AI",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2VFTXplY1BqenpUb0JZZkc3N0VqQlptOTdtOXJQZ1pRb0NDUEtfcGVPLXN1d29XUFlsa0p1eEpPUXhtcWVRRXM2QXMzaTBuV3NVY2FkX2ZmRDh6N1lDRXNBNXFmX3d5ME1taERwRnY5RWRKSU5jdWNxQWZELU9rVXllR243Sk5WWGZ3T29tMkUxOEh4RThFMjB5Z2dnQTU0c0t6WWZPeXJ0am1FY0FWZWJQUnVWMTdudUJxUDh3ejZLUF84cnMwanpCVW45dlU?oc=5",
+      "source": "Tech Times",
+      "published": "18 Jun 2026",
+      "summary": "Sarvam AI Hits $1.5 Billion Valuation as HCLTech Bets $150 Million on India Sovereign AI&nbsp;&nbsp;Tech Times",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Anthropic and Sarvam AI Share Something Beyond Their Focus on AI",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlVRNi1jTVRjdzN1UG5oNFlmaUxGazhoU0hPTDNTRVZHV1hVYUJnMUhYcGxleVVKenBLSzBoWkczeHcxaWtrQ3U2Y0ItNElFaWtBZUUzNHBZSkJaRTBTY2lJQXJCQld3Sm03VFl5MF9Fbm15WEE2VWVFNDl0ZC1KVFkxLUxfbVowbmZZaVM2YnFIUElnNl9nR0pjNmhScXE4?oc=5",
+      "source": "Yahoo Finance",
+      "published": "18 Jun 2026",
+      "summary": "Anthropic and Sarvam AI Share Something Beyond Their Focus on AI&nbsp;&nbsp;Yahoo Finance",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Harvey Announces Development of Custom Legal-Specific AI Models",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHZUd0JoX1hPaHBWakU1cldnRjc5ODVEMHRmSnpDN2dwV2dLNG1ROVp1NG0zeHBmaGw4TlMwNi1nYWZMaFV6eFFDcHFGOXAtODk1N21fUnpYbEpFckFTanhmLXpBSUFEVGV6QlBRcVZ0SThWZW1QNHkyR0FoMEZDV0E2dE4tRURuRUl3R0ZDVEd6SGhodEEzY2FfYXExX1NQV05pV3IwQTVxaXQwZHdJ?oc=5",
+      "source": "Law.com",
+      "published": "18 Jun 2026",
+      "summary": "Harvey Announces Development of Custom Legal-Specific AI Models&nbsp;&nbsp;Law.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmt3NnJmLXBtQ2R0bFVyX0paZG5OTm5HZFBTcC1iNEhtSWJ6X3pGWFB4LWtHS3FRbmMwcXNVQmE4V0JPUXJpYXdMQ1lGTzRtclpvVW53bktHa2ktcWFQbW84UW1Bck9lUThxYUYtS3JqQXNOb3lDS1FsYWMyUUt0VUMtYW4yUWUtdDJyQnZoSE9VMVBlOGRLVFBRODV0LXdzRGxCWFR5UV9qYzhpQUZ0NTAxa0poSzljNnNiR0o2OUtpQzU1VzUyVjlzOXhUbE5fWWNkRw?oc=5",
+      "source": "Nikkei Asia",
+      "published": "18 Jun 2026",
+      "summary": "Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats&nbsp;&nbsp;Nikkei Asia",
+      "tags": [
+        "AI Trend"
+      ]
+    },
     {
       "title": "Jude Law endorsement boosts legal AI company Legora\u2019s visibility",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcHZSNjlOWktPdmlIbGlRT0pTN0sxTTJMRldCMDBVMmN5UUpfZFdHbGhGM0V3b1gtQVoxcDdpaFQ1Mm83VFcteDg1M2JxUkZULW9oTm5iNUE5UVhLVW1GdF9NQnhYcFJ2dmJsMlpRbmJvYml2WkZpb3pMc19BVC1MaURha3dtXzg1dDZ0Zzh5eHduZnhPbl9fVzBuQXdxeERvbTIyZFp1ZjdpVzYzSHlMVzIxVmxoZmx5bDRwMW5tSGU?oc=5",
@@ -2021,107 +2081,6 @@
       "tags": [
         "Global AI Tool",
         "AI Trend"
-      ]
-    },
-    {
-      "title": "Expertise Meets AI: Sterne Kessler and Thomson Reuters Set New Standard for Patent Law",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLW05TmFZbnA2ZWVPWTIwWTRvaG5HcmpDQkszTUllOGRQdDBhTU45OFR2ZXIyQXlaRlFuTWhnU01CeGlwb2o5T1FEU1ExekxVbk55QV9nUnE0RkRhY2RJRnlzS1lDd3cxd3BSX290ZG9jYXhXRFJueU9TclJZdWZlbjVvUTlybjBqSjJsQXpfVEhnQ3ZPV2NzZ2JkcjR2UWpGRnBzTjRXTFo1UFdhVnZpNGJyLVR0bU83NWE5aU9HUHd5X0U?oc=5",
-      "source": "Thomson Reuters",
-      "published": "13 May 2026",
-      "summary": "Expertise Meets AI: Sterne Kessler and Thomson Reuters Set New Standard for Patent Law&nbsp;&nbsp;Thomson Reuters",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "10 Legal AI Adoption Metrics for Law Firms",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoQU9xWEN5NDh6cDVtdEtKbm94U1d1R1hzbVJxQ2xNNVBLdndEanRCVURwLW5jOV9CaHM5R01nZUs3Zm9rbzNFcDRKblhHVk5RTHdONXd1a0lXWlBFTDltVE0tSkZlWmtvUkgwZWE0b1NrVkJGVUdlSw?oc=5",
-      "source": "Harvey",
-      "published": "13 May 2026",
-      "summary": "10 Legal AI Adoption Metrics for Law Firms&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Digital Twin Technology and Predictive Analytics in Manufacturing Supply Chains: Preventing Data-Driven Supply Chain Disputes",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUwxUHU4QWtUakswUkRlRlFYSXZjZXA4Y2dYckxNUmxMa3pteDJ1X0xOalN4dDk3cE5UajBMT0FJQl9KSW5ObW9fR0V1RHBjdDdvVTZHSkV6TnM2Q1ZodS02VkYxZVFxVHNmdkJkOEJ3WnFRQ2g5R1oyV1NUeU1lVXhwaklZc1RUSHIzdS1IdmdRNXZ5X08zTjUyMkFBODRLSU9VUTBpdTVRYmpFaFHSAbMBQVVfeXFMTnZIamhCcXdGOWh5c21ITVd6a1VtSFhmNzJTd3dFbkUxS3VCcllqeEZBSkhvSktEVmg5M0xHWjlUalNjRXNoZHlMLWxNZHRTTUZrblFyX0k5bE42VVRZcVBXVVdMMWVVWjlyWU9NZjRVM3JObW9STWNOZkVldldFUjU2M2RabF9tdEhqMTBsSmlvYTVpdGloLXcyUWlxVTNqSDJvWHN4S0JKQ1ppMHNqYjkycEU?oc=5",
-      "source": "The National Law Review",
-      "published": "13 May 2026",
-      "summary": "Digital Twin Technology and Predictive Analytics in Manufacturing Supply Chains: Preventing Data-Driven Supply Chain Disputes&nbsp;&nbsp;The National Law Review",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYjVRZlNHM2NfM1dMQ2h2ZUpVaXYtZElZeXZRWVVIZGpvbjNjRkFGYWVoSmtSVnU2cl8wQTVlbXJ4aDhjVnAxSFFmTU9za0Znd3BRQ09EeGowWUdIS0hBM282RndLbmg2MHF0MFZTV0U1VE1ZcXA4eHJuNVUtS3B0YVotQ2tOTkxsbmRxTUo1RXE1ZUVHbU1R?oc=5",
-      "source": "TechCrunch",
-      "published": "13 May 2026",
-      "summary": "Notion just turned its workspace into a hub for AI agents&nbsp;&nbsp;TechCrunch",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "The end of the accident? How AI predictive analytics are shifting legal liability from response to prevention",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWtWNjE4aVBKTjRRTkt4REM1MlNfM2g3LXVGc2lJTzQwUEZTYlRZSXp2VXFNUWlROHgtRHJpdmRaX1BHTlU5dEVKZWtlMDVfYWZjelNVM1JKWUwxbEJyYnN3a1drY1JVSS1jeHozT0ZlVVhOR19ULTVVRjhjd1ItYk85Nzh6aGx2RzdhQXNfeGRCZlBPUnQ2M1FrSXJ4NWhySkF1TGN1LVBqWVdWcDl4VUp3c2I1MmtDc2xZdUVNNGh0RUtMVF9Ndg?oc=5",
-      "source": "The AI Journal",
-      "published": "14 May 2026",
-      "summary": "The end of the accident? How AI predictive analytics are shifting legal liability from response to prevention&nbsp;&nbsp;The AI Journal",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "HCLTech to lead $300 million Sarvam AI round with $150 million bet at $1.5 billion valuation- Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWItRFdLQzZnekdtY3Y0NEZtVnRkNGN0LXEtcmVmRmlMQzdLN09RZlFyU3oxZUZCMzFTSmh1dGhXWVZqZFV2dVRqMjJ5TVA1ZUtYSFc1QlN0UGs0LWRQY2M5WElDdi1selVWWG56UTNiYURScnpzX0RhdTRrTUYwdGN4al85TmRnVnpKcXBqRGVHY2J3NG9nZktxQkplYmtXdEp4TlJuUHRnT21sRVotMHpCR2hNNDRfaUhlaGpB?oc=5",
-      "source": "LinkedIn",
-      "published": "14 May 2026",
-      "summary": "HCLTech to lead $300 million Sarvam AI round with $150 million bet at $1.5 billion valuation- Moneycontrol.com&nbsp;&nbsp;LinkedIn",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Anthropic Expands Push Into Legal Industry With New AI Tools",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOExhSm03dzBCcTVfZnprUm9FcURjU0FVczV4VC1vUVZON0trZ3lRR3RzaTBIOVJMTGJNRVRSTUlIZ3kxMjZSYTlMT3RwQ1k0U0MtMWNNdUZIejg4cXdPWmZicW9zakl1Q1dWOF92aUZzYWhxNmNVUDY4YkxUWC0zQ3lGV0NkVU5OcmkyelZfNWpzUVVLSkJjbWJWRVVpSUpyLXpyX3dHQzJQYWF2QTE4VA?oc=5",
-      "source": "Bloomberg.com",
-      "published": "12 May 2026",
-      "summary": "Anthropic Expands Push Into Legal Industry With New AI Tools&nbsp;&nbsp;Bloomberg.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3Nob0RhMzhBbTVjQmFiNHpwWDlFNU5BS3F4Q1dXd3dpSnlsRzVGLUNQeWdIMzRWTVpUbk5NQ2xjR3Vjblg4M0VBQWc5UjFtbnNIdkJBSXR3eDZHN2c5T292N01LdXNwU3BocXcyZEhSaFpLT29pMlhQdmpLVTVkN25yLVgwZkxCR0NkLVJBZEEyUjY4NVI2cXAwZUVySTR3aHNYYlVB?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "12 May 2026",
-      "summary": "Claude For Legal Launches, May Reshape the Legal Tech World&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Thomson Reuters & Anthropic Expand Partnership To Connect Claude With CoCounsel Legal",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVk9KaW03VUFPMXQ5YTNiSlZOZWxTdXgwMEJDTHNjM21kaDdTT3Z0UG0wRVRtVFdWdmZzUW9STUZCaHJ3aldESG1GU01paTJMVGRoaGtUNHhaTk14WjFJSU94TnpaZTNYMUVRUnoyTVZZcjRLclFFOUlQR0prUkJmeERHb3BBX2JJRDVPS1RIY09JN3N1ZGd2Nkk1X3kteVV0X2kwNDhfQU5BUVlnb2w5M0Y3T195WUZaaEdERkZtaFI4RGNtNU5SZ3J5V2xGZXVDX0JNNXY3Wm9BNEZOVy02ZEpDa0ZoQ1VU?oc=5",
-      "source": "TradingView",
-      "published": "12 May 2026",
-      "summary": "Thomson Reuters & Anthropic Expand Partnership To Connect Claude With CoCounsel Legal&nbsp;&nbsp;TradingView",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX19KNVMwRHMyM2lxaTlPMzExMjlIN21ZSldsVUo0RUVtVFFuYmV0S29DMmRtNDdsRjRnUWg3OFpJenRManVRVGhSaThlTUFKQnJPZUVUdGxwaF9URi1fd1dadkRIbG1CeGoybzdINGFUYjl5VjdhbGJxazNlTnBwY0taTlk3dUptdkZLU25PYzNqRTVsejhmRXVUelJtQWpubDNiemt2ekliMnY2RnBCWmQ1cHRMcjJRUEpmLXN0NTR6R2J5dVpRODF0RThkLW9Cb2Y0Q2pHNGY?oc=5",
-      "source": "LawSites",
-      "published": "12 May 2026",
-      "summary": "Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude&nbsp;&nbsp;LawSites",
-      "tags": [
-        "Global AI Tool"
       ]
     }
   ]
