@@ -1,72 +1,115 @@
 {
-  "date": "Wednesday, 24 June 2026",
+  "date": "Thursday, 25 June 2026",
   "articles": [
     {
-      "title": "Holding Redlich expands Legora AI across legal teams",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHVMVXRuNHA0OFp2bHdOZVRrWXVmbUR3dU93eXNHSmZ1X1VRdFVrZUowTENoRGFnS0M4Z3RRZmsxNGJha2ZJdkRWU1FpWFR2YlRRY3hEVDRhd2lUdkV2UXZqeTdvWHdtbXV5MlJDZ3RoQ3NMX25tYW93SnZtYlRoNXhMV3pIOUJTa042bm5lMHk?oc=5",
-      "source": "SecurityBrief Australia",
-      "published": "23 Jun 2026",
-      "summary": "Holding Redlich expands Legora AI across legal teams&nbsp;&nbsp;SecurityBrief Australia",
+      "title": "Thomson Reuters Rebuilt CoCounsel: A Pivot",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11em9ObFFDWmxGNy1ydDNxN003QURoUlpReG5HYXUxNnMzZzB4RHRVV1p4dDFKVUJ6TXB2WEFzS1dueVR6SndaTzl2ZmFaTWE4UlFkYmdzMjJzd1ZoRnJFQjB4dm41UlpFSkZCRnUtbllPYTREajRZREQ4dHdKTTQ?oc=5",
+      "source": "Above the Law",
+      "published": "24 Jun 2026",
+      "summary": "Thomson Reuters Rebuilt CoCounsel: A Pivot&nbsp;&nbsp;Above the Law",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Legora To Move To Consumption-Based Billing",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQlV6dG5pcmd4QTZNdV9zRDlWek9teTNmUnU1dWlMQVhRQ3ZKZkNuekVtS2tDZ3BnaDVCYmtzUzN3Q29OYVI4OXZrZXdNanlZNEl0MDFhSG1ReW5tbXRLY0ZvWHIxNGJHejNaVlkyb2liam1CaHZodXR6a3RhVXRNQkdIbDg0ck9ERUFmSDlnbVpMeUdzTzZpa2RqblNNak1vX0HSAV5BVV95cUxPOHdodk5tUjY1dGhWRWFseWo1aS0yd0g1LS1IR2hrMnpBTmN3NXZDNUNLcmdOZnlmUzA5WDI3X09pckNYX013c1R4TlpVa0M2U1ZxYjhEanBLMURlWG9R?oc=5",
-      "source": "Law360",
-      "published": "23 Jun 2026",
-      "summary": "Legora To Move To Consumption-Based Billing&nbsp;&nbsp;Law360",
+      "title": "Docusign links Perplexity to contract workflows across legal teams",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGpKSTBPUHE0Q2VIQ2JUalFNZE9IYW9VU1ZoclpUSEZ4SjJYLXgxc3VJSDFhTU9zbkxUd0J4WDJmYlNaTXpvN2s3cGUyaVZlSEZJUmFVc3lqQ3RnOW45ZTZSQ2c4SXF1aXF3c0pYOTE1R2tOUVFhY3ZIQ2lVZlM1QzlUQzZmYVVyejJ0REx3MWliMlJVTkREU0lrcmxlaE5jWXdGeEt0YVZhemE5X1JqVEtXb083aTQ?oc=5",
+      "source": "Stock Titan",
+      "published": "24 Jun 2026",
+      "summary": "Docusign links Perplexity to contract workflows across legal teams&nbsp;&nbsp;Stock Titan",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "\u2018If you take a crap process and put AI on top of it, it will still be crap\u2019: LegalTechTalk speakers reflect on the Gen AI boom",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX0ZoX2k0WktvU1NFN0QzQnBvcXQ3Q1ZWMWxZX2VfWDdqX3F2T3YwMkYwUm0yekNFMEpQbEE2ejhlVzg5b2NnLXR4cnVmNlc3cTh4WWcyWUo1UUlyblhqVWdCR3I3NUhqREphdnVFOXVxM0puak5GTG9aQkpyam83eXgtNXllQ1I4eVBLUFZqclJDXzhWc2NnSHBxdDNhTWtzTGhQWDVGbktLcVJpRkVaMlpRZ1gyNTQwT3ZiTXUzMC1nN1JIQWV1dXZmQU8zeHFrNGRuTDBuT29BTHlUYjQ2TEFza3dsYjFDbUlGR2V2LXRRQlJZSDBpeXBtbGhzQjA?oc=5",
+      "source": "The Global Legal Post",
+      "published": "24 Jun 2026",
+      "summary": "\u2018If you take a crap process and put AI on top of it, it will still be crap\u2019: LegalTechTalk speakers reflect on the Gen AI boom&nbsp;&nbsp;The Global Legal Post",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "General Counsel Must Overcome Human and Organisational Barriers to Drive Legal Innovation: Industry Leaders at LegalTechTalk 2026",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa2M3ZFoyU0xEbS10eXI3b25hNkFZTl9sU1BvWVNVaGloYXQ2UF9TTF9Mak1tZFFBQ0IzdUoxbXVCUlZDTFpSdWxOcktTZ21RaTk3Y3o4b2Zrc0JYSUFYRm82bjdpVmtQYl8tRVFITEFZWTJKdmpNcVhCMDZ1bVVDNjVPSUJvUEhpVEpoMWVxUjhmX2pCTF85NFBXQmJqTGxOM0FmRVhZVndGMDQ2NXVDYU12d25uaEVMTmE1YmtoUW1MaUlF?oc=5",
+      "source": "SCC Online",
+      "published": "24 Jun 2026",
+      "summary": "General Counsel Must Overcome Human and Organisational Barriers to Drive Legal Innovation: Industry Leaders at LegalTechTalk 2026&nbsp;&nbsp;SCC Online",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLVMyeTJIWXR5cUZNbXROaWRsMmZEaUNEQ0REeTRudEtPX0FfZ25ES3oyLUdiamJXZVVSaE1CSGpKN0pTQXdEbWlmeFZZV2lMZ1dkaWJrdEQxUVkyOFdJWUpUYl9DY0U4dURRckFXdmpXRzIxZDBaRVJPejNIbjNhYUU3YUM5S0lrMGp2QXhqbWZfOFl2c0xuSlZFaGVWUW9kQzN1N25iaFY0RXVOQUFRZEVTdkM3MloxRl8wckNBNldES0JmMWlWWjkxbG0wNHg2MVZSYk1yc0V0OWNWZ1Y2V2pRSG5mNy1CQy1Td1NVQ2rSAfABQVVfeXFMUC1TMnkySFl0eXFGTW10TmlkbDJmRGlDRENERHk0bnRLT19BX2duREt6Mi1HYmpiV2VVUmhNQkhqSjdKU0F3RG1pZnhWWVdpTGdXZGlia3REMVFZMjhXSVlKVGJfQ2NFOHVEUXJBV3ZqV0cyMWQwWkVST3ozSG4zYWFFN2FDOUtJazBqdkF4am1mXzhZdnNMbkpWRWhlVlFvZEMzdTduYmhWNEV1TkFBUWRFU3ZDNzJaMUZfMHJDQTZXREtCZjFpVlo5MWxtMDR4NjFWUmJNcnNFdDljVmdWNldqUUhuZjctQkMtU3dTVUNq?oc=5",
+      "source": "ETLegalWorld.com",
+      "published": "24 Jun 2026",
+      "summary": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models&nbsp;&nbsp;ETLegalWorld.com",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Thomson Reuters CEO Steve Hasker on the Next Generation of CoCounsel, the \u2018Future of Professionals\u2019 Report, and Why TR Is Building Its Own LLM",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTXFBUmN1Y003eWVrNWdOUHhKNzEtQzFGM1otWmg0M3VVTUV6cTU1bTNVUS1aLVJzdGJpcHFEZXprNU1zREZFUW5WU01zb2RhZzZzeXZZbHdZYmw0Zlc0Nm5QX292RFdsaGk0UDNvLV9tMkY0R1lnc0thbGdTdlZISTlrM24wSUl0SEdHRlZjNVM2d0cwSlh5UzJhaTBzQkFoaC01aFZYc0xPdzBVQ1ltV0FERUM4Ni1OcTROcDltNEdjVEVxTDZFQzNOOWt6U2Z1VHRsZ3lYX09wZjJtNXFJX1pfRElJOW9HQzhMLXdWeGN2UVJFTFFjRzdoaDNPc0xTOVF2bFRB?oc=5",
-      "source": "LawSites",
+      "title": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNc01uV1J4VmE3SG9hZ2Jaa3k5cUJ4bzRXazgzMmo1TFB2bHdMQ2Z5UTlmSDdZaE9XUkZ4TGtEd1NVT0s1Y3VjTnVIcmx4VTg3X1Naem91Z2dvc2JOaE5INWJzODFWSW1zYlVJVlRLNzMxcWNtSGJrRzJJeklfanNTSXFUNDFJcG5hTVFmcmZqX2ZWcUpMVDhhODF4ZzREY1p0UkVYQlI2aFJ1NHl3aUlfTTB0ZlJ2RG5xdENTcE55UENveTFLRFpwbXlTVm13SkR2UEJvSDBHam9ZeEx5SENBUkMxUlVBNFBmTWE2WkJIazdRcXlrNmwtcUhScFRsODlibGFUX29KN29WOVJYeXhNUHZ6NVVLTnhveThneVdvYi1uYnpSbDIyNk5rcU9vc0tjUFUwM3VBNEpBVFRmVGUyVFV6cUFub0VK?oc=5",
+      "source": "GlobeNewswire",
+      "published": "24 Jun 2026",
+      "summary": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot&nbsp;&nbsp;GlobeNewswire",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Trilegal Advises Sarvam AI On USD 300 million Series B Fundraising Round",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkJrOXAzZWMyaWtpNzFOZFNfcXRaOEFPbUJKZEhBTkNGQWZORWM0b3FaWThzd3l1U05QZ3JPNjhscUlTRjNueUo4VHJGb19XV09UYkZGa0hmTlhZYmxrNTh3MkpydE9EOEl2SHJFTDdaWU9kLW4zeXFsdmpqemEwYWU0SXE2b1lKaTRPMVF2STQxcUgtOFJxeHJRV2hGajYyNlJLdTRub28zbXB4Q3fSAbMBQVVfeXFMTmIyeVhXYm5WbnBOcEZ5bTlrSDlXbjFOcFBiLWwydnF4cHl3WnltT180bGlOX0EyS1otOTZvWTQxX2l2NXdkTmFNSVAycDdwbmxqYWFURkFUZ2Z4bXYzRk1OZE52SmRYaDdRWFJOZGtydlIwMlBCMmlodzJuN0ZLc3dBRHZzMXdQa2FwM1RyeDZIbmR1bG9STzRPbklaQUd1M09kNE4tNmhhM21EcGQ2OV9LcEE?oc=5",
+      "source": "LawBeat",
+      "published": "24 Jun 2026",
+      "summary": "Trilegal Advises Sarvam AI On USD 300 million Series B Fundraising Round&nbsp;&nbsp;LawBeat",
+      "tags": [
+        "India Startup",
+        "India Firm"
+      ]
+    },
+    {
+      "title": "\"What Metrics are GCs Using to Evaluate Outside Counsel?\" at LegalTechTalk 2026 | SCC Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnYzLW9oeUtQMm45ZV9VNW5SSk1QYllBbjJzZURHNE5RRXFyRFl6WGxLbDY0QjRMRVdaNFZrZUw3LW80YjE0Tk9KRkJ4am5oMG5vZndHbzYwY0w1eHRXczR3WnlCSnpFZ3RQU1RKWHM5UnJZZHo5cHl0MjZlM081R0xYOUw3empjUW9SMlg3YmMwaXdabzV4cGJVQWdqckVaZlBWeG8tNGI2SmlQOFBRRldLWC1YbG90TDkxT1JITms?oc=5",
+      "source": "SCC Online",
+      "published": "24 Jun 2026",
+      "summary": "\"What Metrics are GCs Using to Evaluate Outside Counsel?\" at LegalTechTalk 2026 | SCC Times&nbsp;&nbsp;SCC Online",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "How Shoosmiths is turning legal expertise into AI-powered advantage",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDZXTzVuNE5GVW5xRWFTbWktV2lTb0E4V29SWVh1NGtSVExxaWlMVXRCNGl4QU56ZldjRE5lVHZhMVZ0WmEzczFaZ0l6NW1FTFdKcWxFNDAxcmlhR3pScExWckpRTzRWTUt1Z0oxakgtaEhLTWZ1YS1YRnk4NlVLUXA4dGU1eEIzclFQSW9pbXVjRGJSVmFQdktDUmMtUkNjaFZVLU5NczIwWFgzd3c?oc=5",
+      "source": "Microsoft UK Stories",
+      "published": "24 Jun 2026",
+      "summary": "How Shoosmiths is turning legal expertise into AI-powered advantage&nbsp;&nbsp;Microsoft UK Stories",
+      "tags": [
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Compressing multistate research and complex return preparation with CoCounsel Tax and GoSystem Tax RS",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdm5VV0dJb2FDTWZCM0hvTlA0MHoyRC1wQUNhMEtDYzh0Yl90MXBHYWJTSVk2b2JVOXJZb3E4TFlvNW1GZUgzakVFa0toczRkdVJtWGVZb2tuRjQ5czlWMEI0dFozSUZIQ3NqNjRtNk9UbVVWVGNjQ00tcUxGZlJsLXplc081MWwzTGFHeWNaZU1DTmY4MlBicDJJQmlmMGhZWlJrUDlGd2dxcWlqb1A4bUJnU2ZIUTJGNm90QUNCVk9YMHNrQnFXZWNVYmcyWWZCWjN5b1RKaDNiT0xhN1JLeU55ZnFadTVVZkg3cUN3?oc=5",
+      "source": "Thomson Reuters tax and accounting",
       "published": "23 Jun 2026",
-      "summary": "Thomson Reuters CEO Steve Hasker on the Next Generation of CoCounsel, the \u2018Future of Professionals\u2019 Report, and Why TR Is Building Its Own LLM&nbsp;&nbsp;LawSites",
+      "summary": "Compressing multistate research and complex return preparation with CoCounsel Tax and GoSystem Tax RS&nbsp;&nbsp;Thomson Reuters tax and accounting",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Complex use cases for small firms that GPT simply can't",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZG02TlV1OVBXMllUejJwcjhGMjdGZmd2YmJvV1Z0Z3g1SjljaU9nUVpMeTVIU25pdU9rVERfVkw5R3NiaWZJeGJDTkIxazdUN19WNDhvaGJDMzQ3Y3J6NFlkSUY1dkw0UVRxLWpjMzFaLWJ6cjJNbTVBTFBOQ1RzS1BLSnhjTU90V2E5bHRMZWFTVE1wNFhFLXBJaEwzM09iQXdXVjFLeS0weUQ0Y1l0cG54MlpldVUtaWc?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
+      "title": "How legal teams can make smart tech choices: Experts discuss AI adoption, governance, and future of Legal Tech at LegalTechTalk 2026",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM1UzdnM0ZWx6bzNHRkk2aWxLNHdSUml1aFl0ZXJPODdRc21jVXJ0Y2V0NDN6cGlOb2xPelBHNnB4ZUEwTHNNanVkcVNWWnZtLVBxNHdaUEZrak00SUFRaTU2LUdKWHFzdEt5LWNTemkxLUx3d1Q0S3RFalhySzZqb0plUkhpbVB0VnhpT19Xeml2SXNxQ2RWdmNWbmctX0JvMnZTV2NiOEk4dXhFSGEzZ1BVNGxmLWxYZXNQV1VHQ2pmM05zd1phTWhuY1BuSTJlQUNVa1JVMUVtT2RUMzRjc2FBYWh2b2lVNTNmbGJKN3J4WUdC?oc=5",
+      "source": "SCC Online",
       "published": "23 Jun 2026",
-      "summary": "Complex use cases for small firms that GPT simply can't&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Courtroom Insight Launches its MCP Server, Powering AI Tools with Clean Legal Professional Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ1llX3NEdkp0Y2pyakhhdElXY3FWY1M3REo0c3hZQzRrdkdvSmZZZmtCUUpibU5FR0ExS2xwSnNLQWhpVi1lc2tlLWU5VmdCMW1NaDVLVG16ZTVjWVN6enotcWRwcnUxTkJka1o2NDlCLVlmeU9PbjdpbkZYOWtMcWp6OHNPcTFqQU9wd3FwQkZEbE5IZklEbnFXTXZSYmpBLWN1dm03LXZIQkc2N0V6SDBOLTFiQlN4LWxFYTdCWWtKSmxIQU9BNGJUUjNGTUlsa1VIbTJn?oc=5",
-      "source": "LawSites",
-      "published": "23 Jun 2026",
-      "summary": "Courtroom Insight Launches its MCP Server, Powering AI Tools with Clean Legal Professional Intelligence&nbsp;&nbsp;LawSites",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "AI memory startup focused on cutting token costs raises $98 million",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXppdlU5eU9CcThLWDluSjhoemx3YllRcDIyZFA4Z3owR0JKS1dNeFBBSDVLU3A1SDNscWVHOVJmMmw5Z3A1Rm9UWnJpaGVEQk4zRWRaa09SYUhqRU1ocFhWVk85WExIYU5ZMXJfR01GRG8teFVPQ3ZSWFRSRmJwVFY0cGMyWWZjbzZsSkt2Q2Z0NVd6dXJjLS01N2dELTdMX2dONFNB0gGrAUFVX3lxTE1WRzlOc2pBZks5amFpSDUtMnhCbUIwbS1DWF9DRkg2M0FTeWVFVHpwSzN6ZlBjb21TdDFjQlJ5ZDI3T1hDMTBSZ19ZUWdJenZUN1d5SFBtTVZSZ2lDdWYyaWozYXZNYk9SbTJJS2VwNmlrdkhpQS1xU19vN1JUUXBNVnVqclNRRGhPR1FhVEd0RHdZRk50TWdBbmIxY3VDMDBvOVp2aWlQMVZKaw?oc=5",
-      "source": "CNBC",
-      "published": "23 Jun 2026",
-      "summary": "AI memory startup focused on cutting token costs raises $98 million&nbsp;&nbsp;CNBC",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Litify Launches AI-Powered Demands, Advancing End-to-End Agentic Workflows Across the Case Lifecycle",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLXJIYWRHMFphbUszUElZVzc2NE92aXRTODIyaWR6MDZZeVJpdmlnV1REbzN6Vy04VW5VYnExbUxObFNaZFRUbjRRZXV2LVhHT2JmR3llYUZkWTdTZFVIWVdUd0tVQ3lmX3ZtalFHZmNndDFNWkVfN2k2WHRlUGIySGkzcFpBZE01RXlyTGMtRHUtUjNXaS11OWU2b1R6UjZBUkFzQWlabHJxdk8tV0VjSHRTZWI3OUFpbzlKeGpyVGRfaXNRNTRXNTVsa081UVhRYmRyV2dqd05PbXVraDdJQk4zSHhMX3pjcnZuVQ?oc=5",
-      "source": "Business Wire",
-      "published": "23 Jun 2026",
-      "summary": "Litify Launches AI-Powered Demands, Advancing End-to-End Agentic Workflows Across the Case Lifecycle&nbsp;&nbsp;Business Wire",
+      "summary": "How legal teams can make smart tech choices: Experts discuss AI adoption, governance, and future of Legal Tech at LegalTechTalk 2026&nbsp;&nbsp;SCC Online",
       "tags": [
         "AI Trend"
       ]
@@ -82,27 +125,75 @@
       ]
     },
     {
-      "title": "How legal teams can make smart tech choices: Experts discuss AI adoption, governance, and future of Legal Tech at LegalTechTalk 2026",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM1UzdnM0ZWx6bzNHRkk2aWxLNHdSUml1aFl0ZXJPODdRc21jVXJ0Y2V0NDN6cGlOb2xPelBHNnB4ZUEwTHNNanVkcVNWWnZtLVBxNHdaUEZrak00SUFRaTU2LUdKWHFzdEt5LWNTemkxLUx3d1Q0S3RFalhySzZqb0plUkhpbVB0VnhpT19Xeml2SXNxQ2RWdmNWbmctX0JvMnZTV2NiOEk4dXhFSGEzZ1BVNGxmLWxYZXNQV1VHQ2pmM05zd1phTWhuY1BuSTJlQUNVa1JVMUVtT2RUMzRjc2FBYWh2b2lVNTNmbGJKN3J4WUdC?oc=5",
-      "source": "SCC Online",
+      "title": "Litify Launches AI-Powered Demands, Advancing End-to-End Agentic Workflows Across the Case Lifecycle",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLXJIYWRHMFphbUszUElZVzc2NE92aXRTODIyaWR6MDZZeVJpdmlnV1REbzN6Vy04VW5VYnExbUxObFNaZFRUbjRRZXV2LVhHT2JmR3llYUZkWTdTZFVIWVdUd0tVQ3lmX3ZtalFHZmNndDFNWkVfN2k2WHRlUGIySGkzcFpBZE01RXlyTGMtRHUtUjNXaS11OWU2b1R6UjZBUkFzQWlabHJxdk8tV0VjSHRTZWI3OUFpbzlKeGpyVGRfaXNRNTRXNTVsa081UVhRYmRyV2dqd05PbXVraDdJQk4zSHhMX3pjcnZuVQ?oc=5",
+      "source": "Business Wire",
       "published": "23 Jun 2026",
-      "summary": "How legal teams can make smart tech choices: Experts discuss AI adoption, governance, and future of Legal Tech at LegalTechTalk 2026&nbsp;&nbsp;SCC Online",
+      "summary": "Litify Launches AI-Powered Demands, Advancing End-to-End Agentic Workflows Across the Case Lifecycle&nbsp;&nbsp;Business Wire",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Compressing multistate research and complex return preparation with CoCounsel Tax and GoSystem Tax RS",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdm5VV0dJb2FDTWZCM0hvTlA0MHoyRC1wQUNhMEtDYzh0Yl90MXBHYWJTSVk2b2JVOXJZb3E4TFlvNW1GZUgzakVFa0toczRkdVJtWGVZb2tuRjQ5czlWMEI0dFozSUZIQ3NqNjRtNk9UbVVWVGNjQ00tcUxGZlJsLXplc081MWwzTGFHeWNaZU1DTmY4MlBicDJJQmlmMGhZWlJrUDlGd2dxcWlqb1A4bUJnU2ZIUTJGNm90QUNCVk9YMHNrQnFXZWNVYmcyWWZCWjN5b1RKaDNiT0xhN1JLeU55ZnFadTVVZkg3cUN3?oc=5",
-      "source": "Thomson Reuters tax and accounting",
+      "title": "AI memory startup focused on cutting token costs raises $98 million",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXppdlU5eU9CcThLWDluSjhoemx3YllRcDIyZFA4Z3owR0JKS1dNeFBBSDVLU3A1SDNscWVHOVJmMmw5Z3A1Rm9UWnJpaGVEQk4zRWRaa09SYUhqRU1ocFhWVk85WExIYU5ZMXJfR01GRG8teFVPQ3ZSWFRSRmJwVFY0cGMyWWZjbzZsSkt2Q2Z0NVd6dXJjLS01N2dELTdMX2dONFNB0gGrAUFVX3lxTE1WRzlOc2pBZks5amFpSDUtMnhCbUIwbS1DWF9DRkg2M0FTeWVFVHpwSzN6ZlBjb21TdDFjQlJ5ZDI3T1hDMTBSZ19ZUWdJenZUN1d5SFBtTVZSZ2lDdWYyaWozYXZNYk9SbTJJS2VwNmlrdkhpQS1xU19vN1JUUXBNVnVqclNRRGhPR1FhVEd0RHdZRk50TWdBbmIxY3VDMDBvOVp2aWlQMVZKaw?oc=5",
+      "source": "CNBC",
       "published": "23 Jun 2026",
-      "summary": "Compressing multistate research and complex return preparation with CoCounsel Tax and GoSystem Tax RS&nbsp;&nbsp;Thomson Reuters tax and accounting",
+      "summary": "AI memory startup focused on cutting token costs raises $98 million&nbsp;&nbsp;CNBC",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Courtroom Insight Launches its MCP Server, Powering AI Tools with Clean Legal Professional Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ1llX3NEdkp0Y2pyakhhdElXY3FWY1M3REo0c3hZQzRrdkdvSmZZZmtCUUpibU5FR0ExS2xwSnNLQWhpVi1lc2tlLWU5VmdCMW1NaDVLVG16ZTVjWVN6enotcWRwcnUxTkJka1o2NDlCLVlmeU9PbjdpbkZYOWtMcWp6OHNPcTFqQU9wd3FwQkZEbE5IZklEbnFXTXZSYmpBLWN1dm03LXZIQkc2N0V6SDBOLTFiQlN4LWxFYTdCWWtKSmxIQU9BNGJUUjNGTUlsa1VIbTJn?oc=5",
+      "source": "LawSites",
+      "published": "23 Jun 2026",
+      "summary": "Courtroom Insight Launches its MCP Server, Powering AI Tools with Clean Legal Professional Intelligence&nbsp;&nbsp;LawSites",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Complex use cases for small firms that GPT simply can't",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZG02TlV1OVBXMllUejJwcjhGMjdGZmd2YmJvV1Z0Z3g1SjljaU9nUVpMeTVIU25pdU9rVERfVkw5R3NiaWZJeGJDTkIxazdUN19WNDhvaGJDMzQ3Y3J6NFlkSUY1dkw0UVRxLWpjMzFaLWJ6cjJNbTVBTFBOQ1RzS1BLSnhjTU90V2E5bHRMZWFTVE1wNFhFLXBJaEwzM09iQXdXVjFLeS0weUQ0Y1l0cG54MlpldVUtaWc?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "23 Jun 2026",
+      "summary": "Complex use cases for small firms that GPT simply can't&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Thomson Reuters CEO Steve Hasker on the Next Generation of CoCounsel, the \u2018Future of Professionals\u2019 Report, and Why TR Is Building Its Own LLM",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTXFBUmN1Y003eWVrNWdOUHhKNzEtQzFGM1otWmg0M3VVTUV6cTU1bTNVUS1aLVJzdGJpcHFEZXprNU1zREZFUW5WU01zb2RhZzZzeXZZbHdZYmw0Zlc0Nm5QX292RFdsaGk0UDNvLV9tMkY0R1lnc0thbGdTdlZISTlrM24wSUl0SEdHRlZjNVM2d0cwSlh5UzJhaTBzQkFoaC01aFZYc0xPdzBVQ1ltV0FERUM4Ni1OcTROcDltNEdjVEVxTDZFQzNOOWt6U2Z1VHRsZ3lYX09wZjJtNXFJX1pfRElJOW9HQzhMLXdWeGN2UVJFTFFjRzdoaDNPc0xTOVF2bFRB?oc=5",
+      "source": "LawSites",
+      "published": "23 Jun 2026",
+      "summary": "Thomson Reuters CEO Steve Hasker on the Next Generation of CoCounsel, the \u2018Future of Professionals\u2019 Report, and Why TR Is Building Its Own LLM&nbsp;&nbsp;LawSites",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Legora To Move To Consumption-Based Billing",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQlV6dG5pcmd4QTZNdV9zRDlWek9teTNmUnU1dWlMQVhRQ3ZKZkNuekVtS2tDZ3BnaDVCYmtzUzN3Q29OYVI4OXZrZXdNanlZNEl0MDFhSG1ReW5tbXRLY0ZvWHIxNGJHejNaVlkyb2liam1CaHZodXR6a3RhVXRNQkdIbDg0ck9ERUFmSDlnbVpMeUdzTzZpa2RqblNNak1vX0HSAV5BVV95cUxPOHdodk5tUjY1dGhWRWFseWo1aS0yd0g1LS1IR2hrMnpBTmN3NXZDNUNLcmdOZnlmUzA5WDI3X09pckNYX013c1R4TlpVa0M2U1ZxYjhEanBLMURlWG9R?oc=5",
+      "source": "Law360",
+      "published": "23 Jun 2026",
+      "summary": "Legora To Move To Consumption-Based Billing&nbsp;&nbsp;Law360",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Holding Redlich expands Legora AI across legal teams",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHVMVXRuNHA0OFp2bHdOZVRrWXVmbUR3dU93eXNHSmZ1X1VRdFVrZUowTENoRGFnS0M4Z3RRZmsxNGJha2ZJdkRWU1FpWFR2YlRRY3hEVDRhd2lUdkV2UXZqeTdvWHdtbXV5MlJDZ3RoQ3NMX25tYW93SnZtYlRoNXhMV3pIOUJTa042bm5lMHk?oc=5",
+      "source": "SecurityBrief Australia",
+      "published": "23 Jun 2026",
+      "summary": "Holding Redlich expands Legora AI across legal teams&nbsp;&nbsp;SecurityBrief Australia",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "MSFT Alert: Microsoft Investors may have been Misled about",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQYk0yTWRpTXlXVWYzLVlwRnd2UTZXdnc2NnVKS2V0NWhxd2w4NDBYY2VOcmU1d2YzVUt3MEw5V3dSeXMtYThzNnN5NjYyT0RlaXU1M2VBQVEtSU0yekxwMmNaU1ZFakwxSHJLdE5KaUQ5cmdveDZZRHlNdHFWRjZPTWN4SmJRanRoX2FQcVNkdFZjeHJOMHlHTU5ITmRILWZGMHlMWTJRb2VMVEJKblN6bFNtcFdnWmpjTllLQ3N2cklnN3NvanU4ZTIyZzhQTkgxZVRiWkZuWmZMRG53WVB3SlIzWWhWVzFjZW9Td1V3ZmdiYkFvMXF2bTY1bFBPUVVRSndSem0xN2JYdG1GcklkUk1HZTJnekxkNEplbkIzdlk3bTU1MFZ3R0dJdFBnbDZkTllEbjdHMWdKWnY4a2Z2bjNCTU4?oc=5",
@@ -2016,107 +2107,6 @@
       "summary": "Some Thoughts On Harvey's Launch of 'LAB,' An Open-Source, Long-Horizon Benchmark for Legal AI Agents&nbsp;&nbsp;LawSites",
       "tags": [
         "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "The Success Metrics That Matter for Legal AI",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mNTBVMllKWlVNdmRMMzExakZIQUdRWVBCN3FSQmlvMWNRSWlGRE53QWRhM1B5c09BTnlGOWN4Nm1RbzVjdUVZS2M5NTF2RG83c3h4ZWhiWnJRRjdpYjdnOExEZEhNdw?oc=5",
-      "source": "Harvey",
-      "published": "19 May 2026",
-      "summary": "The Success Metrics That Matter for Legal AI&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "OpenSpecter Launches For Free, Self Hosted, Open Source Legal AI Platform",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMWpzd0NYZ3owUldwUUNUZzRWbVVjMUNRdzF0Z2UtbUhpNjNKUmJ4RWZXNVFPeExveVl0Ukgwa0RpUDRWdEYxUTdUSWNVbktfUnFPRHQwbGtTU3JCZWR4Q3JHcVNZWmZxbm84WWpRVXpMUmN1YnhVOW1GOHVTSFptRWlTdnRvMUNwZ295aW1ld1FiUm5jZ0x1dTQzRk1Kc1E4d0ltenNyOWIwWkVXaWhVT080T0N2RlBMbENLYkdkcUpka1h6Q2lMSWJiRThYX3VvX1Rjb3RjVUlyazhNSzZQNmZR?oc=5",
-      "source": "FinancialContent",
-      "published": "20 May 2026",
-      "summary": "OpenSpecter Launches For Free, Self Hosted, Open Source Legal AI Platform&nbsp;&nbsp;FinancialContent",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey's Winston Weinberg: Why AI will force lawyers to change their fee structure",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52b0otbFEwOG9ob20wZXkwOHJJYjg3S25ESmlBNzF6dlcyZTc3NXhvRUpxblR5SW05UERSb1cwUVFfLXY4T1VQZUJSaldqUFhvaGw1Qkk0ZEpPamUtZDZ0eDVFTmplWU5mNGg3ZG9rY0Q?oc=5",
-      "source": "Financial Times",
-      "published": "20 May 2026",
-      "summary": "Harvey's Winston Weinberg: Why AI will force lawyers to change their fee structure&nbsp;&nbsp;Financial Times",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Lexsoft links T3 legal knowledge tool to AI platforms",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU01jV3RFOUZ2Nk4tN3R2dGlVZ3A4S1pkOWs4XzhwaDdEZkx5RTg2Y0U3YkMxUGMwS2hRS1FGb3Q1NGcyRDhqaW5TejYxTzQ0bzAtZmgyMEdGcU5kYjlPWEJweVhaV1RKb2tPbEFiRFg4VWtmV29zN1RHRnJaMkZKQjBMVFpEVEtz?oc=5",
-      "source": "IT Brief UK",
-      "published": "18 May 2026",
-      "summary": "Lexsoft links T3 legal knowledge tool to AI platforms&nbsp;&nbsp;IT Brief UK",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Foley & Lardner Rolls Out :Harvey: Firmwide",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JOWRaXzZ6eDRyU0ZyeGYzY2FJUFNZNll6VWF0OEs2QkoyNjMweFZnZno4YXVlNGtVQ2pySE5mVDkyRkhiRUk2cWl6a21iOEc1ZTBPMUEwekRSaGowTW1COU5OckQ4U2JkNVRBZWptd095WDViTExnQ213?oc=5",
-      "source": "Harvey",
-      "published": "18 May 2026",
-      "summary": "Foley & Lardner Rolls Out :Harvey: Firmwide&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Linklaters aims to solve \u2018otherwise intractable\u2019 challenges for clients with AI-focused legaltech team",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ2Iwb09sWlJBVDg0T1JteXVKVWY2QnVGOUtZNlM4OFhpa1YzMEVIeHdOazNObDBaSjRWejZVbWtLd25uQl9GeXdKZjlkUGlVeWRhZ1h5elItTE16eDVZRFdyV3ppMEYyUjdjY1NuTGdEQ0FZUFdkdjVtNDdSeWVkYm5uTlAtSjAzbU53VDJhZEh5MDZZeGMtUTU0by1scjNfSGwwR1dMVkEzWFFqblNtWkJ4UVp5RXpNSUZqVXJ5QmU2N3NEaVhVZFB0TDRhMFN5T2tvVnFvenc0RXlUdjlEMw?oc=5",
-      "source": "The Global Legal Post",
-      "published": "18 May 2026",
-      "summary": "Linklaters aims to solve \u2018otherwise intractable\u2019 challenges for clients with AI-focused legaltech team&nbsp;&nbsp;The Global Legal Post",
-      "tags": [
-        "Global Firm"
-      ]
-    },
-    {
-      "title": "Anthropic debuts Claude for Legal to embed generative AI into law firm workflows",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDltUGNrcV9LSnY0dVhpSW0yUHpqR0ZUUzBtSzNMbEVLLWVQNnV1UHVXaERnOU95QXpEemhGVTZNOXpuWkluNldlQ0pCSHBuVHB0U0NWWEQ0a0dLOHY5UEZIUm54MmRvX1NGSXExdk5ZWC1NeGE4THhtUGlxLUJ5NklPci11d3FWUUNnZFNOZEpDRXliXzYwZmZFTUVhUQ?oc=5",
-      "source": "digitimes",
-      "published": "18 May 2026",
-      "summary": "Anthropic debuts Claude for Legal to embed generative AI into law firm workflows&nbsp;&nbsp;digitimes",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "LAW.co Broadens Private Legal AI Deployment Capabilities Amid Rising Demand for Customized Legal Automation",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOLTdsdTZycTJNcVBOQmkwdEstZDFtXzdCTUZraEFNWUhSQjl1NmhJNG5tUUpXQlhIRDV6cHM2TUhVa2w0eDR4THA2MWhMZE9CSVlBRF9ZV2FfSzU4TGVSZm5idWg2S3BHWVViM2FyMzllOEdtdXlfNXRxVXFDa0VxUGNPSGtpWTZQTkM1azJCMmxhQ1U3Q0lmdjFQYi1EYm9XZEhuTW11RFdnVHRnWERPOVBUXzZLeTdsVzNxZnpHVGotVDNJN1p0MUI4TVhUNWx2b1E3TVMzZFZzR3YzSERoajRLdW5rLUhpTS1XaFh1azJZbWI4WmVrTlRzWkRwZktBckNHYmhCOG5nWGR2TndTdA?oc=5",
-      "source": "FinancialContent",
-      "published": "19 May 2026",
-      "summary": "LAW.co Broadens Private Legal AI Deployment Capabilities Amid Rising Demand for Customized Legal Automation&nbsp;&nbsp;FinancialContent",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "New Plexus research: only 6.7% of General Counsel have operationalised AI as the legal profession hits its 2026 tipping point",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNV04wRkhaVWJMRzU0QnUyY19kZGlSZVp1Wk5wNzNFZUxvQmZGMmdBMXlJSUhnWWs0Y0RjQXJYY0l2WS0zMlF5M2YwX2x0TXNBWWZMNkR2WVFGUExQalRDRlEwemVNNjYxdjVDTGpWbVh3V2VNZ01NYVBPRmpWNlRuSXBDTmFIRXFIWktQbnV0dEdlakh0eldldEp4bWp4cVhnSjVtRUpZclN3WUFCaDk1UHVUb01UaGd3VHdvX0RadWdkaVRMQmNCc3VzT2pEMFVNenRubzFQU1dyODJiaG9FbnI1a2F6alZGQ2hzb2VyNVlvWWtlTlRPckl2Ujh4WlQ5MWlBakhocXNtVW5YMlU5ZnY4TQ?oc=5",
-      "source": "Press Release Distribution Australia",
-      "published": "19 May 2026",
-      "summary": "New Plexus research: only 6.7% of General Counsel have operationalised AI as the legal profession hits its 2026 tipping point&nbsp;&nbsp;Press Release Distribution Australia",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "A Guide to AI-Powered Legal Technology Companies",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUUmFqR2IyTk5oUWJ2Q1NtMkd6QWN6NFkzUjhzNHdmaDhUSm1YbkUwbUZxTWFYQmdyV29UbzRpVXBDMHNhMnRodmJmNDdIWDFhLXVIV2lGQWpGYkh6TEd6Wkt5LUpYWW1rb3NNY3ljVHpnVlFs?oc=5",
-      "source": "AllBusiness.com",
-      "published": "16 May 2026",
-      "summary": "A Guide to AI-Powered Legal Technology Companies&nbsp;&nbsp;AllBusiness.com",
-      "tags": [
         "AI Trend"
       ]
     }
