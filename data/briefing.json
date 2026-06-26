@@ -1,62 +1,94 @@
 {
-  "date": "Thursday, 25 June 2026",
+  "date": "Friday, 26 June 2026",
   "articles": [
     {
-      "title": "Thomson Reuters Rebuilt CoCounsel: A Pivot",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11em9ObFFDWmxGNy1ydDNxN003QURoUlpReG5HYXUxNnMzZzB4RHRVV1p4dDFKVUJ6TXB2WEFzS1dueVR6SndaTzl2ZmFaTWE4UlFkYmdzMjJzd1ZoRnJFQjB4dm41UlpFSkZCRnUtbllPYTREajRZREQ4dHdKTTQ?oc=5",
-      "source": "Above the Law",
-      "published": "24 Jun 2026",
-      "summary": "Thomson Reuters Rebuilt CoCounsel: A Pivot&nbsp;&nbsp;Above the Law",
+      "title": "Law firms look for clear gains from AI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0SENjM2QxNGVCZ1RiYmhWWUlWeWt0NkI5SjJnZVU0VXd3S2c4M2hyenNBT2Rud2MyVmJ2eFhfeVlwS2FvemMwdU5vbEZTaTROVlRkeC1MQ2Z6Z0hRV2Y3ZElSY1lMZzJFdEtiMG5qWVU?oc=5",
+      "source": "Financial Times",
+      "published": "25 Jun 2026",
+      "summary": "Law firms look for clear gains from AI&nbsp;&nbsp;Financial Times",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "CCO Compensation on the Rise",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JX1ZmM1gtaEFjaFJMM3FQbENZSEpmbzBUSzI1T1VpNW5TNHZjM1R3Z2hoQWVnbzR5YklWaHdYeUxKTGlrY01TVmQzd0JjVFhUNHA0RDFKLThmSS1wWmpULXA3U3NGblJveG5hQnlMbDdiR2dZMk5yMDR3?oc=5",
+      "source": "corporatecomplianceinsights.com",
+      "published": "25 Jun 2026",
+      "summary": "CCO Compensation on the Rise&nbsp;&nbsp;corporatecomplianceinsights.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Behind the build of CoCounsel Legal Reimagined: 2026 updates",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYklWNFRDTFFWUEZZaXdNajJ6SXhTNkdLbXduU3F3SkE1SW4wbHhlYVU1c2JkMTBlQ0NxdVNJblJoSGhONUQ0U1VQX0FSb2FKczl3NjAtVEZVWGkzQm5RTHVqMDE5ZlpvVER0YXlKZ0M2dk55akR5OTF0bTU5Sl9GV3E2Umk5SzJka2hDMkZiUEpyMVdLdExZNVZNamNCdw?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "25 Jun 2026",
+      "summary": "Behind the build of CoCounsel Legal Reimagined: 2026 updates&nbsp;&nbsp;Thomson Reuters Legal Solutions",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Docusign links Perplexity to contract workflows across legal teams",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGpKSTBPUHE0Q2VIQ2JUalFNZE9IYW9VU1ZoclpUSEZ4SjJYLXgxc3VJSDFhTU9zbkxUd0J4WDJmYlNaTXpvN2s3cGUyaVZlSEZJUmFVc3lqQ3RnOW45ZTZSQ2c4SXF1aXF3c0pYOTE1R2tOUVFhY3ZIQ2lVZlM1QzlUQzZmYVVyejJ0REx3MWliMlJVTkREU0lrcmxlaE5jWXdGeEt0YVZhemE5X1JqVEtXb083aTQ?oc=5",
-      "source": "Stock Titan",
-      "published": "24 Jun 2026",
-      "summary": "Docusign links Perplexity to contract workflows across legal teams&nbsp;&nbsp;Stock Titan",
+      "title": "Chelsea land AI legal platform Legora as training kit sleeve sponsor",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHcwTXMwTFhCc2dsd2NQMU0zSl9DZHhqWG9qUWZaTm5Wa2RraXlfLVJDWEYtaGRFQmcxRXdkYWNfYVhFN2tQcHgwaWVsdzYzVTFJUC1lcUF2N0cxc3BYSHBqZ3hNdEJ4Y1VqR1ZlY0dMazZNQVpsNU5kaWx0QnNycEoxcks5MWlCR1ZsUVpxYlByNU8xR2I2Y2RaLVhqWjkz?oc=5",
+      "source": "Sportcal",
+      "published": "25 Jun 2026",
+      "summary": "Chelsea land AI legal platform Legora as training kit sleeve sponsor&nbsp;&nbsp;Sportcal",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora Continues PR Drive With Chelsea FC Sponsorship Deal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNay0wQ2djVmV4S2tfRnpxeU85djItLTVra2EzWk1iUEJTdmlsWnNCY3dtZmxyMlBLTEY5WFdLenQzckZLMGlObEFBUnZNUnN2NERadC16TzFQeGhQOW9qRDd0Zi1CZjlqTF9rak9KbEx4MWJlQUpEa25va2lfRVlYQ0phWmZvb3dEdTVaN2YtY0p2bHk5d1JDU2N2N2xpcEt5M0RDeWdBSXo0cmNrdzhsRVF3?oc=5",
+      "source": "Law.com",
+      "published": "25 Jun 2026",
+      "summary": "Legora Continues PR Drive With Chelsea FC Sponsorship Deal&nbsp;&nbsp;Law.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Privilege in the age of generative AI | Canada | Global law firm",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnZGWW1OQ0pOUkpsTkFIcUlWN3hBYTRucWNjWHVSZzNtRTRRc19ueGxFZnJOTUpTeXlGTjhwTEREcmJuN3U5OG9fcjlTOUpjWldBZEIyNVZTQ0JTRGNsLXJ6eElNNVNJajdKRVJYQ1pUUG5ic2ZpMlRxdTZ4cVZGSFQ0cWVIeXItVzZKVnZCNVcyS2tFek9xMlI3dUE0bkpyQS1tWFg3ekRMOEJrelhscA?oc=5",
+      "source": "Norton Rose Fulbright",
+      "published": "25 Jun 2026",
+      "summary": "Privilege in the age of generative AI | Canada | Global law firm&nbsp;&nbsp;Norton Rose Fulbright",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "\u2018If you take a crap process and put AI on top of it, it will still be crap\u2019: LegalTechTalk speakers reflect on the Gen AI boom",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX0ZoX2k0WktvU1NFN0QzQnBvcXQ3Q1ZWMWxZX2VfWDdqX3F2T3YwMkYwUm0yekNFMEpQbEE2ejhlVzg5b2NnLXR4cnVmNlc3cTh4WWcyWUo1UUlyblhqVWdCR3I3NUhqREphdnVFOXVxM0puak5GTG9aQkpyam83eXgtNXllQ1I4eVBLUFZqclJDXzhWc2NnSHBxdDNhTWtzTGhQWDVGbktLcVJpRkVaMlpRZ1gyNTQwT3ZiTXUzMC1nN1JIQWV1dXZmQU8zeHFrNGRuTDBuT29BTHlUYjQ2TEFza3dsYjFDbUlGR2V2LXRRQlJZSDBpeXBtbGhzQjA?oc=5",
-      "source": "The Global Legal Post",
+      "title": "BDO Abogados adopts Legora AI platform",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUaFpZR1ZzNW1JbUwzRVZobWtFY1RDY1BHR2xaYmNSbFQwcGktaXhUd2pBNklXWGZrWllKVUVlaVdIZ2ZBM0NaLVRCblh3MF9oUFZ1dFljMzM0UHNfYi1BR2FkdjAzaklMbmJsWnF2dUZNVVU?oc=5",
+      "source": "Iberian Lawyer",
+      "published": "25 Jun 2026",
+      "summary": "BDO Abogados adopts Legora AI platform&nbsp;&nbsp;Iberian Lawyer",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "How Shoosmiths is turning legal expertise into AI-powered advantage",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDZXTzVuNE5GVW5xRWFTbWktV2lTb0E4V29SWVh1NGtSVExxaWlMVXRCNGl4QU56ZldjRE5lVHZhMVZ0WmEzczFaZ0l6NW1FTFdKcWxFNDAxcmlhR3pScExWckpRTzRWTUt1Z0oxakgtaEhLTWZ1YS1YRnk4NlVLUXA4dGU1eEIzclFQSW9pbXVjRGJSVmFQdktDUmMtUkNjaFZVLU5NczIwWFgzd3c?oc=5",
+      "source": "Microsoft UK Stories",
       "published": "24 Jun 2026",
-      "summary": "\u2018If you take a crap process and put AI on top of it, it will still be crap\u2019: LegalTechTalk speakers reflect on the Gen AI boom&nbsp;&nbsp;The Global Legal Post",
+      "summary": "How Shoosmiths is turning legal expertise into AI-powered advantage&nbsp;&nbsp;Microsoft UK Stories",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "General Counsel Must Overcome Human and Organisational Barriers to Drive Legal Innovation: Industry Leaders at LegalTechTalk 2026",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa2M3ZFoyU0xEbS10eXI3b25hNkFZTl9sU1BvWVNVaGloYXQ2UF9TTF9Mak1tZFFBQ0IzdUoxbXVCUlZDTFpSdWxOcktTZ21RaTk3Y3o4b2Zrc0JYSUFYRm82bjdpVmtQYl8tRVFITEFZWTJKdmpNcVhCMDZ1bVVDNjVPSUJvUEhpVEpoMWVxUjhmX2pCTF85NFBXQmJqTGxOM0FmRVhZVndGMDQ2NXVDYU12d25uaEVMTmE1YmtoUW1MaUlF?oc=5",
+      "title": "\"What Metrics are GCs Using to Evaluate Outside Counsel?\" at LegalTechTalk 2026 | SCC Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnYzLW9oeUtQMm45ZV9VNW5SSk1QYllBbjJzZURHNE5RRXFyRFl6WGxLbDY0QjRMRVdaNFZrZUw3LW80YjE0Tk9KRkJ4am5oMG5vZndHbzYwY0w1eHRXczR3WnlCSnpFZ3RQU1RKWHM5UnJZZHo5cHl0MjZlM081R0xYOUw3empjUW9SMlg3YmMwaXdabzV4cGJVQWdqckVaZlBWeG8tNGI2SmlQOFBRRldLWC1YbG90TDkxT1JITms?oc=5",
       "source": "SCC Online",
       "published": "24 Jun 2026",
-      "summary": "General Counsel Must Overcome Human and Organisational Barriers to Drive Legal Innovation: Industry Leaders at LegalTechTalk 2026&nbsp;&nbsp;SCC Online",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLVMyeTJIWXR5cUZNbXROaWRsMmZEaUNEQ0REeTRudEtPX0FfZ25ES3oyLUdiamJXZVVSaE1CSGpKN0pTQXdEbWlmeFZZV2lMZ1dkaWJrdEQxUVkyOFdJWUpUYl9DY0U4dURRckFXdmpXRzIxZDBaRVJPejNIbjNhYUU3YUM5S0lrMGp2QXhqbWZfOFl2c0xuSlZFaGVWUW9kQzN1N25iaFY0RXVOQUFRZEVTdkM3MloxRl8wckNBNldES0JmMWlWWjkxbG0wNHg2MVZSYk1yc0V0OWNWZ1Y2V2pRSG5mNy1CQy1Td1NVQ2rSAfABQVVfeXFMUC1TMnkySFl0eXFGTW10TmlkbDJmRGlDRENERHk0bnRLT19BX2duREt6Mi1HYmpiV2VVUmhNQkhqSjdKU0F3RG1pZnhWWVdpTGdXZGlia3REMVFZMjhXSVlKVGJfQ2NFOHVEUXJBV3ZqV0cyMWQwWkVST3ozSG4zYWFFN2FDOUtJazBqdkF4am1mXzhZdnNMbkpWRWhlVlFvZEMzdTduYmhWNEV1TkFBUWRFU3ZDNzJaMUZfMHJDQTZXREtCZjFpVlo5MWxtMDR4NjFWUmJNcnNFdDljVmdWNldqUUhuZjctQkMtU3dTVUNq?oc=5",
-      "source": "ETLegalWorld.com",
-      "published": "24 Jun 2026",
-      "summary": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models&nbsp;&nbsp;ETLegalWorld.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNc01uV1J4VmE3SG9hZ2Jaa3k5cUJ4bzRXazgzMmo1TFB2bHdMQ2Z5UTlmSDdZaE9XUkZ4TGtEd1NVT0s1Y3VjTnVIcmx4VTg3X1Naem91Z2dvc2JOaE5INWJzODFWSW1zYlVJVlRLNzMxcWNtSGJrRzJJeklfanNTSXFUNDFJcG5hTVFmcmZqX2ZWcUpMVDhhODF4ZzREY1p0UkVYQlI2aFJ1NHl3aUlfTTB0ZlJ2RG5xdENTcE55UENveTFLRFpwbXlTVm13SkR2UEJvSDBHam9ZeEx5SENBUkMxUlVBNFBmTWE2WkJIazdRcXlrNmwtcUhScFRsODlibGFUX29KN29WOVJYeXhNUHZ6NVVLTnhveThneVdvYi1uYnpSbDIyNk5rcU9vc0tjUFUwM3VBNEpBVFRmVGUyVFV6cUFub0VK?oc=5",
-      "source": "GlobeNewswire",
-      "published": "24 Jun 2026",
-      "summary": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot&nbsp;&nbsp;GlobeNewswire",
+      "summary": "\"What Metrics are GCs Using to Evaluate Outside Counsel?\" at LegalTechTalk 2026 | SCC Times&nbsp;&nbsp;SCC Online",
       "tags": [
         "AI Trend"
       ]
@@ -73,27 +105,65 @@
       ]
     },
     {
-      "title": "\"What Metrics are GCs Using to Evaluate Outside Counsel?\" at LegalTechTalk 2026 | SCC Times",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnYzLW9oeUtQMm45ZV9VNW5SSk1QYllBbjJzZURHNE5RRXFyRFl6WGxLbDY0QjRMRVdaNFZrZUw3LW80YjE0Tk9KRkJ4am5oMG5vZndHbzYwY0w1eHRXczR3WnlCSnpFZ3RQU1RKWHM5UnJZZHo5cHl0MjZlM081R0xYOUw3empjUW9SMlg3YmMwaXdabzV4cGJVQWdqckVaZlBWeG8tNGI2SmlQOFBRRldLWC1YbG90TDkxT1JITms?oc=5",
-      "source": "SCC Online",
+      "title": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNc01uV1J4VmE3SG9hZ2Jaa3k5cUJ4bzRXazgzMmo1TFB2bHdMQ2Z5UTlmSDdZaE9XUkZ4TGtEd1NVT0s1Y3VjTnVIcmx4VTg3X1Naem91Z2dvc2JOaE5INWJzODFWSW1zYlVJVlRLNzMxcWNtSGJrRzJJeklfanNTSXFUNDFJcG5hTVFmcmZqX2ZWcUpMVDhhODF4ZzREY1p0UkVYQlI2aFJ1NHl3aUlfTTB0ZlJ2RG5xdENTcE55UENveTFLRFpwbXlTVm13SkR2UEJvSDBHam9ZeEx5SENBUkMxUlVBNFBmTWE2WkJIazdRcXlrNmwtcUhScFRsODlibGFUX29KN29WOVJYeXhNUHZ6NVVLTnhveThneVdvYi1uYnpSbDIyNk5rcU9vc0tjUFUwM3VBNEpBVFRmVGUyVFV6cUFub0VK?oc=5",
+      "source": "GlobeNewswire",
       "published": "24 Jun 2026",
-      "summary": "\"What Metrics are GCs Using to Evaluate Outside Counsel?\" at LegalTechTalk 2026 | SCC Times&nbsp;&nbsp;SCC Online",
+      "summary": "$MSFT Stock News: Microsoft Stock Dropped 10% after Copilot&nbsp;&nbsp;GlobeNewswire",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "How Shoosmiths is turning legal expertise into AI-powered advantage",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDZXTzVuNE5GVW5xRWFTbWktV2lTb0E4V29SWVh1NGtSVExxaWlMVXRCNGl4QU56ZldjRE5lVHZhMVZ0WmEzczFaZ0l6NW1FTFdKcWxFNDAxcmlhR3pScExWckpRTzRWTUt1Z0oxakgtaEhLTWZ1YS1YRnk4NlVLUXA4dGU1eEIzclFQSW9pbXVjRGJSVmFQdktDUmMtUkNjaFZVLU5NczIwWFgzd3c?oc=5",
-      "source": "Microsoft UK Stories",
+      "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLVMyeTJIWXR5cUZNbXROaWRsMmZEaUNEQ0REeTRudEtPX0FfZ25ES3oyLUdiamJXZVVSaE1CSGpKN0pTQXdEbWlmeFZZV2lMZ1dkaWJrdEQxUVkyOFdJWUpUYl9DY0U4dURRckFXdmpXRzIxZDBaRVJPejNIbjNhYUU3YUM5S0lrMGp2QXhqbWZfOFl2c0xuSlZFaGVWUW9kQzN1N25iaFY0RXVOQUFRZEVTdkM3MloxRl8wckNBNldES0JmMWlWWjkxbG0wNHg2MVZSYk1yc0V0OWNWZ1Y2V2pRSG5mNy1CQy1Td1NVQ2rSAfABQVVfeXFMUC1TMnkySFl0eXFGTW10TmlkbDJmRGlDRENERHk0bnRLT19BX2duREt6Mi1HYmpiV2VVUmhNQkhqSjdKU0F3RG1pZnhWWVdpTGdXZGlia3REMVFZMjhXSVlKVGJfQ2NFOHVEUXJBV3ZqV0cyMWQwWkVST3ozSG4zYWFFN2FDOUtJazBqdkF4am1mXzhZdnNMbkpWRWhlVlFvZEMzdTduYmhWNEV1TkFBUWRFU3ZDNzJaMUZfMHJDQTZXREtCZjFpVlo5MWxtMDR4NjFWUmJNcnNFdDljVmdWNldqUUhuZjctQkMtU3dTVUNq?oc=5",
+      "source": "ETLegalWorld.com",
       "published": "24 Jun 2026",
-      "summary": "How Shoosmiths is turning legal expertise into AI-powered advantage&nbsp;&nbsp;Microsoft UK Stories",
+      "summary": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models&nbsp;&nbsp;ETLegalWorld.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "General Counsel Must Overcome Human and Organisational Barriers to Drive Legal Innovation: Industry Leaders at LegalTechTalk 2026",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa2M3ZFoyU0xEbS10eXI3b25hNkFZTl9sU1BvWVNVaGloYXQ2UF9TTF9Mak1tZFFBQ0IzdUoxbXVCUlZDTFpSdWxOcktTZ21RaTk3Y3o4b2Zrc0JYSUFYRm82bjdpVmtQYl8tRVFITEFZWTJKdmpNcVhCMDZ1bVVDNjVPSUJvUEhpVEpoMWVxUjhmX2pCTF85NFBXQmJqTGxOM0FmRVhZVndGMDQ2NXVDYU12d25uaEVMTmE1YmtoUW1MaUlF?oc=5",
+      "source": "SCC Online",
+      "published": "24 Jun 2026",
+      "summary": "General Counsel Must Overcome Human and Organisational Barriers to Drive Legal Innovation: Industry Leaders at LegalTechTalk 2026&nbsp;&nbsp;SCC Online",
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "\u2018If you take a crap process and put AI on top of it, it will still be crap\u2019: LegalTechTalk speakers reflect on the Gen AI boom",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX0ZoX2k0WktvU1NFN0QzQnBvcXQ3Q1ZWMWxZX2VfWDdqX3F2T3YwMkYwUm0yekNFMEpQbEE2ejhlVzg5b2NnLXR4cnVmNlc3cTh4WWcyWUo1UUlyblhqVWdCR3I3NUhqREphdnVFOXVxM0puak5GTG9aQkpyam83eXgtNXllQ1I4eVBLUFZqclJDXzhWc2NnSHBxdDNhTWtzTGhQWDVGbktLcVJpRkVaMlpRZ1gyNTQwT3ZiTXUzMC1nN1JIQWV1dXZmQU8zeHFrNGRuTDBuT29BTHlUYjQ2TEFza3dsYjFDbUlGR2V2LXRRQlJZSDBpeXBtbGhzQjA?oc=5",
+      "source": "The Global Legal Post",
+      "published": "24 Jun 2026",
+      "summary": "\u2018If you take a crap process and put AI on top of it, it will still be crap\u2019: LegalTechTalk speakers reflect on the Gen AI boom&nbsp;&nbsp;The Global Legal Post",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Docusign links Perplexity to contract workflows across legal teams",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGpKSTBPUHE0Q2VIQ2JUalFNZE9IYW9VU1ZoclpUSEZ4SjJYLXgxc3VJSDFhTU9zbkxUd0J4WDJmYlNaTXpvN2s3cGUyaVZlSEZJUmFVc3lqQ3RnOW45ZTZSQ2c4SXF1aXF3c0pYOTE1R2tOUVFhY3ZIQ2lVZlM1QzlUQzZmYVVyejJ0REx3MWliMlJVTkREU0lrcmxlaE5jWXdGeEt0YVZhemE5X1JqVEtXb083aTQ?oc=5",
+      "source": "Stock Titan",
+      "published": "24 Jun 2026",
+      "summary": "Docusign links Perplexity to contract workflows across legal teams&nbsp;&nbsp;Stock Titan",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Thomson Reuters Rebuilt CoCounsel: A Pivot",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11em9ObFFDWmxGNy1ydDNxN003QURoUlpReG5HYXUxNnMzZzB4RHRVV1p4dDFKVUJ6TXB2WEFzS1dueVR6SndaTzl2ZmFaTWE4UlFkYmdzMjJzd1ZoRnJFQjB4dm41UlpFSkZCRnUtbllPYTREajRZREQ4dHdKTTQ?oc=5",
+      "source": "Above the Law",
+      "published": "24 Jun 2026",
+      "summary": "Thomson Reuters Rebuilt CoCounsel: A Pivot&nbsp;&nbsp;Above the Law",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "Compressing multistate research and complex return preparation with CoCounsel Tax and GoSystem Tax RS",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdm5VV0dJb2FDTWZCM0hvTlA0MHoyRC1wQUNhMEtDYzh0Yl90MXBHYWJTSVk2b2JVOXJZb3E4TFlvNW1GZUgzakVFa0toczRkdVJtWGVZb2tuRjQ5czlWMEI0dFozSUZIQ3NqNjRtNk9UbVVWVGNjQ00tcUxGZlJsLXplc081MWwzTGFHeWNaZU1DTmY4MlBicDJJQmlmMGhZWlJrUDlGd2dxcWlqb1A4bUJnU2ZIUTJGNm90QUNCVk9YMHNrQnFXZWNVYmcyWWZCWjN5b1RKaDNiT0xhN1JLeU55ZnFadTVVZkg3cUN3?oc=5",
@@ -1523,16 +1593,6 @@
       ]
     },
     {
-      "title": "Privilege in the age of generative AI | Canada | Global law firm",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnZGWW1OQ0pOUkpsTkFIcUlWN3hBYTRucWNjWHVSZzNtRTRRc19ueGxFZnJOTUpTeXlGTjhwTEREcmJuN3U5OG9fcjlTOUpjWldBZEIyNVZTQ0JTRGNsLXJ6eElNNVNJajdKRVJYQ1pUUG5ic2ZpMlRxdTZ4cVZGSFQ0cWVIeXItVzZKVnZCNVcyS2tFek9xMlI3dUE0bkpyQS1tWFg3ekRMOEJrelhscA?oc=5",
-      "source": "Norton Rose Fulbright",
-      "published": "1 Jun 2026",
-      "summary": "Privilege in the age of generative AI | Canada | Global law firm&nbsp;&nbsp;Norton Rose Fulbright",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
       "title": "Microsoft faces backlash over legal threat to bug researcher",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlVBSXcxQXVIU2hpQjFmS0tKMGliNzVVR2Y2REJNVVZ5ZlVrb2V4TVFfeDA2SEdOVkl5MThCSkR0RzZ3ZWNObnpUQkdzeThtZ2liMGpydF80WnNMdnJNR2RpT2NDMUY0YV9oNHloYVpwNnpOQWxEWHhzQW90dHJGMXQ1bDZmbDluSTJtbjZYaWFkaTRINkFSSG9pZ3U3UkpBYXk0b1J0MDFUZDRxNmQ4WmNmcw?oc=5",
       "source": "MSN",
@@ -2025,89 +2085,6 @@
       "summary": "LawDroid Launches Free Open-Source Claude AI Plugin for Civil Legal Aid&nbsp;&nbsp;LawSites",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "DeepJudge and :Harvey: Partner to Power AI Agents with Institutional Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2VOdzRVbktCWndHMDVUN0Z1SEp4YmFWZEdQVDN5OHlFanU0TTV5ZF9ROUF4RGZwd1JXRDdfODR2NjRiczJqR3pBdUJUaHpzWFFCcDVpWFIwNlA3TmtQTmhieEY2OHNkc0o0OHM4WXAtLWQxVXNHd3ZIUC0zQnhpVUl4cjgyTFQwNnVBN1ZZaEo5SWxtWHNYYmJrQWxOLVdGSDZ2NncwdXRVdw?oc=5",
-      "source": "Harvey",
-      "published": "20 May 2026",
-      "summary": "DeepJudge and :Harvey: Partner to Power AI Agents with Institutional Intelligence&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "AI Platforms Harvey And DeepJudge Announce Partnership",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzZ6TkJIZ2JidXFzR1F5VGFRZHhfV2ZkZU1WLUVEMEdOTDF2WGJ6czdiUHM5YURfU3RDeUg1VDQ3WWdiWklrbzZsNi1JXzdGNm5YbzBNeFRrYWVsZDJzVWJhZkY4WTBWQkM4NE03UFg3Q0V0OWNsYVFNQkh2ckpQWkQ2eXlLLXpnNS1WT0NnYVQ3UHJ6RWxpa2tR0gFeQVVfeXFMTk15SFVLc015emlYcEJaYk9WeGVGRk1XM2UzVFBZVkRVMW9ETlJ5SjFJbWV4R2VMR0lidldQQ0dpeTJvM21nTEI1QU9LS04zOGNGcVRhRWxmZnRUTVFWQQ?oc=5",
-      "source": "Law360",
-      "published": "20 May 2026",
-      "summary": "AI Platforms Harvey And DeepJudge Announce Partnership&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "36. Legora",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yOVdJQ19HTnI2OVRKZUpJT3R1dWJ4ZW9sU1JfSmQ0NU56eE9qTktFSi1oOVF2ZmpFc2RNLUx6ZTNDRDhiTmxVZXpGMm80amU1TGpTSWlGUkl4Z2V2aU4wVWFjWThVeS10ZGJVa0ZNRFRjWWxnenVDMtIBfkFVX3lxTE9OVDJHWWxYTk5yX1FsclBiVW5RRWk3ZmhFWDcwQWdNU0haYjRoVnVBUDBwa0dKRnBWN0lvU1g2VTJUVmRYaHM4SnFXRmlGdHA2bVZBTjRvZlZZMlE0Tk9PZE12UDlGWThUOXpQenZxX0tSN01FZGhqNndGODQ2UQ?oc=5",
-      "source": "CNBC",
-      "published": "19 May 2026",
-      "summary": "36. Legora&nbsp;&nbsp;CNBC",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "24. Harvey",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SejB6cGR1NUVJc2d5S1ZoNVAxQV9xaFByNkNBUXp5RWlsMkpkTHFTZlRHeHk0NnNVZUd2ZU1ueU5wWjk0RnBSSTVuQ0RLUlFhTXQ1VW5kYWlLNndQTFl2Q1RaaXUwb2V4SDJHQW9VQ2g3RDBuUG5VMtIBfkFVX3lxTE54azVGcjIyTnBpQVFDWnV3V3l6X1NoOU0zOVBQaExwandMbU15R3NTWnFWU3ZYdVR5eS11dUNNbU43SnVFSXVSYm01MlF3NXZJbXZkdkU4T0RNeEpwaUFEbFVwZ2RKSUNVenpMQlktQVUxOWFveWxfV3dLSWxaUQ?oc=5",
-      "source": "CNBC",
-      "published": "19 May 2026",
-      "summary": "24. Harvey&nbsp;&nbsp;CNBC",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Could Harvey and Legora Be on Borrowed Time?",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVJyQVRobkFOTjBLbmRScUpkMXZSUlBTSTg2RFZQQ0FBSUdrWnk5N0llWDhyeXFLbGlWVTM3T0dodWJnMDdKQTJzc1A2VGZqSV9EM3hfbFl4enNpYUJCX2hKWWRtcVMwblA4ekg0MXlXUUZteTgxVWdCb3gwYkZoWXpfOHdtbDdNb3NLOURhcTNxRldmRUNXSzgwM3JaMk0?oc=5",
-      "source": "Law.com",
-      "published": "19 May 2026",
-      "summary": "Could Harvey and Legora Be on Borrowed Time?&nbsp;&nbsp;Law.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iemlXdko4M2RsQ1FKVGVnaV9BUWEtUGZrTkdsaDlwczI1UE10OG5FU0JHbkdiZmFzTmN0UXpNRjhySHBiSk5YeG83XzU2RkF0dWhWbWZia2k?oc=5",
-      "source": "Anthropic",
-      "published": "19 May 2026",
-      "summary": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance&nbsp;&nbsp;Anthropic",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "TalkingTech Podcast with Harvey: How AI Agents Are Changing Legal Work\u2014and Why It Matters Now",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQelNHUDNDT2lITlZocUgwVTVDcHlkX19UOG9xNjVrNk1fM3RFQUphZDVTVGlMdi1ZbUpBMjhINDI5aE9qWmthNElUMVdVWkdYU3lvSzNnbk04bVlxQjRDc1J3cHBKVWQ5UElEWl80VGF4eUp0ZDdKOTdCS1RKNkZUb2ZvZEM2ZWVmUzEzNElRdDZXUDRMV0dyZlhRS010TjFVX3VkZkRncEVNRHNDQVI0dGFoQnBDc2lZQlppbExR?oc=5",
-      "source": "Legal IT Insider",
-      "published": "19 May 2026",
-      "summary": "TalkingTech Podcast with Harvey: How AI Agents Are Changing Legal Work\u2014and Why It Matters Now&nbsp;&nbsp;Legal IT Insider",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Some Thoughts On Harvey's Launch of 'LAB,' An Open-Source, Long-Horizon Benchmark for Legal AI Agents",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0p3UTl6SlBMVjc0Skt4LS1kX0s1d21pRWhOUVpraWRjNGhSQ3o3RTRPSzJ5ZFQwR1NLX1oxNFRfaTNTa0p4RHlGSzlzaW1wM1ZleUdDQlFkeHJ3QlZ0Z0p2SmhIUVZqNzdCZHRaLU9IeVZ6ODc2Ul9Od0JTeVpOb0tGczA4VDRYUDVkc0pSMWVwUFF4alFudDlDb05tUVVGWG03QThZaHI0dGl3SWFtUWQ4YmhxVEY5YkZOb1c4SWVxcXBEZDFFdVJzXzgtQQ?oc=5",
-      "source": "LawSites",
-      "published": "19 May 2026",
-      "summary": "Some Thoughts On Harvey's Launch of 'LAB,' An Open-Source, Long-Horizon Benchmark for Legal AI Agents&nbsp;&nbsp;LawSites",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
       ]
     }
   ]
