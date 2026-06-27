@@ -1,52 +1,84 @@
 {
-  "date": "Friday, 26 June 2026",
+  "date": "Saturday, 27 June 2026",
   "articles": [
     {
-      "title": "Law firms look for clear gains from AI",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0SENjM2QxNGVCZ1RiYmhWWUlWeWt0NkI5SjJnZVU0VXd3S2c4M2hyenNBT2Rud2MyVmJ2eFhfeVlwS2FvemMwdU5vbEZTaTROVlRkeC1MQ2Z6Z0hRV2Y3ZElSY1lMZzJFdEtiMG5qWVU?oc=5",
-      "source": "Financial Times",
-      "published": "25 Jun 2026",
-      "summary": "Law firms look for clear gains from AI&nbsp;&nbsp;Financial Times",
+      "title": "ICAI launches AI Innovation Summit 2026, signs MoU with Sarvam AI, unveils advanced AI Course",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQlNlaHoyV2VQUVV4WkhWQk9JYzlFbWVDVXo2OUdGb2pELThqbV81WndTNnljZU10M3lRbHFreG5DV1J0eVZrOWttUkN6T1YwWk9LSzZCWmVabXBDdThwVUVFc1Yzb2RpZ0FIXzF0UlY5NjhzcjJkS1VWdFN2RHcxdVZtU0d6MXRqTHhJaEp3eHZaQnMtT3Y3Qm9XQi10WlJ2ejhkWHBfdk9fS29kYy0zaE02amlGbTBRVGd0eTBrUElzTnJsZ29KYkltRTLSAdABQVVfeXFMUDVYZzJMNFJqc0pqc0ZYamo5SGZXX0x3c3kxcTZyYUQ1T0t3Yl9zUXFrN210TVF4RlRteS05NHMwVWVnVGRqNi1WRm0xRkZBYlRlUTF0VDdmelh4Qks4ZjY5MWRlVm1UUFpJbk5TQ0E5WUJJaWpNaEJzZ1VPWWFRM20wM0tBZWpTeER5Z3Nkb1hRenhUdFpvODgtQWpfUTNPMzZiS3hvbkdOTkNTV3FKYnB6Tml0Qm9PTGhNUkZ3SmdDb2lKbmptbmdGODdzTWdKcA?oc=5",
+      "source": "The Tribune",
+      "published": "27 Jun 2026",
+      "summary": "ICAI launches AI Innovation Summit 2026, signs MoU with Sarvam AI, unveils advanced AI Course&nbsp;&nbsp;The Tribune",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "ICAI launches advanced AI certification, signs MoU with Sarvam AI at innovation summit",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN3hyVW5VNFltZ0tRc0JfT1ItSzBOcGtFYU41aGNtQjBaUnhnRWJxVWstY0JCSnFua3hQdXdNaUFweGNyT0VIZlZyckgwSFpheEFYY0lKTjEwTnotdHNFVTBmLW1qeDE3cDlxbGxDaGk4aUJ4S1o5OXlMUVJ5ZzNlTUtyTlc0eG5EZUhId3FtbDJBS1pKZC1leXFXS094Vl9UX044Uy1BWUxKMy1WUlhYMXZzS1g0NUhfMGw2Z3FtbExLemlIR1VzdW84NnQyMTA0cVdzUDc0WTBqaE4xTlZmZnBieUN0ajRhQ3YzQkpYaFlSUWg30gH6AUFVX3lxTFA0dmdhYnFBNHZGOTctcDhRZkN6bmtGZzJQVV9MTzQxRmhyVDVFZTBUbV9oV1FwcG5oR0JyZnYteFNEVW9UdFlfZHBYZU5HTXFrTXhTcVpBTk4zRFI5Rm05dUVUTEwxcHlSSGhlR1pIWGVpSmh5NGxfZzZaRDNzdFFFZ0FRTW94a09hRnF5ZndLUzhMb2FFSWNucWs4ZURyYWxXcHJmR2F2WVlsd0JMVThwUHk1RW5XOVpQWHBCc2xmX0FsUUx1RW9vZUhsTUZ0Xy1reENlNWdyUTBBNU9ScHl3NWJMa2RPYjJ3NzNMRGg5OWRXdF9GNXg2R1E?oc=5",
+      "source": "The Times of India",
+      "published": "27 Jun 2026",
+      "summary": "ICAI launches advanced AI certification, signs MoU with Sarvam AI at innovation summit&nbsp;&nbsp;The Times of India",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXVkZXFvd2c0cWZOdEpmVWVzY0EtSzJWaGd2OFVkOG5ZaW1EUlNONjcxWDd2d3VyTXJtUHd4TFU4QTJxNVd6WTdiR0dZNk5QbnNOZm9aazk0aEw5TGl3blZZay1TZHp1UmdHRW5INFpaWHBIZFFCZkpaWjA1eGVqS3FxcU9xejA1NTk0SnNfd2QxR0FRZ25JbGlnYk13cEgzUm0xSDlzN3JZRkcyTHdEc1ZzY2pSUGt4Z1diRkpxTHV4Zjhnd01TYQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "26 Jun 2026",
+      "summary": "Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows&nbsp;&nbsp;MarkTechPost",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "CCO Compensation on the Rise",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JX1ZmM1gtaEFjaFJMM3FQbENZSEpmbzBUSzI1T1VpNW5TNHZjM1R3Z2hoQWVnbzR5YklWaHdYeUxKTGlrY01TVmQzd0JjVFhUNHA0RDFKLThmSS1wWmpULXA3U3NGblJveG5hQnlMbDdiR2dZMk5yMDR3?oc=5",
-      "source": "corporatecomplianceinsights.com",
-      "published": "25 Jun 2026",
-      "summary": "CCO Compensation on the Rise&nbsp;&nbsp;corporatecomplianceinsights.com",
+      "title": "Who's suing AI and who's signing: Collective of US local newspapers sue OpenAI and Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5",
+      "source": "Press Gazette",
+      "published": "26 Jun 2026",
+      "summary": "Who's suing AI and who's signing: Collective of US local newspapers sue OpenAI and Microsoft&nbsp;&nbsp;Press Gazette",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Behind the build of CoCounsel Legal Reimagined: 2026 updates",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYklWNFRDTFFWUEZZaXdNajJ6SXhTNkdLbXduU3F3SkE1SW4wbHhlYVU1c2JkMTBlQ0NxdVNJblJoSGhONUQ0U1VQX0FSb2FKczl3NjAtVEZVWGkzQm5RTHVqMDE5ZlpvVER0YXlKZ0M2dk55akR5OTF0bTU5Sl9GV3E2Umk5SzJka2hDMkZiUEpyMVdLdExZNVZNamNCdw?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "25 Jun 2026",
-      "summary": "Behind the build of CoCounsel Legal Reimagined: 2026 updates&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "title": "Cooley Turns To Legora For AI Tool Aimed At Startup Clients",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTlPbGtPdndWWmZheHczUk1zUTVpMjJ1dFRzSkprdFJwd2dsT1FrY1RJQzNtMXlJZFF0Y1lOajhndVN5WUVpV3paMF92NTg0V3FUbGZXY0tFRXhXcGJWVnpHZjNsWFFwNHBVTTJZZnhaaG9DNjFtSF81SGNYT253QW12dm1GZGFoUnAtT19mLXF5SU5kaXZkRE85NlUwVHJX0gFeQVVfeXFMTmR6UWFBcUVhX1BnX1M1alVWUVBvc3Q1a3lSVWx1djJSeWNXSTRMNTV2OTBjNGEySURoUnNzaHA5bG45R0FwdEpXQkdWN25wNDZCaGwySGVxWjdDQkpFUQ?oc=5",
+      "source": "Law360",
+      "published": "26 Jun 2026",
+      "summary": "Cooley Turns To Legora For AI Tool Aimed At Startup Clients&nbsp;&nbsp;Law360",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Chelsea land AI legal platform Legora as training kit sleeve sponsor",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHcwTXMwTFhCc2dsd2NQMU0zSl9DZHhqWG9qUWZaTm5Wa2RraXlfLVJDWEYtaGRFQmcxRXdkYWNfYVhFN2tQcHgwaWVsdzYzVTFJUC1lcUF2N0cxc3BYSHBqZ3hNdEJ4Y1VqR1ZlY0dMazZNQVpsNU5kaWx0QnNycEoxcks5MWlCR1ZsUVpxYlByNU8xR2I2Y2RaLVhqWjkz?oc=5",
-      "source": "Sportcal",
-      "published": "25 Jun 2026",
-      "summary": "Chelsea land AI legal platform Legora as training kit sleeve sponsor&nbsp;&nbsp;Sportcal",
+      "title": "Legora's New AI Pricing Model May Usher In Larger Changes",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRHhWVDcwMkYweWZtWmFoSTdxcHVpU0otamprMkpwbkVOTjh6QTZELWdnNjFMb3NYVVhuazNqZEQzTFQybllVellRdzZPZ1FwZExXblhoa2hYNFBLdllnVjE1d01XeEI3WVh5dl9PTlBONVFpaXhGUkZWa28wQVpNZ2lmNl9BdzJTUE1nYWhKVDUwQ1l3azlWVWJzanlnZ9IBXkFVX3lxTE04MFhtN0VpUkhZZGkyLWdKM1RVNGUydVVVS2I2eTdMYUVMRHhCakltZ3RrZmUwbXpiTzhEUDVSdS1RTmJEN0FZLVRSOVJSNGR6ZWs4d0R1V3ZaSER1blE?oc=5",
+      "source": "Law360",
+      "published": "26 Jun 2026",
+      "summary": "Legora's New AI Pricing Model May Usher In Larger Changes&nbsp;&nbsp;Law360",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Legora Continues PR Drive With Chelsea FC Sponsorship Deal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNay0wQ2djVmV4S2tfRnpxeU85djItLTVra2EzWk1iUEJTdmlsWnNCY3dtZmxyMlBLTEY5WFdLenQzckZLMGlObEFBUnZNUnN2NERadC16TzFQeGhQOW9qRDd0Zi1CZjlqTF9rak9KbEx4MWJlQUpEa25va2lfRVlYQ0phWmZvb3dEdTVaN2YtY0p2bHk5d1JDU2N2N2xpcEt5M0RDeWdBSXo0cmNrdzhsRVF3?oc=5",
-      "source": "Law.com",
+      "title": "10 AI and Legal Tech Platforms Transforming Cross-Border Legal Services in 2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHdvVFFHVXROQlVlTEh2MEhNVUgwZ1ZlNUNhOE9NTjRvdFJRMjFZUm9FMlVUUzgweWItOEE3NlktU3ZKTVViZ05Mc3Q3ZllHYmVNVDZKNkw1UjdQa3RFb2VERkt2R19lZ1BEOEVKY19ZRHRyR2JJR0RjVTZKLTkzN1o0d0NkZVhFTkU5SWhXSzVDbDFuNVJNdl9YdU94d01rOGQtcHJPcU9wNFQybVRxTmxWbmRpdw?oc=5",
+      "source": "BBN Times",
+      "published": "26 Jun 2026",
+      "summary": "10 AI and Legal Tech Platforms Transforming Cross-Border Legal Services in 2026&nbsp;&nbsp;BBN Times",
+      "tags": [
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "BDO Abogados adopts Legora AI platform",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUaFpZR1ZzNW1JbUwzRVZobWtFY1RDY1BHR2xaYmNSbFQwcGktaXhUd2pBNklXWGZrWllKVUVlaVdIZ2ZBM0NaLVRCblh3MF9oUFZ1dFljMzM0UHNfYi1BR2FkdjAzaklMbmJsWnF2dUZNVVU?oc=5",
+      "source": "Iberian Lawyer",
       "published": "25 Jun 2026",
-      "summary": "Legora Continues PR Drive With Chelsea FC Sponsorship Deal&nbsp;&nbsp;Law.com",
+      "summary": "BDO Abogados adopts Legora AI platform&nbsp;&nbsp;Iberian Lawyer",
       "tags": [
         "Global AI Tool"
       ]
@@ -62,17 +94,55 @@
       ]
     },
     {
-      "title": "BDO Abogados adopts Legora AI platform",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUaFpZR1ZzNW1JbUwzRVZobWtFY1RDY1BHR2xaYmNSbFQwcGktaXhUd2pBNklXWGZrWllKVUVlaVdIZ2ZBM0NaLVRCblh3MF9oUFZ1dFljMzM0UHNfYi1BR2FkdjAzaklMbmJsWnF2dUZNVVU?oc=5",
-      "source": "Iberian Lawyer",
+      "title": "Legora Continues PR Drive With Chelsea FC Sponsorship Deal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNay0wQ2djVmV4S2tfRnpxeU85djItLTVra2EzWk1iUEJTdmlsWnNCY3dtZmxyMlBLTEY5WFdLenQzckZLMGlObEFBUnZNUnN2NERadC16TzFQeGhQOW9qRDd0Zi1CZjlqTF9rak9KbEx4MWJlQUpEa25va2lfRVlYQ0phWmZvb3dEdTVaN2YtY0p2bHk5d1JDU2N2N2xpcEt5M0RDeWdBSXo0cmNrdzhsRVF3?oc=5",
+      "source": "Law.com",
       "published": "25 Jun 2026",
-      "summary": "BDO Abogados adopts Legora AI platform&nbsp;&nbsp;Iberian Lawyer",
+      "summary": "Legora Continues PR Drive With Chelsea FC Sponsorship Deal&nbsp;&nbsp;Law.com",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Chelsea land AI legal platform Legora as training kit sleeve sponsor",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHcwTXMwTFhCc2dsd2NQMU0zSl9DZHhqWG9qUWZaTm5Wa2RraXlfLVJDWEYtaGRFQmcxRXdkYWNfYVhFN2tQcHgwaWVsdzYzVTFJUC1lcUF2N0cxc3BYSHBqZ3hNdEJ4Y1VqR1ZlY0dMazZNQVpsNU5kaWx0QnNycEoxcks5MWlCR1ZsUVpxYlByNU8xR2I2Y2RaLVhqWjkz?oc=5",
+      "source": "Sportcal",
+      "published": "25 Jun 2026",
+      "summary": "Chelsea land AI legal platform Legora as training kit sleeve sponsor&nbsp;&nbsp;Sportcal",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Behind the build of CoCounsel Legal Reimagined: 2026 updates",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYklWNFRDTFFWUEZZaXdNajJ6SXhTNkdLbXduU3F3SkE1SW4wbHhlYVU1c2JkMTBlQ0NxdVNJblJoSGhONUQ0U1VQX0FSb2FKczl3NjAtVEZVWGkzQm5RTHVqMDE5ZlpvVER0YXlKZ0M2dk55akR5OTF0bTU5Sl9GV3E2Umk5SzJka2hDMkZiUEpyMVdLdExZNVZNamNCdw?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "25 Jun 2026",
+      "summary": "Behind the build of CoCounsel Legal Reimagined: 2026 updates&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "CCO Compensation on the Rise",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JX1ZmM1gtaEFjaFJMM3FQbENZSEpmbzBUSzI1T1VpNW5TNHZjM1R3Z2hoQWVnbzR5YklWaHdYeUxKTGlrY01TVmQzd0JjVFhUNHA0RDFKLThmSS1wWmpULXA3U3NGblJveG5hQnlMbDdiR2dZMk5yMDR3?oc=5",
+      "source": "corporatecomplianceinsights.com",
+      "published": "25 Jun 2026",
+      "summary": "CCO Compensation on the Rise&nbsp;&nbsp;corporatecomplianceinsights.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Law firms look for clear gains from AI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0SENjM2QxNGVCZ1RiYmhWWUlWeWt0NkI5SjJnZVU0VXd3S2c4M2hyenNBT2Rud2MyVmJ2eFhfeVlwS2FvemMwdU5vbEZTaTROVlRkeC1MQ2Z6Z0hRV2Y3ZElSY1lMZzJFdEtiMG5qWVU?oc=5",
+      "source": "Financial Times",
+      "published": "25 Jun 2026",
+      "summary": "Law firms look for clear gains from AI&nbsp;&nbsp;Financial Times",
+      "tags": [
+        "AI Trend"
+      ]
+    },
     {
       "title": "How Shoosmiths is turning legal expertise into AI-powered advantage",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDZXTzVuNE5GVW5xRWFTbWktV2lTb0E4V29SWVh1NGtSVExxaWlMVXRCNGl4QU56ZldjRE5lVHZhMVZ0WmEzczFaZ0l6NW1FTFdKcWxFNDAxcmlhR3pScExWckpRTzRWTUt1Z0oxakgtaEhLTWZ1YS1YRnk4NlVLUXA4dGU1eEIzclFQSW9pbXVjRGJSVmFQdktDUmMtUkNjaFZVLU5NczIwWFgzd3c?oc=5",
@@ -2012,79 +2082,6 @@
       "summary": "HMD brings DoT\u2019s Sanchar Saathi app, Sarvam AI to smartphones; focuses on India-first strategy: CEO Ravi Kunwar&nbsp;&nbsp;Fortune India",
       "tags": [
         "India Startup"
-      ]
-    },
-    {
-      "title": "\u201cIndia different country today\u201d: Sarvam AI co-founder confident of country\u2019s potential to be creator of technology",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOFdXZnVlbklOcVdTYk53M0ZlbnFydmtocWY0Uk5FWVJ5WnBaVWxoZUZaRGZhbHV0XzJtOFVLS3FZRGpZUHZOUHR5emtLV3NxSEViY012bm5yM09iRGhiNWl0Y3ZINVpBR1pqS3JHTV9NWFEzM2NBYmdVWTBiY1pVYXBBNVQ1QjJHSThSX3ZHMEtoU0d2N3hCS2pZUTRYeHFqcjljRG5kY093OWpGaU5SNzZYWVpCYlBrbDVXbXJIT25aSzYtb1FUUFQxMzN5eURsNGc?oc=5",
-      "source": "DD News",
-      "published": "20 May 2026",
-      "summary": "\u201cIndia different country today\u201d: Sarvam AI co-founder confident of country\u2019s potential to be creator of technology&nbsp;&nbsp;DD News",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Harvey\u2019s AI Agents Spark Legal Practice Overhaul Across Law Firms",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYy1mTW1ZS1RPak43cWV3X0VRUUkxNEZRMjh6Z1k0T0g1TWZDUXNNT3lxQXpxYk9DbGx5ZGFYSmk2c21iU3VmeThHb0czc0x5cGtZckpBbGxKTEc2dnotZnd4cUc3c1RIYXFLSlMzOGVCWEhWY1c1M0hFVTFJXzh6OG5CWEtSMHNEY21wc0txTkZUd2lKNTRKSA?oc=5",
-      "source": "AI CERTs",
-      "published": "20 May 2026",
-      "summary": "Harvey\u2019s AI Agents Spark Legal Practice Overhaul Across Law Firms&nbsp;&nbsp;AI CERTs",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Harvey Launches Command Center, Partners With DeepJudge",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlZYeGQ5TWgyNjRmZW9SZ29FRTU2cjMyMlhzVVVKcGtOWFF5UTF3YUZRRjlQLTdSWkk2VVJMQkVaemxkU1dfSmYtZENsb09fdlplMlUyQnlJTHBiTlJNU3RQN2ZCalFNN2h3MWVFRjlfekZocXFGVklfUGx5UkJYZHVub1Rsemt1Q1B4N1RwMldDLW9yVWlIdmtsWWF0Wkcx?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "20 May 2026",
-      "summary": "Harvey Launches Command Center, Partners With DeepJudge&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey partners with DeepJudge and unveils Command Center to measure and drive AI adoption",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRTRxckNia2h3bHBsQWxLb280WTFrWlBoTnIyMl9keTEwM211WW1pYTUzQ0QzbTVFeWR5bXdYSmxPbDhpRHJqSmlhSXBWUlFSUWk2WkpRMDJpRHdpTlp5dC0tS1pvcERBNElXT1RnZkNLT2RseFliR3B4a0FjVmNCV0ZMbnN5cUwxelo5YlM4ekxLOXprdzN1cWV6VV9nUkJjSzJqYlJtWXI0UC1MLUU5VjU0UzZKS29oYlE4?oc=5",
-      "source": "Legal IT Insider",
-      "published": "20 May 2026",
-      "summary": "Harvey partners with DeepJudge and unveils Command Center to measure and drive AI adoption&nbsp;&nbsp;Legal IT Insider",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Harvey Launches \u2018Command Center\u2019 for Managing Enterprise AI Adoption, and Partners with DeepJudge on Institutional Knowledge",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR0JBUDR3ZUFtdzk3cGRMWllVMkdPZjVaVmwteGhHaFZEclVIb051NUtNQnkxSDhoNmdJUDBTYUppQnRaNTJwMTdoOXM3NXpuYVpBOWFqdTltN2puMUNKb1R6UlpPN21rTU1ENHdib29nUndjUXN1SmQ2NktzemR1Ym5UY2ZqMUstRmF3a08yamw2M2NlOFlFVktNOUFVS1pVWTdrSXZPOVpjcThQcEFiSGNzSW1qOTlCZ2V5aXVQajg0TEYyMnRfM3JFamF5bDEwdmswVS1CX3hhVkppRlU0dEg1ZXlwem1CNlF2UUZJMA?oc=5",
-      "source": "LawSites",
-      "published": "20 May 2026",
-      "summary": "Harvey Launches \u2018Command Center\u2019 for Managing Enterprise AI Adoption, and Partners with DeepJudge on Institutional Knowledge&nbsp;&nbsp;LawSites",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legal AI Firm Harvey Bets Big on France Amid Rising EU Tech Scrutiny, Data Concerns",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWTJOSVRHdlJYdDluNzhqY2luWVc2ZnZ6RjdLOXRhWHJWZlItVTdoT1VneC1JXzRfVFFraVNFOEZPbFI2RnhOYXhVNE5ndEdVZGNTd3FNSWRJUzNQLXZwQmV5aGlnSWpyTTB5cTJadE10cHFENkFfaU5YNC1GUEFCMFhFbHlySVExbVI4MzZGcm5RcHlDS292MEtUeDlXSGYtdUZfZmgyLURObXdlTlZQTHFQaURteEIwUFg2ZHlNcDBuTUJlNkVtc2JteW51Zl95dWc?oc=5",
-      "source": "Law.com",
-      "published": "20 May 2026",
-      "summary": "Legal AI Firm Harvey Bets Big on France Amid Rising EU Tech Scrutiny, Data Concerns&nbsp;&nbsp;Law.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "LawDroid Launches Free Open-Source Claude AI Plugin for Civil Legal Aid",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGZLUlV1WFVGNmFhZVlEVWlfX1JQaWxBcnpMWE1xQ28tVE5NOEpJZ1J3eVk5c1lnSnJPd0FPOGxndmFoX0dyZmpPRnk4SDhVdW5QTmdWejFHTUMxR1BteHBySXR3V1llVjRUZkNCRUg1aWlPN1RWbm5aSHF2Q0tWOEFxLVZQSTFGemtUeXJNNV8tRWpEQ1lvUFhvRXdCdEtBMFd5U1lKOWhQd29O?oc=5",
-      "source": "LawSites",
-      "published": "20 May 2026",
-      "summary": "LawDroid Launches Free Open-Source Claude AI Plugin for Civil Legal Aid&nbsp;&nbsp;LawSites",
-      "tags": [
-        "Global AI Tool"
       ]
     }
   ]
