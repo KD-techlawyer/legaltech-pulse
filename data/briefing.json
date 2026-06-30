@@ -1,14 +1,66 @@
 {
-  "date": "Monday, 29 June 2026",
+  "date": "Tuesday, 30 June 2026",
   "articles": [
     {
-      "title": "From Legacy to AI Frontier: How Johnson Stokes & Master Built a Governance-First Copilot Model for Regulated Legal Services",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTElGMXB1anNoVnlkVzJiU24zQ0NmWTZ3Z1U5QUpNNXhsbF93TF8wYjZxVENxeWV4S3hqMkRqNGYwekx4TnlocWM5TG1HcmVYNTU0dnctaGxZT1FRMUxKOTZYek5kV0xXeE1PaXNDaEVidkhpeS1VOEhGQ29NQlUzQ3FwSldnZ2J5ZGJ5ZnJ6TlBGNzhnT3VVYnRCalA0UndIZ2JaNzU4UzlpRkVVYS1laE9oUHpnV3VjODgyVENPWWc5d2lhUE9ac2JTVU9WTU91akgzMkxuNnJlT0lZNVZEQlRGckVoZ3daNDJMSy0zcXIzaEl0OHpoeDVnVXN5QQ?oc=5",
-      "source": "Microsoft Source",
+      "title": "Descrybe Surpasses 700 New Paid Subscribers in Six Weeks",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2U5SDhRUDMzWkpXU1RNQklPTHBxLW5INGk1WDZ2TEJhbEpHXzcxcnVoSC02X0JnX0hjRE9hdGZKOUNXZUpnUDNYQ3VoTm5qdjNyc0kzX0FXT1gwZEdQU0FuZzB1U3o1em40Zy00OEpVUngyM1ZkQ09VMkZrQUlEaG9hU2FmMTFWV2o4ci1tLUo2d2VqaVlwSw?oc=5",
+      "source": "LawSites",
       "published": "29 Jun 2026",
-      "summary": "From Legacy to AI Frontier: How Johnson Stokes & Master Built a Governance-First Copilot Model for Regulated Legal Services&nbsp;&nbsp;Microsoft Source",
+      "summary": "Descrybe Surpasses 700 New Paid Subscribers in Six Weeks&nbsp;&nbsp;LawSites",
       "tags": [
-        "Global AI Tool"
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Building a Legal AI Partner Ecosystem on Standards the Profession Demands",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGVEckFMVDJ2WXlEcjBhUXE0SjhZcGxDVlIyVndLb21ocy0tZHdTY2F1cjZwNVU3dVhxUUN2NU1MZldMbVZWX2F5U2J3TDFkWlJhbEFXVFdfTjhnUEJPdmVpd2FybGZ2dkZ3WkhNMGhnUl91aFhqamljaXQzRTIza2hURmtOUTBudXJDQ0hGUnZ0WkQwU1RjTTF2Vm9lTF92eTBMTVZB?oc=5",
+      "source": "Thomson Reuters",
+      "published": "29 Jun 2026",
+      "summary": "Building a Legal AI Partner Ecosystem on Standards the Profession Demands&nbsp;&nbsp;Thomson Reuters",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "The intersection of legal expertise and AI development",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnRWMk9NOUFTR1lrdDNNQ3NlT1ZIdm5pWDJTZzRfWl9zSmN6RzU2NERkQjJZSVpFMy01SlpacTBvNVU1dzdnVHNZTWhGWlVIdFdvNEItNG9MTDdCckxraGdZMXZKeFR6MW5Rd3lOVm5GVjBTOGZwUEstUGo5UHlTeFdWZDdpdWhxZm91VnluS1Rqcm53RThJeXoycWRTRXVhVkZLdi1DbVlyekktUG9KLTd5YUo?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "29 Jun 2026",
+      "summary": "The intersection of legal expertise and AI development&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Maruti Suzuki partners Sarvam AI, four startups to automate business operations",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUUJhdklKODVTc0pzRnkyWXk5a2ltd1NtellzSHRmTkcyRXgyWlpDdmdzaG96aFRTeVU4eEYzLVdScjlyYktDR1BlYUpqbExBdmVGX3VtT1h1ZVpMQzZSOUFkV2p4bmpBUWlZcGtjOHJxMnhYT25DeGVlMVdLVzZTZHMzQjdZLVFPanZrQm10TGx3Mml0LVhHaS1oWFVMX3hxaEZKbWZ1RnhYZ25DMHZtYkVfQWwtLW9fNkE?oc=5",
+      "source": "CRN Asia",
+      "published": "29 Jun 2026",
+      "summary": "Maruti Suzuki partners Sarvam AI, four startups to automate business operations&nbsp;&nbsp;CRN Asia",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Sarvam AI, ICAI partner to build CA-focused language model",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1lmWXYtRXNmamNRYks4ZkV6LTY3SG1xWGprNHNpWGQ2by1LY2R3ZnR1WF9BcjVlbTMyN082ZnVYOWVCZU1xQWtFOWNUd2UxWU13VkFEdXN1NXhoLVBGYWplNDRTQkF0N0UxaVBSOWNjckQxUy1tcHlRZEpZRENMTmJ4Skp1d0YyX0RKNlNQZmFEdkp1Q0Mw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "29 Jun 2026",
+      "summary": "Sarvam AI, ICAI partner to build CA-focused language model&nbsp;&nbsp;Yahoo Finance",
+      "tags": [
+        "India Startup"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "HCLTech-Sarvam deal signals AI-building push",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1o2WWNRdE91VHVYQzhFSllYVHRuSncxUGQ0eDRtamZPVThwUHRGWjhoRzZYdlQ4S29sQzY2Um9DU1l5RjAyRHNucXlpVEFhMHdlZGllWWVYN1A1U1p6ek5lTWp5cTBkSFdDMVlUaHhwN0hmTUxLd0dYUXVyZ2ZzX2lBeG00NUt5R3JuSGhMYXV0bGxv?oc=5",
+      "source": "Deccan Herald",
+      "published": "28 Jun 2026",
+      "summary": "HCLTech-Sarvam deal signals AI-building push&nbsp;&nbsp;Deccan Herald",
+      "tags": [
+        "AI Trend"
       ]
     },
     {
@@ -22,17 +74,15 @@
       ]
     },
     {
-      "title": "HCLTech-Sarvam deal signals AI-building push",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1o2WWNRdE91VHVYQzhFSllYVHRuSncxUGQ0eDRtamZPVThwUHRGWjhoRzZYdlQ4S29sQzY2Um9DU1l5RjAyRHNucXlpVEFhMHdlZGllWWVYN1A1U1p6ek5lTWp5cTBkSFdDMVlUaHhwN0hmTUxLd0dYUXVyZ2ZzX2lBeG00NUt5R3JuSGhMYXV0bGxv?oc=5",
-      "source": "Deccan Herald",
-      "published": "28 Jun 2026",
-      "summary": "HCLTech-Sarvam deal signals AI-building push&nbsp;&nbsp;Deccan Herald",
+      "title": "From Legacy to AI Frontier: How Johnson Stokes & Master Built a Governance-First Copilot Model for Regulated Legal Services",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTElGMXB1anNoVnlkVzJiU24zQ0NmWTZ3Z1U5QUpNNXhsbF93TF8wYjZxVENxeWV4S3hqMkRqNGYwekx4TnlocWM5TG1HcmVYNTU0dnctaGxZT1FRMUxKOTZYek5kV0xXeE1PaXNDaEVidkhpeS1VOEhGQ29NQlUzQ3FwSldnZ2J5ZGJ5ZnJ6TlBGNzhnT3VVYnRCalA0UndIZ2JaNzU4UzlpRkVVYS1laE9oUHpnV3VjODgyVENPWWc5d2lhUE9ac2JTVU9WTU91akgzMkxuNnJlT0lZNVZEQlRGckVoZ3daNDJMSy0zcXIzaEl0OHpoeDVnVXN5QQ?oc=5",
+      "source": "Microsoft Source",
+      "published": "29 Jun 2026",
+      "summary": "From Legacy to AI Frontier: How Johnson Stokes & Master Built a Governance-First Copilot Model for Regulated Legal Services&nbsp;&nbsp;Microsoft Source",
       "tags": [
-        "AI Trend"
+        "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "10 AI and Legal Tech Platforms Transforming Cross-Border Legal Services in 2026",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHdvVFFHVXROQlVlTEh2MEhNVUgwZ1ZlNUNhOE9NTjRvdFJRMjFZUm9FMlVUUzgweWItOEE3NlktU3ZKTVViZ05Mc3Q3ZllHYmVNVDZKNkw1UjdQa3RFb2VERkt2R19lZ1BEOEVKY19ZRHRyR2JJR0RjVTZKLTkzN1o0d0NkZVhFTkU5SWhXSzVDbDFuNVJNdl9YdU94d01rOGQtcHJPcU9wNFQybVRxTmxWbmRpdw?oc=5",
@@ -2012,36 +2062,6 @@
       "summary": "Why Attorney Oversight Builds Trust for Legal AI&nbsp;&nbsp;Harvey",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Miami-Dade, Broward courts issue unified AI disclosure rules",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTk96UEN0ZHRIVDBaWXo1dkNhOUZVVDROX0pJejQ2MmJLRUtYcTBVNFhueXZOQ3doV25pbVZPVEE4WUhEYkRrMmRxbVFram9JeUVxNlJ0b3hHS25UZlVYV1VDRFQ3cEZWZWJ2Yml6dzRVUVBuYXhWbEhaM010OXhVUWJFQkR0SVFUZHczMGJOQWZIbVVxYkpLYVI0RVRnOWJ0TC1TaVVCcHNQX193?oc=5",
-      "source": "The Florida Bar",
-      "published": "21 May 2026",
-      "summary": "Miami-Dade, Broward courts issue unified AI disclosure rules&nbsp;&nbsp;The Florida Bar",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Claude for Legal and Access to Justice: The Good, the Bad, and the Unknown",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZThaU2xrbXdzSzFkMFBUSFJOUkVKQU5GeEJPU2o2RW1MdjMzOEJISHpJVDJfdjJZUnU2aE9NWHY5R3lKZkJ3TVNtX2hvYTYxRUJqWTF2cFYwcWdocjUwTk1GSmM2QlF6ZDJtTEFYYmdUOGs0NUZaWEdNQlVKUkJrNjd6N3hiSS1aMFJXN2RkLTAtVk41SUVVdUUyT0x3Yi1YZFJNMEh2bE5WS2l4?oc=5",
-      "source": "LawSites",
-      "published": "21 May 2026",
-      "summary": "Claude for Legal and Access to Justice: The Good, the Bad, and the Unknown&nbsp;&nbsp;LawSites",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "AI in Legal Global Market Analysis Report 2026: $12.49 Bn",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPY2xfTDUxN0Y3aDFhd2dYNGkyVWxNTk1keTRkOEJKLVN3SC1NTEo1cWFrY2piNVctc3BRUmNlUGZGdDAwazRRV1VoVmdVOTNsek02V0U1LW5WSjNqaXI1MGQ4Zk9MY2laNmh4a0dRUk9KRFpnaWxfRWNPZ1BqLTF1XzFIT2lIOXMyWDJlV051YzdlazNDOElTeWQxMUdCWEVucnZiOERlQnJSWlR5WEZpZHoxTzZlaXZLYXlNYWZobUVZNVN3ekR1NEozTXpGYVdzV3ZjRWpmbnh1akhRNXpmM3ZLSnVMWXowMC1JQWNkWE5JZjhmdmdGWmI2TTI5YlUxelBmdUtuT0UzdTNWbDVKT0szR3RoU0d6bzhqQXgyT0g4SWJQRzZWdzQwampBVGFPMzg1cXJQdGR6aXFnZjFKbzAzc3htcXhMQWc?oc=5",
-      "source": "GlobeNewswire",
-      "published": "21 May 2026",
-      "summary": "AI in Legal Global Market Analysis Report 2026: $12.49 Bn&nbsp;&nbsp;GlobeNewswire",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
