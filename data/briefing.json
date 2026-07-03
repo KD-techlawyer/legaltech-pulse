@@ -1,52 +1,34 @@
 {
-  "date": "Thursday, 2 July 2026",
+  "date": "Friday, 3 July 2026",
   "articles": [
     {
-      "title": "AI & Tech Brief: Fable is back",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0lkeWRKTU5YdE5MZjJxdmF1YTdBcFN5aHJtV1AycC1SVzBSdDdSd3NCVHRGWWUyR19HR0s0a0ZDaTVGUEJmQUJTUm1HLVJTWUtkUnVVcmgwM1NfTUVIRzVJbmFNMFluUWNodWNJZ2c5T0NGUDhyOC13U0lFNXVZblVzbUMySDVVdFhnZWNLOHdrNV8yWWdGWFRXdDFBUWg4V3c?oc=5",
-      "source": "The Washington Post",
+      "title": "More Than Compliance: Why AI Is Pushing Legal to the Center of Business Strategy",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWtCcmJRVi1LcFV1bmt1NkpXWTR5eXlOY2xlWjd3ejBNa0FNRUpRcG9HRHNKVndfSjZ6WDlzX204X29CVWdUWllRa1dMZDA5QWhkblpsTEVoS1B4ZEpLcTJfMzF5eS1CaHFfb0cxX0VkYzlrWXdQSjdoZWRleDJfRlRQNDU5RDMwVFV5TU1tTnlDRFQ5U3F4R2FZMmR2QWUwaGFfdWJ0clJ4QlM4Ty16ZE1JM25zaDlhWEoyVnIySlY?oc=5",
+      "source": "Law.com",
       "published": "2 Jul 2026",
-      "summary": "AI & Tech Brief: Fable is back&nbsp;&nbsp;The Washington Post",
+      "summary": "More Than Compliance: Why AI Is Pushing Legal to the Center of Business Strategy&nbsp;&nbsp;Law.com",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "1 Jul 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "AI evaluations systems for the next generation of CoCounsel Legal",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjhSVHhON1k2TU85T282OEFXOVVzdFRvMG1VdFQtMzktUEZoSmYxbnVGZFV6TjVuYUVYWVNzZlJ4eUpuOW5MMmtnczhEOEJJaG1EOS01UjBsN1VJNUp0dTRlcTBVa09abDh5ZUlHckNqaWZTdFE0R3VsTG1kRmJZVnAyTER4SlBrZlNTakU4RFQ3bWQtM3A2Q0tFZnRJM0RXY0xrNllDMlpIU3JFenZrQWNSd3h0WTJCeXRvMy1aX2VxNmlYX1NvQS02cUMyOFRXQXZ1WFItWQ?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "1 Jul 2026",
-      "summary": "AI evaluations systems for the next generation of CoCounsel Legal&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Simmons & Simmons builds on AI frontrunner status with Legora",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHg3NlVORHVHRzVvZldOOUVveTg1cE52Vk00RUlibTJtZjdvSkJibE5wRWRPM2JCeDF1QVFqMVpiWlZVUDRtdkRqYWlDd2lRZTlfTGRxTTJqRUdrdkxEazVGZHZqYUxzeVAyYU5oVHZuakhZa2xUQmpyM0M1Q0xCbW9acThMRWQ2SWpoUlZMRVF5T2NsV01aUGx5X081NHEwTFIybm9adndrN3A4?oc=5",
-      "source": "Simmons & Simmons",
-      "published": "1 Jul 2026",
-      "summary": "Simmons & Simmons builds on AI frontrunner status with Legora&nbsp;&nbsp;Simmons & Simmons",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckljYzFFZjhPLTU1ai1DOWhwT1h5M2VEdThBZFVwYzNTOVdmcEN0aTRJR3NLYmlSdlVCbWNMemFjeC1maVlHMjRTWW1PdkU1UlB1N0xQcDFOX1FJTk1zV1ZzUkd3aVM0cFhCbUdzbWJ0VkttYmVwVy1RMW9kYk1lOTRiYWlZUnlKdHhZOTQwMGdfZ0ttSWNZd0FyeVpVcWF0MklKSEVaMjA5NDZqZnp1V0JySzVtaWVRRklB?oc=5",
+      "title": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGlNOXRvcHdJb01kYWwxRWotNEtvdDZhYUtMcWlUNFJCdmlQUlpZcjd0YnFNNVVyMzF2NHp1b25xRnBQdEVORmdrazJFSkVfaDBWWTdzSjQxWkYwZkwzbU45X2dCekIxN2FrazlJU256dEpQeDNMYWxVX1pyY2hKUnhUQU9tN2FqRlNOUm1pTlE0ZkFGYVJMbEZ3bmJYeU5DcDNmaFhWWng3Z0s2cGpETkNnQ2R4ZmRKdU1IOThHN0d5ellwd0JHSE85SVQ1VUZBcl82Tw?oc=5",
       "source": "LawSites",
+      "published": "2 Jul 2026",
+      "summary": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report&nbsp;&nbsp;LawSites",
+      "tags": [
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "On-Demand Downloads in CoCounsel",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGtpT19jdkxLY3dyV1hyZTY2VlBGOWdaQXpMR2RpbEtJdzRtZDMxYV9LZTgyUFdHVjJiUHRPR2RwQWMwZTRkLTVac2tpUWJCZnJjQWliQWFsMzcxb1J1VFZ4SmVRWjROMEtiVzZiSkRXZk1oWVRaSGFzTGFGa3l5bjBXRU9aZE03TXhjOFB3ZjRPNzhtYzlxWjBoWE1oQVZsQVF2R1BDUGxoMzVWRjNPR1BTT1ZReDAwa282TlFDV0lzLW04ZjJLUTRHUkVBQQ?oc=5",
+      "source": "Thomson Reuters",
       "published": "1 Jul 2026",
-      "summary": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership&nbsp;&nbsp;LawSites",
+      "summary": "On-Demand Downloads in CoCounsel&nbsp;&nbsp;Thomson Reuters",
       "tags": [
         "Global AI Tool"
       ]
@@ -62,17 +44,55 @@
       ]
     },
     {
-      "title": "On-Demand Downloads in CoCounsel",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGtpT19jdkxLY3dyV1hyZTY2VlBGOWdaQXpMR2RpbEtJdzRtZDMxYV9LZTgyUFdHVjJiUHRPR2RwQWMwZTRkLTVac2tpUWJCZnJjQWliQWFsMzcxb1J1VFZ4SmVRWjROMEtiVzZiSkRXZk1oWVRaSGFzTGFGa3l5bjBXRU9aZE03TXhjOFB3ZjRPNzhtYzlxWjBoWE1oQVZsQVF2R1BDUGxoMzVWRjNPR1BTT1ZReDAwa282TlFDV0lzLW04ZjJLUTRHUkVBQQ?oc=5",
-      "source": "Thomson Reuters",
+      "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckljYzFFZjhPLTU1ai1DOWhwT1h5M2VEdThBZFVwYzNTOVdmcEN0aTRJR3NLYmlSdlVCbWNMemFjeC1maVlHMjRTWW1PdkU1UlB1N0xQcDFOX1FJTk1zV1ZzUkd3aVM0cFhCbUdzbWJ0VkttYmVwVy1RMW9kYk1lOTRiYWlZUnlKdHhZOTQwMGdfZ0ttSWNZd0FyeVpVcWF0MklKSEVaMjA5NDZqZnp1V0JySzVtaWVRRklB?oc=5",
+      "source": "LawSites",
       "published": "1 Jul 2026",
-      "summary": "On-Demand Downloads in CoCounsel&nbsp;&nbsp;Thomson Reuters",
+      "summary": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership&nbsp;&nbsp;LawSites",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Simmons & Simmons builds on AI frontrunner status with Legora",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHg3NlVORHVHRzVvZldOOUVveTg1cE52Vk00RUlibTJtZjdvSkJibE5wRWRPM2JCeDF1QVFqMVpiWlZVUDRtdkRqYWlDd2lRZTlfTGRxTTJqRUdrdkxEazVGZHZqYUxzeVAyYU5oVHZuakhZa2xUQmpyM0M1Q0xCbW9acThMRWQ2SWpoUlZMRVF5T2NsV01aUGx5X081NHEwTFIybm9adndrN3A4?oc=5",
+      "source": "Simmons & Simmons",
+      "published": "1 Jul 2026",
+      "summary": "Simmons & Simmons builds on AI frontrunner status with Legora&nbsp;&nbsp;Simmons & Simmons",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "AI evaluations systems for the next generation of CoCounsel Legal",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjhSVHhON1k2TU85T282OEFXOVVzdFRvMG1VdFQtMzktUEZoSmYxbnVGZFV6TjVuYUVYWVNzZlJ4eUpuOW5MMmtnczhEOEJJaG1EOS01UjBsN1VJNUp0dTRlcTBVa09abDh5ZUlHckNqaWZTdFE0R3VsTG1kRmJZVnAyTER4SlBrZlNTakU4RFQ3bWQtM3A2Q0tFZnRJM0RXY0xrNllDMlpIU3JFenZrQWNSd3h0WTJCeXRvMy1aX2VxNmlYX1NvQS02cUMyOFRXQXZ1WFItWQ?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "1 Jul 2026",
+      "summary": "AI evaluations systems for the next generation of CoCounsel Legal&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "1 Jul 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "AI & Tech Brief: Fable is back",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0lkeWRKTU5YdE5MZjJxdmF1YTdBcFN5aHJtV1AycC1SVzBSdDdSd3NCVHRGWWUyR19HR0s0a0ZDaTVGUEJmQUJTUm1HLVJTWUtkUnVVcmgwM1NfTUVIRzVJbmFNMFluUWNodWNJZ2c5T0NGUDhyOC13U0lFNXVZblVzbUMySDVVdFhnZWNLOHdrNV8yWWdGWFRXdDFBUWg4V3c?oc=5",
+      "source": "The Washington Post",
+      "published": "2 Jul 2026",
+      "summary": "AI & Tech Brief: Fable is back&nbsp;&nbsp;The Washington Post",
+      "tags": [
+        "AI Trend"
+      ]
+    },
     {
       "title": "$MSFT Notification: Microsoft Accused of Misrepresentations about its Copilot Issues in Securities Fraud Class Action",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMmRuZW1qYnp2UmlIcWt5QzNLZ1RlUWU4WHpZU0RJZnZodmRlenRaVjZJTDhRby1sX2RfOVZqNi1TalVTbjlHamV6bUR3Nzh0TkZ5cG9WajFKOGlTSWphREREa2s0WUNySzVUazFLN0lWT1M0RTd5Z0ZBaEdlYXBsellJWG5uT2prRDFpSWViYS1YWUlCc092VjlyaVFFVjg4aUdwU0NPcmNIVzVUQzFkR1FWN20xQWs1ZXlnUE9BejZzWDRZU01xcGdCWGVqZ3NfZmhhNlRUT3pSM3ZvdS1qbnFNemljX2o1c21pcHAtTG1ZLXJVZENXeTFqZjhwZ3pvb3RxQ3JITQ?oc=5",
@@ -2010,77 +2030,6 @@
       "summary": "How Harvey and Claude Are Reshaping Legal Tech - Duke Digital Media Community&nbsp;&nbsp;Sites@Duke Express",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey and Lexis+ Dominate Legal AI Visibility, According to 5W AI Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUll4Mzc1akZva1ZqbnpGVS1qeGJlNk55YUEwNnVBVVk4Umk2UFVfM2RHMkl2ZVlJLXJCeHpqLWNlZnoyclhZcXoxN3JnLXV0b1g4NFlERGwya0huSHJ6RW1BYkY5MF9tRTQtNXBnVmpOTXRIRmw3ZHRjaG1QNnhTLXNRNVdKNE5JTzBqQV93X0NVUXJnSUNTQVNVaG80V1AxR2Z3MkR2RUQ5OEZicVRxel9pVWU2R3lldUlDWEl1STdkenBSSHJWMXB6dE83QQ?oc=5",
-      "source": "PR Newswire",
-      "published": "26 May 2026",
-      "summary": "Harvey and Lexis+ Dominate Legal AI Visibility, According to 5W AI Intelligence&nbsp;&nbsp;PR Newswire",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Mistral AI Taps Legal Sector With Harvey Partnership",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0xHSko2QWxORkhUOERMX21Qa1JoSGFZR0V3Y2tTRGxBVFMyeUUyMExVVXg5Z3NzRHhlamZ4SWhQWVA5Q2V1am41UExBempGcXFsOHl1YktFdkhVZ3pJSjQ3dGxtMHQ3RHFOOEYyajBWc1Rtak9ZclVFYmF4LW4zSkFkV1hLaHBfRE93cA?oc=5",
-      "source": "AI Business",
-      "published": "26 May 2026",
-      "summary": "Mistral AI Taps Legal Sector With Harvey Partnership&nbsp;&nbsp;AI Business",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legal tech company deploys Mistral models",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDdoLWN5SEdmRTBlT2t2WHA3VXFZZm9VQk8wZGp0clp0LUZKcThRTVVGYUFDU1lVNjVqVTlFVy11MHVSNVR3QlR5UmRTZzd1dnRSRmF2cVhDaVkzeHZYTXJkcUdSOExveU1aM1lJb2VTTGxuOWpJS3N6a3pOR3FEcDRLMDZna2NDSm9R?oc=5",
-      "source": "Mobile World Live",
-      "published": "26 May 2026",
-      "summary": "Legal tech company deploys Mistral models&nbsp;&nbsp;Mobile World Live",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "DeepJudge & Harvey partner to add firm knowledge to AI",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHdtQjB2SUo4SFpIRjV4Yk5iOFFYYXhlT3E4WGR1dGQzcmlrN2hZaXVyU3ZremdISTA4RUtacFhjdU9nNl9ybHN6dHVRd25MOWJ3SzViMjhpajZaaGduQWhnSTJ3SmVrRjhnSkpjYzlFcjVuMWJ2U3Z5S1o0TEwxRThVNUFvMXVDVDZxaHpNQQ?oc=5",
-      "source": "SecurityBrief UK",
-      "published": "26 May 2026",
-      "summary": "DeepJudge & Harvey partner to add firm knowledge to AI&nbsp;&nbsp;SecurityBrief UK",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Foley & Lardner Expands Use Of AI Platform Harvey",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQUppektsUS1LZmVpNFBMa3duNi1xcl9FODc0Qll6Q2NwV2tncDJaMDd6RDFTamNTenJyb1BZQVV3TTZidjF5QnVNeXhHQUVqNTl5RVB1eWhVUWJvOXBxMXQxemRpcVVKTUdfSHNHaTNwVE55UG96aUdFa1lJQk05QzR4d0lMRFVWbFdheVo1SGfSAV5BVV95cUxOeUszUlhaazNraktYQjVZQzl2blNHbTJBZ2o2Znc3U3VCM0pOR21aN1pCNld6dW5NT3RuUkVHbk1aWVNDREFEejA1S2hDTW5kNG1UX3VpYk5pSThUeUZn?oc=5",
-      "source": "Law360",
-      "published": "26 May 2026",
-      "summary": "Foley & Lardner Expands Use Of AI Platform Harvey&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3ZSeUtaVl8zLUdiMHN4ZktEYXVkMFpkTU5icG1SRWR3NVViNVM4WFRSbk5yUzFYbmNTSldGLXNrRmM0dWMtZlh0V21OcGhRS0hvNGl2bEFneFotV1c4LTFLdGRqZi0yZ1oyRlRZUU1aVnlXRWpLM0JqMUhJSldONTc2SGhmTjJpZWpZ?oc=5",
-      "source": "Anthropic",
-      "published": "26 May 2026",
-      "summary": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening&nbsp;&nbsp;Anthropic",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legora Opens Singapore and Tokyo Offices as Legal AI Platforms Vie for APAC Market Share",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT0pSLTJfVl82X092MHdSN1VLMTg3V0RMNXR3Q19MaDk4b0htcTAtNUFmbjJLZVZuS09DUWstT1NHbzQ2aWU4anRzejlZSFFLTHdvVlVPMFh1N1lwdjVYdGNpOVlFcU9pWm5kUUVfUU5uOGNBZ2lLcVZ1ZVZoRTFRTkVmSGtZc1BhbHJNVElKSDd1anBJUF9naHluOTgyblY5d21wM2p2akp2VGZvM0RFX0laSFJjRm5jQUNpMjBLOEREcV9ZRG11TzNWVXkwQ0hObGc0S2dxSW5NUQ?oc=5",
-      "source": "Law.com",
-      "published": "26 May 2026",
-      "summary": "Legora Opens Singapore and Tokyo Offices as Legal AI Platforms Vie for APAC Market Share&nbsp;&nbsp;Law.com",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
       ]
     }
   ]
