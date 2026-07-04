@@ -1,6 +1,38 @@
 {
-  "date": "Friday, 3 July 2026",
+  "date": "Saturday, 4 July 2026",
   "articles": [
+    {
+      "title": "Amid embrace of AI, firms look for mix to best suit their needs",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWJTVklEQTUxTl9iODJfYV9xZ3liYzlvX3pDcFpnMEt3X28tODUtRGV3cjZISEFrbVhFSzg4TmNqRXlDYjFVUXBkTkh0UGx6bV8zZm85OW50MXpRdmpkUm1vTXZsQ0NMazhpV0F4TlBRNGMzZ2hJX3FSMU1KVEJKX3dnVnkzVV9nSmRYUjBzY2RzdVROZHlVSzdqVkZuVnhYcFZGVjNiaw?oc=5",
+      "source": "The Indiana Lawyer",
+      "published": "3 Jul 2026",
+      "summary": "Amid embrace of AI, firms look for mix to best suit their needs&nbsp;&nbsp;The Indiana Lawyer",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "General-Purpose AI or Legal AI? How Small Firms Decide",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0JhTGZBOFpLc0V6LVd3V0hBUEtDcVFvcGd1Ynl3S3hFZlFhNG1KRzhhZVN6WXhEYkRKVlp1T0hmYWJwUTg3Uk5Gbk5tNUdBa2pibkozLTdELWhlVjZLZHU0dm5tTG80WFhMRjlRRVVqU0Y3anc4bnNOQ2xiOG1QamVWdkRycDhFWDc5dUFHd9IBlAFBVV95cUxNTmp1MEpkWnNJWXZFUkdVbUNLXzBINDFLeEZGUVRUMmFJbmFDcDFjRkZibUJvTGZoYTBxOGV5SDlDV19IdUwwbDlpcmxFNm82RW02UHNKcGFRQzZQaFl2aDNWc0VBOWp4bWlVR0RYNUxkSnBOTy1vSHJDdnVtYnNSZXVWVjdtU1pMSWw5QjhvdllnWnhJ?oc=5",
+      "source": "The National Law Review",
+      "published": "3 Jul 2026",
+      "summary": "General-Purpose AI or Legal AI? How Small Firms Decide&nbsp;&nbsp;The National Law Review",
+      "tags": [
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGlNOXRvcHdJb01kYWwxRWotNEtvdDZhYUtMcWlUNFJCdmlQUlpZcjd0YnFNNVVyMzF2NHp1b25xRnBQdEVORmdrazJFSkVfaDBWWTdzSjQxWkYwZkwzbU45X2dCekIxN2FrazlJU256dEpQeDNMYWxVX1pyY2hKUnhUQU9tN2FqRlNOUm1pTlE0ZkFGYVJMbEZ3bmJYeU5DcDNmaFhWWng3Z0s2cGpETkNnQ2R4ZmRKdU1IOThHN0d5ellwd0JHSE85SVQ1VUZBcl82Tw?oc=5",
+      "source": "LawSites",
+      "published": "2 Jul 2026",
+      "summary": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report&nbsp;&nbsp;LawSites",
+      "tags": [
+        "AI Trend"
+      ]
+    },
     {
       "title": "More Than Compliance: Why AI Is Pushing Legal to the Center of Business Strategy",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWtCcmJRVi1LcFV1bmt1NkpXWTR5eXlOY2xlWjd3ejBNa0FNRUpRcG9HRHNKVndfSjZ6WDlzX204X29CVWdUWllRa1dMZDA5QWhkblpsTEVoS1B4ZEpLcTJfMzF5eS1CaHFfb0cxX0VkYzlrWXdQSjdoZWRleDJfRlRQNDU5RDMwVFV5TU1tTnlDRFQ5U3F4R2FZMmR2QWUwaGFfdWJ0clJ4QlM4Ty16ZE1JM25zaDlhWEoyVnIySlY?oc=5",
@@ -11,18 +43,6 @@
         "AI Trend"
       ]
     },
-    {
-      "title": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGlNOXRvcHdJb01kYWwxRWotNEtvdDZhYUtMcWlUNFJCdmlQUlpZcjd0YnFNNVVyMzF2NHp1b25xRnBQdEVORmdrazJFSkVfaDBWWTdzSjQxWkYwZkwzbU45X2dCekIxN2FrazlJU256dEpQeDNMYWxVX1pyY2hKUnhUQU9tN2FqRlNOUm1pTlE0ZkFGYVJMbEZ3bmJYeU5DcDNmaFhWWng3Z0s2cGpETkNnQ2R4ZmRKdU1IOThHN0d5ellwd0JHSE85SVQ1VUZBcl82Tw?oc=5",
-      "source": "LawSites",
-      "published": "2 Jul 2026",
-      "summary": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report&nbsp;&nbsp;LawSites",
-      "tags": [
-        "AI Trend"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "On-Demand Downloads in CoCounsel",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGtpT19jdkxLY3dyV1hyZTY2VlBGOWdaQXpMR2RpbEtJdzRtZDMxYV9LZTgyUFdHVjJiUHRPR2RwQWMwZTRkLTVac2tpUWJCZnJjQWliQWFsMzcxb1J1VFZ4SmVRWjROMEtiVzZiSkRXZk1oWVRaSGFzTGFGa3l5bjBXRU9aZE03TXhjOFB3ZjRPNzhtYzlxWjBoWE1oQVZsQVF2R1BDUGxoMzVWRjNPR1BTT1ZReDAwa282TlFDV0lzLW04ZjJLUTRHUkVBQQ?oc=5",
@@ -2008,26 +2028,6 @@
       "source": "The Information",
       "published": "28 May 2026",
       "summary": "Big Law\u2019s AI Threat to Harvey, Legora&nbsp;&nbsp;The Information",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Asia legal AI race heats up as Legora joins Harvey in regional expansion",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaXB3eWdRNktjLUx6Y0d5TjNHRlZqUGR2YTZWeDg1Y21abFFZWFRHcTRReE9yQnJCVmxkSFRLQmdFZG9uSmYyekc2Y0FYWHQtcmFpc01INzBsVmtWenFSRjNfYmlvcWhPcmFycTlyRW5FXzVkSDU3UDl3dVJQWndUTmtPRU9DaUdDR29rTWt6UEp0akg0NDBvT3RHNklaMTE5bV9BTTA2WnRjYXRaQndv?oc=5",
-      "source": "| Asian Legal Business",
-      "published": "26 May 2026",
-      "summary": "Asia legal AI race heats up as Legora joins Harvey in regional expansion&nbsp;&nbsp;| Asian Legal Business",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "How Harvey and Claude Are Reshaping Legal Tech - Duke Digital Media Community",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlBUUGpJaXFWTUhacEI1Y1o3ajZKVVBfR1NTcGI4aTZGdmxsT2FoMloxTWtpSWd6dW5VMWI0OVYtNldLdEVYdmlXNUlWeGRlSGdSQkZBWDM1R3Yxa0dJc3RkUnlwMEV4WllxY203azZZVjZRbHBVTzZ3UDBYZkZwaTB2aXdPUmhkeWhhY2hzQQ?oc=5",
-      "source": "Sites@Duke Express",
-      "published": "26 May 2026",
-      "summary": "How Harvey and Claude Are Reshaping Legal Tech - Duke Digital Media Community&nbsp;&nbsp;Sites@Duke Express",
       "tags": [
         "Global AI Tool"
       ]
