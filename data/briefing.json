@@ -1,42 +1,116 @@
 {
-  "date": "Tuesday, 7 July 2026",
+  "date": "Wednesday, 8 July 2026",
   "articles": [
     {
-      "title": "Harvey Keitel reveals why he thinks AI has already \u2018failed\u2019",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON0NwaFl3OERCZjZJaUJDVEtMWEtwSF9uSGRrUFN4NVhsLXFIeEM3S29pWjR1OWpPNmJUcUMxV2c3ODRpQmFPTHRvcmJmSVBFT0w4UkdHSTJUZDRxdnlwUzR3ZGROdEhURVVNZElLUVhvYVdfNk1xQ0FETVFQUE05Q2Vfcm1zM3M3dDNOeTBTa0F0NkVxekJiYzlKLUQ?oc=5",
-      "source": "Female First",
-      "published": "6 Jul 2026",
-      "summary": "Harvey Keitel reveals why he thinks AI has already \u2018failed\u2019&nbsp;&nbsp;Female First",
+      "title": "Harvey AI's outsized desk lease signals AI sector's flex office appetite",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1pmTHluMjFXYWpESU8yZHNGTmJpVnNFb0tiYjcydm1ZQWdHS3BiY3RCbEUzaDlGWW01amVkbTdPVWhTQ3V2X3kzV3F4OTFvbUhfOTllSm9WWGczMG9BLXd4TnI1cUVoUU9CaV82dUx4OTdrck5wSGJUeHNtaXo0bXZMVklHODJ1ZFlHWGllQWVzUl9aeXFEX3FFYXJLd3NOMFJya0tTYmtic2c?oc=5",
+      "source": "Green Street News",
+      "published": "7 Jul 2026",
+      "summary": "Harvey AI's outsized desk lease signals AI sector's flex office appetite&nbsp;&nbsp;Green Street News",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Fasken Accelerates Its Legal AI Journey with Legora Partnership",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoLVY4T3kxTTZKVF9FSEN6N2k3LTJ1WjRhTGF4RkxsRTE2X1p4RFFiTU92V3hFZTBkYWlfdHZwcUtVZ3B5elA4OVFIYS1xdEJDZmZNR0dXV3hLdmxs?oc=5",
-      "source": "Fasken",
-      "published": "6 Jul 2026",
-      "summary": "Fasken Accelerates Its Legal AI Journey with Legora Partnership&nbsp;&nbsp;Fasken",
+      "title": "Artificial Analysis launches Harvey LAB-AA to benchmark legal models",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84VGdYaFliMjlSTUgtaUVpeW0ya1FBaWluV3ZJSjhRQmhPbkJ6c1lsdUV4bC1nMkwtSy1xRDJQdXVmYjVNN3JYaENPRHI3emVHUWpXUVNSUDZUZE1WcTJjTTdURkhrb2w3Zy0tTA?oc=5",
+      "source": "Crypto Briefing",
+      "published": "7 Jul 2026",
+      "summary": "Artificial Analysis launches Harvey LAB-AA to benchmark legal models&nbsp;&nbsp;Crypto Briefing",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "AZB, CAM, Hogan Lovells steer Sterlite\u2019s USD159m QIP",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1QXZBVjNDWEEzRU5fOXloejBEVjBnVmM0WEZpek96SVZTbTJodG5lT2JFZF95Z3kzNmlLcGtQc3RmT1VhMDBFRlNWTC1wVllQS0hyRU5B?oc=5",
-      "source": "Law.asia",
-      "published": "6 Jul 2026",
-      "summary": "AZB, CAM, Hogan Lovells steer Sterlite\u2019s USD159m QIP&nbsp;&nbsp;Law.asia",
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "7 Jul 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
       "tags": [
-        "India Firm"
+        "India Startup"
       ]
     },
     {
-      "title": "Britain should consider regulating AI models, FCA official says",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVFXcEM5RE90LWlqOW9QNXpNYlBSRjJ0Y2dLS3BtN3dzR2IxRzFCUXlGNXVDRTg3TVlMTUN4Vm5PVTRQMkl6b2R2bGRGeGJ2Q3hzRkk0VTBWQ3RRLTZZajc1dWRGR05kVzVvTlg1THBOb3NfUVR4T0xwYnVWVGt1cHBRZld4Wll2aEZ1WmR4OXFkcGFkVTJscjRWbWJZcl9kQnpPdjhqZXNqN0V2RGktQjVKX21lZw?oc=5",
-      "source": "Reuters",
+      "title": "Agentic AI in practice: Streamlining discovery and legal research workflows for legal professionals",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1NIX1BwQXRaQk1DWlVGb01UWWpfRC1iTFpJQnBpbkkzQXdFazJMNXVfQVZWUXdJd3REbWs5elMtRGR1cmZaMVdlNElleUR5dXVqY0NoNjVEUWZIRFNVaXFRek9iSGNoOXlRTHBIY1ZHZFBxT08wdGt3ejlKRXM2MUJadWNZV3hsdnFSWVJESnRVamh0a1g0dE4zZGlpelZNai1lVEF2NHgxVXhlWjhxWGNfbm5Ob29zcjVHelIxSXFhU05GTVVIV0tBVnE2alNGNm9j?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "7 Jul 2026",
+      "summary": "Agentic AI in practice: Streamlining discovery and legal research workflows for legal professionals&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Canada - Fasken Accelerates Its Legal AI Journey With Legora Partnership",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjhmamwtZUtacE05TzlBVW5USW9MWE5RVXVHT1lLcU1wcEVxYTdIMC1Oekh0OHY5OE9mMHhhV081MFlZeGRyVUx0ZDBFWk9UVHdSSndCb0FSdGZBMWtDQlVpM21Obm1TVzdxZHJkTmFURzVIRlhmekZVUElSZTVOcW40U1l4NzF0emJkcnpyR2ZRalA4bHZ5RU81NGpOWDZwbTdkUFNxR3h0dw?oc=5",
+      "source": "Mondaq",
+      "published": "7 Jul 2026",
+      "summary": "Canada - Fasken Accelerates Its Legal AI Journey With Legora Partnership&nbsp;&nbsp;Mondaq",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Suits\u2019 Harvey Specter chats to A&O Shearman partner in surreal interview",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjVkdXpmSEdGa1p3Qm9qT2doY29pN1dhN1R0TXlnQXZRcTRiRmV6RndBeXV5VFZnZWlxUUdJT3hJcGdmalduNDdLZmZOYldHSzBNM0dlRkhSNW5MaU41cXRFelRvVDVlRkdqMFhOSnpGNWcwc09MaVhGaVZ2X2tueEZFMm1VSTdwdDk3ZG12WWVZWU1kMF93NE1fRE9qQVZCY1VTOHlkakVMQQ?oc=5",
+      "source": "Legal Cheek",
+      "published": "7 Jul 2026",
+      "summary": "Suits\u2019 Harvey Specter chats to A&O Shearman partner in surreal interview&nbsp;&nbsp;Legal Cheek",
+      "tags": [
+        "Global AI Tool",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "Ally Law Accelerates AI Adoption Through Legora Collaboration",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1g4enpqVVA4S04xc2FvdnY5OU54YVA2YVVlX1VGNWpHWkhRVUVoaV9RTWtIa3pROUVmUFY1YjROUHVROUNOQjZGOFZHeUZBandSNXZQSERUQUtvdzdyZERRM1FZRlJ6cW1WNDRyNjBCRTU5cXJrN2VMamRtcmY1S2tLUWl4MF9xLXpjZlJabGZ4aWFPSTFXdDM5U3VOYzZUVlJLZUVobnVzS2hfX2NPNlk5STJWMGRr?oc=5",
+      "source": "PR Newswire",
+      "published": "7 Jul 2026",
+      "summary": "Ally Law Accelerates AI Adoption Through Legora Collaboration&nbsp;&nbsp;PR Newswire",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "On LawNext: Inside Claude for Legal \u2014 Anthropic\u2019s Mark Pike on AI\u2019s Next Frontier in Law",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1VDZkhCS01MODJPZkFia2xVcjM3c3NmX2JXX2FDaHFaTEc4Q19LV0d5alBqVjVEaE5OMmVxcjY4NlIyamJ4NXM3NVl0V0JCNnFDaHpJSHFpT2FJVmhWemw5RkpfbUpTNXZlZ0hHMXd2WUVhZEdnT085bVVPSkNGcWFONm9qUHF6TTAxQkd1ODhYUjJxNkZZNVBFVjBiV3FjMm0tb1Bhb2w2VkRNdEdhSjVHcXBuSkxncThwNw?oc=5",
+      "source": "LawSites",
+      "published": "7 Jul 2026",
+      "summary": "On LawNext: Inside Claude for Legal \u2014 Anthropic\u2019s Mark Pike on AI\u2019s Next Frontier in Law&nbsp;&nbsp;LawSites",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "AI Legal Startup Norm Valued at $1.2 Billion in Funding Round",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTk5RjFGOW9MNVQweDA2VUtMOFdpYVRwbW5tRDVuaDRCYTZRN19IUGVld09EbFVWeTQwNkZVRVFCbGZ2YV8yVFNPczRMTXJWeWNXcDdjNkJlaEI3MkhhYTN0eVJkSFlrY3FOY2VvVWI5VjNwcFJ2WWtTWGJBUi1Qd0VWRTl2ODlPWVNoLWxkbWoyWTNBS0NF?oc=5",
+      "source": "Yahoo Finance",
+      "published": "7 Jul 2026",
+      "summary": "AI Legal Startup Norm Valued at $1.2 Billion in Funding Round&nbsp;&nbsp;Yahoo Finance",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Kepler-Karst strengthens its strategy by incorporating Harvey to boost artificial intelligence in its legal practice.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2xxWHRHUjFkV3RsYnhtX3BqU3pLUUREWXlCQm45QWVuNEg3d0hicnN2U0g0bzdUT3U5X3Q2eWlEMkhPT3Z4Y3dEdU1IakFtekR2cG9lWUtCUDBMYzYtbWZVU2IyUWtlUGRpM1dZQVJXbFBsRk53dy1aMVhNNm5ZTjVMQmNNdDZmV3I1cjZhdGRhQlFQWUotX09YMXVFY3lhdGY5c1BuSVdxb1J4bFk2cU9UNUFaWk1ocDRUYmwyYmV5OF9ERFhJOHpfWXZLM0lqa19tUnBkODdvZjg?oc=5",
+      "source": "L\u00edder Legal",
+      "published": "7 Jul 2026",
+      "summary": "Kepler-Karst strengthens its strategy by incorporating Harvey to boost artificial intelligence in its legal practice.&nbsp;&nbsp;L\u00edder Legal",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "$MSFT Fraud Notification: Microsoft Sued for Securities",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOTlZuZjFjOXhEcmNqOWJFVkp1d25HUlYydVVEdVZUaTNSZnRuOTlhVHA3dTVBdHllcmZ4SE5JUW9veEJvZHEwbmd0NFhPVS1aOWJhb2xJaVNXTVA5elJaQlZ6Ylc1QnZzbU9INmt6cll3YWs0UF93X1ZDRHJGS1V0bUNlVEQ5RWJ0OGJWb3BJcG8yMFgxam9udGRXNGpYT0ZOaHdBc3AwY0swLWhxclBScnVXVkN0QXdVcTQycmRGVFZhUjBHV1ljeHhCM1VHLTFkOWVuSEtyOUhWbEJYb2NQQXJackJKR2l3RWVNQ05uUW1uYm1KSC1kRXF5SmNLZF9yN2JMYUVjTkR5MXJDbHNHYnRVTXJnRzdTQVFEU1lwNGRQRUtGa0Zra1h6SjhaeDI1eDQxc3pwY2FzWE5vcFRrVl9TRGYzeWs0YWNkRS1GbVZGZWNHMlkyeGZLRQ?oc=5",
+      "source": "GlobeNewswire",
       "published": "6 Jul 2026",
-      "summary": "Britain should consider regulating AI models, FCA official says&nbsp;&nbsp;Reuters",
+      "summary": "$MSFT Fraud Notification: Microsoft Sued for Securities&nbsp;&nbsp;GlobeNewswire",
       "tags": [
         "AI Trend"
       ]
@@ -52,17 +126,45 @@
       ]
     },
     {
-      "title": "$MSFT Fraud Notification: Microsoft Sued for Securities",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOTlZuZjFjOXhEcmNqOWJFVkp1d25HUlYydVVEdVZUaTNSZnRuOTlhVHA3dTVBdHllcmZ4SE5JUW9veEJvZHEwbmd0NFhPVS1aOWJhb2xJaVNXTVA5elJaQlZ6Ylc1QnZzbU9INmt6cll3YWs0UF93X1ZDRHJGS1V0bUNlVEQ5RWJ0OGJWb3BJcG8yMFgxam9udGRXNGpYT0ZOaHdBc3AwY0swLWhxclBScnVXVkN0QXdVcTQycmRGVFZhUjBHV1ljeHhCM1VHLTFkOWVuSEtyOUhWbEJYb2NQQXJackJKR2l3RWVNQ05uUW1uYm1KSC1kRXF5SmNLZF9yN2JMYUVjTkR5MXJDbHNHYnRVTXJnRzdTQVFEU1lwNGRQRUtGa0Zra1h6SjhaeDI1eDQxc3pwY2FzWE5vcFRrVl9TRGYzeWs0YWNkRS1GbVZGZWNHMlkyeGZLRQ?oc=5",
-      "source": "GlobeNewswire",
+      "title": "Britain should consider regulating AI models, FCA official says",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVFXcEM5RE90LWlqOW9QNXpNYlBSRjJ0Y2dLS3BtN3dzR2IxRzFCUXlGNXVDRTg3TVlMTUN4Vm5PVTRQMkl6b2R2bGRGeGJ2Q3hzRkk0VTBWQ3RRLTZZajc1dWRGR05kVzVvTlg1THBOb3NfUVR4T0xwYnVWVGt1cHBRZld4Wll2aEZ1WmR4OXFkcGFkVTJscjRWbWJZcl9kQnpPdjhqZXNqN0V2RGktQjVKX21lZw?oc=5",
+      "source": "Reuters",
       "published": "6 Jul 2026",
-      "summary": "$MSFT Fraud Notification: Microsoft Sued for Securities&nbsp;&nbsp;GlobeNewswire",
+      "summary": "Britain should consider regulating AI models, FCA official says&nbsp;&nbsp;Reuters",
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "AZB, CAM, Hogan Lovells steer Sterlite\u2019s USD159m QIP",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1QXZBVjNDWEEzRU5fOXloejBEVjBnVmM0WEZpek96SVZTbTJodG5lT2JFZF95Z3kzNmlLcGtQc3RmT1VhMDBFRlNWTC1wVllQS0hyRU5B?oc=5",
+      "source": "Law.asia",
+      "published": "6 Jul 2026",
+      "summary": "AZB, CAM, Hogan Lovells steer Sterlite\u2019s USD159m QIP&nbsp;&nbsp;Law.asia",
+      "tags": [
+        "India Firm"
+      ]
+    },
+    {
+      "title": "Fasken Accelerates Its Legal AI Journey with Legora Partnership",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoLVY4T3kxTTZKVF9FSEN6N2k3LTJ1WjRhTGF4RkxsRTE2X1p4RFFiTU92V3hFZTBkYWlfdHZwcUtVZ3B5elA4OVFIYS1xdEJDZmZNR0dXV3hLdmxs?oc=5",
+      "source": "Fasken",
+      "published": "6 Jul 2026",
+      "summary": "Fasken Accelerates Its Legal AI Journey with Legora Partnership&nbsp;&nbsp;Fasken",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Harvey Keitel reveals why he thinks AI has already \u2018failed\u2019",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON0NwaFl3OERCZjZJaUJDVEtMWEtwSF9uSGRrUFN4NVhsLXFIeEM3S29pWjR1OWpPNmJUcUMxV2c3ODRpQmFPTHRvcmJmSVBFT0w4UkdHSTJUZDRxdnlwUzR3ZGROdEhURVVNZElLUVhvYVdfNk1xQ0FETVFQUE05Q2Vfcm1zM3M3dDNOeTBTa0F0NkVxekJiYzlKLUQ?oc=5",
+      "source": "Female First",
+      "published": "6 Jul 2026",
+      "summary": "Harvey Keitel reveals why he thinks AI has already \u2018failed\u2019&nbsp;&nbsp;Female First",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "AI Got This Lawyer Away From His Desk: 'Dramatically More Efficient'",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSG1Ra01LZkVqeEVpN3h6Uzd6WGYzUnAyYTRyQnFaSjQ1cElYOGFhOUJXZXJ3MTZrS1hFS05LeXJCV1JfUHNabndBakRjZWJCeHF2bXF4NFI1Q0pfYnFMYjlOTGdlZlZNOXJoVEM2bFRHOHVPQTJMbzcxYmtlMmdBbDI5RzdLRWw2SE12eXhoYl9Xa0M1bUdwRw?oc=5",
@@ -101,16 +203,6 @@
       "summary": "Harvey Keitel Shoots Film, Warns About AI Voice&nbsp;&nbsp;Let's Data Science",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "5 Jul 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
       ]
     },
     {
@@ -2020,56 +2112,6 @@
       "summary": "Microsoft faces backlash over legal threat to bug researcher&nbsp;&nbsp;MSN",
       "tags": [
         "AI Trend"
-      ]
-    },
-    {
-      "title": "Sarvam cuts Vision AI model API prices by 67% as document digitisation crosses 35 million pages",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEdkd242WXA0MWRhMHdhUUZ3QUk1Z2ZfQVFUbnBSeEhydkNVRW9EX1FOdzNlU3NQdTdTbFJ4bFBDTkwydlJlOWFadC1vbVdfX2JBNzV0SEEzQndHa1BOMVZtMUpvVkZ3YlhaUnVOVkJabkFnQ0N0dWIxaTZKaEo5Q0dkYXVPTlVSQjQ4Vk1WQlAzWHEzZXVhcUl1NC0taVloTDM4LUVieWdRY3RSdFRONldqMEJ4Z28wMUp2NVg5RVVEUWI4cFVQWtIBzwFBVV95cUxOYXVmT0xvems4Q2F3Z0Y0ellIZ0tUR3pxY2Z0b0ZuakY5ckg4UnktZFlyWUc5cnJ6VDk3bjlxb29mQ1YtWVRJWGpQeUFIWmpRUWdQNndOS0NiWUtqd1h1ZWxjZXZfUE9ZX243WWJJVXZzOUJMTGFnaHI2bTNkWHRfT3E5bmpPeXhMV1otZXd2TEwyYjZ0dWtOc21xYVZGbzJnTjAwRXFySWxJZkkydkpqVUo5UWMxVTM2NnNEc0N3UUNmRUVPMWlkT3pzRlpqcFE?oc=5",
-      "source": "The Indian Express",
-      "published": "1 Jun 2026",
-      "summary": "Sarvam cuts Vision AI model API prices by 67% as document digitisation crosses 35 million pages&nbsp;&nbsp;The Indian Express",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "From India to Global Legal Research: How CaseMine is expanding Cross-Jurisdictional Access",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWtTS3MxckhMU0F2WE9QSFZ3dGhwSjRGdTROY3NsUWFYdDIwMnVLUU5JNHZvSVM2ZUxWc1kwQmpfOE9kN0M0NjVIOGZwemNUUDg3N0F1RVRFNFdVendYb3k5OUpuUEE5aFA2RDM3SEl2cVVwbGROYUYtcERPSVk5MGRqbmZndThIRVlKbkxleWhPdXg5YmRtV2dqQ19jcDhIcVhXcGROeWxfRjZyckdQWEk5VmFrR2ppdVpQSnVOSDN6ZHE2SUt30gHUAUFVX3lxTE5Ucm81U3JVNDJQN2lvZDN6QlU4Y3FLc1NRX0JTc0dIY1ZUdDgxS0dJMUR0aHlFTXRkeUV1RTk3dDJFdGRMYUJZRGFNY0lwQkg4c1NWUVFxSFFtSmFGeU9JUWpKZHJnRloybE1xeERyYXU3UVpybi1IdE1kR1RlemRyU3RDdEtPYXN6NWtqY0lnYUNFY0txMVplaVNMYW4wOVYzOEdvSTJiQ2k2RUh0dDJrZGdiRGNUWFBYS1p0STFzQTYxZk42NU0xVjZqWWxIMzlVRVV1?oc=5",
-      "source": "Bar and Bench",
-      "published": "1 Jun 2026",
-      "summary": "From India to Global Legal Research: How CaseMine is expanding Cross-Jurisdictional Access&nbsp;&nbsp;Bar and Bench",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "So, who is Harvey? The AI that\u2019s destroying the legal trainee",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGc5MERoUWlNQUJPRTJiWHlBaklDQndJeFRjYU42cVlhSFdIRkpZY0lXVjZZWGplOU1lZnYxdUJhekVQblBaUF9aYWtIZm9xR181c2ZtemFkcktOQ0tMZE52Mk5HckZsckIwc0cyOWhrd1NIaHFWanVMWDBJT2JMQnVBcUFBRkR6angzZUNn?oc=5",
-      "source": "The Times",
-      "published": "30 May 2026",
-      "summary": "So, who is Harvey? The AI that\u2019s destroying the legal trainee&nbsp;&nbsp;The Times",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Anthropic\u2019s Legal Plug-Ins Signal a New Era for Legaltech",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX28zYzdJSGpTTjdqbFJvYUlDVHBRcUFUSXZDZHczWVBEX3ByZVNwaGlYMmZ4UVg3cnFXQ1lrSHdWN0FjSUEwUFR2amVMYm9HaGliczdqNTdmQlhLZEdVTndJUVNLMkxodVRwcjlmcGhkNmJibHljWTdaaDU4WWVjWXN3MWRfeVFvYUE?oc=5",
-      "source": "LawFuel.com",
-      "published": "30 May 2026",
-      "summary": "Anthropic\u2019s Legal Plug-Ins Signal a New Era for Legaltech&nbsp;&nbsp;LawFuel.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Sarvam AI Begins Hiring for New San Francisco Office",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEJQY3I2TzB0bUhScXNaanBxdnRWTDB1WGpueGY1U0I2WVhjQktpY0kzY0twVW96d2RBTU9PRHp2SnBKeXVkWjc2SVlUV1pSd0RpNElOMVlaZjFnRWFKN2x3eFdVc2VGRTFhWFFUd09DTXJzT0tFYmpINkJjNUJTNTZfVU12QjRmQmxuck1uNkN2amZ0?oc=5",
-      "source": "Analytics India Magazine",
-      "published": "29 May 2026",
-      "summary": "Sarvam AI Begins Hiring for New San Francisco Office&nbsp;&nbsp;Analytics India Magazine",
-      "tags": [
-        "India Startup"
       ]
     }
   ]
