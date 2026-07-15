@@ -1,26 +1,108 @@
 {
-  "date": "Tuesday, 14 July 2026",
+  "date": "Wednesday, 15 July 2026",
   "articles": [
     {
-      "title": "Copyright law is now the biggest battleground in Australia's AI boom",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUcyYlM4R21ONWdBNjNOa1V4NjdiSWFFVHM2X1pCc3VMZFZudS1haTNyZzFGclkyeXhOR3paSHl5dlNUU1ozenRiOGVTb0tuVzV4WVFqaDNEQTJMOXRSSy1ZV0o5XzBiZUVULXBHWFBuTlkzenVJS2x3SS1hbURtM3dPVjR4Q0xzZTZ5V3gwNmF3b3EzaXlQRlhDVGU?oc=5",
-      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "title": "Sarvam AI secures $234 million, joins unicorn club",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeExMVGJqM1hqNFdaUF9GbWJuV2Mxc3ZYajJRblpuMWV1bzlkb1dQU0R5QXpQYUpxTmh4V1R1bzluZjJPZG9MWTdqYWkwcGlqVmdHV2xqdlJkVzJsdExHY0lQeUEza2s0NHhsYlp0UWYxVEZHV2ltdkxpMTduZnRxUncwaFlDd0dIc19kd1RpNzY5eVIzWGJCV1RPYUQwOGswRm5uS2ktNlUyTkxLTUR5QTREUTV2eEhHM18tc3Z2aTVldFhZU0s0bUlpMkN1NGgwalprU1B6S2lxbDNLcGtnZlF1ak8?oc=5",
+      "source": "MSN",
       "published": "14 Jul 2026",
-      "summary": "Copyright law is now the biggest battleground in Australia's AI boom&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "summary": "Sarvam AI secures $234 million, joins unicorn club&nbsp;&nbsp;MSN",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Why general AI tools fail at professional tax research",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1BLMldOTGlOQ1FsQ1ZDNEFxdjFXOFVZbE8wSFZLVzkySWdERnYxYWY1aXJyNkc5RzFvRTA0amE0UGFpeE5OSktZcWpYdkktTDhQVVlvWDRuM251MnRDQVEycVZZWENLRjNFUmdxWXhuaUUxMkZmekdNbmNncXVMSm5MZ29ENTFrN0pSLThhLXk0LVA5Vnc?oc=5",
+      "source": "Thomson Reuters tax",
+      "published": "14 Jul 2026",
+      "summary": "Why general AI tools fail at professional tax research&nbsp;&nbsp;Thomson Reuters tax",
       "tags": [
         "AI Trend"
+      ]
+    },
+    {
+      "title": "Testing a full matter, start to finish with CoCounsel Legal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEpNTFdPakh2V05PYWhSeTlWSmFXX0VYTzFuellzU0pVZzBfMWZZTEpaenNoQTRucVY5dTlxcnA4eEdHLW14b3JhV3BXYXZRdl9LY3ZRUDIxVEtDLXBCX1RQUVplN2NTNnI2YzVkS005QzZXVTNMdFlYSHcxeTN4ZzZXLXhYTmc1V19lWnF5aXhKNm5rblMyR2pSTQ?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "14 Jul 2026",
+      "summary": "Testing a full matter, start to finish with CoCounsel Legal&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "$11B AI firm opens downtown office, plans hiring spree",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEw3UW04eVhFSFRzOTFtUU9HYlBBak9CeUFSOW9PeEFwbXVYNVcwVXJGWnRiZEVmOW5TQzNva1IzVlM4QTQ3UEY0bFVNRHJfdkdyS2Z1bXFxTWUxWUtQbExTNFFrN1VnNlVTc0JZdGM3N1NacnFwdWxDMXBCVk9BWUhwWU9COUJCSGE5TFIwV0kzWURuckE?oc=5",
+      "source": "The Business Journals",
+      "published": "14 Jul 2026",
+      "summary": "$11B AI firm opens downtown office, plans hiring spree&nbsp;&nbsp;The Business Journals",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "8 steps every attorney must follow before using AI on a client matter",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2M0Sm1rQnFEUldYWEZBVlgxM0dONTdYWWVDeVRwOGNvZmpHcGk0RFh0eE5manIzWUlaSkJoUjFDTEpVeHpOODk4MG8tbFNfR2NjOFppLVpYTEhqT2V3SmlrZWdtTmYtbmpCMHBwTjhldlhCaVhwOTJWdXdKRFBlUU50UEpHZTVxMVIyUWFzRHh6R2xCUGJ5MUhPQlJjb291Z21WMHgtT2JYVENK?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "14 Jul 2026",
+      "summary": "8 steps every attorney must follow before using AI on a client matter&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Should law firms share AI tools with their clients and peers?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0FsTkdVWG9zZ1I3RV9RVnFTQ0syQUxWY2gxV2l3a0J1RURnV3BZdmhIS2dRanpycW5BZkI4VkFsaTdkRERBMngzUFFXbXdJb3dOZGtGY0hGZjZYcTMweUYyRlZNWnM1aWVoamhzbWlFQXl1Ymk3NWVVemRxWW0tOXgxX3hMVzBkTmY1a3loamxBdUh3VnpGQk9oRjNfalFTWVE?oc=5",
+      "source": "ABA Journal",
+      "published": "14 Jul 2026",
+      "summary": "Should law firms share AI tools with their clients and peers?&nbsp;&nbsp;ABA Journal",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "\u00a38.2 million-a-year Kirkland partners are undercharging, says Legora CEO",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0Q2N0s2N1ViZHZhNEltRHM4SHdDU3QyRlhsakNyRWRpU0xNd0d5dFhndmIzenFBV1lXNjFMeTJLYkQ4a28wdE9lUGFDekNSX2w4UWQxWkxpZ1lJWFN0QTVCY3Riak5oQU4tRmpOcFU2MDJCRS1vUzI4d0NnemxhcHdYaDBpdkZ6VldZVmpGU0tydjkwa01VLWZnS2dnOU41NVhnaGZyR2NIQQ?oc=5",
+      "source": "Legal Cheek",
+      "published": "14 Jul 2026",
+      "summary": "\u00a38.2 million-a-year Kirkland partners are undercharging, says Legora CEO&nbsp;&nbsp;Legal Cheek",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Centre taps Sarvam AI, BharatGen to build indigenous cyber AI models akin to Anthropic's Mythos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFBkQjJPdjdQSnI1Vkl3eTlRYkt6WGZVaVp3c21DN0d5UnF4b3VEMFNzXzU3NDB2Wk85UUhLSFVyMDg0NkViRV9Wd0dkWGVDWHJaa0kzZ3NZQnlEa1FHdjBaNVpRYkZWd3ZSenhzS0JmdzJTa0ZTT3NrRlJrcEJjdmxtZDZoQlhlY05oNGVYSEFRU0R2WEFpaE9UV0pEQnBnTjJud3pGVlFlMm1iRkZCZnhjR0JGRWl2?oc=5",
+      "source": "SME Futures",
+      "published": "14 Jul 2026",
+      "summary": "Centre taps Sarvam AI, BharatGen to build indigenous cyber AI models akin to Anthropic's Mythos&nbsp;&nbsp;SME Futures",
+      "tags": [
+        "India Startup"
       ]
     },
     {
       "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
       "source": "News On AIR",
-      "published": "13 Jul 2026",
+      "published": "14 Jul 2026",
       "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
       "tags": [
         "India Startup"
       ]
     },
+    {
+      "title": "Centre Asks Sarvam AI, BharatGen To Develop Mythos-Like Cyber AI Models",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0Yzblkyb3hFOFgzTEt2a1ZPb3FUUURyV3BEUWVUZ0dFODhsaTB4OXhEem14WnJNb0lxSDFrYkRLengxbUNaRE9hUkNENV8wLWp6cDRSeVdpaHJjVndEQXliM3EyZlF0Wk5ub045Z2RaQ0hfSU1tc25RSWY3NmJVN3RnZFRDOEtibWpQTF9ERmkyYWtzb1VsRmhR?oc=5",
+      "source": "Inc42",
+      "published": "14 Jul 2026",
+      "summary": "Centre Asks Sarvam AI, BharatGen To Develop Mythos-Like Cyber AI Models&nbsp;&nbsp;Inc42",
+      "tags": [
+        "India Startup"
+      ]
+    }
+  ],
+  "archive": [
     {
       "title": "GVA TECH survey shows 90%+ legal AI use, Copilot leads",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFgweUpTZE5CdHFNclFTWldZTk5ZcWg5SjUtdS1nalpfNnZVeWFrNTdEbUZfNU9wemhsa0I3STVXdExYTUJvekxxUU5nd01nSWhzc2VkS01XaUpWRWs0Q1JQR1psdlQ3OUw3UDRYX0hTdFZaMGVoMzEtcHZhRGdNNE1lR0ZHaGlV?oc=5",
@@ -32,17 +114,15 @@
       ]
     },
     {
-      "title": "Sarvam AI secures $234 million, joins unicorn club",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeExMVGJqM1hqNFdaUF9GbWJuV2Mxc3ZYajJRblpuMWV1bzlkb1dQU0R5QXpQYUpxTmh4V1R1bzluZjJPZG9MWTdqYWkwcGlqVmdHV2xqdlJkVzJsdExHY0lQeUEza2s0NHhsYlp0UWYxVEZHV2ltdkxpMTduZnRxUncwaFlDd0dIc19kd1RpNzY5eVIzWGJCV1RPYUQwOGswRm5uS2ktNlUyTkxLTUR5QTREUTV2eEhHM18tc3Z2aTVldFhZU0s0bUlpMkN1NGgwalprU1B6S2lxbDNLcGtnZlF1ak8?oc=5",
-      "source": "MSN",
-      "published": "13 Jul 2026",
-      "summary": "Sarvam AI secures $234 million, joins unicorn club&nbsp;&nbsp;MSN",
+      "title": "Copyright law is now the biggest battleground in Australia's AI boom",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUcyYlM4R21ONWdBNjNOa1V4NjdiSWFFVHM2X1pCc3VMZFZudS1haTNyZzFGclkyeXhOR3paSHl5dlNUU1ozenRiOGVTb0tuVzV4WVFqaDNEQTJMOXRSSy1ZV0o5XzBiZUVULXBHWFBuTlkzenVJS2x3SS1hbURtM3dPVjR4Q0xzZTZ5V3gwNmF3b3EzaXlQRlhDVGU?oc=5",
+      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "published": "14 Jul 2026",
+      "summary": "Copyright law is now the biggest battleground in Australia's AI boom&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "tags": [
-        "India Startup"
+        "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Love Island USA season 8 winners revealed: Google AI Overview wrongly names Aniya Harvey, Carl Schmidt before finale | Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZGxRcFhpM0pqb1J2Qm16Y1lDZXZlNjN6bmFSdFZZMXM1cU4xdmxvVDctOVhSQlhkTVBYMXAzc050Zm1pVU5GOHZLTjlOTmo1aUJmYlc4cVYtSXVJOVNhRmVDVU9jZ25VSTQxUElGZWJBNGR5cXdDdG8yUkREcC1JTmNIQ011blRxSGczSE5CWEpMMUtLMlZTQVE3TzFNQ1NmY2lyZW5XNDhvMl8yRzB1OVdqUlVtLTJWdEUyLTVJdTRJakVyV0tGVFVpSnVXa2dOc1psbVdVaHpqQ0l0SG1YcjdhY3A1dUNvcS1iRHBJNnJtNkZSMEpJS1Jnbl9keWpqX1ZCUFpB0gGLAkFVX3lxTFBWT0ZHNmNKTE9LaWQ4NmFJQ0tXMmIzRXBlZGo5d285eTVPbHlVOGpaY0NzNzMyTXdEUEZhaTNzLWRBZ3F5SUpYRGlDZTRDbFZSSFNuSFBVSkhfUzA4SEVzRU1YQVcybDJHUXRVdnhid2hZZFNXRnAtUEJQVThyOXRjd1lpVDJvdzZ4Q1ktUDBBVDNvZDFpWDBCc3JXSVVnTzAxMm9yNlM4SWNIRGsyQzIteFNmWS1qclByTDU1dy1DbXRFYUgwTVJwY2dsaU9qTl9pc2NQLXNMa0h0SzA1NGxsX1dIYS1meVR6RE9pQTRHbmtJTGJxel9pZWlMOXRIZEk5MEliQmtVSmNFdw?oc=5",
@@ -2026,26 +2106,6 @@
       "source": "Business Wire",
       "published": "4 Jun 2026",
       "summary": "PitchBook Announces New Premium Connector Integration with Harvey, Bringing Private Market Intelligence Into AI-Native Legal and Deal Workflows&nbsp;&nbsp;Business Wire",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "What Lovable, Harvey & Assembly AI Are Doing in Customer Success. That You\u2019re Not",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTDBQUjBWMzR6LWR4Y21zYlFmZXBVN0RNQmxlN3loSE5jbFBNcEJtR2xKZ0RGYndJTGU2bGxtdUFRVFBNOTBhSWJuOWhLbUszYlFJSVEwclVZOU5DaTE4eXAxYXpLVUM0UXlaYlFlTFV5OVFhZE1XNEFnWmRWcUpackZiTXRlU1pJaHhZOXlTUkNwc1dEWGVFdDg3VEstUXBPeHc?oc=5",
-      "source": "SaaStr",
-      "published": "4 Jun 2026",
-      "summary": "What Lovable, Harvey & Assembly AI Are Doing in Customer Success. That You\u2019re Not&nbsp;&nbsp;SaaStr",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora acquires commercial real estate AI platform Cadastral",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTFYTmd3aDdCYlJWZjdudjlid3ZfbWptaE5PUVBPWWlVSlZlVlhmczhhSUFpazZYaXVQRGtFT3E3dmFac0VSNFJ1WTZmakdiWEpDMFdlNE5TOW5QanI3ZDZiNDZjNGNpdzBUbFdma2xSRDRTVXNzZkhHQXBadTItVURGcXVfMlVNRk1VQnR6eWxodV8xeWYxZmRXMkZZTldiMHluYWJobE5PTms?oc=5",
-      "source": "The Global Legal Post",
-      "published": "4 Jun 2026",
-      "summary": "Legora acquires commercial real estate AI platform Cadastral&nbsp;&nbsp;The Global Legal Post",
       "tags": [
         "Global AI Tool"
       ]
