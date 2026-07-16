@@ -1,42 +1,104 @@
 {
-  "date": "Wednesday, 15 July 2026",
+  "date": "Thursday, 16 July 2026",
   "articles": [
     {
-      "title": "Sarvam AI secures $234 million, joins unicorn club",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeExMVGJqM1hqNFdaUF9GbWJuV2Mxc3ZYajJRblpuMWV1bzlkb1dQU0R5QXpQYUpxTmh4V1R1bzluZjJPZG9MWTdqYWkwcGlqVmdHV2xqdlJkVzJsdExHY0lQeUEza2s0NHhsYlp0UWYxVEZHV2ltdkxpMTduZnRxUncwaFlDd0dIc19kd1RpNzY5eVIzWGJCV1RPYUQwOGswRm5uS2ktNlUyTkxLTUR5QTREUTV2eEhHM18tc3Z2aTVldFhZU0s0bUlpMkN1NGgwalprU1B6S2lxbDNLcGtnZlF1ak8?oc=5",
-      "source": "MSN",
-      "published": "14 Jul 2026",
-      "summary": "Sarvam AI secures $234 million, joins unicorn club&nbsp;&nbsp;MSN",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Why general AI tools fail at professional tax research",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1BLMldOTGlOQ1FsQ1ZDNEFxdjFXOFVZbE8wSFZLVzkySWdERnYxYWY1aXJyNkc5RzFvRTA0amE0UGFpeE5OSktZcWpYdkktTDhQVVlvWDRuM251MnRDQVEycVZZWENLRjNFUmdxWXhuaUUxMkZmekdNbmNncXVMSm5MZ29ENTFrN0pSLThhLXk0LVA5Vnc?oc=5",
-      "source": "Thomson Reuters tax",
-      "published": "14 Jul 2026",
-      "summary": "Why general AI tools fail at professional tax research&nbsp;&nbsp;Thomson Reuters tax",
+      "title": "Is clients\u2019 use of AI destroying legal privilege?",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDF2cEVvYkQxcEk5cWlidHplZ3ZPdUFGSFFVV2tfM2hPcGtVV2hBNnBHQlNya0NXV1dNVzJaWHlzeS1HWEpoTmNfcG9tUWZQdWk4T0o5V0czZkZfQVp0WGxucGVGamhmUVJNcHkwNWw0OUVBQUNEYTJxZGtKSi02aEtZLUlEbl9VWnFj?oc=5",
+      "source": "Legal Futures",
+      "published": "15 Jul 2026",
+      "summary": "Is clients\u2019 use of AI destroying legal privilege?&nbsp;&nbsp;Legal Futures",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Testing a full matter, start to finish with CoCounsel Legal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEpNTFdPakh2V05PYWhSeTlWSmFXX0VYTzFuellzU0pVZzBfMWZZTEpaenNoQTRucVY5dTlxcnA4eEdHLW14b3JhV3BXYXZRdl9LY3ZRUDIxVEtDLXBCX1RQUVplN2NTNnI2YzVkS005QzZXVTNMdFlYSHcxeTN4ZzZXLXhYTmc1V19lWnF5aXhKNm5rblMyR2pSTQ?oc=5",
+      "title": "Abstract Evolves Beyond Insights to Autonomous Workflow Execution with the Launch of Abstract Workers",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDh6b3YtbkFQM0pFc0t1dFNraUh4RE14RDVOTjBUZ3Vwd1J2ZzNIeGJlOFNpdzdidGYwenJGZGNobUMxNkFrbERldU5JZGNSU0xlYUp0Vk9GT3V5aGJIUVViaE9WSFJKdzNxUnlhN3JJS1dsWDJrU0NUalJQdXhtTDZDa2xhcE1tSXE4bDFrQl9nNEY5d1B6eFhBNVdrenU2cXdiZmJSMVdlV2xIX2Z0eGJ2MVdJbkhaMVRyTVQwUWVoTlJobE81cmJ3?oc=5",
+      "source": "Legal Reader",
+      "published": "15 Jul 2026",
+      "summary": "Abstract Evolves Beyond Insights to Autonomous Workflow Execution with the Launch of Abstract Workers&nbsp;&nbsp;Legal Reader",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Why Legal AI Has to Be Built from the Ground Up",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVWJmY0RHbVd5UGI5VFFWalJLTG1YZmJIcjhkejZmRjJOUzhDR0V1c1RFMTREOEdZOWFydGJmNXhTX2t1aTducnc4X0VBX0hvNkJVOVpZUE81VlcyaWFKeUctVkk3OFNzNHExSTNLekdsMlRQNEM0clBTOG44aDFzMHBn?oc=5",
+      "source": "Legal Reader",
+      "published": "15 Jul 2026",
+      "summary": "Why Legal AI Has to Be Built from the Ground Up&nbsp;&nbsp;Legal Reader",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Start up speed and enterprise resources for CoCounsel Legal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3NiVlhhdlN2cGhlRTQzTmhQRzN6WEhNYzFYcjQ3YnhIc0tnU2RFY2NrQkNFWG5SRFZTMVhvRzRRckM4VXNWVHUtZUFNZkJoa2psTi01UmhMbHhzaFJxQ2VNdmJpTThnNndnamtYck1FOUd1NDhsTGpwa2s5VlFhMXU2TXQ0d0ozelBKUno5cE4yOWh5VnhjTnY5cFFBamlVbG5fYkE4MUZCdw?oc=5",
       "source": "Thomson Reuters Legal Solutions",
-      "published": "14 Jul 2026",
-      "summary": "Testing a full matter, start to finish with CoCounsel Legal&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "published": "15 Jul 2026",
+      "summary": "Start up speed and enterprise resources for CoCounsel Legal&nbsp;&nbsp;Thomson Reuters Legal Solutions",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "$11B AI firm opens downtown office, plans hiring spree",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEw3UW04eVhFSFRzOTFtUU9HYlBBak9CeUFSOW9PeEFwbXVYNVcwVXJGWnRiZEVmOW5TQzNva1IzVlM4QTQ3UEY0bFVNRHJfdkdyS2Z1bXFxTWUxWUtQbExTNFFrN1VnNlVTc0JZdGM3N1NacnFwdWxDMXBCVk9BWUhwWU9COUJCSGE5TFIwV0kzWURuckE?oc=5",
-      "source": "The Business Journals",
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "15 Jul 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "From hype to results: Real productivity gains with Microsoft 365 Copilot",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWm9GR2xtdHIxeXJvb3dkSG5NZ1NkLTZBZU52RHB2T2F5RC1UaHkwcHQyWExyYVZxSG1McFNxc0Jxc3NkMEtYS3hkZlVnMDgzRXN5b0NGa29SS0w5TzlUMTNUUWlVX3hWQVVVSTcwOVN4Z0N2cDFUbFpKTXRsYlc2XzVoT0pRU1NaeV9WU2NGRmYxeGZ0dmRobEI2YTR6V2tFeHlub1dJSkJIUG1SSFNUVVJGbUpkbVQx?oc=5",
+      "source": "Legal Futures",
+      "published": "15 Jul 2026",
+      "summary": "From hype to results: Real productivity gains with Microsoft 365 Copilot&nbsp;&nbsp;Legal Futures",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Centre Asks Sarvam AI, BharatGen To Develop Mythos-Like Cyber AI Models",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0Yzblkyb3hFOFgzTEt2a1ZPb3FUUURyV3BEUWVUZ0dFODhsaTB4OXhEem14WnJNb0lxSDFrYkRLengxbUNaRE9hUkNENV8wLWp6cDRSeVdpaHJjVndEQXliM3EyZlF0Wk5ub045Z2RaQ0hfSU1tc25RSWY3NmJVN3RnZFRDOEtibWpQTF9ERmkyYWtzb1VsRmhR?oc=5",
+      "source": "Inc42",
       "published": "14 Jul 2026",
-      "summary": "$11B AI firm opens downtown office, plans hiring spree&nbsp;&nbsp;The Business Journals",
+      "summary": "Centre Asks Sarvam AI, BharatGen To Develop Mythos-Like Cyber AI Models&nbsp;&nbsp;Inc42",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Centre taps Sarvam AI, BharatGen to build indigenous cyber AI models akin to Anthropic's Mythos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFBkQjJPdjdQSnI1Vkl3eTlRYkt6WGZVaVp3c21DN0d5UnF4b3VEMFNzXzU3NDB2Wk85UUhLSFVyMDg0NkViRV9Wd0dkWGVDWHJaa0kzZ3NZQnlEa1FHdjBaNVpRYkZWd3ZSenhzS0JmdzJTa0ZTT3NrRlJrcEJjdmxtZDZoQlhlY05oNGVYSEFRU0R2WEFpaE9UV0pEQnBnTjJud3pGVlFlMm1iRkZCZnhjR0JGRWl2?oc=5",
+      "source": "SME Futures",
+      "published": "14 Jul 2026",
+      "summary": "Centre taps Sarvam AI, BharatGen to build indigenous cyber AI models akin to Anthropic's Mythos&nbsp;&nbsp;SME Futures",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "\u00a38.2 million-a-year Kirkland partners are undercharging, says Legora CEO",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0Q2N0s2N1ViZHZhNEltRHM4SHdDU3QyRlhsakNyRWRpU0xNd0d5dFhndmIzenFBV1lXNjFMeTJLYkQ4a28wdE9lUGFDekNSX2w4UWQxWkxpZ1lJWFN0QTVCY3Riak5oQU4tRmpOcFU2MDJCRS1vUzI4d0NnemxhcHdYaDBpdkZ6VldZVmpGU0tydjkwa01VLWZnS2dnOU41NVhnaGZyR2NIQQ?oc=5",
+      "source": "Legal Cheek",
+      "published": "14 Jul 2026",
+      "summary": "\u00a38.2 million-a-year Kirkland partners are undercharging, says Legora CEO&nbsp;&nbsp;Legal Cheek",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Should law firms share AI tools with their clients and peers?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0FsTkdVWG9zZ1I3RV9RVnFTQ0syQUxWY2gxV2l3a0J1RURnV3BZdmhIS2dRanpycW5BZkI4VkFsaTdkRERBMngzUFFXbXdJb3dOZGtGY0hGZjZYcTMweUYyRlZNWnM1aWVoamhzbWlFQXl1Ymk3NWVVemRxWW0tOXgxX3hMVzBkTmY1a3loamxBdUh3VnpGQk9oRjNfalFTWVE?oc=5",
+      "source": "ABA Journal",
+      "published": "14 Jul 2026",
+      "summary": "Should law firms share AI tools with their clients and peers?&nbsp;&nbsp;ABA Journal",
       "tags": [
         "AI Trend"
       ]
@@ -52,57 +114,45 @@
       ]
     },
     {
-      "title": "Should law firms share AI tools with their clients and peers?",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0FsTkdVWG9zZ1I3RV9RVnFTQ0syQUxWY2gxV2l3a0J1RURnV3BZdmhIS2dRanpycW5BZkI4VkFsaTdkRERBMngzUFFXbXdJb3dOZGtGY0hGZjZYcTMweUYyRlZNWnM1aWVoamhzbWlFQXl1Ymk3NWVVemRxWW0tOXgxX3hMVzBkTmY1a3loamxBdUh3VnpGQk9oRjNfalFTWVE?oc=5",
-      "source": "ABA Journal",
+      "title": "$11B AI firm opens downtown office, plans hiring spree",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEw3UW04eVhFSFRzOTFtUU9HYlBBak9CeUFSOW9PeEFwbXVYNVcwVXJGWnRiZEVmOW5TQzNva1IzVlM4QTQ3UEY0bFVNRHJfdkdyS2Z1bXFxTWUxWUtQbExTNFFrN1VnNlVTc0JZdGM3N1NacnFwdWxDMXBCVk9BWUhwWU9COUJCSGE5TFIwV0kzWURuckE?oc=5",
+      "source": "The Business Journals",
       "published": "14 Jul 2026",
-      "summary": "Should law firms share AI tools with their clients and peers?&nbsp;&nbsp;ABA Journal",
+      "summary": "$11B AI firm opens downtown office, plans hiring spree&nbsp;&nbsp;The Business Journals",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "\u00a38.2 million-a-year Kirkland partners are undercharging, says Legora CEO",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0Q2N0s2N1ViZHZhNEltRHM4SHdDU3QyRlhsakNyRWRpU0xNd0d5dFhndmIzenFBV1lXNjFMeTJLYkQ4a28wdE9lUGFDekNSX2w4UWQxWkxpZ1lJWFN0QTVCY3Riak5oQU4tRmpOcFU2MDJCRS1vUzI4d0NnemxhcHdYaDBpdkZ6VldZVmpGU0tydjkwa01VLWZnS2dnOU41NVhnaGZyR2NIQQ?oc=5",
-      "source": "Legal Cheek",
+      "title": "Testing a full matter, start to finish with CoCounsel Legal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEpNTFdPakh2V05PYWhSeTlWSmFXX0VYTzFuellzU0pVZzBfMWZZTEpaenNoQTRucVY5dTlxcnA4eEdHLW14b3JhV3BXYXZRdl9LY3ZRUDIxVEtDLXBCX1RQUVplN2NTNnI2YzVkS005QzZXVTNMdFlYSHcxeTN4ZzZXLXhYTmc1V19lWnF5aXhKNm5rblMyR2pSTQ?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
       "published": "14 Jul 2026",
-      "summary": "\u00a38.2 million-a-year Kirkland partners are undercharging, says Legora CEO&nbsp;&nbsp;Legal Cheek",
+      "summary": "Testing a full matter, start to finish with CoCounsel Legal&nbsp;&nbsp;Thomson Reuters Legal Solutions",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Centre taps Sarvam AI, BharatGen to build indigenous cyber AI models akin to Anthropic's Mythos",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFBkQjJPdjdQSnI1Vkl3eTlRYkt6WGZVaVp3c21DN0d5UnF4b3VEMFNzXzU3NDB2Wk85UUhLSFVyMDg0NkViRV9Wd0dkWGVDWHJaa0kzZ3NZQnlEa1FHdjBaNVpRYkZWd3ZSenhzS0JmdzJTa0ZTT3NrRlJrcEJjdmxtZDZoQlhlY05oNGVYSEFRU0R2WEFpaE9UV0pEQnBnTjJud3pGVlFlMm1iRkZCZnhjR0JGRWl2?oc=5",
-      "source": "SME Futures",
+      "title": "Why general AI tools fail at professional tax research",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1BLMldOTGlOQ1FsQ1ZDNEFxdjFXOFVZbE8wSFZLVzkySWdERnYxYWY1aXJyNkc5RzFvRTA0amE0UGFpeE5OSktZcWpYdkktTDhQVVlvWDRuM251MnRDQVEycVZZWENLRjNFUmdxWXhuaUUxMkZmekdNbmNncXVMSm5MZ29ENTFrN0pSLThhLXk0LVA5Vnc?oc=5",
+      "source": "Thomson Reuters tax",
       "published": "14 Jul 2026",
-      "summary": "Centre taps Sarvam AI, BharatGen to build indigenous cyber AI models akin to Anthropic's Mythos&nbsp;&nbsp;SME Futures",
+      "summary": "Why general AI tools fail at professional tax research&nbsp;&nbsp;Thomson Reuters tax",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Sarvam AI secures $234 million, joins unicorn club",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeExMVGJqM1hqNFdaUF9GbWJuV2Mxc3ZYajJRblpuMWV1bzlkb1dQU0R5QXpQYUpxTmh4V1R1bzluZjJPZG9MWTdqYWkwcGlqVmdHV2xqdlJkVzJsdExHY0lQeUEza2s0NHhsYlp0UWYxVEZHV2ltdkxpMTduZnRxUncwaFlDd0dIc19kd1RpNzY5eVIzWGJCV1RPYUQwOGswRm5uS2ktNlUyTkxLTUR5QTREUTV2eEhHM18tc3Z2aTVldFhZU0s0bUlpMkN1NGgwalprU1B6S2lxbDNLcGtnZlF1ak8?oc=5",
+      "source": "MSN",
+      "published": "14 Jul 2026",
+      "summary": "Sarvam AI secures $234 million, joins unicorn club&nbsp;&nbsp;MSN",
       "tags": [
         "India Startup"
       ]
     },
-    {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "14 Jul 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Centre Asks Sarvam AI, BharatGen To Develop Mythos-Like Cyber AI Models",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0Yzblkyb3hFOFgzTEt2a1ZPb3FUUURyV3BEUWVUZ0dFODhsaTB4OXhEem14WnJNb0lxSDFrYkRLengxbUNaRE9hUkNENV8wLWp6cDRSeVdpaHJjVndEQXliM3EyZlF0Wk5ub045Z2RaQ0hfSU1tc25RSWY3NmJVN3RnZFRDOEtibWpQTF9ERmkyYWtzb1VsRmhR?oc=5",
-      "source": "Inc42",
-      "published": "14 Jul 2026",
-      "summary": "Centre Asks Sarvam AI, BharatGen To Develop Mythos-Like Cyber AI Models&nbsp;&nbsp;Inc42",
-      "tags": [
-        "India Startup"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "GVA TECH survey shows 90%+ legal AI use, Copilot leads",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFgweUpTZE5CdHFNclFTWldZTk5ZcWg5SjUtdS1nalpfNnZVeWFrNTdEbUZfNU9wemhsa0I3STVXdExYTUJvekxxUU5nd01nSWhzc2VkS01XaUpWRWs0Q1JQR1psdlQ3OUw3UDRYX0hTdFZaMGVoMzEtcHZhRGdNNE1lR0ZHaGlV?oc=5",
@@ -2017,97 +2067,6 @@
       "summary": "Investors Have Poured Billions Into Plaintiff-Side Legal AI, But Defense Could Be The Next Big Opportunity&nbsp;&nbsp;Crunchbase News",
       "tags": [
         "AI Trend"
-      ]
-    },
-    {
-      "title": "What A Time For Legal AI! + Legal Innovators California",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUS1tdFJ6dTZkRlVtRWZKWjE3aHctb09GaFNGRXpqbk16VXloS3REYTRtb3dxSW1ZOTdtOERmX1dONTNOdEZ5cnRXVVJRV0R1dDZnVjdWajFIWEhvYmstWmkxQXJYbGVDTUJIcWZLaExrWWxDbE1VMldQR2MzVlEySFRqeW1qNlVKTVJmLTVPV18wSFU3VXNlc0F6cGZidw?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "5 Jun 2026",
-      "summary": "What A Time For Legal AI! + Legal Innovators California&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legora CEO on AI in Legal Tech",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUN5RkxMZHAzOXpydzJBNHU4Tk5OT3lUY09rWkc4U0JNSWRUSGZwNjRyT1gyT01pWWJzYUdjSkVLTlFrdmxoa3V2aGJ1cUtiM19CdlNWZm5ISXZqOXY3RWdXQllDSENlaXR6UkRsVGZicTBiNUtHZ2lteTAxYTVXNlo4a2RUV1VJQWszdnZfSmlfbUl3NFdVSQ?oc=5",
-      "source": "StartupHub.ai",
-      "published": "5 Jun 2026",
-      "summary": "Legora CEO on AI in Legal Tech&nbsp;&nbsp;StartupHub.ai",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Announcing our ISO 42001 Certification",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DV0stbVdoNWptS2dTZjFacjBDTG92UWVCYlRkNkU0Y3R4YllhekJuRFFUaUtzQ1RlcDUzbXlDVEVIVGpwbjB4T0R0UVFSQWQzQlNGVU9pblFPWDA?oc=5",
-      "source": "Harvey",
-      "published": "5 Jun 2026",
-      "summary": "Announcing our ISO 42001 Certification&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "AI for eDiscovery: Faster Document Review Without the Risk",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01Q2VHVGE0Qm5keFNIbXdVSXJJbWhOekJRQ3BJUVRudGRWcUFvU1ZKNlkwU2RLOTJmRmFRc0hBSHR3YWNJOVRoY01tdUYyYmdPbnJaS0IwYUdHLU0tVllIc0F3bkc5Zw?oc=5",
-      "source": "Harvey",
-      "published": "5 Jun 2026",
-      "summary": "AI for eDiscovery: Faster Document Review Without the Risk&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "How Legal Teams are Using AI for Legal Discovery",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Snd4dDR1dVozM2tmTHNWaGg2V0U5cmlrUjF2STh3ei1DbEFrSm1LZkhqV0VXaGw0WmVvVlRCQmMxcmVDa09xQkk4bVQwQ1BpUUxoNHQtT1FZTTVLR1RKZmo5NEFvR2dZTjRZYg?oc=5",
-      "source": "Harvey",
-      "published": "5 Jun 2026",
-      "summary": "How Legal Teams are Using AI for Legal Discovery&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Litera brings Foundation 365 to Microsoft 365 Copilot",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVgybGx0aGJTOXNXS25SelNKT3EzT3RFMUZHUTQ5LXFZcDUwQURhRC16MFo2X2tscGM3QmlBc0pkd1hPVDhNV0RYRUhLYlJKQnhNNkhhY2NERnB3a3BmMkpVVzZHeGFlR0Z5bXRTR1F6Zy1ZN1VqS3IzNkx5RW9XOGx3Q1F1OEE1OUE?oc=5",
-      "source": "IT Brief Australia",
-      "published": "5 Jun 2026",
-      "summary": "Litera brings Foundation 365 to Microsoft 365 Copilot&nbsp;&nbsp;IT Brief Australia",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Oregon Supreme Court dismisses petition because of false AI-generated legal citations - Oregon Public Broadcasting",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fa1M0SVhwTW1NOEozaTRsR0NBa0ZqMVlTM3Bpamp1MFV1TXk3X1JPbDFRSzFJTXlYQm1pTExKSE1zU1VoR0RINThNTVlrRWJVVmlmRF90QXQ5TVNMaGp4d3dNRVdoUGUtd09kN3J6MjdqeXdvUzFwa1ZOVlFWWFk?oc=5",
-      "source": "Oregon Public Broadcasting - OPB",
-      "published": "6 Jun 2026",
-      "summary": "Oregon Supreme Court dismisses petition because of false AI-generated legal citations&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Sarvam AI partners with YCP India to accelerate enterprise AI adoption across India",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTRYVlJSQUg4eVR5X2RkU29oR042Y0pxX29iUVkxV3RnOThlVmtfQWhYV3oxS0gtV0NLUy1NMXMyN0VMLUdxdUFMZ2FDQU5uZTNCbkpVSlJzRnZ3LUZnRUdfUGhYZVgwZVhlNnVzOC1ISTFNZkJnWXBQek4wanlRVWc4RXcwSVlkSVFQczRjT3ZSbENXeVBCSmZxOFE5VlFhYV9iQXpObW9BX1FneHY3OC1tbHIxWnUwR0ZBSW9TYlUwbjNGd0ZYUXVIUjVEQklzSGhPaENudHpON2lY?oc=5",
-      "source": "MSN",
-      "published": "4 Jun 2026",
-      "summary": "Sarvam AI partners with YCP India to accelerate enterprise AI adoption across India&nbsp;&nbsp;MSN",
-      "tags": [
-        "India Startup",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "PitchBook Announces New Premium Connector Integration with Harvey, Bringing Private Market Intelligence Into AI-Native Legal and Deal Workflows",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZ0JYTktXbUduLXV6Njl3TmVPM25SMkNmb01YcXYzcDVmZlI4czFJSlNzdDNjazJCMzVBdTFIa3JidVMwbllXdTJEdzNxSzJBU3BVMDZ6bjdVbjI0NElmRnRIWS00dmVOa1YtMkEya3J6R2pqbUV5cmFzcVVLbDhIWW9ZUE1uVU5xeDRtVWpQMDZCeUVVb1J3ZXhuRHUwZmFfVGJmT2FNVEtQcEwtck1wd1pMSHJlNWpzSV9aXzlMOHlCd2c4d0N5Z2ItYllKaHhScVBQMFJiVmwycjBMVDdKTXd5WW1zbEZROE41X3dlRU1JMmREUmVDanZXeC1zakx3TlNKY0pmZUNnOFRMU0EzQXJ3UTluRFRZRUw3eENZTjFLV2wtaWc?oc=5",
-      "source": "Business Wire",
-      "published": "4 Jun 2026",
-      "summary": "PitchBook Announces New Premium Connector Integration with Harvey, Bringing Private Market Intelligence Into AI-Native Legal and Deal Workflows&nbsp;&nbsp;Business Wire",
-      "tags": [
-        "Global AI Tool"
       ]
     }
   ]
