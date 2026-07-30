@@ -1,52 +1,94 @@
 {
-  "date": "Wednesday, 29 July 2026",
+  "date": "Thursday, 30 July 2026",
   "articles": [
     {
-      "title": "Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUNwaVZLdjVzdVNrNGV6aXROaWRPc0pkR1Z1a1kyLXg4VGd2MTRpdHNobVpKZ0RBYURzMGgyVTZKUWZNdUd1NURKUlk3RFJYVk1SeDRMMjVhM0RXVHpqdTRzdGN5U2J0SmdnZ0YzS3RhcGxSRVB4LXVvcFUtY0ZyOXg4S3c3bnVUVDg2dDdDNVVEVmFvUXfSAV5BVV95cUxONU9WRmFTUm42TVlIN2I5dVdxRTNaNFNEWHAtUEYyeFJPeWkxX1plb0pLVDBCczRlN3dyemtsZm51WnhyRjFkdVBOaUhrVjVjS2ZzMkh1am1RRXB0Ukxn?oc=5",
-      "source": "Law360",
-      "published": "28 Jul 2026",
-      "summary": "Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey&nbsp;&nbsp;Law360",
+      "title": "In-house legal teams get creative with AI tools",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zaTRTQXRSTDYzU2F0Wm1KMmdoaThUQ0VnZVpIeUtQeXFla0o2MF96ZVZEZndCQ1Vub1lpa3pNbE50T0ZzYUhYd0lRYzQ5MzRBTVNqMUY5cExQRERLUmVsOGlZWlZadTR5RGQ2ZXBEcTU?oc=5",
+      "source": "Financial Times",
+      "published": "30 Jul 2026",
+      "summary": "In-house legal teams get creative with AI tools&nbsp;&nbsp;Financial Times",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Custom Legal Marketing Releases First Public Report on AI Rankings from Its Sequoia Platform",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeVhsODh4eEx4UXB6a2ozWTZtaHpGNTVuOEdpOE9VQVdJVE16QTlEYWhqWHN5UHlucGVSZU1IeHZQbHFsN0VoNWJWUkg3XzJ2SFNZNW45UnB0dWdSVFNnZ1VyanhtbGN6ZGRRUWp6ZHpCanRsWWN2MXFnT1VwclZVN0RUa05Bc0tleGtQVDNaZWVzYk5DelBqRU5PNVJZZ05JZWs0?oc=5",
+      "source": "Yahoo Finance",
+      "published": "29 Jul 2026",
+      "summary": "Custom Legal Marketing Releases First Public Report on AI Rankings from Its Sequoia Platform&nbsp;&nbsp;Yahoo Finance",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Anthropic Destroyed Millions of Books to Train Claude: Was That Legal?",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80ZmdPRkhwdkNXd3BuOGFCREFWLVEycUlNcjR2M25VU0ZhMzJQbVRrTWNtUktYdEd3OHpMMXBnZlBVVWIxVXFfa3k1Rm1JNmpjeE1hdm4wd0I4bVdVUTg1X0l5YzN1alAwcWlvZm5UZTlxMUNSVnA3OVR0VTA?oc=5",
+      "source": "BeInCrypto",
+      "published": "29 Jul 2026",
+      "summary": "Anthropic Destroyed Millions of Books to Train Claude: Was That Legal?&nbsp;&nbsp;BeInCrypto",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "National Law Review Names BluShark Digital #2 Legal Marketing Agency for Lawyers & Law Firms",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFJnRktMcnZndGZhcklOX3YzMzBsZXExT2xhSTJHbndZVnI2MVZuelcxQV9CdWRGWGhhVGRheXhtcGllR0t2UHRrTmRvZXV1T193ZjVZdHVXd2lKd29iZDYwanFkZGFJMG53b0NQVGtyWllYbmJidlZUUUoxQ0JTczZRdDFRTG43czdZ?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "28 Jul 2026",
-      "summary": "National Law Review Names BluShark Digital #2 Legal Marketing Agency for Lawyers & Law Firms&nbsp;&nbsp;Yahoo! Finance Canada",
+      "title": "Legora acquires UK AI litigation intelligence start-up Wexler",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDVzLU5neC1rTy1ENFNsc2xBU1p3NzRXeUNud094bjB5VHVrVThoZEo1UWZFNGw1NEFyZUxYNnF2bWMtUXpHWTBPRDFPVjRsX25FN1RVY0QtY1V1X2tFelZaOURoNTM0U1NzRXVlcTMyOGhEejVTbm9yN09iR3J0TDVZeVRaQUFkVjRYRy1rVW9nQjNObXNneW1OWjEtcU5ZZnR5Q1k2RGVhUG5PMnc?oc=5",
+      "source": "The Global Legal Post",
+      "published": "29 Jul 2026",
+      "summary": "Legora acquires UK AI litigation intelligence start-up Wexler&nbsp;&nbsp;The Global Legal Post",
       "tags": [
-        "AI Trend"
+        "Global AI Tool"
       ]
     },
     {
-      "title": "AI implementation FAQs: What legal leaders ask most often",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMlB4Y25BbVplSFMtTU04allCazZZb094d2J1VGIwc2Y2dHVfM0FOcHd2MTNOLXdNT0ROTEQ5UjNaUFEyejJkM3pUTkJZXzZqVlNBbVFlQ01RS20xTTdvcW56aTBVQ0U4VXAyekVjejVXNTJh?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "28 Jul 2026",
-      "summary": "AI implementation FAQs: What legal leaders ask most often&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Harvey Announces Investments From JP Morgan, Goldman Sachs Funds",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2tCMGM0UE9EWXdzbkR3NWNYZm1FUENNUjVwWUZVSlZXWWtBdVN3N1ZOazRJemJxUzM1VXREUDcxSXNISEs5Q2lkQXV5OTE3eGtZOUUtaDhySkw5cW8yc0V6S3NDMDYxZUlMUTd6SDY3RGw0Yk13SUJhZmRhbjktSkh3T1J2Z0FNYkViNzcwVEYtMjRXYmJOXy15OHpFQXlHNTNiaFozVGVBQTg4RWc?oc=5",
+      "title": "Legora Acquires AI-Powered Litigation Startup Wexler",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1FGWUFzLVAwNnM5bnZudHB0SXd4enpZTkFTN0xYVHFMY0ZVdDRudVMweVItQkZDcW1NdmpYeEhRazRCOTc4TjRkX045VklEMElZTzFhdXdDcEdBUGhWRmdqc2tQbS1VY3NrMHNGcWViZ0dYZERlNnI3VzUtd0RXcjB6eWpXd2dYVzk2NDhHWmN0UFZOZWFRcWRoTVJWMzly?oc=5",
       "source": "Law.com",
-      "published": "28 Jul 2026",
-      "summary": "Harvey Announces Investments From JP Morgan, Goldman Sachs Funds&nbsp;&nbsp;Law.com",
+      "published": "29 Jul 2026",
+      "summary": "Legora Acquires AI-Powered Litigation Startup Wexler&nbsp;&nbsp;Law.com",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Trellis Expands Agentic Access to the Nation's Largest State Trial Court Dataset Through ChatGPT and Trellis Chat, Building on Its Claude MCP Connector",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOREZYOVZsdngtWndRaFBScHZ6WC10b2lSQjA0Uld6Vk41TEJ1M1gwb3o3OThqTWlnSkJkTlVTT0tzc2wzQmI2RFZYUFRhSm5McTBDTnMwRnU3MEVFcTc4czU0VjlaczhlUVVmVTF3WmRUTWwwMkFSN0w4cDhJVFY5U0xuQ1F3cDBQM2NVZncxUlBPVEl3cEFGeTA1M1hFZXhxdV9Zc0ttYW0wckxVU3dSdVRlbGU4MkhsWUFLZjk4dTFHbFJ0V2c5ZlRpM1JORkdJNE1wZUpRY3JDY284Z250bkYzMFo0VDVGbFFzeGVQS0ctTEo2YU1tVHhJR2RteHB6ZlBKeVlUYnZRT2ctQXFLZlN2STZPSkNUeWRlNUcxYnVaQ01LY28xcWxmd3VFZw?oc=5",
-      "source": "PR Newswire",
+      "title": "Legora snaps up litigation AI startup Wexler",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40REpzeTJNVDZ5VE1NVFhtdWRjUmhvYkstUDZ5QjQ2UWdVa0g0TzZISmhqRjYzZWtmcU83WlNkR1BtV1BqU213dWh0eF9sWHdrWEpTOUtwR2owZEJMQThpZnpSbnBIaG9iaTVTXzd0OGtnN2s5cnhVN1gwOA?oc=5",
+      "source": "The Lawyer",
+      "published": "29 Jul 2026",
+      "summary": "Legora snaps up litigation AI startup Wexler&nbsp;&nbsp;The Lawyer",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora is acquiring Wexler, its fifth acquisition in 2026",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLVdIM1lRRDAyd180RHp2b25sa3BzTWc3LTR1cWwxd2F4VkJiQkZuaUxrM2lrdFcxYlVkYjRLS0RrVWRlai1zSThPOUpKaHlsaDFLM09PbUl1aW9EOVpmUzZGMVRDcHZ2Z3RjMWJnN2plbmRoeE15SzRQN3FIMUFnR3dhT3VLNUFpN3lrWmxR?oc=5",
+      "source": "Legal IT Insider",
+      "published": "29 Jul 2026",
+      "summary": "Legora is acquiring Wexler, its fifth acquisition in 2026&nbsp;&nbsp;Legal IT Insider",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora's buying spree has reached the courtroom",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVJVZ2ZmdEpFS2pLaFBLdVl3SXh2ZEF2b09pcnBLNDNZYUtPa2tURF9RNG9Td1VRaS00VzY0bGhIcGpyUDNzUk91Sk0xT0Iyd1piMXZkeVpqVWJkY0IyS3o4RDM0NTVaZWRicVlKMHJ0YkxNVVBxZnQxZmIzTzYzaDUta1V5SzRocGVSQkRHLTc5MHVrY0tF?oc=5",
+      "source": "Business Insider",
+      "published": "29 Jul 2026",
+      "summary": "Legora's buying spree has reached the courtroom&nbsp;&nbsp;Business Insider",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Sarvam holding AI event Epoch on July 30, teases new model updates and product launches",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdDVpWkpXLThoUzlGdnZWN0R5SjVOeHVBTXlSZUotYmFjQ3dxNndNNi1TNTU3cC1pQjZ5VDd6UFd5REFORnFpZE8zb2VPcUFDVUJUNmlKSXpxa1haTVFFTUpYcExoOHF6dkQzZE9ta1pGQkkzTXFXMS1seEZyeUQ5anV5N0QxdUcwRXl1dERTQ2VvdnBqU3lPTjF3c1NnTWhYMDd1SWg4NTh6Z01veFlNQ3VVTklVSGFBVDd1V2V0bTFDdTNQVld4aGNZNDNRYVBMZjhkTzZVY29pM1RHbWtObWJNNEp4emdB0gHuAUFVX3lxTE0tRmxvazg5ZUxrOFRvLUw2ZmpTT2VkWGh4bFBHU1FmOUJkMVl6VF9PTXVUUUM0N1NOSG1LLVlDcVZmVTBFYk9pOWRLSUJFWm5fVTNTVEgtVzVLOTB5cV9wVWZkUE11V0FaVWd0MnVmSW5TdU02RUtlUTlZNGZHXzhmdktNY2dkc1VtQnhQa1hudkozYzJwX2NGNmRVX0Zfc3dmRlJ4Mk9fREdfVTJGV0xnZnBlU2Z3WXFpT0lXeUdRUmhKZkpCNzVpaFFzbHV5bUx0dkVuV0poa3FvR1AtVFhMazdqSmJMZEwxQ2RfbUE?oc=5",
+      "source": "India Today",
       "published": "28 Jul 2026",
-      "summary": "Trellis Expands Agentic Access to the Nation's Largest State Trial Court Dataset Through ChatGPT and Trellis Chat, Building on Its Claude MCP Connector&nbsp;&nbsp;PR Newswire",
+      "summary": "Sarvam holding AI event Epoch on July 30, teases new model updates and product launches&nbsp;&nbsp;India Today",
       "tags": [
         "AI Trend"
       ]
@@ -62,17 +104,55 @@
       ]
     },
     {
-      "title": "Sarvam holding AI event Epoch on July 30, teases new model updates and product launches",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdDVpWkpXLThoUzlGdnZWN0R5SjVOeHVBTXlSZUotYmFjQ3dxNndNNi1TNTU3cC1pQjZ5VDd6UFd5REFORnFpZE8zb2VPcUFDVUJUNmlKSXpxa1haTVFFTUpYcExoOHF6dkQzZE9ta1pGQkkzTXFXMS1seEZyeUQ5anV5N0QxdUcwRXl1dERTQ2VvdnBqU3lPTjF3c1NnTWhYMDd1SWg4NTh6Z01veFlNQ3VVTklVSGFBVDd1V2V0bTFDdTNQVld4aGNZNDNRYVBMZjhkTzZVY29pM1RHbWtObWJNNEp4emdB0gHuAUFVX3lxTE0tRmxvazg5ZUxrOFRvLUw2ZmpTT2VkWGh4bFBHU1FmOUJkMVl6VF9PTXVUUUM0N1NOSG1LLVlDcVZmVTBFYk9pOWRLSUJFWm5fVTNTVEgtVzVLOTB5cV9wVWZkUE11V0FaVWd0MnVmSW5TdU02RUtlUTlZNGZHXzhmdktNY2dkc1VtQnhQa1hudkozYzJwX2NGNmRVX0Zfc3dmRlJ4Mk9fREdfVTJGV0xnZnBlU2Z3WXFpT0lXeUdRUmhKZkpCNzVpaFFzbHV5bUx0dkVuV0poa3FvR1AtVFhMazdqSmJMZEwxQ2RfbUE?oc=5",
-      "source": "India Today",
+      "title": "Trellis Expands Agentic Access to the Nation's Largest State Trial Court Dataset Through ChatGPT and Trellis Chat, Building on Its Claude MCP Connector",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOREZYOVZsdngtWndRaFBScHZ6WC10b2lSQjA0Uld6Vk41TEJ1M1gwb3o3OThqTWlnSkJkTlVTT0tzc2wzQmI2RFZYUFRhSm5McTBDTnMwRnU3MEVFcTc4czU0VjlaczhlUVVmVTF3WmRUTWwwMkFSN0w4cDhJVFY5U0xuQ1F3cDBQM2NVZncxUlBPVEl3cEFGeTA1M1hFZXhxdV9Zc0ttYW0wckxVU3dSdVRlbGU4MkhsWUFLZjk4dTFHbFJ0V2c5ZlRpM1JORkdJNE1wZUpRY3JDY284Z250bkYzMFo0VDVGbFFzeGVQS0ctTEo2YU1tVHhJR2RteHB6ZlBKeVlUYnZRT2ctQXFLZlN2STZPSkNUeWRlNUcxYnVaQ01LY28xcWxmd3VFZw?oc=5",
+      "source": "PR Newswire",
       "published": "28 Jul 2026",
-      "summary": "Sarvam holding AI event Epoch on July 30, teases new model updates and product launches&nbsp;&nbsp;India Today",
+      "summary": "Trellis Expands Agentic Access to the Nation's Largest State Trial Court Dataset Through ChatGPT and Trellis Chat, Building on Its Claude MCP Connector&nbsp;&nbsp;PR Newswire",
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Harvey Announces Investments From JP Morgan, Goldman Sachs Funds",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2tCMGM0UE9EWXdzbkR3NWNYZm1FUENNUjVwWUZVSlZXWWtBdVN3N1ZOazRJemJxUzM1VXREUDcxSXNISEs5Q2lkQXV5OTE3eGtZOUUtaDhySkw5cW8yc0V6S3NDMDYxZUlMUTd6SDY3RGw0Yk13SUJhZmRhbjktSkh3T1J2Z0FNYkViNzcwVEYtMjRXYmJOXy15OHpFQXlHNTNiaFozVGVBQTg4RWc?oc=5",
+      "source": "Law.com",
+      "published": "28 Jul 2026",
+      "summary": "Harvey Announces Investments From JP Morgan, Goldman Sachs Funds&nbsp;&nbsp;Law.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "AI implementation FAQs: What legal leaders ask most often",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMlB4Y25BbVplSFMtTU04allCazZZb094d2J1VGIwc2Y2dHVfM0FOcHd2MTNOLXdNT0ROTEQ5UjNaUFEyejJkM3pUTkJZXzZqVlNBbVFlQ01RS20xTTdvcW56aTBVQ0U4VXAyekVjejVXNTJh?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "28 Jul 2026",
+      "summary": "AI implementation FAQs: What legal leaders ask most often&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "National Law Review Names BluShark Digital #2 Legal Marketing Agency for Lawyers & Law Firms",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFJnRktMcnZndGZhcklOX3YzMzBsZXExT2xhSTJHbndZVnI2MVZuelcxQV9CdWRGWGhhVGRheXhtcGllR0t2UHRrTmRvZXV1T193ZjVZdHVXd2lKd29iZDYwanFkZGFJMG53b0NQVGtyWllYbmJidlZUUUoxQ0JTczZRdDFRTG43czdZ?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "28 Jul 2026",
+      "summary": "National Law Review Names BluShark Digital #2 Legal Marketing Agency for Lawyers & Law Firms&nbsp;&nbsp;Yahoo! Finance Canada",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUNwaVZLdjVzdVNrNGV6aXROaWRPc0pkR1Z1a1kyLXg4VGd2MTRpdHNobVpKZ0RBYURzMGgyVTZKUWZNdUd1NURKUlk3RFJYVk1SeDRMMjVhM0RXVHpqdTRzdGN5U2J0SmdnZ0YzS3RhcGxSRVB4LXVvcFUtY0ZyOXg4S3c3bnVUVDg2dDdDNVVEVmFvUXfSAV5BVV95cUxONU9WRmFTUm42TVlIN2I5dVdxRTNaNFNEWHAtUEYyeFJPeWkxX1plb0pLVDBCczRlN3dyemtsZm51WnhyRjFkdVBOaUhrVjVjS2ZzMkh1am1RRXB0Ukxn?oc=5",
+      "source": "Law360",
+      "published": "28 Jul 2026",
+      "summary": "Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey&nbsp;&nbsp;Law360",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "Mews names tech veteran Kirupa Pushparaj as chief legal officer",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmViYkUtc2F2d0J6bTdhWXZUWWEwbkJwMGRDX3FOb1BpTDJDckppNURIYjM3UkhCUDBMa1U2Z3c1YXJnV3hVbWNlenpKUjN6NDR0S0dDWUpWRFFDMnFTWEdEVHYzVV9iV3kzTUZhUjJrZ0lXTmUzMExtZmswTjI3UkNFTGJYZ09sbVU3VloyY0dsMUk1QnpVemJpQTJ2UzdUQmpFdlBZM2JFMENZRExBamxuUzBIUQ?oc=5",
@@ -2007,76 +2087,6 @@
       "summary": "How AI is expanding the legal tech market&nbsp;&nbsp;Global Venturing",
       "tags": [
         "AI Trend"
-      ]
-    },
-    {
-      "title": "Sarvam AI becomes unicorn with $234 million funding led by HCLTech",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOE9nQ2QyM2tuTzVDRUw4V1puSG1Nc19qcWpfTlZRQXJqVHlVb1A0enZ4SjI3YXM3THkwaklDbzNYRTl0TDBIQnBONGF2M2FTb1N3dklGYklNeGk2SVRQbHpKcVVTeVd2MXdINjM1M3NrUFNrV3Vod0VjcHRndmpyLTFFRHhKd0RZQXMyeGI0VU1WYmtPcWFONmJpNGZWWnpHOERkVmRiN0dUb1k2RU1nVi01TGd2OXpoZVM4eU41WEtKSlo4NVpFaThEOVBfMll2b2RYR3dWd0dfWWM2dU1jRlZIaUF3MllXU1M2TjNVUW1Pb0pGdGRQcjZzWjM?oc=5",
-      "source": "MSN",
-      "published": "16 Jun 2026",
-      "summary": "Sarvam AI becomes unicorn with $234 million funding led by HCLTech&nbsp;&nbsp;MSN",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "HCL Tech\u2019s Sarvam AI play, FII\u2019s pump up Indian bonds and quick comm impact on malls \u2014 Editor\u2019s Picks by Moneycontrol",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVhQNWV0T2VBcTVxQl9UUVlBV2lQN0pQRTQ0ZWdDZGc0YUNuQkx4SkNjV1Q1Q1JfY2tPRFJvLTFZRjVReUJ2OXlrdnB1aHdxREI5N09mVDRnbTgwRVBlOUs2TC1UT2RjWkw4WXNlZDlweWRFSTJaM2IzaC1DS0ZLS0JrV083enoweHBJS2RRWDF6VlI5NGtDeg?oc=5",
-      "source": "LinkedIn",
-      "published": "16 Jun 2026",
-      "summary": "HCL Tech\u2019s Sarvam AI play, FII\u2019s pump up Indian bonds and quick comm impact on malls \u2014 Editor\u2019s Picks by Moneycontrol&nbsp;&nbsp;LinkedIn",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Harvey\u2019s Legal Intelligence Now Lives Inside Microsoft 365",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yRTFyRS1BZmtkZmVGNmc5UWVVUWNjR2g1QXM5NHBJV09xZHR1UzZHQl9yYW1tMUxfZlB2aTF1SnZkNjR6aEx1YXFtUGdHeTVJMXFtMHpmYWEyZFNMRDZ4SUVDQnpFUQ?oc=5",
-      "source": "Harvey",
-      "published": "16 Jun 2026",
-      "summary": "Harvey\u2019s Legal Intelligence Now Lives Inside Microsoft 365&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Scaling your audit practice with AI: 3 real-world CoCounsel Audit case studies",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHJtc2VrRFlSWkh4VVZUZlN6NklZOEFnZUlqVWtIbUY4QXRCLUdOblN0RUdKMEo0aTgyVGZIa0d5YV9DYXdIS2piS0ZuVmJDTmNnelhsZGRNTzJMZXRveWZmd2Y3bkhzMzJyYWt5eFZhdFBIZXhmMzB6WDlCX19CR2w4MUpzelR0TmlMY0prdURJeUE2aVVicldJNWZMZkRRdTFmMXhPM1lyZTF0UXllckozLVc?oc=5",
-      "source": "Thomson Reuters tax and accounting",
-      "published": "17 Jun 2026",
-      "summary": "Scaling your audit practice with AI: 3 real-world CoCounsel Audit case studies&nbsp;&nbsp;Thomson Reuters tax and accounting",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "CoCounsel Legal and DeepJudge integration brings firm knowledge into a 360\u00b0 AI experience",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnZtMWRZdWt1WGhaSmVFT0NPaUdxNno5aWI2WmJxNlAxVm1KaTQtckJLdG81aGlXZk5lSXAzVzRGbUdIaFExVlR6Yy1idmVWbV8xNHVXOWdPUUJDa0d3WkdQbW5ZbF9qckZGTTRnVlVWb2QtUV9yZktaZllfVUhBTlNScUtvOVRINFNuVEZrVVk4QTFZeVdtT2VBT05HSkdiajBzZHlaZmFRZUhSWlFjNDFRSzgxU0dLNHl3aG1fUGdBX2pYQ2c?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "17 Jun 2026",
-      "summary": "CoCounsel Legal and DeepJudge integration brings firm knowledge into a 360\u00b0 AI experience&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "HCLTech bets big on sovereign AI with strategic investment in Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSEs0d0ZSRWdVa1JOREktM25iOFRFM3NaMFFiSmU2T2N2LUpuZ19nV0lYVEJsV3RacnZDWVJrTTlwU3NOZUFudmhaeUlVd2ZlZmh5akI0NDZyVW1ZTHk5WUpTZ2dmSFYyUzJEYVlYNGU2N0F0T0dsWjExckNVUGN1RWMtRFBISVV0dTA3UnVIdlBRUjVPaWxmSW55d0c5YV9RVXN3dlFwZ2V4NzR6eG5EZFZBME5uMTlaQkFkdGNNQVVIZVlTTzdZd0FPX3FjbDZEMGZYM2VSZF9lSEZBQVHSAeMBQVVfeXFMTzRtQWgtM1dtNVJjQnQyWGxqSGJvbk4wQko5SHNuNzU5a19qTEFfYTM0bEE3dGtHWU91YkY5VDVnQ3VxN25KcmZyRE5WYi1WSk5VY1FWUGtDNUZyUVZhdExnc0YtWnJ4azVnN0tTTHJrTVdKOUYyY0tGdi15MkpWcS15dXRIaThMTl9lcVBLNlZvZWRhTkRXWklSTnpyUFNtTjdPbHlLdDlFMFhnbHQ5aHg3UDBidExNUXhQYm5LYnU4SVpFSzBLRTQ0N3BXNDJWdmVzVkp0Ry13bWxmNnM2dE9tLUU?oc=5",
-      "source": "The Economic Times",
-      "published": "17 Jun 2026",
-      "summary": "HCLTech bets big on sovereign AI with strategic investment in Sarvam AI&nbsp;&nbsp;The Economic Times",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Sarvam AI Hits Record Series B Valuation as Sovereign AI Gains Urgency",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWEpjcDlHUzM4dzZzTFRDcXNXSTRBLUs3alE5Z2tJZ19vZHdTZFJWQjBDWDdob2RKNUtCNm5qMjI1NG41YlJ6T29ZU0JWblBBMUdYeU90M3FjdnNWUjlra2hVOWxiVjl4aEk5UmVQWWhRUHRTZGxMZmdxT1Zfb2hQUkJJOE8zVS1kbWZXamprSEl1V1R5YV9NSnV0OGJRQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "15 Jun 2026",
-      "summary": "Sarvam AI Hits Record Series B Valuation as Sovereign AI Gains Urgency&nbsp;&nbsp;Yahoo Finance",
-      "tags": [
-        "India Startup"
       ]
     }
   ]
