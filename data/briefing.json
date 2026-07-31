@@ -1,62 +1,116 @@
 {
-  "date": "Thursday, 30 July 2026",
+  "date": "Friday, 31 July 2026",
   "articles": [
     {
-      "title": "In-house legal teams get creative with AI tools",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zaTRTQXRSTDYzU2F0Wm1KMmdoaThUQ0VnZVpIeUtQeXFla0o2MF96ZVZEZndCQ1Vub1lpa3pNbE50T0ZzYUhYd0lRYzQ5MzRBTVNqMUY5cExQRERLUmVsOGlZWlZadTR5RGQ2ZXBEcTU?oc=5",
-      "source": "Financial Times",
+      "title": "Everything Sarvam AI announced at its Epoch Builder Edition",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTZZQ3VpeXRsbnpRVGVRblNhZEY2V015ZTM4ZmVwTWkxQUIwdlZrNVNDRzg4Y3hrNGszUFVncnowUWRYZjFlWERwYkNfLVVpMVhocF9oRGVfOVZ5TDdhSS1SLWl6N2VSNUJjZVRVU2dLRzExRmZ0TXE2cnNaU0E1VjRlcjBCSmJmT0NwS0tGQVBQMHpHb3gxaFlVUVJTeVJpNklOX3ZfekE4S1prc1hOY3dsS0szSmpWSkYxaVlueWVIeWtXN3I1V9IBzgFBVV95cUxPeDVYaHM5amNXLWtqWEYyRTVxRmVFcWRNNnFjcndIbGRhTG9MbUN2ZGF4a1VnQnRKN1NxSlpHakN6aEhkZ1lTRG0xMmJnRXN3UlNFWDZnSHdubGZuU2VxNFVNY0ZPMVZYR2x4bzcwdm5ySjJYZlVvZklXQmdMeGhhcDhzY2Fpa1NJSGQxMkNCYVJSaWlTbWNGUVg3MGlUYUpITmd6LVI2eWxxdUtVTFZuQ3dIZnlLRmxQSnV3U3NjQmswV2w4NEZyc1NQdnFWUQ?oc=5",
+      "source": "The Economic Times",
+      "published": "31 Jul 2026",
+      "summary": "Everything Sarvam AI announced at its Epoch Builder Edition&nbsp;&nbsp;The Economic Times",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Trusting Claude Chat Could Be Your Biggest AI Privacy Mistake",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjFtNHBUdU5qWTBOcGFLTGJ2TmluT01TRmxCTHFMZVMwenJkbEswaFpqb1NjRnhtVU1WOERqNWJDR2xSSUFxY0J6UENIZ1VYMnZSaG5fdDU1QzJ2ekd5VzFfZmxSQWsxUWtiMXY4bXZvZ0JENTk4T1Z3bVo0WkszRzltMlNIaGRHYW13?oc=5",
+      "source": "Memeburn",
+      "published": "31 Jul 2026",
+      "summary": "Trusting Claude Chat Could Be Your Biggest AI Privacy Mistake&nbsp;&nbsp;Memeburn",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "HLegal AI Unicorn Harvey Lands Major Backing from Goldman Sachs and JP Morgan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmdHN3NxeWFfYTBqY0dLQk1VcjlwRXZLcGRPVGVGODctdF9VWFRleHBDZmhadFVTbGFubnI5RzV5a2prU1dTaWpUd1kwQjhPaFpxaHJPOFhJeEZnY3B3OUw4Y3JxSEZaa2x6eFZmc3pLaGUxSEpjTjhCRmlsdGFka0pJLXdOZVloSFkwZzlUbHg5aDQ4Sk5LRG0xYTJONlpzMEF2Xw?oc=5",
+      "source": "lawfuel.com",
+      "published": "31 Jul 2026",
+      "summary": "HLegal AI Unicorn Harvey Lands Major Backing from Goldman Sachs and JP Morgan&nbsp;&nbsp;lawfuel.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5",
+      "source": "Reuters",
       "published": "30 Jul 2026",
-      "summary": "In-house legal teams get creative with AI tools&nbsp;&nbsp;Financial Times",
+      "summary": "Anthropic's AI hacked three companies during tests, highlighting growing security risks&nbsp;&nbsp;Reuters",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Custom Legal Marketing Releases First Public Report on AI Rankings from Its Sequoia Platform",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeVhsODh4eEx4UXB6a2ozWTZtaHpGNTVuOEdpOE9VQVdJVE16QTlEYWhqWHN5UHlucGVSZU1IeHZQbHFsN0VoNWJWUkg3XzJ2SFNZNW45UnB0dWdSVFNnZ1VyanhtbGN6ZGRRUWp6ZHpCanRsWWN2MXFnT1VwclZVN0RUa05Bc0tleGtQVDNaZWVzYk5DelBqRU5PNVJZZ05JZWs0?oc=5",
-      "source": "Yahoo Finance",
-      "published": "29 Jul 2026",
-      "summary": "Custom Legal Marketing Releases First Public Report on AI Rankings from Its Sequoia Platform&nbsp;&nbsp;Yahoo Finance",
+      "title": "Linklaters' Legal AI Leader Coming To NY For US M&A Work",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2tPZHdHRDNkQndOUjJQQVQtSnhVR3FKZlRWeG85a0lVcmZnSHg5S1JoWk5kS056aV9zZ0h0akl6SmJuTFJTRFBaejRyMDdIeVladnFpNlgtQkxzVGpGRFR6a0x1cmxWTTZPUVFrajQ5LUowNFZiQmNvR1VGOHF1NG1yRTRfOF9ZMWJsT3FNQmtweTZPVm5rcF8xa2FVdlF0a1hXQWdUd3ptY1cxVExfMkVB0gFeQVVfeXFMTVh2VHZEWnhBNkRoYTFqQzZCOFRLb2o0V0k0Tjh1WGFYUFBTSTNYZ0dfVFUwcjNQSkxBWWRIVGxkM2VBUVJ1V1A0Wk5fbXR2ckVCZ3ZFWk1lMUl3emU4dw?oc=5",
+      "source": "Law360",
+      "published": "30 Jul 2026",
+      "summary": "Linklaters' Legal AI Leader Coming To NY For US M&A Work&nbsp;&nbsp;Law360",
       "tags": [
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "Sarvam AI Hires Former xAI Researcher Devendra Chaplot to Build Frontier AI Models",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnFsNWlKdm5HLXg3T3BWNTgyRElXX2sxUjZEZGZra2NhWVFJUDMtYUI4Z2hRY2g1RS1GQWdVcWRwNXhlcWhWQTlwcXBxTUNMNWxjdGJ2SGVlVEg4eFZwY2x1SjRxNXFpR1dsU2p2VGJVSUk5cWlhd1dQVjhUcFVNdXFlZU5qcm9QVVhMb0R0VWlsRVpxdGhidzdxUHkwaHJwVVc3eUFwTFJ5T0xFVGZhWk5HWThRSEVHUVhkUQ?oc=5",
+      "source": "analyticsindiamag.com",
+      "published": "30 Jul 2026",
+      "summary": "Sarvam AI Hires Former xAI Researcher Devendra Chaplot to Build Frontier AI Models&nbsp;&nbsp;analyticsindiamag.com",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1RObUNpMFhaQlRCU0VFWXlOS1BHRmJTSE1oTUZMdkJxR0Z1ZjY3YkpxYTE1aXRlMVd5bGx5OFM5LUp0d0pCWXpBVGlta09GU1NwTXRwSjJlT0pfLURyM2RvY0VCOWRxZzZNTmlsTUhnc0pwUTB3eHFtalAtSk1HU0QzUHNXblU0aERNWldXYlFtU0dJQUlNcGpXSkFpbHdHcHRRT1R0Y192bExPVWJsMzB4Z2pfWWRkM1VCUnI5TEl4MXJ4ekRYVHVULXpjX00?oc=5",
+      "source": "Above the Law",
+      "published": "30 Jul 2026",
+      "summary": "The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops&nbsp;&nbsp;Above the Law",
+      "tags": [
+        "AI Trend",
+        "Contract Tech"
+      ]
+    },
+    {
+      "title": "Sarvam AI to build trillion-parameter foundation model",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXNJaDRyUjlpNmV6eG1Bd1FTMy1LU1VaNVJQTEwwdnMxOHVwRTZ3Q0dXRk1kNi1GdmtZQlhILXlpdHRnWHFOZXEyajJZYk1BN3R5cEJiQ2pNQ2x3YkJRdHZmV2xhUDRCMFZRQmplN0UzY0l6OHJxM0tyNTNZRnV1SHUxTlVlRDRwRVVuRjk0MlFrMEJ4Vy1qT0dQX2tTU3A5X1RhMkRPSWdUaF9fQ2hzS3A4T0NyWEpyNjN0eHhR0gHEAUFVX3lxTE1kQ2NUMjN3ZE5mWXc4WmJtV1g4eG9OMDhIdGhlUmhaelVrZFBNX1AyQ3dTT0dGSFpSTDdTQTVrX25ibkNMUUhnOU5GRzJDZm5Nd3p0eU1YY2s4SURlQmpxNE5ZUGdUN2otMEdSVjhBQVJHT2VLTmdwNEpVbllLQlEwZjluaGtCYzdXMWtkUDdtWXBpOVBtVmNtNVFaWVlXZWNaa2RCdXZ6cHI4SHJDNTJmcHhhQnZUZ25BSlNKUk5YVmQtTkc?oc=5",
+      "source": "BusinessLine",
+      "published": "30 Jul 2026",
+      "summary": "Sarvam AI to build trillion-parameter foundation model&nbsp;&nbsp;BusinessLine",
+      "tags": [
+        "India Startup",
         "AI Trend"
       ]
     },
     {
-      "title": "Anthropic Destroyed Millions of Books to Train Claude: Was That Legal?",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80ZmdPRkhwdkNXd3BuOGFCREFWLVEycUlNcjR2M25VU0ZhMzJQbVRrTWNtUktYdEd3OHpMMXBnZlBVVWIxVXFfa3k1Rm1JNmpjeE1hdm4wd0I4bVdVUTg1X0l5YzN1alAwcWlvZm5UZTlxMUNSVnA3OVR0VTA?oc=5",
-      "source": "BeInCrypto",
-      "published": "29 Jul 2026",
-      "summary": "Anthropic Destroyed Millions of Books to Train Claude: Was That Legal?&nbsp;&nbsp;BeInCrypto",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora acquires UK AI litigation intelligence start-up Wexler",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDVzLU5neC1rTy1ENFNsc2xBU1p3NzRXeUNud094bjB5VHVrVThoZEo1UWZFNGw1NEFyZUxYNnF2bWMtUXpHWTBPRDFPVjRsX25FN1RVY0QtY1V1X2tFelZaOURoNTM0U1NzRXVlcTMyOGhEejVTbm9yN09iR3J0TDVZeVRaQUFkVjRYRy1rVW9nQjNObXNneW1OWjEtcU5ZZnR5Q1k2RGVhUG5PMnc?oc=5",
+      "title": "Goldman Sachs and JP Morgan invest in Harvey",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTml2NlN5a1duQzU3QU1hemNrbnRCZEhFVGpNUWw4cDE1bC1PU29DUThhUHhjMkJpYlRfaWxseWo4YUY2eTAySEp2Z3M0cml3cUtwQWJjMGVyd294Xy1vbjhMb3ZXaEtEemdXTjFsTG9pN19Mc3lkNjF2bXZCUFI5bnY3S1VaM2hhbzJTQXh1TVRMTU5tclE?oc=5",
       "source": "The Global Legal Post",
-      "published": "29 Jul 2026",
-      "summary": "Legora acquires UK AI litigation intelligence start-up Wexler&nbsp;&nbsp;The Global Legal Post",
+      "published": "30 Jul 2026",
+      "summary": "Goldman Sachs and JP Morgan invest in Harvey&nbsp;&nbsp;The Global Legal Post",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Legora Acquires AI-Powered Litigation Startup Wexler",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1FGWUFzLVAwNnM5bnZudHB0SXd4enpZTkFTN0xYVHFMY0ZVdDRudVMweVItQkZDcW1NdmpYeEhRazRCOTc4TjRkX045VklEMElZTzFhdXdDcEdBUGhWRmdqc2tQbS1VY3NrMHNGcWViZ0dYZERlNnI3VzUtd0RXcjB6eWpXd2dYVzk2NDhHWmN0UFZOZWFRcWRoTVJWMzly?oc=5",
-      "source": "Law.com",
-      "published": "29 Jul 2026",
-      "summary": "Legora Acquires AI-Powered Litigation Startup Wexler&nbsp;&nbsp;Law.com",
+      "title": "Sarvam AI launches platform to build India-centric AI models | 'We should have our own ability to build models' | Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVlDSUZkdFUtemhUY1lyR01XZXZRMGxUeDhfc2IxRGJWb2U1UHJIVE1xWmxNSE9BMERjdFUzOGFxSl9MRVdFaXVTV01Id1kzOVBNY2JRYkl0TUdxWGpNbFgxcDkxRVIwcjRYd2xqQV9waVMtR3E3VS1xOGVSRDJiZ01pOE54SG5QM2JiY1RPSmhLZFAxaEVmN3Rtc1BGRDRCbTFmWVRwaEdNTEnSAasBQVVfeXFMTzFZQ0lGZHRVLXpoVGNZckdNV2V2UTBsVHg4X3NiMURiVm9lNVBySFRNcVpsTUhPQTBEY3RVMzhhcUpfTEVXRWl1U1dNSHdZMzlQTWNiUWJJdE1HcVhqTWxYMXA5MUVSMHI0WHdsakFfcGlTLUdxN1UtcThlUkQyYmdNaThOeEhuUDNiYmNUT0poS2RQMWhFZjd0bXNQRkQ0Qm0xZllUcGhHTUxJ?oc=5",
+      "source": "Inshorts",
+      "published": "30 Jul 2026",
+      "summary": "Sarvam AI launches platform to build India-centric AI models | 'We should have our own ability to build models' | Inshorts&nbsp;&nbsp;Inshorts",
       "tags": [
-        "Global AI Tool"
+        "India Startup"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "Legora snaps up litigation AI startup Wexler",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40REpzeTJNVDZ5VE1NVFhtdWRjUmhvYkstUDZ5QjQ2UWdVa0g0TzZISmhqRjYzZWtmcU83WlNkR1BtV1BqU213dWh0eF9sWHdrWEpTOUtwR2owZEJMQThpZnpSbnBIaG9iaTVTXzd0OGtnN2s5cnhVN1gwOA?oc=5",
-      "source": "The Lawyer",
+      "title": "Legora's buying spree has reached the courtroom",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVJVZ2ZmdEpFS2pLaFBLdVl3SXh2ZEF2b09pcnBLNDNZYUtPa2tURF9RNG9Td1VRaS00VzY0bGhIcGpyUDNzUk91Sk0xT0Iyd1piMXZkeVpqVWJkY0IyS3o4RDM0NTVaZWRicVlKMHJ0YkxNVVBxZnQxZmIzTzYzaDUta1V5SzRocGVSQkRHLTc5MHVrY0tF?oc=5",
+      "source": "Business Insider",
       "published": "29 Jul 2026",
-      "summary": "Legora snaps up litigation AI startup Wexler&nbsp;&nbsp;The Lawyer",
+      "summary": "Legora's buying spree has reached the courtroom&nbsp;&nbsp;Business Insider",
       "tags": [
         "Global AI Tool"
       ]
@@ -72,17 +126,65 @@
       ]
     },
     {
-      "title": "Legora's buying spree has reached the courtroom",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVJVZ2ZmdEpFS2pLaFBLdVl3SXh2ZEF2b09pcnBLNDNZYUtPa2tURF9RNG9Td1VRaS00VzY0bGhIcGpyUDNzUk91Sk0xT0Iyd1piMXZkeVpqVWJkY0IyS3o4RDM0NTVaZWRicVlKMHJ0YkxNVVBxZnQxZmIzTzYzaDUta1V5SzRocGVSQkRHLTc5MHVrY0tF?oc=5",
-      "source": "Business Insider",
+      "title": "Legora snaps up litigation AI startup Wexler",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40REpzeTJNVDZ5VE1NVFhtdWRjUmhvYkstUDZ5QjQ2UWdVa0g0TzZISmhqRjYzZWtmcU83WlNkR1BtV1BqU213dWh0eF9sWHdrWEpTOUtwR2owZEJMQThpZnpSbnBIaG9iaTVTXzd0OGtnN2s5cnhVN1gwOA?oc=5",
+      "source": "The Lawyer",
       "published": "29 Jul 2026",
-      "summary": "Legora's buying spree has reached the courtroom&nbsp;&nbsp;Business Insider",
+      "summary": "Legora snaps up litigation AI startup Wexler&nbsp;&nbsp;The Lawyer",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Legora Acquires AI-Powered Litigation Startup Wexler",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1FGWUFzLVAwNnM5bnZudHB0SXd4enpZTkFTN0xYVHFMY0ZVdDRudVMweVItQkZDcW1NdmpYeEhRazRCOTc4TjRkX045VklEMElZTzFhdXdDcEdBUGhWRmdqc2tQbS1VY3NrMHNGcWViZ0dYZERlNnI3VzUtd0RXcjB6eWpXd2dYVzk2NDhHWmN0UFZOZWFRcWRoTVJWMzly?oc=5",
+      "source": "Law.com",
+      "published": "29 Jul 2026",
+      "summary": "Legora Acquires AI-Powered Litigation Startup Wexler&nbsp;&nbsp;Law.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora acquires UK AI litigation intelligence start-up Wexler",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDVzLU5neC1rTy1ENFNsc2xBU1p3NzRXeUNud094bjB5VHVrVThoZEo1UWZFNGw1NEFyZUxYNnF2bWMtUXpHWTBPRDFPVjRsX25FN1RVY0QtY1V1X2tFelZaOURoNTM0U1NzRXVlcTMyOGhEejVTbm9yN09iR3J0TDVZeVRaQUFkVjRYRy1rVW9nQjNObXNneW1OWjEtcU5ZZnR5Q1k2RGVhUG5PMnc?oc=5",
+      "source": "The Global Legal Post",
+      "published": "29 Jul 2026",
+      "summary": "Legora acquires UK AI litigation intelligence start-up Wexler&nbsp;&nbsp;The Global Legal Post",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Anthropic Destroyed Millions of Books to Train Claude: Was That Legal?",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80ZmdPRkhwdkNXd3BuOGFCREFWLVEycUlNcjR2M25VU0ZhMzJQbVRrTWNtUktYdEd3OHpMMXBnZlBVVWIxVXFfa3k1Rm1JNmpjeE1hdm4wd0I4bVdVUTg1X0l5YzN1alAwcWlvZm5UZTlxMUNSVnA3OVR0VTA?oc=5",
+      "source": "BeInCrypto",
+      "published": "29 Jul 2026",
+      "summary": "Anthropic Destroyed Millions of Books to Train Claude: Was That Legal?&nbsp;&nbsp;BeInCrypto",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Custom Legal Marketing Releases First Public Report on AI Rankings from Its Sequoia Platform",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeVhsODh4eEx4UXB6a2ozWTZtaHpGNTVuOEdpOE9VQVdJVE16QTlEYWhqWHN5UHlucGVSZU1IeHZQbHFsN0VoNWJWUkg3XzJ2SFNZNW45UnB0dWdSVFNnZ1VyanhtbGN6ZGRRUWp6ZHpCanRsWWN2MXFnT1VwclZVN0RUa05Bc0tleGtQVDNaZWVzYk5DelBqRU5PNVJZZ05JZWs0?oc=5",
+      "source": "Yahoo Finance",
+      "published": "29 Jul 2026",
+      "summary": "Custom Legal Marketing Releases First Public Report on AI Rankings from Its Sequoia Platform&nbsp;&nbsp;Yahoo Finance",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "In-house legal teams get creative with AI tools",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zaTRTQXRSTDYzU2F0Wm1KMmdoaThUQ0VnZVpIeUtQeXFla0o2MF96ZVZEZndCQ1Vub1lpa3pNbE50T0ZzYUhYd0lRYzQ5MzRBTVNqMUY5cExQRERLUmVsOGlZWlZadTR5RGQ2ZXBEcTU?oc=5",
+      "source": "Financial Times",
+      "published": "30 Jul 2026",
+      "summary": "In-house legal teams get creative with AI tools&nbsp;&nbsp;Financial Times",
+      "tags": [
+        "AI Trend"
+      ]
+    },
     {
       "title": "Sarvam holding AI event Epoch on July 30, teases new model updates and product launches",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdDVpWkpXLThoUzlGdnZWN0R5SjVOeHVBTXlSZUotYmFjQ3dxNndNNi1TNTU3cC1pQjZ5VDd6UFd5REFORnFpZE8zb2VPcUFDVUJUNmlKSXpxa1haTVFFTUpYcExoOHF6dkQzZE9ta1pGQkkzTXFXMS1seEZyeUQ5anV5N0QxdUcwRXl1dERTQ2VvdnBqU3lPTjF3c1NnTWhYMDd1SWg4NTh6Z01veFlNQ3VVTklVSGFBVDd1V2V0bTFDdTNQVld4aGNZNDNRYVBMZjhkTzZVY29pM1RHbWtObWJNNEp4emdB0gHuAUFVX3lxTE0tRmxvazg5ZUxrOFRvLUw2ZmpTT2VkWGh4bFBHU1FmOUJkMVl6VF9PTXVUUUM0N1NOSG1LLVlDcVZmVTBFYk9pOWRLSUJFWm5fVTNTVEgtVzVLOTB5cV9wVWZkUE11V0FaVWd0MnVmSW5TdU02RUtlUTlZNGZHXzhmdktNY2dkc1VtQnhQa1hudkozYzJwX2NGNmRVX0Zfc3dmRlJ4Mk9fREdfVTJGV0xnZnBlU2Z3WXFpT0lXeUdRUmhKZkpCNzVpaFFzbHV5bUx0dkVuV0poa3FvR1AtVFhMazdqSmJMZEwxQ2RfbUE?oc=5",
@@ -2006,87 +2108,6 @@
       "summary": "Jude Law endorsement boosts legal AI company Legora\u2019s visibility&nbsp;&nbsp;Canadian Lawyer",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "RSGI\u2019s second Harvey report shows jump in adoption",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWR1RTVMeS1UWVRyd21wX3N6UFg5R0NrYS1xS3lDU01NQXdaYVE2YW9HM0toVk16X0xXTjN5TVVMVTQ3WTJBeUNub2ZDSHk2NnZuRmJBS0FYYmJKbC1XQl9DQVFpSTlxelM5cWtidlBoTUl5TjJJWFRmS1pZS1k3WnprUjQ?oc=5",
-      "source": "Legal IT Insider",
-      "published": "17 Jun 2026",
-      "summary": "RSGI\u2019s second Harvey report shows jump in adoption&nbsp;&nbsp;Legal IT Insider",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "ETLegalWorld x Microsoft to discuss bench, bar & business future amid rapid technological change",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcF9CUzVNUFVJTW9iREY2Z0FfR29DTTZ6Rk5hdVhKMWhpYVFlT3I1dFlUNUxNUWw2UlhQeDNNNXRfUEcwLTJSOHVlWC1WSUhYRkJBVmRLMDc0azR2NnE2WFl4UWhXQWYxRk93aE9CWGdwLXVWdlRRVnhXc2l4WmxpT1NyWnNPc1dQbHctNnJhNkpqbHdadndLbnVZdjkwZ1E2bUVUanpvX0ZoOGRjYTRyVWs4ckJlUWI0VW5ybThDWTFqbzlEX2l5TFN0bWpRVTFhY19ENUtSajFMcDBIUmtKOWFGb0Q3Z9IB5gFBVV95cUxOcF9CUzVNUFVJTW9iREY2Z0FfR29DTTZ6Rk5hdVhKMWhpYVFlT3I1dFlUNUxNUWw2UlhQeDNNNXRfUEcwLTJSOHVlWC1WSUhYRkJBVmRLMDc0azR2NnE2WFl4UWhXQWYxRk93aE9CWGdwLXVWdlRRVnhXc2l4WmxpT1NyWnNPc1dQbHctNnJhNkpqbHdadndLbnVZdjkwZ1E2bUVUanpvX0ZoOGRjYTRyVWs4ckJlUWI0VW5ybThDWTFqbzlEX2l5TFN0bWpRVTFhY19ENUtSajFMcDBIUmtKOWFGb0Q3Zw?oc=5",
-      "source": "ETLegalWorld.com",
-      "published": "17 Jun 2026",
-      "summary": "ETLegalWorld x Microsoft to discuss bench, bar & business future amid rapid technological change&nbsp;&nbsp;ETLegalWorld.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Axiom and Legora Mark One Year of Delivering AI-Enabled Legal Services at Scale for In-House Legal Teams",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLXpCbTF3VjRBS21BeXUtYmFzcWhIdUNjSVFpbGx2NHlNZXphQ3VrV0FxdG5MS2loMldNeEMxb3Yxb0VXVzBDcUpDMkZDenJxLU1ORzRWU2JVOThqTWYyV0VrQ3F4dDlwTGgyRnBGZGxjamZFZ21BaFBMODVQUlp4dWxwSF9TM0ZXR0k1RVg2OWhlVDVVU21FdnpjSDl4RWhmdDdlREFGNndKNjY1YUlsamE1YVRJdjV3YzQ0N3NnZW4wZ3Q5elExSXNlNFI5YXgxMGF5ZUJKeE5CallxQzZ3alNSNDJrZk95TFd0LXpOQjVOZw?oc=5",
-      "source": "PR Newswire",
-      "published": "17 Jun 2026",
-      "summary": "Axiom and Legora Mark One Year of Delivering AI-Enabled Legal Services at Scale for In-House Legal Teams&nbsp;&nbsp;PR Newswire",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "How Hanson Bridgett Is Using Claude Firmwide",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMWpYaHpTcDRGSC15bUZ2aDFzWmVpR3VBZUdDa2s4aHNPckphS2s5NVFwRHMtYWp5aTdPZFdQdnlKcWlSWVdKOVJjWFdSZENfeENBNTd1QUtGM0UzRmFfMFBqVE54TEQxU3UtQTA2Q3RhT2R4Q2ZJVFp0YUxhVDVfeDhFYWN4cHpKM0QzaklZZnd4d1lvYXc?oc=5",
-      "source": "Law.com",
-      "published": "17 Jun 2026",
-      "summary": "How Hanson Bridgett Is Using Claude Firmwide&nbsp;&nbsp;Law.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Ironclad + Legora Partner for Unusual \u2018AI-to-AI Integration\u2019",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWs2Sl94czNuTGQtY09GSktFVEQtU1M5aWJfQm5FUjMwRHM2M2JWS2M0VHBPSDNHLTVaa2xLQlNxWEJ0MEdrS3pKVTc1SGtjVm42d01qaU0waFJYS3Vic3U3ZklJbkM5Xy1pdHUxVUY2dVU4eHBpaFdycTJzYk5jTFhCMm5URFRSNzZfRWdqZ19ZMXZJVkloWjFiaFZoWmdwVTVZ?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "17 Jun 2026",
-      "summary": "Ironclad + Legora Partner for Unusual \u2018AI-to-AI Integration\u2019&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "Global AI Tool",
-        "Contract Tech"
-      ]
-    },
-    {
-      "title": "AI Company Anthropic Suspends Access to Claude Fable 5, Claude Mythos 5 Following US Export Control Directive",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFRwVjdJQTllWUtjbjhnLWhFY2J3emVKY1ZVVjYzajhXUEJUUGs2dE1ZM2hhbmFHNG9QYlphOThIZVFUQ0xha3NDN0hFdFN0MGdhXzA0dHJRc0tYUDlEVnJKQTF3X3VIblFlaDNPWG11SjVRTHdVMW1qSmkzRDlFbWtQMGJuQ1cyemoydzVkM1JTbUM2M2F1OGprV3JKYkhPZGRkTHhSemNZcDNvMFdKUXhsdG43dE550gG4AUFVX3lxTE9EVHBWN0lBOWVZS2NuOGctaEVjYnd6ZUpjVlVWNjNqOFdQQlRQazZ0TVkzaGFuYUc0b1BiWmE5OEhlUVRDTGFrc0M3SEV0U3QwZ2FfMDR0clFzS1hQOURWckpBMXdfdUhuUWVoM09YbXVKNVFMd1UxbWpKaTNEOUVta1AwYm5DVzJ6ajJ3NWQzUlNtQzYzYXU4amtXckpiSE9kZGRMeFJ6Y1lwM28wV0pReGx0bjd0Tnk?oc=5",
-      "source": "The National Law Review",
-      "published": "17 Jun 2026",
-      "summary": "AI Company Anthropic Suspends Access to Claude Fable 5, Claude Mythos 5 Following US Export Control Directive&nbsp;&nbsp;The National Law Review",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "InfoTrack & Legora link AI workflows with legal data",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWWotNXRRTnFNNXAwY2FoVWltREFGd01YUW9TLVh5a094ekE3LURxUzkzUkVrSnNJTlZiSy1KbVduT2FfbHR5MmlnX0s1ZG5kaHlkazRZTnNEdDJYVFg3WFZ2cVE3Z3lrck5QdV83bkFNalF6ZmdrWDB4Mk02S3ItdTFTd2xRQQ?oc=5",
-      "source": "IT Brief Australia",
-      "published": "17 Jun 2026",
-      "summary": "InfoTrack & Legora link AI workflows with legal data&nbsp;&nbsp;IT Brief Australia",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "How AI is expanding the legal tech market",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXI3YjY4MXFRTXhaOEh6c0UyWGh1V2tWM1dlTW9LMWh0SjB6NTk1ZkQ2YkxuMzVuZWkzWE1HRnJ3MnI4bGtxSG5aRmNQYkJITEYxN1pDb25GZmpTcXRVeGttdFFreWRENWlqNE5mVHBwSU1ZYVBya1ZaRUdON2tkRzlkQlVEZ05sQXhhMzZldjRPaWkxRkE?oc=5",
-      "source": "Global Venturing",
-      "published": "16 Jun 2026",
-      "summary": "How AI is expanding the legal tech market&nbsp;&nbsp;Global Venturing",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
