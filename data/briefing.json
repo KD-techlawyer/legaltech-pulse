@@ -1,52 +1,44 @@
 {
-  "date": "Saturday, 1 August 2026",
+  "date": "Sunday, 2 August 2026",
   "articles": [
     {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "31 Jul 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "The AI gap in Canadian law: What every legal leader needs to act on now",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUh5V3pnR1F3cjgtN291SUJKcG5mTzdhQm5FNHdGV3Qta21VWXVsT2JwdVU3NUVGd1RqY0xWVUw3bENCWEZ2cjR0Nkp6ZDYzRFV0dDNvcU5BVXZ3dFJWZzBjaUR6aDJreUhncnJyYmQ4UHBfSmZJMFItZEVPZXhpcXlTZC1fcnh0eUo4ZFIxTFBOOUFQbUppMWJDNWgtWWlETXEwVFJaXzg3UDA1clE?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "31 Jul 2026",
-      "summary": "The AI gap in Canadian law: What every legal leader needs to act on now&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "title": "Sarvam\u2019s AI Arsenal",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EM2F4Z2NvSjU0OUg0Y2plR3BEWXg0UXBNNFpuS21ZZHRkdEhjWFowTTEzRG5OTDlqbWYxbF93R3pfUVVsX1l0Zzl4Z2paU09nVkpfOWhkY0FxUQ?oc=5",
+      "source": "Inc42",
+      "published": "2 Aug 2026",
+      "summary": "Sarvam\u2019s AI Arsenal&nbsp;&nbsp;Inc42",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Sarvam AI Rolls Out Platform To Build, Fine-Tune LLMs For Indian Use Cases",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXJheU5qY0h1eFRKbVlqeGV3VEFZSmZ3WEpBMEJLMkphMnRDSktCYkRwSl96a0JYclg2VFRoUHZtWkxHM01GUFFRSThnVVEwd0N4ZzFuRWZGUlFoMnVkWEZValN0czdrNThNa0xCUTBHTERYNzBFWW9qOGdtVHRWOVlSVmxLOGR4UGtvUzhXX1AxUl9DZXAwajBnQjZxaUNKVnJ2YkRneTZYSzRX0gG8AUFVX3lxTE85N2duTF9YZDZsNjBlZWZTRVJldU0yWC1DYVdXU2tseEZyV0JHSG0tLTA2ZXVQUV9DVTRqYTI0SUJwMWpvRjR2X1hRQlRxR3dITVg4V0pGR0dZNWtsTWk4cmxhMmF0UjFLQTJzaDRydy1GcTJ1eGUyb0dzbHRNN1FPYnlnQUZhckp3SS1nTVZUeHBZbFZPWDFsN1ZjeUdNQ1VnaHB0TTd4ejZseTlpbzl1aXZPWDgzWktyVXdm?oc=5",
-      "source": "Swarajya",
-      "published": "31 Jul 2026",
-      "summary": "Sarvam AI Rolls Out Platform To Build, Fine-Tune LLMs For Indian Use Cases&nbsp;&nbsp;Swarajya",
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "1 Aug 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
       "tags": [
         "India Startup"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "Sarvam AI Launches Platform to Build India-Focused AI Models",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUxDMlZSdzgyTUdiQ250X2lteE1nSGFLRDBSWEFSLXF5QmlmZ1JaeWE4WG9kdk03Ym1WdEdzYTY1YVcyQzhSQUxMaEFYWW9DUDZOS253VFRBaTBOSU4xRGJpdW1aY2hLcEVGTjBtazhoaEpTUFZ3a0dlWXJSTXhlNTg5ME13dU5Nakl4NU9JZDlZb2Y1NDkyaUFvOURObnFTVG9TeWhpdUI3MXhDR0RjcWFYMFpHNUJWLTlxT2tMeDFmSkU?oc=5",
-      "source": "siliconindia.com",
+      "title": "Agentic AI in Enterprise Workflows: Risks and Opportunities",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDE3YXBQYTJpWnVJOFlySkhxMUtISzF4bmdjQWk5SkhlNzJXYXBSWlFuNFliUTNJV21zZXN1a0diSE5KNlhhVGY3NExvSV9wbzVabVpHYV9LbUFFY3k2QTEzTTdRWDdVQ05jTEpGYkdoc2p3S1RkWUkzbHFjUjBEczNad0U0MExPRHVib2RvbjhIejIwTGZpUHZMWW9EeXk5WU5QWFRrQTRvODhH?oc=5",
+      "source": "Nasscom",
       "published": "31 Jul 2026",
-      "summary": "Sarvam AI Launches Platform to Build India-Focused AI Models&nbsp;&nbsp;siliconindia.com",
+      "summary": "Agentic AI in Enterprise Workflows: Risks and Opportunities&nbsp;&nbsp;Nasscom",
       "tags": [
-        "India Startup"
+        "AI Trend"
       ]
     },
     {
-      "title": "Sarvam AI launches platform to help build India-centric AI models",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUJSYVdfeUpZZm4yOUZMTXhlaUFISV9SeDBWek9kSGdtdjJ1UFRfR2ZFV2tzcUU1d0xpWTlGQ3J0dTdnN3c5S3YyRXB0NG5udGF4TTRZb1M2aFJsQWNIT2ZuUkFQZE5WZ3paOVEzd2VNX0dBREMxZHhGMTFiZHF1eHZremNQX1VxaklSZVFwOFhKOGJBSUJCWERhMGlDMW1SWml2eGFRd1k1dmVvZHNzRHpfX2xOY3o1SmhMOUpIckhabFRFNWtIZWJn0gHQAUFVX3lxTFBabGRzZlpQVndKWW9oSUFwMHdIWDJpa3Z4d1NnS0dyWUZpRmRTUlcxbWQwREFwdTNZS21wdnZLTlRHRG55RE5ENVViRmIzNlBuelRoZXYtTEl2RnhBaUNrMmMxZTFjUHc4X0NYb3FPN05Hc2pCS0ZpbEVsOXJHRzdiOW5kTUE5NXdkWkZzblpLMnFHOEpiQzVBX09DZm9zT0l3eWNCVlFOTVBCR0RkNXlQLXlreG9obzV4SVE4cWxnUmM2STlSandzOE1ZRzFwYzA?oc=5",
-      "source": "The Hindu",
+      "title": "Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbi1fVW5VQ0ZsdDBKTXJjV2FhRWlhQjN3VHVvQlNhS243R0lIYzdOYXUyVS12YkRfRF9HeHk1TFE3V3Q5WTJJMUdpSjQ1cU9PMGlZRk80TGZ0N1BKYnhsZ21rR1k5anJQM1QwN1E5QzZKdG1jV2FkNUlYMkxnRWVaMGE0eE1ORTZ3UmhYMl8zUjhvalNMbDNKTE8zMXluTnNrR3VhaUVWaDN3X1RoYXowYlQ5OVlEd1RhdDNyUkdEWUN1QWZfMDhEZlBCNnJienJzWDlWb2N1a3lYektUSVBTbXZ6ZGJaT3ZwMm56Y2g4ZTJtYW_SAfgBQVVfeXFMTWY0Z21SOTVtMVl6Y09HWHc2c0lhRHJiSVE4Z0h0MmFyN2JNRXhOUFd0S0gxME5CQ0RZR3IwX2ppQy1yMmUtcjdabm80SEtQUl95azYzWnpzSVdsTkVNQzRHN1NQdkhSVlpFbGFXWUpsdVltQlpBQVdGTGliWHVkRVpjQWMwUjl4aFlfdHdrRFdYRXlWUHpsSnRpWGxCZ1dJanoxSThuZmNKb254YVpZSEU2YU5za1B6MEFJd1h3d3AtUU5XUmpWWTNLR0dvWlM5ck4wNWZGWUkyckt1cXQ1dnJvNE9HcnV3aDBuVTl3QV9CNnFIRDFSZ3k?oc=5",
+      "source": "The Economic Times",
       "published": "31 Jul 2026",
-      "summary": "Sarvam AI launches platform to help build India-centric AI models&nbsp;&nbsp;The Hindu",
+      "summary": "Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude&nbsp;&nbsp;The Economic Times",
       "tags": [
         "India Startup"
       ]
@@ -62,27 +54,45 @@
       ]
     },
     {
-      "title": "Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbi1fVW5VQ0ZsdDBKTXJjV2FhRWlhQjN3VHVvQlNhS243R0lIYzdOYXUyVS12YkRfRF9HeHk1TFE3V3Q5WTJJMUdpSjQ1cU9PMGlZRk80TGZ0N1BKYnhsZ21rR1k5anJQM1QwN1E5QzZKdG1jV2FkNUlYMkxnRWVaMGE0eE1ORTZ3UmhYMl8zUjhvalNMbDNKTE8zMXluTnNrR3VhaUVWaDN3X1RoYXowYlQ5OVlEd1RhdDNyUkdEWUN1QWZfMDhEZlBCNnJienJzWDlWb2N1a3lYektUSVBTbXZ6ZGJaT3ZwMm56Y2g4ZTJtYW_SAfgBQVVfeXFMTWY0Z21SOTVtMVl6Y09HWHc2c0lhRHJiSVE4Z0h0MmFyN2JNRXhOUFd0S0gxME5CQ0RZR3IwX2ppQy1yMmUtcjdabm80SEtQUl95azYzWnpzSVdsTkVNQzRHN1NQdkhSVlpFbGFXWUpsdVltQlpBQVdGTGliWHVkRVpjQWMwUjl4aFlfdHdrRFdYRXlWUHpsSnRpWGxCZ1dJanoxSThuZmNKb254YVpZSEU2YU5za1B6MEFJd1h3d3AtUU5XUmpWWTNLR0dvWlM5ck4wNWZGWUkyckt1cXQ1dnJvNE9HcnV3aDBuVTl3QV9CNnFIRDFSZ3k?oc=5",
-      "source": "The Economic Times",
+      "title": "Sarvam AI launches platform to help build India-centric AI models",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUJSYVdfeUpZZm4yOUZMTXhlaUFISV9SeDBWek9kSGdtdjJ1UFRfR2ZFV2tzcUU1d0xpWTlGQ3J0dTdnN3c5S3YyRXB0NG5udGF4TTRZb1M2aFJsQWNIT2ZuUkFQZE5WZ3paOVEzd2VNX0dBREMxZHhGMTFiZHF1eHZremNQX1VxaklSZVFwOFhKOGJBSUJCWERhMGlDMW1SWml2eGFRd1k1dmVvZHNzRHpfX2xOY3o1SmhMOUpIckhabFRFNWtIZWJn0gHQAUFVX3lxTFBabGRzZlpQVndKWW9oSUFwMHdIWDJpa3Z4d1NnS0dyWUZpRmRTUlcxbWQwREFwdTNZS21wdnZLTlRHRG55RE5ENVViRmIzNlBuelRoZXYtTEl2RnhBaUNrMmMxZTFjUHc4X0NYb3FPN05Hc2pCS0ZpbEVsOXJHRzdiOW5kTUE5NXdkWkZzblpLMnFHOEpiQzVBX09DZm9zT0l3eWNCVlFOTVBCR0RkNXlQLXlreG9obzV4SVE4cWxnUmM2STlSandzOE1ZRzFwYzA?oc=5",
+      "source": "The Hindu",
       "published": "31 Jul 2026",
-      "summary": "Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude&nbsp;&nbsp;The Economic Times",
+      "summary": "Sarvam AI launches platform to help build India-centric AI models&nbsp;&nbsp;The Hindu",
       "tags": [
         "India Startup"
       ]
     },
     {
-      "title": "Agentic AI in Enterprise Workflows: Risks and Opportunities",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDE3YXBQYTJpWnVJOFlySkhxMUtISzF4bmdjQWk5SkhlNzJXYXBSWlFuNFliUTNJV21zZXN1a0diSE5KNlhhVGY3NExvSV9wbzVabVpHYV9LbUFFY3k2QTEzTTdRWDdVQ05jTEpGYkdoc2p3S1RkWUkzbHFjUjBEczNad0U0MExPRHVib2RvbjhIejIwTGZpUHZMWW9EeXk5WU5QWFRrQTRvODhH?oc=5",
-      "source": "Nasscom",
+      "title": "Sarvam AI Launches Platform to Build India-Focused AI Models",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUxDMlZSdzgyTUdiQ250X2lteE1nSGFLRDBSWEFSLXF5QmlmZ1JaeWE4WG9kdk03Ym1WdEdzYTY1YVcyQzhSQUxMaEFYWW9DUDZOS253VFRBaTBOSU4xRGJpdW1aY2hLcEVGTjBtazhoaEpTUFZ3a0dlWXJSTXhlNTg5ME13dU5Nakl4NU9JZDlZb2Y1NDkyaUFvOURObnFTVG9TeWhpdUI3MXhDR0RjcWFYMFpHNUJWLTlxT2tMeDFmSkU?oc=5",
+      "source": "siliconindia.com",
       "published": "31 Jul 2026",
-      "summary": "Agentic AI in Enterprise Workflows: Risks and Opportunities&nbsp;&nbsp;Nasscom",
+      "summary": "Sarvam AI Launches Platform to Build India-Focused AI Models&nbsp;&nbsp;siliconindia.com",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Sarvam AI Rolls Out Platform To Build, Fine-Tune LLMs For Indian Use Cases",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXJheU5qY0h1eFRKbVlqeGV3VEFZSmZ3WEpBMEJLMkphMnRDSktCYkRwSl96a0JYclg2VFRoUHZtWkxHM01GUFFRSThnVVEwd0N4ZzFuRWZGUlFoMnVkWEZValN0czdrNThNa0xCUTBHTERYNzBFWW9qOGdtVHRWOVlSVmxLOGR4UGtvUzhXX1AxUl9DZXAwajBnQjZxaUNKVnJ2YkRneTZYSzRX0gG8AUFVX3lxTE85N2duTF9YZDZsNjBlZWZTRVJldU0yWC1DYVdXU2tseEZyV0JHSG0tLTA2ZXVQUV9DVTRqYTI0SUJwMWpvRjR2X1hRQlRxR3dITVg4V0pGR0dZNWtsTWk4cmxhMmF0UjFLQTJzaDRydy1GcTJ1eGUyb0dzbHRNN1FPYnlnQUZhckp3SS1nTVZUeHBZbFZPWDFsN1ZjeUdNQ1VnaHB0TTd4ejZseTlpbzl1aXZPWDgzWktyVXdm?oc=5",
+      "source": "Swarajya",
+      "published": "31 Jul 2026",
+      "summary": "Sarvam AI Rolls Out Platform To Build, Fine-Tune LLMs For Indian Use Cases&nbsp;&nbsp;Swarajya",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "The AI gap in Canadian law: What every legal leader needs to act on now",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUh5V3pnR1F3cjgtN291SUJKcG5mTzdhQm5FNHdGV3Qta21VWXVsT2JwdVU3NUVGd1RqY0xWVUw3bENCWEZ2cjR0Nkp6ZDYzRFV0dDNvcU5BVXZ3dFJWZzBjaUR6aDJreUhncnJyYmQ4UHBfSmZJMFItZEVPZXhpcXlTZC1fcnh0eUo4ZFIxTFBOOUFQbUppMWJDNWgtWWlETXEwVFJaXzg3UDA1clE?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
+      "published": "31 Jul 2026",
+      "summary": "The AI gap in Canadian law: What every legal leader needs to act on now&nbsp;&nbsp;Thomson Reuters Legal Solutions",
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Sarvam AI launches platform to build India-centric AI models | 'We should have our own ability to build models' | Inshorts",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVlDSUZkdFUtemhUY1lyR01XZXZRMGxUeDhfc2IxRGJWb2U1UHJIVE1xWmxNSE9BMERjdFUzOGFxSl9MRVdFaXVTV01Id1kzOVBNY2JRYkl0TUdxWGpNbFgxcDkxRVIwcjRYd2xqQV9waVMtR3E3VS1xOGVSRDJiZ01pOE54SG5QM2JiY1RPSmhLZFAxaEVmN3Rtc1BGRDRCbTFmWVRwaEdNTEnSAasBQVVfeXFMTzFZQ0lGZHRVLXpoVGNZckdNV2V2UTBsVHg4X3NiMURiVm9lNVBySFRNcVpsTUhPQTBEY3RVMzhhcUpfTEVXRWl1U1dNSHdZMzlQTWNiUWJJdE1HcVhqTWxYMXA5MUVSMHI0WHdsakFfcGlTLUdxN1UtcThlUkQyYmdNaThOeEhuUDNiYmNUT0poS2RQMWhFZjd0bXNQRkQ0Qm0xZllUcGhHTUxJ?oc=5",
@@ -2018,76 +2028,6 @@
       "summary": "Harvey CEO says the company's AI usage jumped from 1 trillion tokens a month to 12 trillion&nbsp;&nbsp;Business Insider",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E2WDlBRmduLTdnWkZfLV90MkJWaEZwZVZQeFl1OTN6NjBmTTZ5aTdTOUx2VFRmcHRYMjUtV2E4ZzFld0N5QTZJNU1zRDFfQ1NCSGhRMFdTLU5Uclc4ck1kcDQxX0dlM3NBaXI0V1FqSk45NTcyRUU5NHRfb3F5bFRXOEhLVmgwUmJzWkQ3WUdPYUtiSnpXcEd3QU5iWXpHR0MxYVdXejRiMlN6ZUJ5SGk5Ql9obXNSTUhVUnpubw?oc=5",
-      "source": "Startup Fortune",
-      "published": "19 Jun 2026",
-      "summary": "Harvey AI's 12x token surge reveals that legal AI has crossed from experiment to infrastructure&nbsp;&nbsp;Startup Fortune",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Investor Rights Alert: Microsoft (MSFT) Faces Securities",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNYlRMbF9PQml4b1MwamtrQU9yd1J2M255N3R0ckpjR01kd2VnWjN1Z01xaXhhdmxWM0xvdnRLbVJSSkVENThCTjFiZWhiZkNwd0lUdzdjOUl5M1lJV1NDNXBsTTg3endsMEtlTjhyTjFpLVAzcy0zclppQjF6blgtWXRVUnZSam5mM2lqUDF2di0zTi12aUgwd1V2ajhFSzd1Y3lnVXFEbTJxbGl2NUI3ZzZ1OW5LYXZyMW5Kb3dfYTV4cEtXVDdLR3FfSko2Wi1UWi1icWFsUU5Cb1lzZi1qclNSeHNLZ1hzWjNQUTd4blZzV2dnSF9oT0t6TjgwT09DS2RRajVHbVR0aV9od2FWYU83dHB2WXVETmlpV24wMnAzTVd5NlREZ2cwa0RxSzBwSDVrTzJNOFhnUWUtRWVzclVOcC1iZw?oc=5",
-      "source": "GlobeNewswire",
-      "published": "19 Jun 2026",
-      "summary": "Investor Rights Alert: Microsoft (MSFT) Faces Securities&nbsp;&nbsp;GlobeNewswire",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Lutnick\u2019s Anthropic Crackdown Claims New Power Over AI Models",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnlDaXdrZDNjc1R3UGUyRlBybTJiWHJ3N0RiU2F6ZmJSY1pFdGZOUUx0ZDJyaTZGTldMT3o1UDdBdUJycnRyTU1IQ2ZYWWdDeGJ4ZGVkb1QtbXhUWVFHQ1hTLVRiLXZla1l3c2FvR0lDc0xwbXc1LUZOdHdrVzV4Z0R5ZmRnMlhtWDNIQjlaV0lsYjlrU3Ffelk4QW5uZzlCRFg1WE82VWh2NGNUVWY3cHNR?oc=5",
-      "source": "Bloomberg.com",
-      "published": "19 Jun 2026",
-      "summary": "Lutnick\u2019s Anthropic Crackdown Claims New Power Over AI Models&nbsp;&nbsp;Bloomberg.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "[Weekly funding roundup June 13-19] Sarvam AI's massive funding round boosts VC inflow",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXlZU1FTNV9RZ1YtYVlnUDQtd3hsOXJyNUdMUnhSQnNsT0xkbVB6NnNtLUU3cTNYT2w0NDJQelcyZjl1NURfU0o1SmFIRjBRMUhPbENxZ1lvNGpoNUM1WldKMmRTd1BYeUJnY1JzODM4UlNmSGY2Z1JScUxENGJpUHpPZEphdHJmTk1FREhBTUdWZFZBOG4teFEzdHdGMTBpaHROZkRmNFpKbjZwY2ZNYVBmcw?oc=5",
-      "source": "YourStory.com",
-      "published": "19 Jun 2026",
-      "summary": "[Weekly funding roundup June 13-19] Sarvam AI's massive funding round boosts VC inflow&nbsp;&nbsp;YourStory.com",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "\"Garbage in, garbage out\" still applies: : Legal Tech Talk 2026 Panel discusses Tech Adoption and AI use in legal practice",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVNTeVI5WFFpbFlBQzljZ2VXS2NmOU9RcDQ0SnN2Ny1pVGlzUXdyZ28yZEtUNFhhLWs3bDB2Vk0yenFMbmV1QWF6bkFDSWhnUERQaUxaWVlOaGRGMG50SlltbkRmNVRDVGZLN3p6WTM1bzlVSV9fUVpyeEZpcUVKUmJUT0FKNnN0T2tzZGIzS21hbGdhSVhqRHc3NWRvXzI4UnNaQ2Rncw?oc=5",
-      "source": "SCC Online",
-      "published": "20 Jun 2026",
-      "summary": "\"Garbage in, garbage out\" still applies: : Legal Tech Talk 2026 Panel discusses Tech Adoption and AI use in legal practice&nbsp;&nbsp;SCC Online",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "A $5.6 billion valuation and rapid global expansion\u2014this AI European scaler even threw in a free Jude Law",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzbmNVb0YxWkRzeGYzMHZBbmFqRGhaa1ptODVFNkU1OXZCTWRPcWljZXhzYllXNXRYMVpxeTd1Y1JLZTN1cEs1b2tBWk1qcUliR1MtYkhMUkpVRUpHS2lHaVlyVEwxZGFTUU10bVBQeUNjWk94YjZkUjUtNA?oc=5",
-      "source": "Fortune",
-      "published": "18 Jun 2026",
-      "summary": "A $5.6 billion valuation and rapid global expansion\u2014this AI European scaler even threw in a free Jude Law&nbsp;&nbsp;Fortune",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legal Tech Talk 2026: How to Become a Tech-Powered General Counsel | SCC Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2k1elpiY1dwMFd4VWhpQ3hXUFZaV1dMYVpHSlJMYzBOdHlFaV9pcmttY2NBR29JOUtQRExWOWswRHNYeGpfb3hRUkVzSUNsSS1aRWI2RU11cFJFNUFwV3dSdjEtX2owRXlTQUhKT1lVd3BGZ2JSUFhTWk56Z2V4MzdycWtlaFdDMk9zV0cwUnJGUWF2ZFF1eW9jUFd4SS1MaVczLWdrUldiclBUWDRFb2NMRFc2NzRrbG01OGY4U2pMZTlKa3c?oc=5",
-      "source": "SCC Online",
-      "published": "18 Jun 2026",
-      "summary": "Legal Tech Talk 2026: How to Become a Tech-Powered General Counsel | SCC Times&nbsp;&nbsp;SCC Online",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
