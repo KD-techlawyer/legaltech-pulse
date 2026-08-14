@@ -1,62 +1,134 @@
 {
-  "date": "Thursday, 13 August 2026",
+  "date": "Friday, 14 August 2026",
   "articles": [
     {
-      "title": "Legal AI start-up Legora seeks funds at more than $10bn valuation",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHg5c3hXU1dWSi1qTXVRMmxpMUUydHkwTHZiWjB6UnhYSG5XclEtLU8xVnJYT2tSZzZBU0txaVZOUFg3NXN4ZXg4UldZbFNNUXdwNDlvaFp5dWJRN0xSeTZyLXAyd0htdmE5eUNrWk9MYnBIXzNZZThrV0pzT09OTUhtQS0?oc=5",
-      "source": "Financial Times",
+      "title": "Your firm has an AI strategy. Now comes the hard part",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnFfQkRueGVjcWVsYU9scVhrU1M1NWJNMWNYYnhEY2NWbDBaVWk3NmdIbjR4RVFodVZGdjNGS2J6aFpzdWQtcG1uU1dKMWFoWi1lWFNGU3VUdzJubVl0ODlQWlhQV2JQOEg1YlZHWFVkRHctUHZ3X01nYUNjeVBTN19jQ3VKSmJJX1ZLUl9zaFg4RmxaMEE?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
       "published": "13 Aug 2026",
-      "summary": "Legal AI start-up Legora seeks funds at more than $10bn valuation&nbsp;&nbsp;Financial Times",
+      "summary": "Your firm has an AI strategy. Now comes the hard part&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVlBanZJWk1sM0g2N3NDVzNuRlpqRzZlR3lvNkdERVd2dnZ4YVpHS0RQdTVmQ0IySG84MFFZZzNqSlNDbDREZFBXdFV5NUJxRjVFUlkwU19sSGZFSDlRenF3RDRadFZvSzFtSDRCNjBoVlV3ejhBanR4dU5fWm5NX1NpQmJOYmtNWTUzU0VrcGRFMUZKYy0zbk1IODd5TzhIU19aam9fcy1OVVFCdVFISmFPMmVvR0dN?oc=5",
+      "source": "Tech Times",
+      "published": "13 Aug 2026",
+      "summary": "Legal AI Arms Race: Legora Eyes $10B, Harvey Nears $15.5B in One Month&nbsp;&nbsp;Tech Times",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "12 Aug 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "title": "DeepJudge unveils AI continuity protocol backed by Harvey and Thomson Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaS1odzhXM2h3dlpFejJOUGNhdHJqNzJzYnUxaGdhZGtXdkhNWTFnNlc1MFF4YWJrQkdaM1ZHNDZPcGJEMFVKelhjNDFTYzNIVzlHVldzSHJWajZCVTNSbnJERVI0Rk41S0dIcG9DSTlUb3JBT09YOVRSOTVzNlJuN2MzdUc4R0d2eVZNQ19kZHlUNlpzV2s4T1NYS1pqX1VVc3N5Q2tFcGpRa3NuLTBQejMydUhhSjN5T3NHVTRhN0ZsczQ?oc=5",
+      "source": "The Global Legal Post",
+      "published": "13 Aug 2026",
+      "summary": "DeepJudge unveils AI continuity protocol backed by Harvey and Thomson Reuters&nbsp;&nbsp;The Global Legal Post",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "vLex Vincent AI vs. Harvey vs. Nexos AI: Trusted AI Legal Research Tools Compared (2026)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVktSXc5UG5QbFp0ZlJuaWUtalNjeVJpY1BPbFhFWklST09FQjA5OFU5N2l6Z0J1d0FvcXVEME9jY0xRYWliaVNZTDFLb1JsTl9XZl9wclR3U0xrdEN6RVVFNkdKUGlrQmtPY0pncVo4Qkl3T18tNHZKWDFiMF9iYmdZQXItLVhrM0xHYQ?oc=5",
+      "source": "nerdbot",
+      "published": "13 Aug 2026",
+      "summary": "vLex Vincent AI vs. Harvey vs. Nexos AI: Trusted AI Legal Research Tools Compared (2026)&nbsp;&nbsp;nerdbot",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Maharashtra Puts AI to Work: 2,500 Officials to Use Sarvam\u2019s Indus Across Departments",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXdWMXMxYXFzZFNIUkRkVHFRU3Q0OGJ3TlRGN0ZIUThzdG9qSHoxQ1dOYWxUREFGOTJjdXZmWWdJV29KQjNJdm9CaDg4NTlISGV2UHZyUm95QkpUYzI3ZlNKUm5YYUhHQlRrb01vdlNrcGZaNzlpWkxmNGRJeUN0WDl1V3NOaVpzQlBNR2xtNmFMQzgtcld0XzJib1NqRzdnTHpmeUlJNU1vWElIeGNtaXFlcUk5dzQ?oc=5",
+      "source": "Open Magazine",
+      "published": "13 Aug 2026",
+      "summary": "Maharashtra Puts AI to Work: 2,500 Officials to Use Sarvam\u2019s Indus Across Departments&nbsp;&nbsp;Open Magazine",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "DeepJudge Releases an Open Protocol for Passing Users \u2013 and Their Context \u2013 Between AI Products, with Harvey and Thomson Reuters On Board | LawSites",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZERSVk1RNXZ3bEZqbU9TbHh3RENuOTFwZXhZeGw4azFFN3V4QXc3Y0FHd19Jc0pXYlZvRFhWZGFCa2N3dmFvV0liTXlzdzY4Z3VPbGRtcXNtUnkySF9VVkRWSFRWaFd4RW1pM3JEZktWalhnN3l6UGdscEJ1V0FOMGtDQzZpNXY2dWpkWldkUFFBbzFXbFU3TnFnMTY5cnZWRWxtYTdFV2VhM2plM3BWcEFKbnJPUlU5YUJvWk1SUl9YSmFfa3UzVmRJeUduQ083clVDT3Z6bjFQNEZYTVA2Y21RVDhTNGU2QmFibEVSc1YwS0ZMaTYzS2QxeEpwUQ?oc=5",
+      "source": "LawSites | by Robert Ambrogi",
+      "published": "13 Aug 2026",
+      "summary": "DeepJudge Releases an Open Protocol for Passing Users \u2013 and Their Context \u2013 Between AI Products, with Harvey and Thomson Reuters On Board | LawSites&nbsp;&nbsp;LawSites | by Robert Ambrogi",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "The good, the bad and the ugly of AI",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFlMQXJrbmFTSnUyNHVYZDdNb1drUWVmS05zZ1pPNFd5RU9ROERncEZ2UWRkRllfdjlRYkZFakJFY3VrWWh0a1RWTTM3aWFnTlZqbzVPVWM3cjF0ZE9QbHhNUHZyWVRMOEtTWTV0Snp0RmlUSjJkSVBMWk9hLVpDclFEQktKcFVuYWlMQ3FoRDZvMHdJNTBzQkdxVHlPR2o4dXZvVWxKWQ?oc=5",
+      "source": "theglobeandmail.com",
+      "published": "13 Aug 2026",
+      "summary": "The good, the bad and the ugly of AI&nbsp;&nbsp;theglobeandmail.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legora is reportedly chasing a $10bn valuation, barely a season after its last raise",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uVmNwRHo2cVpvOUV5R3ZWZmVablVKelBEc1lXQW1aTGdRSVpGWERxc3JqcjQ2NnJkMEFrbkVUVUpITGx2VWpONEpRaHVvU0VPcllhdHplSm1McXNveUZuTk5oLW9BWV9KTGdRYmZDNlZyQQ?oc=5",
+      "source": "The Next Web",
+      "published": "13 Aug 2026",
+      "summary": "Legora is reportedly chasing a $10bn valuation, barely a season after its last raise&nbsp;&nbsp;The Next Web",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Karnataka explores Sarvam AI solutions for intelligent Governance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXhXM2FtcmpXM3RPamtDeGJZR2w4QXI2T2gzQlR2VzlZNDhoaGc3T25SNUVtR0tQdjNIZjBlWm1PaklaZm5SSjgxeDdKNkJVeEVjZnBTNjdySFR5b2E3LVRfdzdqNTdLT3Q2SHRFdUpHNXp5Q3FGU0ZUUE1QckZJMldvRlRKUlFYOUN4NDJsT3RsU0tHd2pkcFFuc25SZzlvYm1JaVFIQ18?oc=5",
+      "source": "Elets CIO",
+      "published": "13 Aug 2026",
+      "summary": "Karnataka explores Sarvam AI solutions for intelligent Governance&nbsp;&nbsp;Elets CIO",
       "tags": [
         "India Startup"
       ]
     },
     {
-      "title": "Explained: Sarvam AI's Indic benchmark to test voice AI across 22 Indian languages",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRzhUd3BXMnIzUXBMS2RMdi1tUzA2SE9HZnpXY0JneUtGMnRPcVExd295aWZuMExSbmx5NHVBX2hMbTNJSU5YanBUcHV3bGl4UXZxbzI5SlVSb1hqYzMweEZQMmtlMlVTamZ4a0Q3TEtRTG4wcHRLNmtndzJBeXN1b0Z5NV9BY0VacU9PbFpvQ3Bmd3g0WDR2YWN2bzdVWHZJOEZMRlVGZHpyMVIzZkdKMGtfSEVSdXg1cTh3MEpKNjFOU0RQQnJ2Zjk5ek5Cd1duZkdqa0pBSXNsZTZCMWRpQnpGaU5TYmYzMGFYcGl4OW1oWkJfVmZoS214ZDU1VVh0ZEHSAfsBQVVfeXFMTlpXLXlTQ0pXeEFaNk5xbHNybGVLZ1BEdWJDMjdJY2JmR0xXSV9xQklqZEZ4blFnQi1lLTlzdGljSF9jY215RVBjbEoyZU1ET0hOSGlIVHk0VzhDSFFrR2gxV2ExZERoTjFsYWpzOGVrY21aT2RvcHp3YVdBYkZzMWFxa3pOdHJoSm5uNGZPUnZoRGdWTERNYkpEUEhLZkk1ZnVQYS1mLWdhU2RSNG93a0wxanJubW04c0tDSXFuTFVkbjNPVjJibEdWLXpDaWRmWGhjQXNOaUJrQmVFcVJkQVZTR3A4aTdWeURTSEdIWEp3emN5LWxILVA1YUE?oc=5",
-      "source": "economictimes.indiatimes.com",
-      "published": "12 Aug 2026",
-      "summary": "Explained: Sarvam AI's Indic benchmark to test voice AI across 22 Indian languages&nbsp;&nbsp;economictimes.indiatimes.com",
+      "title": "Why Agentic AI in eDiscovery is strengthening, not replacing, legal judgment.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlFZM2hGZVc1aV9oLV80bjlmY0N5V0tLOWh5N2VMNlRoMjliMjJ1dW5NQXZHMnlQWHRtV2NWRWxGVVAwVVBMZG9qc3ZvZ2J4VWUzN21LeE5mVWl0TFd3aHFYaEkyWDVlZzRjVF9DRUpFN1VXa1pLeENqTEROM243Ry1rdVZGOXFMQTNnYm9RVnNjbHlqMXRjQzlVQ2RUOVNpV0QzUA?oc=5",
+      "source": "OpenText Blogs",
+      "published": "13 Aug 2026",
+      "summary": "Why Agentic AI in eDiscovery is strengthening, not replacing, legal judgment.&nbsp;&nbsp;OpenText Blogs",
       "tags": [
-        "India Startup"
+        "AI Trend"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "Big AI v Big Law \u2014 Jude Law, Harvey Specter and why the legal AI arms race is only just beginning",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
-      "source": "Law Society of Scotland",
+      "title": "How Harvey built a legal-AI research lab on a budget",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjA3RTRSdW0wNzhURnY1OHk3NkR5QVJORE1jZjlra1h6d2lqVGRhRUtIMkl6NUxFRjhqRXZHd0Yyalk3cmNQN0MxYjVyU3ByQ2tmQkdhRzVsRGR5YjRfU3dEZmREZkVPbHd1Wk9Hd0VnNGt5QU10eWJ3elBQVFd6NGhrQl9UakRoTFpBNHMyWQ?oc=5",
+      "source": "Dealroom",
       "published": "12 Aug 2026",
-      "summary": "Big AI v Big Law \u2014 Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&nbsp;&nbsp;Law Society of Scotland",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Turnout Names Steve Harvey Chief Advocate Officer, Launches AI Benefits Tool",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXQtUHdxNE5ZdkJUMy1MNGc4dkI4NFdvNDBHalNTR2hYa05kSy12SFdFTUdENERrV0pYTWdsUnl2WWZjT3lUYXZmX3d0TnlXSVlxVGx2SHg5cUpjT2NweTNSd2l4dmZGRXN6MGdNbzVIVUJhQ0R3WTAySXZHbTRrSjFXUXNaWV9Td2V1OF9nLVJEbDRkdGNGY1NBck9QZU9RZkNOQWdjV3B3N1Z5bTU4MTB6TTI?oc=5",
-      "source": "citybiz",
-      "published": "12 Aug 2026",
-      "summary": "Turnout Names Steve Harvey Chief Advocate Officer, Launches AI Benefits Tool&nbsp;&nbsp;citybiz",
+      "summary": "How Harvey built a legal-AI research lab on a budget&nbsp;&nbsp;Dealroom",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Sarvam Indus Brings Secure AI to Maharashtra Government",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWZTc4OThkcnhGWDhnX3FFd3hnYnZjbmM3OUo3bk5RRHk3bjdfVVhVcWhpaEZsS1Y3Q3FZWTJma0RSMXJEbjhLZk1ad2x1aVMyY0J4MVE5Y1Q3Wi1KVGIwd2pUbDNvMTlNaEx1dnF1NHp4UQ?oc=5",
-      "source": "sqmagazine.co.uk",
+      "title": "Legal Tech Startup SmartEsq Expands Fund Life Cycle Management Platform",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGhEWmxmZXhsSkF5bFBWNXpVSDhWVXFFc2tyTkpiZm5tbVhZZjZwWUFPSWF0R250WHI0NE5QQTNiOWhRREVabDNSRDRGY1pfckhEb0tDNlJLZFVyeDF2V2FRdWhZSTE4TlJ4MHhyeHVaSHFHZURSVWl1LWptUGliZGgwWC1VM2Q2Xzdma1hDNE91NVc0UUx3a0s5MjVGMjd0ay14cHJ3bmZHQ280eWVsYW55V0dvVjRH?oc=5",
+      "source": "law.com",
       "published": "12 Aug 2026",
-      "summary": "Sarvam Indus Brings Secure AI to Maharashtra Government&nbsp;&nbsp;sqmagazine.co.uk",
+      "summary": "Legal Tech Startup SmartEsq Expands Fund Life Cycle Management Platform&nbsp;&nbsp;law.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "LegalZoom: Agentic AI Resolves 40% Of Customer Inquiries As Trademark Search Time Falls 55%",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTVNY3FmTDd0ckVhU1pqdkVWdTI2OFBCM21EOHNlS0d5cmFBRVZNWlpPbmFOSDBwTVVXS1EwaXpPbnJiZTQtTDZDRHVkUW9YSDlycUg0VXVHZjduWFJTUjU1MDRXVnBrZkRKU21OMTgxMU8xVnpablJsTGtkZ1hxa3VTY2I1UlVwc3RfdnRIczN1UWluYVc3RFVFckZ2djVmbzNDVmxtaXBmVk5T0gGyAUFVX3lxTE5INHN2OHREczJoT21rX2x4WUd0X3J0bnBzWG9SMHZYMkFLdk5VTTMxWkJnXzZyYlp2aC1hNWZqdUJyVktJejNuTENXdVRKa0g2dnZ4aGZnWG94eTlHdnpWS3lUbkUxUFpxam5vQl90Vjc2bjU5LWROZGJ0eWoyVzU3MFU4TElrQVJjUDNKOUMtbGhtZkstd3NfMHNqMDRrU3IyR3duS2duTF9RaFF5a2JVdlE?oc=5",
+      "source": "pulse2.com",
+      "published": "12 Aug 2026",
+      "summary": "LegalZoom: Agentic AI Resolves 40% Of Customer Inquiries As Trademark Search Time Falls 55%&nbsp;&nbsp;pulse2.com",
       "tags": [
         "AI Trend"
       ]
@@ -72,37 +144,65 @@
       ]
     },
     {
-      "title": "LegalZoom: Agentic AI Resolves 40% Of Customer Inquiries As Trademark Search Time Falls 55%",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTVNY3FmTDd0ckVhU1pqdkVWdTI2OFBCM21EOHNlS0d5cmFBRVZNWlpPbmFOSDBwTVVXS1EwaXpPbnJiZTQtTDZDRHVkUW9YSDlycUg0VXVHZjduWFJTUjU1MDRXVnBrZkRKU21OMTgxMU8xVnpablJsTGtkZ1hxa3VTY2I1UlVwc3RfdnRIczN1UWluYVc3RFVFckZ2djVmbzNDVmxtaXBmVk5T0gGyAUFVX3lxTE5INHN2OHREczJoT21rX2x4WUd0X3J0bnBzWG9SMHZYMkFLdk5VTTMxWkJnXzZyYlp2aC1hNWZqdUJyVktJejNuTENXdVRKa0g2dnZ4aGZnWG94eTlHdnpWS3lUbkUxUFpxam5vQl90Vjc2bjU5LWROZGJ0eWoyVzU3MFU4TElrQVJjUDNKOUMtbGhtZkstd3NfMHNqMDRrU3IyR3duS2duTF9RaFF5a2JVdlE?oc=5",
-      "source": "pulse2.com",
+      "title": "Sarvam Indus Brings Secure AI to Maharashtra Government",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWZTc4OThkcnhGWDhnX3FFd3hnYnZjbmM3OUo3bk5RRHk3bjdfVVhVcWhpaEZsS1Y3Q3FZWTJma0RSMXJEbjhLZk1ad2x1aVMyY0J4MVE5Y1Q3Wi1KVGIwd2pUbDNvMTlNaEx1dnF1NHp4UQ?oc=5",
+      "source": "sqmagazine.co.uk",
       "published": "12 Aug 2026",
-      "summary": "LegalZoom: Agentic AI Resolves 40% Of Customer Inquiries As Trademark Search Time Falls 55%&nbsp;&nbsp;pulse2.com",
+      "summary": "Sarvam Indus Brings Secure AI to Maharashtra Government&nbsp;&nbsp;sqmagazine.co.uk",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Legal Tech Startup SmartEsq Expands Fund Life Cycle Management Platform",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGhEWmxmZXhsSkF5bFBWNXpVSDhWVXFFc2tyTkpiZm5tbVhZZjZwWUFPSWF0R250WHI0NE5QQTNiOWhRREVabDNSRDRGY1pfckhEb0tDNlJLZFVyeDF2V2FRdWhZSTE4TlJ4MHhyeHVaSHFHZURSVWl1LWptUGliZGgwWC1VM2Q2Xzdma1hDNE91NVc0UUx3a0s5MjVGMjd0ay14cHJ3bmZHQ280eWVsYW55V0dvVjRH?oc=5",
-      "source": "law.com",
+      "title": "Turnout Names Steve Harvey Chief Advocate Officer, Launches AI Benefits Tool",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXQtUHdxNE5ZdkJUMy1MNGc4dkI4NFdvNDBHalNTR2hYa05kSy12SFdFTUdENERrV0pYTWdsUnl2WWZjT3lUYXZmX3d0TnlXSVlxVGx2SHg5cUpjT2NweTNSd2l4dmZGRXN6MGdNbzVIVUJhQ0R3WTAySXZHbTRrSjFXUXNaWV9Td2V1OF9nLVJEbDRkdGNGY1NBck9QZU9RZkNOQWdjV3B3N1Z5bTU4MTB6TTI?oc=5",
+      "source": "citybiz",
       "published": "12 Aug 2026",
-      "summary": "Legal Tech Startup SmartEsq Expands Fund Life Cycle Management Platform&nbsp;&nbsp;law.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "How Harvey built a legal-AI research lab on a budget",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjA3RTRSdW0wNzhURnY1OHk3NkR5QVJORE1jZjlra1h6d2lqVGRhRUtIMkl6NUxFRjhqRXZHd0Yyalk3cmNQN0MxYjVyU3ByQ2tmQkdhRzVsRGR5YjRfU3dEZmREZkVPbHd1Wk9Hd0VnNGt5QU10eWJ3elBQVFd6NGhrQl9UakRoTFpBNHMyWQ?oc=5",
-      "source": "Dealroom",
-      "published": "12 Aug 2026",
-      "summary": "How Harvey built a legal-AI research lab on a budget&nbsp;&nbsp;Dealroom",
+      "summary": "Turnout Names Steve Harvey Chief Advocate Officer, Launches AI Benefits Tool&nbsp;&nbsp;citybiz",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Big AI v Big Law \u2014 Jude Law, Harvey Specter and why the legal AI arms race is only just beginning",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
+      "source": "Law Society of Scotland",
+      "published": "12 Aug 2026",
+      "summary": "Big AI v Big Law \u2014 Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&nbsp;&nbsp;Law Society of Scotland",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Explained: Sarvam AI's Indic benchmark to test voice AI across 22 Indian languages",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRzhUd3BXMnIzUXBMS2RMdi1tUzA2SE9HZnpXY0JneUtGMnRPcVExd295aWZuMExSbmx5NHVBX2hMbTNJSU5YanBUcHV3bGl4UXZxbzI5SlVSb1hqYzMweEZQMmtlMlVTamZ4a0Q3TEtRTG4wcHRLNmtndzJBeXN1b0Z5NV9BY0VacU9PbFpvQ3Bmd3g0WDR2YWN2bzdVWHZJOEZMRlVGZHpyMVIzZkdKMGtfSEVSdXg1cTh3MEpKNjFOU0RQQnJ2Zjk5ek5Cd1duZkdqa0pBSXNsZTZCMWRpQnpGaU5TYmYzMGFYcGl4OW1oWkJfVmZoS214ZDU1VVh0ZEHSAfsBQVVfeXFMTlpXLXlTQ0pXeEFaNk5xbHNybGVLZ1BEdWJDMjdJY2JmR0xXSV9xQklqZEZ4blFnQi1lLTlzdGljSF9jY215RVBjbEoyZU1ET0hOSGlIVHk0VzhDSFFrR2gxV2ExZERoTjFsYWpzOGVrY21aT2RvcHp3YVdBYkZzMWFxa3pOdHJoSm5uNGZPUnZoRGdWTERNYkpEUEhLZkk1ZnVQYS1mLWdhU2RSNG93a0wxanJubW04c0tDSXFuTFVkbjNPVjJibEdWLXpDaWRmWGhjQXNOaUJrQmVFcVJkQVZTR3A4aTdWeURTSEdIWEp3emN5LWxILVA1YUE?oc=5",
+      "source": "economictimes.indiatimes.com",
+      "published": "12 Aug 2026",
+      "summary": "Explained: Sarvam AI's Indic benchmark to test voice AI across 22 Indian languages&nbsp;&nbsp;economictimes.indiatimes.com",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "12 Aug 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Legal AI start-up Legora seeks funds at more than $10bn valuation",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHg5c3hXU1dWSi1qTXVRMmxpMUUydHkwTHZiWjB6UnhYSG5XclEtLU8xVnJYT2tSZzZBU0txaVZOUFg3NXN4ZXg4UldZbFNNUXdwNDlvaFp5dWJRN0xSeTZyLXAyd0htdmE5eUNrWk9MYnBIXzNZZThrV0pzT09OTUhtQS0?oc=5",
+      "source": "Financial Times",
+      "published": "13 Aug 2026",
+      "summary": "Legal AI start-up Legora seeks funds at more than $10bn valuation&nbsp;&nbsp;Financial Times",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "Indic DiarBench: A Joint Diarization-ASR Benchmark Dataset for Indian Languages",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYcHRkd1gxNWJ6TmVxZXhHY1p6Skc4T1A1bnJzdlNqNUtpck15V00zRUYwRnNfZTRxTUZ2UC1ROU8xWE9nOFlLaFkwNkpMTFZGa3NLSl93?oc=5",
@@ -2004,106 +2104,6 @@
       "source": "Chosunbiz",
       "published": "1 Jul 2026",
       "summary": "Bae Kim & Lee adopts Harvey to power firmwide AI legal work in South Korea - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Sarvam AI, ICAI partner to build CA-focused language model",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1lmWXYtRXNmamNRYks4ZkV6LTY3SG1xWGprNHNpWGQ2by1LY2R3ZnR1WF9BcjVlbTMyN082ZnVYOWVCZU1xQWtFOWNUd2UxWU13VkFEdXN1NXhoLVBGYWplNDRTQkF0N0UxaVBSOWNjckQxUy1tcHlRZEpZRENMTmJ4Skp1d0YyX0RKNlNQZmFEdkp1Q0Mw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "29 Jun 2026",
-      "summary": "Sarvam AI, ICAI partner to build CA-focused language model&nbsp;&nbsp;Yahoo Finance",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Maruti Suzuki partners Sarvam AI, four startups to automate business operations",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUUJhdklKODVTc0pzRnkyWXk5a2ltd1NtellzSHRmTkcyRXgyWlpDdmdzaG96aFRTeVU4eEYzLVdScjlyYktDR1BlYUpqbExBdmVGX3VtT1h1ZVpMQzZSOUFkV2p4bmpBUWlZcGtjOHJxMnhYT25DeGVlMVdLVzZTZHMzQjdZLVFPanZrQm10TGx3Mml0LVhHaS1oWFVMX3hxaEZKbWZ1RnhYZ25DMHZtYkVfQWwtLW9fNkE?oc=5",
-      "source": "CRN Asia",
-      "published": "29 Jun 2026",
-      "summary": "Maruti Suzuki partners Sarvam AI, four startups to automate business operations&nbsp;&nbsp;CRN Asia",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "The intersection of legal expertise and AI development",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnRWMk9NOUFTR1lrdDNNQ3NlT1ZIdm5pWDJTZzRfWl9zSmN6RzU2NERkQjJZSVpFMy01SlpacTBvNVU1dzdnVHNZTWhGWlVIdFdvNEItNG9MTDdCckxraGdZMXZKeFR6MW5Rd3lOVm5GVjBTOGZwUEstUGo5UHlTeFdWZDdpdWhxZm91VnluS1Rqcm53RThJeXoycWRTRXVhVkZLdi1DbVlyekktUG9KLTd5YUo?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "29 Jun 2026",
-      "summary": "The intersection of legal expertise and AI development&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Building a Legal AI Partner Ecosystem on Standards the Profession Demands",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGVEckFMVDJ2WXlEcjBhUXE0SjhZcGxDVlIyVndLb21ocy0tZHdTY2F1cjZwNVU3dVhxUUN2NU1MZldMbVZWX2F5U2J3TDFkWlJhbEFXVFdfTjhnUEJPdmVpd2FybGZ2dkZ3WkhNMGhnUl91aFhqamljaXQzRTIza2hURmtOUTBudXJDQ0hGUnZ0WkQwU1RjTTF2Vm9lTF92eTBMTVZB?oc=5",
-      "source": "Thomson Reuters",
-      "published": "29 Jun 2026",
-      "summary": "Building a Legal AI Partner Ecosystem on Standards the Profession Demands&nbsp;&nbsp;Thomson Reuters",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Descrybe Surpasses 700 New Paid Subscribers in Six Weeks",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2U5SDhRUDMzWkpXU1RNQklPTHBxLW5INGk1WDZ2TEJhbEpHXzcxcnVoSC02X0JnX0hjRE9hdGZKOUNXZUpnUDNYQ3VoTm5qdjNyc0kzX0FXT1gwZEdQU0FuZzB1U3o1em40Zy00OEpVUngyM1ZkQ09VMkZrQUlEaG9hU2FmMTFWV2o4ci1tLUo2d2VqaVlwSw?oc=5",
-      "source": "LawSites",
-      "published": "29 Jun 2026",
-      "summary": "Descrybe Surpasses 700 New Paid Subscribers in Six Weeks&nbsp;&nbsp;LawSites",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "HCLTech-Sarvam deal signals AI-building push",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1o2WWNRdE91VHVYQzhFSllYVHRuSncxUGQ0eDRtamZPVThwUHRGWjhoRzZYdlQ4S29sQzY2Um9DU1l5RjAyRHNucXlpVEFhMHdlZGllWWVYN1A1U1p6ek5lTWp5cTBkSFdDMVlUaHhwN0hmTUxLd0dYUXVyZ2ZzX2lBeG00NUt5R3JuSGhMYXV0bGxv?oc=5",
-      "source": "Deccan Herald",
-      "published": "28 Jun 2026",
-      "summary": "HCLTech-Sarvam deal signals AI-building push&nbsp;&nbsp;Deccan Herald",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Tracking Big Tech\u2019s Move Into the Legal Market",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUlfUUdlcjJ2R3drUjg3TTlVZ0pmd28xdFJvbzgtRnNERldqS3JId3VGNmFQYVNEcE5sdDc0d09UYmpWY3V1TnM0YW53OXlSZW5UZ0xFU0ZnYk9QZi1fYzZlSjNYYVhNQUdKTzJwXzhXMDVxSFVEcHl6dzJMWHlEeEo3YVo3dVFhMzdTam16a1MwR3BvQ2Nv?oc=5",
-      "source": "Law.com",
-      "published": "28 Jun 2026",
-      "summary": "Tracking Big Tech\u2019s Move Into the Legal Market&nbsp;&nbsp;Law.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "From Legacy to AI Frontier: How Johnson Stokes & Master Built a Governance-First Copilot Model for Regulated Legal Services",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTElGMXB1anNoVnlkVzJiU24zQ0NmWTZ3Z1U5QUpNNXhsbF93TF8wYjZxVENxeWV4S3hqMkRqNGYwekx4TnlocWM5TG1HcmVYNTU0dnctaGxZT1FRMUxKOTZYek5kV0xXeE1PaXNDaEVidkhpeS1VOEhGQ29NQlUzQ3FwSldnZ2J5ZGJ5ZnJ6TlBGNzhnT3VVYnRCalA0UndIZ2JaNzU4UzlpRkVVYS1laE9oUHpnV3VjODgyVENPWWc5d2lhUE9ac2JTVU9WTU91akgzMkxuNnJlT0lZNVZEQlRGckVoZ3daNDJMSy0zcXIzaEl0OHpoeDVnVXN5QQ?oc=5",
-      "source": "Microsoft Source",
-      "published": "29 Jun 2026",
-      "summary": "From Legacy to AI Frontier: How Johnson Stokes & Master Built a Governance-First Copilot Model for Regulated Legal Services&nbsp;&nbsp;Microsoft Source",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "10 AI and Legal Tech Platforms Transforming Cross-Border Legal Services in 2026",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHdvVFFHVXROQlVlTEh2MEhNVUgwZ1ZlNUNhOE9NTjRvdFJRMjFZUm9FMlVUUzgweWItOEE3NlktU3ZKTVViZ05Mc3Q3ZllHYmVNVDZKNkw1UjdQa3RFb2VERkt2R19lZ1BEOEVKY19ZRHRyR2JJR0RjVTZKLTkzN1o0d0NkZVhFTkU5SWhXSzVDbDFuNVJNdl9YdU94d01rOGQtcHJPcU9wNFQybVRxTmxWbmRpdw?oc=5",
-      "source": "BBN Times",
-      "published": "26 Jun 2026",
-      "summary": "10 AI and Legal Tech Platforms Transforming Cross-Border Legal Services in 2026&nbsp;&nbsp;BBN Times",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legora's New AI Pricing Model May Usher In Larger Changes",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRHhWVDcwMkYweWZtWmFoSTdxcHVpU0otamprMkpwbkVOTjh6QTZELWdnNjFMb3NYVVhuazNqZEQzTFQybllVellRdzZPZ1FwZExXblhoa2hYNFBLdllnVjE1d01XeEI3WVh5dl9PTlBONVFpaXhGUkZWa28wQVpNZ2lmNl9BdzJTUE1nYWhKVDUwQ1l3azlWVWJzanlnZ9IBXkFVX3lxTE04MFhtN0VpUkhZZGkyLWdKM1RVNGUydVVVS2I2eTdMYUVMRHhCakltZ3RrZmUwbXpiTzhEUDVSdS1RTmJEN0FZLVRSOVJSNGR6ZWs4d0R1V3ZaSER1blE?oc=5",
-      "source": "Law360",
-      "published": "26 Jun 2026",
-      "summary": "Legora's New AI Pricing Model May Usher In Larger Changes&nbsp;&nbsp;Law360",
       "tags": [
         "Global AI Tool"
       ]
