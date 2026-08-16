@@ -1,24 +1,36 @@
 {
-  "date": "Saturday, 15 August 2026",
+  "date": "Sunday, 16 August 2026",
   "articles": [
     {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "Newsonair",
-      "published": "14 Aug 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;Newsonair",
+      "title": "Law School introduces largely permissive AI policy",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOFJad1ZPdF9leHJheFZMR2pkLVg4cGwxSEJhWkoxZzR5TmFDVU9XUGhwSTZMbUFPWkVDLVFmSE5WalhsNHZIa3YtYWtvdl9mUldsWDJfTE5BRlQzUXU5bXM0QnBLS3hTSEtUNTYyNVVITzYwNUhVa1kwd082bzB5WGlYYVhBYjlvTURFVmRlcEtEY2huNkxJVG9rLXBGUHJjNWw4?oc=5",
+      "source": "Columbia Daily Spectator",
+      "published": "15 Aug 2026",
+      "summary": "Law School introduces largely permissive AI policy&nbsp;&nbsp;Columbia Daily Spectator",
       "tags": [
-        "India Startup"
+        "AI Trend"
       ]
     },
     {
-      "title": "Goodwin Launches New Internal AI Platform",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWl1RVpkVmVhNUJBQ1luTU9yWUEza0EwVFR6LXl1amlIbXZxNmNfNkpmbFJIdlZ4WHhXcFlCUTVxaWRUbXVWb1NvalY2WU4zRWpPSjNDTUhfVVB5eUR5dXhUSm5WM1h5SFQwVTdQYmFCM3AyQTJGYmJjbmVGSmxNbzM1eUpOMUtUNkVIWThCQlDSAV5BVV95cUxNUTI1dVREUHNwMUdTdW1mdHdoQ0laUTlaM2Z3ZUlWZVhudGdsNm1xQTRic21IZFNEdmhTcnlwSWJjWE5XNHVJUXNYREl6RXJsckJORkhIbFBOVW5UbnFR?oc=5",
-      "source": "Law360",
-      "published": "14 Aug 2026",
-      "summary": "Goodwin Launches New Internal AI Platform&nbsp;&nbsp;Law360",
+      "title": "Voice-First AI for the PC",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aMU9HTzNnRmR5a0l5Vkh6bnFPOUkwQjkwbEJfMFBma0xBVWd6VEQtWnltTGQxdVFnak1yd29FbHc4WmxpeUZhUWl3ZnFNUQ?oc=5",
+      "source": "Sarvam AI",
+      "published": "15 Aug 2026",
+      "summary": "Voice-First AI for the PC&nbsp;&nbsp;Sarvam AI",
       "tags": [
-        "Global Firm"
+        "India Startup"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Claude is getting a watermark. That could matter for every law firm using AI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5",
+      "source": "Non-Billable",
+      "published": "14 Aug 2026",
+      "summary": "Claude is getting a watermark. That could matter for every law firm using AI&nbsp;&nbsp;Non-Billable",
+      "tags": [
+        "AI Trend"
       ]
     },
     {
@@ -32,17 +44,25 @@
       ]
     },
     {
-      "title": "Claude is getting a watermark. That could matter for every law firm using AI",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5",
-      "source": "Non-Billable",
+      "title": "Goodwin Launches New Internal AI Platform",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWl1RVpkVmVhNUJBQ1luTU9yWUEza0EwVFR6LXl1amlIbXZxNmNfNkpmbFJIdlZ4WHhXcFlCUTVxaWRUbXVWb1NvalY2WU4zRWpPSjNDTUhfVVB5eUR5dXhUSm5WM1h5SFQwVTdQYmFCM3AyQTJGYmJjbmVGSmxNbzM1eUpOMUtUNkVIWThCQlDSAV5BVV95cUxNUTI1dVREUHNwMUdTdW1mdHdoQ0laUTlaM2Z3ZUlWZVhudGdsNm1xQTRic21IZFNEdmhTcnlwSWJjWE5XNHVJUXNYREl6RXJsckJORkhIbFBOVW5UbnFR?oc=5",
+      "source": "Law360",
       "published": "14 Aug 2026",
-      "summary": "Claude is getting a watermark. That could matter for every law firm using AI&nbsp;&nbsp;Non-Billable",
+      "summary": "Goodwin Launches New Internal AI Platform&nbsp;&nbsp;Law360",
       "tags": [
-        "AI Trend"
+        "Global Firm"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "Newsonair",
+      "published": "14 Aug 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;Newsonair",
+      "tags": [
+        "India Startup"
+      ]
+    },
     {
       "title": "Why Agentic AI in eDiscovery is strengthening, not replacing, legal judgment.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlFZM2hGZVc1aV9oLV80bjlmY0N5V0tLOWh5N2VMNlRoMjliMjJ1dW5NQXZHMnlQWHRtV2NWRWxGVVAwVVBMZG9qc3ZvZ2J4VWUzN21LeE5mVWl0TFd3aHFYaEkyWDVlZzRjVF9DRUpFN1VXa1pLeENqTEROM243Ry1rdVZGOXFMQTNnYm9RVnNjbHlqMXRjQzlVQ2RUOVNpV0QzUA?oc=5",
@@ -2004,46 +2024,6 @@
       "source": "The Indiana Lawyer",
       "published": "3 Jul 2026",
       "summary": "Amid embrace of AI, firms look for mix to best suit their needs&nbsp;&nbsp;The Indiana Lawyer",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGlNOXRvcHdJb01kYWwxRWotNEtvdDZhYUtMcWlUNFJCdmlQUlpZcjd0YnFNNVVyMzF2NHp1b25xRnBQdEVORmdrazJFSkVfaDBWWTdzSjQxWkYwZkwzbU45X2dCekIxN2FrazlJU256dEpQeDNMYWxVX1pyY2hKUnhUQU9tN2FqRlNOUm1pTlE0ZkFGYVJMbEZ3bmJYeU5DcDNmaFhWWng3Z0s2cGpETkNnQ2R4ZmRKdU1IOThHN0d5ellwd0JHSE85SVQ1VUZBcl82Tw?oc=5",
-      "source": "LawSites",
-      "published": "2 Jul 2026",
-      "summary": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report&nbsp;&nbsp;LawSites",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "More Than Compliance: Why AI Is Pushing Legal to the Center of Business Strategy",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWtCcmJRVi1LcFV1bmt1NkpXWTR5eXlOY2xlWjd3ejBNa0FNRUpRcG9HRHNKVndfSjZ6WDlzX204X29CVWdUWllRa1dMZDA5QWhkblpsTEVoS1B4ZEpLcTJfMzF5eS1CaHFfb0cxX0VkYzlrWXdQSjdoZWRleDJfRlRQNDU5RDMwVFV5TU1tTnlDRFQ5U3F4R2FZMmR2QWUwaGFfdWJ0clJ4QlM4Ty16ZE1JM25zaDlhWEoyVnIySlY?oc=5",
-      "source": "Law.com",
-      "published": "2 Jul 2026",
-      "summary": "More Than Compliance: Why AI Is Pushing Legal to the Center of Business Strategy&nbsp;&nbsp;Law.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "On-Demand Downloads in CoCounsel",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGtpT19jdkxLY3dyV1hyZTY2VlBGOWdaQXpMR2RpbEtJdzRtZDMxYV9LZTgyUFdHVjJiUHRPR2RwQWMwZTRkLTVac2tpUWJCZnJjQWliQWFsMzcxb1J1VFZ4SmVRWjROMEtiVzZiSkRXZk1oWVRaSGFzTGFGa3l5bjBXRU9aZE03TXhjOFB3ZjRPNzhtYzlxWjBoWE1oQVZsQVF2R1BDUGxoMzVWRjNPR1BTT1ZReDAwa282TlFDV0lzLW04ZjJLUTRHUkVBQQ?oc=5",
-      "source": "Thomson Reuters",
-      "published": "1 Jul 2026",
-      "summary": "On-Demand Downloads in CoCounsel&nbsp;&nbsp;Thomson Reuters",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "AI adoption is a corporate imperative but it comes with two significant legal risks",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHJmMlJIS29FMmtWWTUyb2RqWUg5OWZxeWlDZ0tlaVFERnJ2ZzhVLTBMT2hqdkFwdlRLdnRITGpaR3p0SVk1Q1JqY1BKWlBaZm4tQW5Jc3A2QkJOc0t3Wk12S19HVElDUHNGTnBndWxSLUkxalRXQ3YyMkpyWUxPemFjdFc2SlpMcEFaRUNPTnE?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "1 Jul 2026",
-      "summary": "AI adoption is a corporate imperative but it comes with two significant legal risks&nbsp;&nbsp;Yahoo! Finance Canada",
       "tags": [
         "AI Trend"
       ]
