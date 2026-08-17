@@ -1,6 +1,28 @@
 {
-  "date": "Sunday, 16 August 2026",
+  "date": "Monday, 17 August 2026",
   "articles": [
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "newsonair.gov.in",
+      "published": "16 Aug 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;newsonair.gov.in",
+      "tags": [
+        "India Startup"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Voice-First AI for the PC",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aMU9HTzNnRmR5a0l5Vkh6bnFPOUkwQjkwbEJfMFBma0xBVWd6VEQtWnltTGQxdVFnak1yd29FbHc4WmxpeUZhUWl3ZnFNUQ?oc=5",
+      "source": "Sarvam AI",
+      "published": "15 Aug 2026",
+      "summary": "Voice-First AI for the PC&nbsp;&nbsp;Sarvam AI",
+      "tags": [
+        "India Startup"
+      ]
+    },
     {
       "title": "Law School introduces largely permissive AI policy",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOFJad1ZPdF9leHJheFZMR2pkLVg4cGwxSEJhWkoxZzR5TmFDVU9XUGhwSTZMbUFPWkVDLVFmSE5WalhsNHZIa3YtYWtvdl9mUldsWDJfTE5BRlQzUXU5bXM0QnBLS3hTSEtUNTYyNVVITzYwNUhVa1kwd082bzB5WGlYYVhBYjlvTURFVmRlcEtEY2huNkxJVG9rLXBGUHJjNWw4?oc=5",
@@ -11,18 +33,6 @@
         "AI Trend"
       ]
     },
-    {
-      "title": "Voice-First AI for the PC",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aMU9HTzNnRmR5a0l5Vkh6bnFPOUkwQjkwbEJfMFBma0xBVWd6VEQtWnltTGQxdVFnak1yd29FbHc4WmxpeUZhUWl3ZnFNUQ?oc=5",
-      "source": "Sarvam AI",
-      "published": "15 Aug 2026",
-      "summary": "Voice-First AI for the PC&nbsp;&nbsp;Sarvam AI",
-      "tags": [
-        "India Startup"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "Claude is getting a watermark. That could matter for every law firm using AI",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZYMkxKWEcyM1RqT2oxdHpVaXBKc3VrYk83YVVTaEVaOVN0b0Z5SUhiN1pfRVcxUGY5alNEQ1hwVXBfWDBKSHdzMFNSZjlTMXpmaVZrX3dMT29QX245SGtJZ05ZOVBIZTNPZXA4YkdPLUQ2dHVsSFFfX0tQcVBJM1NsdC1rODJXWnlUNHItUllYdw?oc=5",
@@ -51,16 +61,6 @@
       "summary": "Goodwin Launches New Internal AI Platform&nbsp;&nbsp;Law360",
       "tags": [
         "Global Firm"
-      ]
-    },
-    {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "Newsonair",
-      "published": "14 Aug 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;Newsonair",
-      "tags": [
-        "India Startup"
       ]
     },
     {
@@ -2014,16 +2014,6 @@
       "source": "The National Law Review",
       "published": "3 Jul 2026",
       "summary": "General-Purpose AI or Legal AI? How Small Firms Decide&nbsp;&nbsp;The National Law Review",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Amid embrace of AI, firms look for mix to best suit their needs",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWJTVklEQTUxTl9iODJfYV9xZ3liYzlvX3pDcFpnMEt3X28tODUtRGV3cjZISEFrbVhFSzg4TmNqRXlDYjFVUXBkTkh0UGx6bV8zZm85OW50MXpRdmpkUm1vTXZsQ0NMazhpV0F4TlBRNGMzZ2hJX3FSMU1KVEJKX3dnVnkzVV9nSmRYUjBzY2RzdVROZHlVSzdqVkZuVnhYcFZGVjNiaw?oc=5",
-      "source": "The Indiana Lawyer",
-      "published": "3 Jul 2026",
-      "summary": "Amid embrace of AI, firms look for mix to best suit their needs&nbsp;&nbsp;The Indiana Lawyer",
       "tags": [
         "AI Trend"
       ]
