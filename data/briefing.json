@@ -1,72 +1,124 @@
 {
-  "date": "Wednesday, 19 August 2026",
+  "date": "Thursday, 20 August 2026",
   "articles": [
     {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
+      "title": "Harvey Legal AI Announce Firmwide Use of Software By Davis Wright Tremaine",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEd4QWFna2dvcG5GRGZyMXI4NlE0Vk9ZbjctcGRZT0pxS1Uza1d1X214eEVQVDdWSnhEQ0RNLW5WelRhZC1LT3YySVNDZEMzekdKa1Ayb29tVmRENjZIWFlYWlVvek9XM3BCSHFzQ0ljYzFfc3UyeF9PVm1iRVpXNEpLV3ItUUhPcTdwMkl2SWJDOUlHLWd2cnFpa2NjVGV3?oc=5",
+      "source": "LawFuel",
+      "published": "20 Aug 2026",
+      "summary": "Harvey Legal AI Announce Firmwide Use of Software By Davis Wright Tremaine&nbsp;&nbsp;LawFuel",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "The Black Box Stays Partially Closed \u2014 A Win for the Defense in the Mobley Discovery Fight",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTVhVDBWdURzbnZlT1I5VzlLaWw4Ui1JME1jaXJjd0hqVWZ3Z3dFMkRFY0ZyS1Z1MVRDZVRIRFRkeFMxQ2lIUW5OX2k4bHJNYU9GdkpBSC1PYXNIamsyX2U2NkxDcHBicFhicjUtVl9yRVdzV2ZoMlJYUWNac0dCcDN6N2Z0SHBL?oc=5",
+      "source": "JD Supra",
+      "published": "19 Aug 2026",
+      "summary": "The Black Box Stays Partially Closed \u2014 A Win for the Defense in the Mobley Discovery Fight&nbsp;&nbsp;JD Supra",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "LinkSquares Names Lyle McCutcheon-Schour SVP of Revenue as Agentic CLM Strategy Expands",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXBNYmVNTzVrYmhUcC1aRUpCRlVTdUFKdVN5ZXhkTTBpNEtubU54dWk2cGdVbVZGNlh5cGNWS0xUTWFtOVQyTUxzNU9TRWdLamdFY0QxUkVkcDd1ZmhWUEY2d0R3bG1QcDdtSjBtN0o1SGZGd2ZYaUoxTEpTVzduZzJGclRXMzNhWFp2ZlQ3VDRDZ0dzbDBBTWxoNG01Mi16NWxoOExWam4xazFyaks3b2k2MEZYYzhvdjJRN1pSTTVsTXMt?oc=5",
+      "source": "citybiz",
+      "published": "19 Aug 2026",
+      "summary": "LinkSquares Names Lyle McCutcheon-Schour SVP of Revenue as Agentic CLM Strategy Expands&nbsp;&nbsp;citybiz",
+      "tags": [
+        "Contract Tech"
+      ]
+    },
+    {
+      "title": "DocStyle Announces DocStyle AI: Document Productivity Tools, Accessible from the AI Assistants Lawyers Already Use",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFUzelVRVDZrNnBqeE1VT1R0cHJScXhJSFBmbGp5OWktTWhUaGV5OGtWd2lCWFBobjlmTFlGa2dNVk95UkNCaE9uWlNyb1U1MUZUWlVMcFpJbUJPeUhmc0ZETnpZYm5wZ0dKSzMtM1NGZ2Q4U3lSaXJhSUZOV0NHaG56V0FoMVhDM2RqV0Z0dkk1bzdyMFlHMlRvVDVCRjFnakFHLXFQY0tzTGJJ?oc=5",
+      "source": "Newswire.com",
+      "published": "19 Aug 2026",
+      "summary": "DocStyle Announces DocStyle AI: Document Productivity Tools, Accessible from the AI Assistants Lawyers Already Use&nbsp;&nbsp;Newswire.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Clarra Introduces the Most Comprehensive MCP Server for Legal Case Management",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFMtTG9kWFJZbGl0R09nTlRuZW1salRfcnpuZmZpWUQ4UnlxVnNkc2VkRWNCWTI4TC1NY3NTb25IRlY4WjA0LThtZHNYNEV3QUVZYjFqOEwwQ2o0U1R2eWZVb2pHb1lQTzFMQlR0TkRLaV9WSDZoQkU2YzY2bUhQU05uWjROV0xEUmpHRXY3QVh4MFRMZ3FFaURodnlXRlhqNUVYMy1fcGd6Y0E3d0lvLWdpQXBPOUxTeWYtdGFzSzdQS1VJeHVYUTFEbHdTQQ?oc=5",
+      "source": "PR Newswire",
+      "published": "19 Aug 2026",
+      "summary": "Clarra Introduces the Most Comprehensive MCP Server for Legal Case Management&nbsp;&nbsp;PR Newswire",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Elevate Acquires Lupl to Expand AI-Powered Legal Workflow Platform",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOW9XeGVocjdFNjhpdk5mbWpZaENyN0hOeEdCZXBudWl2UF8xUWVIYkVvYjc0VF96c2tqbndxc0p1d1R1bW1MVkRIUDk3WkpXaGRjTDFLckhyaThtNlJkR2VHQXJ1Y29qdGdQQ2dHS2pCcG9hYm9XUkpNYUtxcmxvTEgwcWFCNHFjbzhjbE5hcW41N0dtUjdIVmQ3UmRhSDdNRlpQbFRzM2w?oc=5",
+      "source": "citybiz",
+      "published": "19 Aug 2026",
+      "summary": "Elevate Acquires Lupl to Expand AI-Powered Legal Workflow Platform&nbsp;&nbsp;citybiz",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Xebia named OpenAI select partner to scale agentic AI for enterprises",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTZKbmFzZVp1RVduMjZNVGhrYVdYb09KTHlHVlg3X2FfUUZyODFwZjl0T2xxVUJGb19wUzFtYzk3OTVIUlJFdDhGeGp1M2xSeDd5YTRpbXJ4ZHhheERHaXVKMFBUV0VKeUkzOXB2dGxyNENzWUpUVVkxUllMSGpVRl9aVXBYZVhKWWVHZFQ5ZEhReHZNU2Y4aGVVZ0VDYjZaZktuNGdjT2YwbVBPdlE?oc=5",
+      "source": "Elets CIO",
+      "published": "19 Aug 2026",
+      "summary": "Xebia named OpenAI select partner to scale agentic AI for enterprises&nbsp;&nbsp;Elets CIO",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Judge appears skeptical of Pentagon arguments in legal fight over Anthropic 'supply chain risk' designation - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFFmS0tuRHY2cGZRaFRneEUwZUJzY2lmU0RiUm9YWjdGcjBqbHczcl82ZGdYS3hrNmxPLVM4WUZkeEViUThqZnBmXzFmb0std1ktckZyT3pXckZOVXJqTGZkMlZTS2s2UUlsRHVZQTNpdHlhQ0hBdHo0dWNGTGJHQ2xscGZrY3VUOVB3QU5POGtVRUVEc01EV0NsSFZVako5OVlia19PSGNMTmhsNndaaGl30gG3AUFVX3lxTE1rdlpUT192RDFETTA4cThDWVljVHl0QUpfNEN2OFpOSk9nTXVfWkQ0N2JtT2RialZOU3B2ZWxNUkt1NVl4SWY0VHRMeHRPaWI1SU9Zc1RtWkphSXVfT0ZNa28zSTE4clFRVEI1ZlJadGJwcW1ZOTVNa1hXSG91REpZaElCbW5fdTkzbTdOSFFDa2k4X1dDUVEybTN3dWhYMXJZTHV4d2ZmaV8xUWlJVHN0TGxUMmJncw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "19 Aug 2026",
+      "summary": "Judge appears skeptical of Pentagon arguments in legal fight over Anthropic 'supply chain risk' designation&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Harvey launches new generation of legal AI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3BjVnp2eGRqSXo2VEFnMkFJd29FdXlTd1o3VWZyMXhrODNpekRTWXNnZTJIeUtGQnBtYm9nT2NiSE5zb0Y0cTBLbGlLLUdRWTBiWXVMUjFLQ3NXNHA3cjNQZ2tiS2dVTlNyTVRROVZYVkJ2MHJ4bjlOdVljM0ttZW1NMA?oc=5",
+      "source": "Iberian Lawyer",
+      "published": "19 Aug 2026",
+      "summary": "Harvey launches new generation of legal AI&nbsp;&nbsp;Iberian Lawyer",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legal AI has officially Entered Silly Money Territory",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHJMem5zVnZxdlpieG9tWEF0WnFiWmU4Um1NMlNTelBNcVhDLVBSS1I0OFRlVjlIQkpmMWFUN3czX3BTZW8tdU9SUENGTUVFQ09Td0FKMG5PMjN2VktYNF8wZlRIekRYWUR3c19mWEtTT2J5enJOQ3d3Zl95RkxyUjVleDk?oc=5",
+      "source": "LawFuel",
+      "published": "19 Aug 2026",
+      "summary": "Legal AI has officially Entered Silly Money Territory&nbsp;&nbsp;LawFuel",
+      "tags": [
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "HP and Sarvam AI bring voice-first AI to PCs in India",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzVHa015UWFPcl9IMUVsZlBGd3BSeUg2cGpCdUFvWENEc3hkVGhaUFVsUmZJeWg1dkNtcnpYaERqQ0R3UVEyS3pYMW50OUF3TDRTSnRWd0w1elRkcUExY21xOHlVTGZxRDNCcGx6ckowWDlJZTVOazVncnBUYkhGS1dFUm1wOTdMMFFBdQ?oc=5",
+      "source": "YourStory.com",
       "published": "18 Aug 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "summary": "HP and Sarvam AI bring voice-first AI to PCs in India&nbsp;&nbsp;YourStory.com",
       "tags": [
         "India Startup"
       ]
     },
     {
-      "title": "Harvey Remakes Its AI Legal Platform by Adding Memory",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVJMbTBYc0xyY0Nid2NZV1RRNjRSTkNzVUhDaVo3cVhVQ2I2dkI4dWs0N2xEZnphWnF4MDNPcHFuWVhkOUV6NzA3ZEJFdTdONFRPREtHNlBORGx4Q1B5bzRTSjFZcE93MlRvT3FzdnIxSmFEOG9jTmhGWWZGZ2NaX2JXbmV6aUh6YlNMMkhNbVhXT3dsRUlHcW13?oc=5",
-      "source": "wsj.com",
+      "title": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0VZQmVpMzJkejR3Zk1Vdng1UHRDUHdOUW1PbG1SOUFiQ3BoTU9FMEFTLWVZWWk0a0NWaFBKLVJmbWlfaVRHS1U2VkNGUDJBQzB6d1cyS3h6STQ5T0NkSHJ2U0VoQm9oMXA2dURlZ0JSYzY1bFlLMlh0VGhldmwwQVdiSEZsSjFFZWlJRzZjQlg?oc=5",
+      "source": "Davis Wright Tremaine",
       "published": "18 Aug 2026",
-      "summary": "Harvey Remakes Its AI Legal Platform by Adding Memory&nbsp;&nbsp;wsj.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legaltech giant Harvey launches next-generation AI platform",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekF1MUlZMUp0LUdkbkQ0QVBsUWV0TzRmMWs1bVlYRTNyRnlkbU0yRUItSmlIenhBd2dvZl8xUTNmYkdwUkFrSVpiUmo0WHJDNmVKbk5IaWZNQktFd1drbTZIWGowanNZb0U1elV6MkNWajlqZVFTVjhTUTB2NkMwcUxnTkd3YjdnNWN3NDZhNTZPRnlJbkw0NXNLRVlKbWEzLVVfczdkZTk3TWs?oc=5",
-      "source": "The Global Legal Post",
-      "published": "18 Aug 2026",
-      "summary": "Legaltech giant Harvey launches next-generation AI platform&nbsp;&nbsp;The Global Legal Post",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Next Gen \u2018Harvey II\u2019 Launches with Memory at Its Core",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUlkTEJvZzkyb3BqUW11WWtpQ1lWeDBYWmYxcXl0VGJkdXlkcHZFRUpOWV95RHpPQkt1OHBhTW52c3daZW9faGZ4RzVGVHN3Rm11cVRYNjBUYVk5NGdmaGkyNDhhVGJBNzFUZHJtNTF1d0ZQMmJwLXBfYjlnQ3o2UTBUYTdOdTR2NDJSbFAxTVpYa3FzRm9LZTBuM0s?oc=5",
-      "source": "artificiallawyer.com",
-      "published": "18 Aug 2026",
-      "summary": "Next Gen \u2018Harvey II\u2019 Launches with Memory at Its Core&nbsp;&nbsp;artificiallawyer.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "DeepJudge + Legora Form \u2018Bidirectional Partnership\u2019 \u2013 Updated",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFVhdkRKUmN6RXhxVFdQLXdHYkliencwbk5aSXBVc0RyTEJXdHNnTGMyWjlRY0JZR3lOamZxRXVPOHpBVTI3b280QVpzYXJ5bVY4YjJKSzFTVmZQTVh0LVh2b3hBV2tVWGxiME5La0N0dXRod0hwTUpHak1KTGk0aFIyYVZkRElvWUlGemkySWY4alhoYzM4?oc=5",
-      "source": "artificiallawyer.com",
-      "published": "18 Aug 2026",
-      "summary": "DeepJudge + Legora Form \u2018Bidirectional Partnership\u2019 \u2013 Updated&nbsp;&nbsp;artificiallawyer.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey's first LLM for legal work is here",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnRfTzJXdURoXy14cnVWUWxwNkpqcFF1UUJqUUwxNkgtX2RMZlVPYXJPbnoweTRUQURtaXlwSDN1LWFBV1VBVVpKQ3RvVTc1ZGJaZ096WndIQjFOSjFpSEVYV3lNYnVnRldhZllFV0d6S3ZoMFVRU2xha09SMEh0TXdxb0Z3VFhnYlE?oc=5",
-      "source": "Business Insider",
-      "published": "18 Aug 2026",
-      "summary": "Harvey's first LLM for legal work is here&nbsp;&nbsp;Business Insider",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Revamped Harvey AI platform remembers lawyers\u2019 'individual preferences\u2019",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajNTd1VfZmtOdU96ZmN3eUpRWl9mb1MyUUswLTI3czRVVWRSUXVYeTBhWTJUOGdZbzJzQ2pycVJ1TUI1QTJoUlA0NS13dHduRXh2V3VKcVpNZS1Gd0VYYjFXWnh2S2huVnFtTlZ6VkhLYUc0Uk53MV9VZFZ4ZGxlaVRReHZUc1FOVzU1T3drWC1MU3U5SUxFLWpLb2p6U2hMSGhZSlkyVEpyMG8?oc=5",
-      "source": "ABA Journal",
-      "published": "18 Aug 2026",
-      "summary": "Revamped Harvey AI platform remembers lawyers\u2019 'individual preferences\u2019&nbsp;&nbsp;ABA Journal",
+      "summary": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite&nbsp;&nbsp;Davis Wright Tremaine",
       "tags": [
         "Global AI Tool"
       ]
@@ -82,27 +134,75 @@
       ]
     },
     {
-      "title": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0VZQmVpMzJkejR3Zk1Vdng1UHRDUHdOUW1PbG1SOUFiQ3BoTU9FMEFTLWVZWWk0a0NWaFBKLVJmbWlfaVRHS1U2VkNGUDJBQzB6d1cyS3h6STQ5T0NkSHJ2U0VoQm9oMXA2dURlZ0JSYzY1bFlLMlh0VGhldmwwQVdiSEZsSjFFZWlJRzZjQlg?oc=5",
-      "source": "Davis Wright Tremaine",
+      "title": "Revamped Harvey AI platform remembers lawyers\u2019 'individual preferences\u2019",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajNTd1VfZmtOdU96ZmN3eUpRWl9mb1MyUUswLTI3czRVVWRSUXVYeTBhWTJUOGdZbzJzQ2pycVJ1TUI1QTJoUlA0NS13dHduRXh2V3VKcVpNZS1Gd0VYYjFXWnh2S2huVnFtTlZ6VkhLYUc0Uk53MV9VZFZ4ZGxlaVRReHZUc1FOVzU1T3drWC1MU3U5SUxFLWpLb2p6U2hMSGhZSlkyVEpyMG8?oc=5",
+      "source": "ABA Journal",
       "published": "18 Aug 2026",
-      "summary": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite&nbsp;&nbsp;Davis Wright Tremaine",
+      "summary": "Revamped Harvey AI platform remembers lawyers\u2019 'individual preferences\u2019&nbsp;&nbsp;ABA Journal",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "HP and Sarvam AI bring voice-first AI to PCs in India",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzVHa015UWFPcl9IMUVsZlBGd3BSeUg2cGpCdUFvWENEc3hkVGhaUFVsUmZJeWg1dkNtcnpYaERqQ0R3UVEyS3pYMW50OUF3TDRTSnRWd0w1elRkcUExY21xOHlVTGZxRDNCcGx6ckowWDlJZTVOazVncnBUYkhGS1dFUm1wOTdMMFFBdQ?oc=5",
-      "source": "YourStory.com",
+      "title": "Harvey's first LLM for legal work is here",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnRfTzJXdURoXy14cnVWUWxwNkpqcFF1UUJqUUwxNkgtX2RMZlVPYXJPbnoweTRUQURtaXlwSDN1LWFBV1VBVVpKQ3RvVTc1ZGJaZ096WndIQjFOSjFpSEVYV3lNYnVnRldhZllFV0d6S3ZoMFVRU2xha09SMEh0TXdxb0Z3VFhnYlE?oc=5",
+      "source": "Business Insider",
       "published": "18 Aug 2026",
-      "summary": "HP and Sarvam AI bring voice-first AI to PCs in India&nbsp;&nbsp;YourStory.com",
+      "summary": "Harvey's first LLM for legal work is here&nbsp;&nbsp;Business Insider",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "DeepJudge + Legora Form \u2018Bidirectional Partnership\u2019 \u2013 Updated",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFVhdkRKUmN6RXhxVFdQLXdHYkliencwbk5aSXBVc0RyTEJXdHNnTGMyWjlRY0JZR3lOamZxRXVPOHpBVTI3b280QVpzYXJ5bVY4YjJKSzFTVmZQTVh0LVh2b3hBV2tVWGxiME5La0N0dXRod0hwTUpHak1KTGk0aFIyYVZkRElvWUlGemkySWY4alhoYzM4?oc=5",
+      "source": "artificiallawyer.com",
+      "published": "18 Aug 2026",
+      "summary": "DeepJudge + Legora Form \u2018Bidirectional Partnership\u2019 \u2013 Updated&nbsp;&nbsp;artificiallawyer.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Next Gen \u2018Harvey II\u2019 Launches with Memory at Its Core",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUlkTEJvZzkyb3BqUW11WWtpQ1lWeDBYWmYxcXl0VGJkdXlkcHZFRUpOWV95RHpPQkt1OHBhTW52c3daZW9faGZ4RzVGVHN3Rm11cVRYNjBUYVk5NGdmaGkyNDhhVGJBNzFUZHJtNTF1d0ZQMmJwLXBfYjlnQ3o2UTBUYTdOdTR2NDJSbFAxTVpYa3FzRm9LZTBuM0s?oc=5",
+      "source": "artificiallawyer.com",
+      "published": "18 Aug 2026",
+      "summary": "Next Gen \u2018Harvey II\u2019 Launches with Memory at Its Core&nbsp;&nbsp;artificiallawyer.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legaltech giant Harvey launches next-generation AI platform",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekF1MUlZMUp0LUdkbkQ0QVBsUWV0TzRmMWs1bVlYRTNyRnlkbU0yRUItSmlIenhBd2dvZl8xUTNmYkdwUkFrSVpiUmo0WHJDNmVKbk5IaWZNQktFd1drbTZIWGowanNZb0U1elV6MkNWajlqZVFTVjhTUTB2NkMwcUxnTkd3YjdnNWN3NDZhNTZPRnlJbkw0NXNLRVlKbWEzLVVfczdkZTk3TWs?oc=5",
+      "source": "The Global Legal Post",
+      "published": "18 Aug 2026",
+      "summary": "Legaltech giant Harvey launches next-generation AI platform&nbsp;&nbsp;The Global Legal Post",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Harvey Remakes Its AI Legal Platform by Adding Memory",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVJMbTBYc0xyY0Nid2NZV1RRNjRSTkNzVUhDaVo3cVhVQ2I2dkI4dWs0N2xEZnphWnF4MDNPcHFuWVhkOUV6NzA3ZEJFdTdONFRPREtHNlBORGx4Q1B5bzRTSjFZcE93MlRvT3FzdnIxSmFEOG9jTmhGWWZGZ2NaX2JXbmV6aUh6YlNMMkhNbVhXT3dsRUlHcW13?oc=5",
+      "source": "wsj.com",
+      "published": "18 Aug 2026",
+      "summary": "Harvey Remakes Its AI Legal Platform by Adding Memory&nbsp;&nbsp;wsj.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "18 Aug 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
       "tags": [
         "India Startup"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "From connection to context: Dispelling the legal industry\u2019s biggest myths about MCP",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3ZOUVp0ZHlPZ2dDcUxDcHB5UmpVTXJLZVBxWmRJc2U1X1VLdUQzNlRuenAza3VZQmVoVFk5LWcwc1BjMVBYNXhHSkdhd2E3OWgwSzhRTmJoZXZPUE9scXVyS0lQbHEzeEFENVJwM0NVbnZ3bDFBY29xVDFCUmU4RlFhRVdCMTIxX19wbnFHbFE3VjFBNTEzQUVMQnI3eFdLc2E4?oc=5",
@@ -2003,108 +2103,6 @@
       "source": "Yahoo Finance",
       "published": "7 Jul 2026",
       "summary": "AI Legal Startup Norm Valued at $1.2 Billion in Funding Round&nbsp;&nbsp;Yahoo Finance",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "On LawNext: Inside Claude for Legal \u2014 Anthropic\u2019s Mark Pike on AI\u2019s Next Frontier in Law",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1VDZkhCS01MODJPZkFia2xVcjM3c3NmX2JXX2FDaHFaTEc4Q19LV0d5alBqVjVEaE5OMmVxcjY4NlIyamJ4NXM3NVl0V0JCNnFDaHpJSHFpT2FJVmhWemw5RkpfbUpTNXZlZ0hHMXd2WUVhZEdnT085bVVPSkNGcWFONm9qUHF6TTAxQkd1ODhYUjJxNkZZNVBFVjBiV3FjMm0tb1Bhb2w2VkRNdEdhSjVHcXBuSkxncThwNw?oc=5",
-      "source": "LawSites",
-      "published": "7 Jul 2026",
-      "summary": "On LawNext: Inside Claude for Legal \u2014 Anthropic\u2019s Mark Pike on AI\u2019s Next Frontier in Law&nbsp;&nbsp;LawSites",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Ally Law Accelerates AI Adoption Through Legora Collaboration",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1g4enpqVVA4S04xc2FvdnY5OU54YVA2YVVlX1VGNWpHWkhRVUVoaV9RTWtIa3pROUVmUFY1YjROUHVROUNOQjZGOFZHeUZBandSNXZQSERUQUtvdzdyZERRM1FZRlJ6cW1WNDRyNjBCRTU5cXJrN2VMamRtcmY1S2tLUWl4MF9xLXpjZlJabGZ4aWFPSTFXdDM5U3VOYzZUVlJLZUVobnVzS2hfX2NPNlk5STJWMGRr?oc=5",
-      "source": "PR Newswire",
-      "published": "7 Jul 2026",
-      "summary": "Ally Law Accelerates AI Adoption Through Legora Collaboration&nbsp;&nbsp;PR Newswire",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Suits\u2019 Harvey Specter chats to A&O Shearman partner in surreal interview",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjVkdXpmSEdGa1p3Qm9qT2doY29pN1dhN1R0TXlnQXZRcTRiRmV6RndBeXV5VFZnZWlxUUdJT3hJcGdmalduNDdLZmZOYldHSzBNM0dlRkhSNW5MaU41cXRFelRvVDVlRkdqMFhOSnpGNWcwc09MaVhGaVZ2X2tueEZFMm1VSTdwdDk3ZG12WWVZWU1kMF93NE1fRE9qQVZCY1VTOHlkakVMQQ?oc=5",
-      "source": "Legal Cheek",
-      "published": "7 Jul 2026",
-      "summary": "Suits\u2019 Harvey Specter chats to A&O Shearman partner in surreal interview&nbsp;&nbsp;Legal Cheek",
-      "tags": [
-        "Global AI Tool",
-        "Global Firm"
-      ]
-    },
-    {
-      "title": "Canada - Fasken Accelerates Its Legal AI Journey With Legora Partnership",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjhmamwtZUtacE05TzlBVW5USW9MWE5RVXVHT1lLcU1wcEVxYTdIMC1Oekh0OHY5OE9mMHhhV081MFlZeGRyVUx0ZDBFWk9UVHdSSndCb0FSdGZBMWtDQlVpM21Obm1TVzdxZHJkTmFURzVIRlhmekZVUElSZTVOcW40U1l4NzF0emJkcnpyR2ZRalA4bHZ5RU81NGpOWDZwbTdkUFNxR3h0dw?oc=5",
-      "source": "Mondaq",
-      "published": "7 Jul 2026",
-      "summary": "Canada - Fasken Accelerates Its Legal AI Journey With Legora Partnership&nbsp;&nbsp;Mondaq",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Agentic AI in practice: Streamlining discovery and legal research workflows for legal professionals",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1NIX1BwQXRaQk1DWlVGb01UWWpfRC1iTFpJQnBpbkkzQXdFazJMNXVfQVZWUXdJd3REbWs5elMtRGR1cmZaMVdlNElleUR5dXVqY0NoNjVEUWZIRFNVaXFRek9iSGNoOXlRTHBIY1ZHZFBxT08wdGt3ejlKRXM2MUJadWNZV3hsdnFSWVJESnRVamh0a1g0dE4zZGlpelZNai1lVEF2NHgxVXhlWjhxWGNfbm5Ob29zcjVHelIxSXFhU05GTVVIV0tBVnE2alNGNm9j?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "7 Jul 2026",
-      "summary": "Agentic AI in practice: Streamlining discovery and legal research workflows for legal professionals&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Artificial Analysis launches Harvey LAB-AA to benchmark legal models",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84VGdYaFliMjlSTUgtaUVpeW0ya1FBaWluV3ZJSjhRQmhPbkJ6c1lsdUV4bC1nMkwtSy1xRDJQdXVmYjVNN3JYaENPRHI3emVHUWpXUVNSUDZUZE1WcTJjTTdURkhrb2w3Zy0tTA?oc=5",
-      "source": "Crypto Briefing",
-      "published": "7 Jul 2026",
-      "summary": "Artificial Analysis launches Harvey LAB-AA to benchmark legal models&nbsp;&nbsp;Crypto Briefing",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey AI's outsized desk lease signals AI sector's flex office appetite",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1pmTHluMjFXYWpESU8yZHNGTmJpVnNFb0tiYjcydm1ZQWdHS3BiY3RCbEUzaDlGWW01amVkbTdPVWhTQ3V2X3kzV3F4OTFvbUhfOTllSm9WWGczMG9BLXd4TnI1cUVoUU9CaV82dUx4OTdrck5wSGJUeHNtaXo0bXZMVklHODJ1ZFlHWGllQWVzUl9aeXFEX3FFYXJLd3NOMFJya0tTYmtic2c?oc=5",
-      "source": "Green Street News",
-      "published": "7 Jul 2026",
-      "summary": "Harvey AI's outsized desk lease signals AI sector's flex office appetite&nbsp;&nbsp;Green Street News",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "$MSFT Fraud Notification: Microsoft Sued for Securities",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOTlZuZjFjOXhEcmNqOWJFVkp1d25HUlYydVVEdVZUaTNSZnRuOTlhVHA3dTVBdHllcmZ4SE5JUW9veEJvZHEwbmd0NFhPVS1aOWJhb2xJaVNXTVA5elJaQlZ6Ylc1QnZzbU9INmt6cll3YWs0UF93X1ZDRHJGS1V0bUNlVEQ5RWJ0OGJWb3BJcG8yMFgxam9udGRXNGpYT0ZOaHdBc3AwY0swLWhxclBScnVXVkN0QXdVcTQycmRGVFZhUjBHV1ljeHhCM1VHLTFkOWVuSEtyOUhWbEJYb2NQQXJackJKR2l3RWVNQ05uUW1uYm1KSC1kRXF5SmNLZF9yN2JMYUVjTkR5MXJDbHNHYnRVTXJnRzdTQVFEU1lwNGRQRUtGa0Zra1h6SjhaeDI1eDQxc3pwY2FzWE5vcFRrVl9TRGYzeWs0YWNkRS1GbVZGZWNHMlkyeGZLRQ?oc=5",
-      "source": "GlobeNewswire",
-      "published": "6 Jul 2026",
-      "summary": "$MSFT Fraud Notification: Microsoft Sued for Securities&nbsp;&nbsp;GlobeNewswire",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio\u2019s $1B vLex Deal",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR1RSSVc5UVpVekhrVGVNei01M0xvTGhUczY3QlcydHNOVm1KRHdxcjZwa0Q0UDltUndVSlBxS3YxWWphTzBzSnh2NGZ5SHdGRWRsdXBwUFlBVHV5WDZYbEZqckxzdE1Da05nakVvOWFTTWh0X1oyWTVfU0FVeTgyQ3JfZFdLTlBDZHA1cUVUY1JXTWZGNk9YNmQyb2txRWFDYkhZTEExbjRadDBfdDktYnBLUF91bldDc2pVOUd2aklYd2hLWmotQ3VVNXlJbjdSNmM5QVRkVnNYOUtPSHVKU3ZlcGs?oc=5",
-      "source": "LawSites",
-      "published": "6 Jul 2026",
-      "summary": "Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio\u2019s $1B vLex Deal&nbsp;&nbsp;LawSites",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Britain should consider regulating AI models, FCA official says",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVFXcEM5RE90LWlqOW9QNXpNYlBSRjJ0Y2dLS3BtN3dzR2IxRzFCUXlGNXVDRTg3TVlMTUN4Vm5PVTRQMkl6b2R2bGRGeGJ2Q3hzRkk0VTBWQ3RRLTZZajc1dWRGR05kVzVvTlg1THBOb3NfUVR4T0xwYnVWVGt1cHBRZld4Wll2aEZ1WmR4OXFkcGFkVTJscjRWbWJZcl9kQnpPdjhqZXNqN0V2RGktQjVKX21lZw?oc=5",
-      "source": "Reuters",
-      "published": "6 Jul 2026",
-      "summary": "Britain should consider regulating AI models, FCA official says&nbsp;&nbsp;Reuters",
       "tags": [
         "AI Trend"
       ]
