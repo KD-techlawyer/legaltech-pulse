@@ -1,42 +1,124 @@
 {
-  "date": "Wednesday, 26 August 2026",
+  "date": "Thursday, 27 August 2026",
   "articles": [
     {
-      "title": "Harvey Remakes Its AI Legal Platform by Adding Memory",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVJMbTBYc0xyY0Nid2NZV1RRNjRSTkNzVUhDaVo3cVhVQ2I2dkI4dWs0N2xEZnphWnF4MDNPcHFuWVhkOUV6NzA3ZEJFdTdONFRPREtHNlBORGx4Q1B5bzRTSjFZcE93MlRvT3FzdnIxSmFEOG9jTmhGWWZGZ2NaX2JXbmV6aUh6YlNMMkhNbVhXT3dsRUlHcW13?oc=5",
-      "source": "WSJ",
-      "published": "26 Aug 2026",
-      "summary": "Harvey Remakes Its AI Legal Platform by Adding Memory&nbsp;&nbsp;WSJ",
+      "title": "Sarvam AI's New Coding Agent Turns Out To Be A Rebadged OpenAI Codex",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXZDTTFVZTRkQTdyR0pLSjJ5dFZKcEpaUGwtZ1ZvZkFGQXB6Q0RzaU1tbWRGZ2NlMHBXd20zeVhOMDVYV1NxT2ZCVkdyU2UtWlpVMEY4a0g5MzB4UjRsZ3dodzcxaUxTcFdKRmpwSEF5eW9FMElGcVU5dHhSUWJzdmgwV3ZFbVRDeVdlSHZPQkJKUXlmc0szSzNOQQ?oc=5",
+      "source": "Startup Fortune",
+      "published": "27 Aug 2026",
+      "summary": "Sarvam AI's New Coding Agent Turns Out To Be A Rebadged OpenAI Codex&nbsp;&nbsp;Startup Fortune",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "How are MD attorneys using AI in practices?",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOTF0STBJNTBKZHFSRXlwNHFveTZfdjVtUUVtSVZNeUNtcjRmSTBoWWhXdV9LSnJ2ckdCVFZuY04wT1B2VU95VmZvOW9RYnhJbnlzRkxrUHh5ZmtZSF9lRmMzZGRTY3F5SUFnWkVvWEtkR2U2Mk43N2tfLWNOazlqTENEcnBJQQ?oc=5",
+      "source": "Maryland Daily Record",
+      "published": "27 Aug 2026",
+      "summary": "How are MD attorneys using AI in practices?&nbsp;&nbsp;Maryland Daily Record",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Google, Weil + Gemini Enterprise for Legal",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXpMM3lZRjN2Q3JqajdDTTJFdklwYmdyemFvX2JCY3NUZUdENGJfbE83OEctT2hobGFqeDZpOHFHQjdueXp5al9iYmt2cWRQR3JvbTR3eHFVRW9LaEVHUGpYQkhoX1dhZ1ZhQzZjZm1uNlQwUW5qbXJlYVNhTy1ySlZQRmxiRVRRQ3BnVw?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "27 Aug 2026",
+      "summary": "Google, Weil + Gemini Enterprise for Legal&nbsp;&nbsp;Artificial Lawyer",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
-      "source": "Reuters",
-      "published": "25 Aug 2026",
-      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers&nbsp;&nbsp;Reuters",
+      "title": "DocuSign (DOCU) Brings AI Contract Automation Into Enterprise Legal Workflows",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUXRHOTRrTWxVOW5CcWtLTWlDQmgwRjA3MDlGRElHS0lIWlY1R2NhN1JIOUVkekoyWFBIWDNQdHl5WVhDdDZRZHh0MUVMZEUzcFRoUERnRUpJLWlyLWpfQ25GWG1JQ3VfSGtXcEVWbW9XTjBhSDVfekZWWXVFMkdtNTNEOUFnUDlrbXZkOWxzRVJzSVJReERHcy1MTFlRZ2FMVWFyOFJYaklOVnBGSTlyaktjbzc1cGtVbi02SXRBNUxTQU1ObHlJWnFn0gHKAUFVX3lxTFBRdEc5NGtNbFU5bkJxa0tNaUNCaDBGMDcwOUZESUdLSUhaVjVHY2E3Ukg5RWR6SjJYUEhYM1B0eXlZWEN0NlFkeHQxRUxkRTNwVGhQRGdFSkktaXItal9DbkZYbUlDdV9Ia1dwRVZtb1dOMGFINV96RlZZdUUyR201M0Q5QWdQOWttdmQ5bHNFUnNJUlF4REdzLUxMWVFnYUxVYXI4UlhqSU5WcEZJOXJqS2NvNzVwa1VuLTZJdEE1TFNBTU5seUlacWc?oc=5",
+      "source": "simplywall.st",
+      "published": "27 Aug 2026",
+      "summary": "DocuSign (DOCU) Brings AI Contract Automation Into Enterprise Legal Workflows&nbsp;&nbsp;simplywall.st",
+      "tags": [
+        "Contract Tech"
+      ]
+    },
+    {
+      "title": "Google unveils agentic AI platform for lawyers",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUZaaFh6b0drV2JuR0ZjcVpCY182WnUtRDJXRG5sOEczWXZLUGlLZVRTdC1zdTYyd0lOYTBMRkFpMWdyX2UwM09OVEJYSHBEWmJucG9tNnRWZDFzZF9Uc1JPMGk1WWNCZjVkMGJheDRVNXFNNS1fbjQxX1hpdGNpa0U1QWdsU0MyaUpsRzd4Vkd6d1hqRThPZE8zdXhaS01Da1I4Y3Fab1JLUQ?oc=5",
+      "source": "ABA Journal",
+      "published": "26 Aug 2026",
+      "summary": "Google unveils agentic AI platform for lawyers&nbsp;&nbsp;ABA Journal",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "In Catch-up Mode, Google Intros AI Agents for Financial, Legal Services",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVE1ZdklZOU5XblQ3d0VjWTdMMThkWE54UkNTY2o2a0MtNFZGRDlqdFBxenk1ZmtiRHQtZ0RLNjlWTm90cHNjRHAybVhqTnhqLXpiaGJjV0s5MUdNNWtFN1VabWVLQ3Q4WnE2TzN3MnA0eWVYZTJBTEJrZlVlc1pSVkU0QXlIckFYVl85ai12clU0VTZZRFJjQXFn?oc=5",
-      "source": "AI Business",
+      "title": "Greenberg Traurig Deploys the Next Generation of CoCounsel Legal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGRIRERKR3B6dm5MUHExU3Z5VmN2ZlJKYnhkbVJCd0lrT2RVOFF2OHNMNXd2NElMMWY4TXZyVTgzSzUtUHIwUERyQ2ZtdEVHMmhjRnRnNHprRVhEeHRpWXZDZll3ejlTY2JjbVhoREhubjNEeXRuZDFqdXpEVjI0M3lLWjVsWG8tWEo3WFRYbU5EaDc3Nl95Q2YweTdNblZsbjh3S2VpaTlkb05tSWROenFtZC0wTVhiR3g3bQ?oc=5",
+      "source": "PR Newswire",
+      "published": "26 Aug 2026",
+      "summary": "Greenberg Traurig Deploys the Next Generation of CoCounsel Legal&nbsp;&nbsp;PR Newswire",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Memory is Here: :Harvey:, Personalized",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12R1Y5Q1Q2RFZHVmhJWVVrMDJTaXhFc2FqU0M3SWc4MnkwX3ppZ1JHY19VSkVyV0F0MjRZaXM4OEJNQVkwZDJSM1JfV255ZkItZUFZbTFHbHg0eFdTUGxiTHpHLUVpUTltTkZ1a0Vn?oc=5",
+      "source": "Harvey",
+      "published": "26 Aug 2026",
+      "summary": "Memory is Here: :Harvey:, Personalized&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Google Cloud launches AI tools for legal and financial workflows",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVRqQlR1TGY0d3c3WWxNaG96VWlnbkFuRGs5WWhhSGJaSk1ia2NpQzJiRndBa2JsamtpampIeEI5cC1uVEw0Y205X2hZQTh0VzlIa3RXNjhEUWNPQXZFWnBwbTV0dmgyT3h6ME12Zzh2UzA1N0RkNzQ0dnhQZldoVVBpUGJUZ0QwQV93VFZ4S0hYNWx6Tng5UzlzVU1RZ0x3MU1HMFpWVEhkZ9IBpgFBVV95cUxPc3VFQnRSMTVQbk0zckpEYVVtcGRYTFBKRTN3eTFlajZXQnVySFoxM3BBM1ZJc29EaVNfVzB2LVZ5Yl9QUDRCdm9WbldlUWtENVNCVEFkdHVXLWhaSXFibWFKR1pjdjlEU1pvUGU2QXZSclVGeGJINy1zQ1V5VC11TFRadFVWcHRBQkw2Q2VqSHB6blNwQUFyLWp0MjdzLUpndVBvd3Jn?oc=5",
+      "source": "The News International",
       "published": "25 Aug 2026",
-      "summary": "In Catch-up Mode, Google Intros AI Agents for Financial, Legal Services&nbsp;&nbsp;AI Business",
+      "summary": "Google Cloud launches AI tools for legal and financial workflows&nbsp;&nbsp;The News International",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Legora Joins Google's Legal-Focused AI Platform",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRmtnRGJ1UGJkSDktTzRXUlQ1Zks1WGlyQ01aSC00V1BTNlcxQ2RuN05rTDloNW16UUQxd3BlOXRKVzVzWDBJOVZpYkdKcUtnYWtoaWN4am1lblZDT21Jdl84S01fMmIyZGVCbEk1NXBTSUZSLU9XT0g5bkdpZzNJb2dJa2lfTlhOdHVlZDhkb0h6SGxLWTlLTTVNalBSblB0QUNxYTF0QdIBXkFVX3lxTFAxcll2cC03X2pNUFkxc0xfZGJ2eGNLblc3dmhkc0JxSTRzQlV3Yy1EY2o2empUWUlCdFRLNmdacmR1SmFMcG1LZ3VCMnFERlBOYXpjdmxNWHhtWHNnMFE?oc=5",
-      "source": "Law360",
+      "title": "Legal AI is moving closer to the evidence",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWNEWVNGd2ZSUVIxU0JwZnJPN3BiV0o1Y05nUW1wQXc2YjJ3QjUxQ3JubHN6TTNkX1JOdzdvZ3dTRVJRTFBfTHpzSDFaNjl6V2Yza2tGVVdjTTA2Tm9MTGdxTDIyNjBjOEs5LWdiSll1bk1VWTY5SGw3aUhKZVJoU2lSYTVjZk5nckthNTVvN3lKVm85d1RKaFRkTTg?oc=5",
+      "source": "Thomson Reuters",
       "published": "25 Aug 2026",
-      "summary": "Legora Joins Google's Legal-Focused AI Platform&nbsp;&nbsp;Law360",
+      "summary": "Legal AI is moving closer to the evidence&nbsp;&nbsp;Thomson Reuters",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "25 Aug 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Google Launches Gemini Enterprise for Legal",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2JWOXNQU3p6c0hibzc3Q0xNRWE2cWlFTk8xZ09KVnhJRUt4RFRub09qZlo4VkhpTW95SmJSZno3MlFuNXpDSlBTa0dyeDRNckVhaW8zUkNYNE5OcWxyQnQ2MW9IcnBQZFJrTDA3UHp2VkxDRmJCLVk0dkxkbGpLVFA4aTA1NXVrb2otcUc0RHhnQQ?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "25 Aug 2026",
+      "summary": "Google Launches Gemini Enterprise for Legal&nbsp;&nbsp;Artificial Lawyer",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora's YC Rejection to $100M ARR: A Startup Story",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0IydDBzT1k4Vnh0bUFiUlVHbWFoNmpRaUc0cjRCMUtwMkFqM0dMdFd0VUE1bmZBMGFfcC1yMzY4am1mZWR5SnlUSDYtNm85R192VWVrN05YVVVSTVFlLXY2Y2hSMDVEanRwNlRINC1qWlc1bnFjT05BSFNpWHlxWjJIOVVFcWVlT1lIRGVQLXB2djhuM1dqeXdZdFkxZXNiWGtB?oc=5",
+      "source": "StartupHub.ai",
+      "published": "25 Aug 2026",
+      "summary": "Legora's YC Rejection to $100M ARR: A Startup Story&nbsp;&nbsp;StartupHub.ai",
       "tags": [
         "Global AI Tool"
       ]
@@ -52,57 +134,45 @@
       ]
     },
     {
-      "title": "Legora's YC Rejection to $100M ARR: A Startup Story",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0IydDBzT1k4Vnh0bUFiUlVHbWFoNmpRaUc0cjRCMUtwMkFqM0dMdFd0VUE1bmZBMGFfcC1yMzY4am1mZWR5SnlUSDYtNm85R192VWVrN05YVVVSTVFlLXY2Y2hSMDVEanRwNlRINC1qWlc1bnFjT05BSFNpWHlxWjJIOVVFcWVlT1lIRGVQLXB2djhuM1dqeXdZdFkxZXNiWGtB?oc=5",
-      "source": "StartupHub.ai",
+      "title": "Legora Joins Google's Legal-Focused AI Platform",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRmtnRGJ1UGJkSDktTzRXUlQ1Zks1WGlyQ01aSC00V1BTNlcxQ2RuN05rTDloNW16UUQxd3BlOXRKVzVzWDBJOVZpYkdKcUtnYWtoaWN4am1lblZDT21Jdl84S01fMmIyZGVCbEk1NXBTSUZSLU9XT0g5bkdpZzNJb2dJa2lfTlhOdHVlZDhkb0h6SGxLWTlLTTVNalBSblB0QUNxYTF0QdIBXkFVX3lxTFAxcll2cC03X2pNUFkxc0xfZGJ2eGNLblc3dmhkc0JxSTRzQlV3Yy1EY2o2empUWUlCdFRLNmdacmR1SmFMcG1LZ3VCMnFERlBOYXpjdmxNWHhtWHNnMFE?oc=5",
+      "source": "Law360",
       "published": "25 Aug 2026",
-      "summary": "Legora's YC Rejection to $100M ARR: A Startup Story&nbsp;&nbsp;StartupHub.ai",
+      "summary": "Legora Joins Google's Legal-Focused AI Platform&nbsp;&nbsp;Law360",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Google Launches Gemini Enterprise for Legal",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2JWOXNQU3p6c0hibzc3Q0xNRWE2cWlFTk8xZ09KVnhJRUt4RFRub09qZlo4VkhpTW95SmJSZno3MlFuNXpDSlBTa0dyeDRNckVhaW8zUkNYNE5OcWxyQnQ2MW9IcnBQZFJrTDA3UHp2VkxDRmJCLVk0dkxkbGpLVFA4aTA1NXVrb2otcUc0RHhnQQ?oc=5",
-      "source": "Artificial Lawyer",
+      "title": "In Catch-up Mode, Google Intros AI Agents for Financial, Legal Services",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVE1ZdklZOU5XblQ3d0VjWTdMMThkWE54UkNTY2o2a0MtNFZGRDlqdFBxenk1ZmtiRHQtZ0RLNjlWTm90cHNjRHAybVhqTnhqLXpiaGJjV0s5MUdNNWtFN1VabWVLQ3Q4WnE2TzN3MnA0eWVYZTJBTEJrZlVlc1pSVkU0QXlIckFYVl85ai12clU0VTZZRFJjQXFn?oc=5",
+      "source": "AI Business",
       "published": "25 Aug 2026",
-      "summary": "Google Launches Gemini Enterprise for Legal&nbsp;&nbsp;Artificial Lawyer",
+      "summary": "In Catch-up Mode, Google Intros AI Agents for Financial, Legal Services&nbsp;&nbsp;AI Business",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
+      "source": "Reuters",
+      "published": "25 Aug 2026",
+      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers&nbsp;&nbsp;Reuters",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Harvey Remakes Its AI Legal Platform by Adding Memory",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVJMbTBYc0xyY0Nid2NZV1RRNjRSTkNzVUhDaVo3cVhVQ2I2dkI4dWs0N2xEZnphWnF4MDNPcHFuWVhkOUV6NzA3ZEJFdTdONFRPREtHNlBORGx4Q1B5bzRTSjFZcE93MlRvT3FzdnIxSmFEOG9jTmhGWWZGZ2NaX2JXbmV6aUh6YlNMMkhNbVhXT3dsRUlHcW13?oc=5",
+      "source": "WSJ",
+      "published": "26 Aug 2026",
+      "summary": "Harvey Remakes Its AI Legal Platform by Adding Memory&nbsp;&nbsp;WSJ",
       "tags": [
         "Global AI Tool"
       ]
     },
-    {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "25 Aug 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Legal AI is moving closer to the evidence",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWNEWVNGd2ZSUVIxU0JwZnJPN3BiV0o1Y05nUW1wQXc2YjJ3QjUxQ3JubHN6TTNkX1JOdzdvZ3dTRVJRTFBfTHpzSDFaNjl6V2Yza2tGVVdjTTA2Tm9MTGdxTDIyNjBjOEs5LWdiSll1bk1VWTY5SGw3aUhKZVJoU2lSYTVjZk5nckthNTVvN3lKVm85d1RKaFRkTTg?oc=5",
-      "source": "Thomson Reuters",
-      "published": "25 Aug 2026",
-      "summary": "Legal AI is moving closer to the evidence&nbsp;&nbsp;Thomson Reuters",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Google Cloud launches AI tools for legal and financial workflows",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVRqQlR1TGY0d3c3WWxNaG96VWlnbkFuRGs5WWhhSGJaSk1ia2NpQzJiRndBa2JsamtpampIeEI5cC1uVEw0Y205X2hZQTh0VzlIa3RXNjhEUWNPQXZFWnBwbTV0dmgyT3h6ME12Zzh2UzA1N0RkNzQ0dnhQZldoVVBpUGJUZ0QwQV93VFZ4S0hYNWx6Tng5UzlzVU1RZ0x3MU1HMFpWVEhkZ9IBpgFBVV95cUxPc3VFQnRSMTVQbk0zckpEYVVtcGRYTFBKRTN3eTFlajZXQnVySFoxM3BBM1ZJc29EaVNfVzB2LVZ5Yl9QUDRCdm9WbldlUWtENVNCVEFkdHVXLWhaSXFibWFKR1pjdjlEU1pvUGU2QXZSclVGeGJINy1zQ1V5VC11TFRadFVWcHRBQkw2Q2VqSHB6blNwQUFyLWp0MjdzLUpndVBvd3Jn?oc=5",
-      "source": "The News International",
-      "published": "25 Aug 2026",
-      "summary": "Google Cloud launches AI tools for legal and financial workflows&nbsp;&nbsp;The News International",
-      "tags": [
-        "AI Trend"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "LawToolBox MCP for Microsoft 365 & Claude Connects Legal AI to Matter Data Containers in M365",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSHEtaENyeXRzVzN4M01zem1OT25fNlB1Skh4UmNmUmlVMGR2OWk5TW1EMVU4bkhuQ0FNaVdpNWhLeGhkUWo1cno3bXBteERtT1A2RTNXSHFUZ0hHMGlwTWdNUFRZejFnSTF5Wld2V2pxLTNGd0xkVHRUSjNfci1XdFp0ek0tTFhGdU4yQjJQMnN4NVQ1LWI4dlZKM0pLVzVyMHJHZXBsWUhxZU1PdUNBSTlNVHJITDFob3ZDLS1tRTgwb3VJbGVvdm03SFIya3pwU2NGODZ4T3g5eHNCdkh6dTln?oc=5",
@@ -2003,106 +2073,6 @@
       "source": "Global Growth Insights",
       "published": "16 Jul 2026",
       "summary": "Generative AI in Law Market Size, Share, Growth, Trends & Forecast 2035&nbsp;&nbsp;Global Growth Insights",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Harvey strengthens asset management offering with Benchmark acquisition",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTlOa0ctVnpEYUkwN0x1ZHNjT2ZDXy03RWw5LUFBZnZTTVJRZHJNNHdVWnZtbDEwakRMM1lCSnF6NExWTmwyNm5SajNnS3RsTHBuVFNBcjg2OXJ6aUlOcjRlTGt5VWxwQXZEWk5zcHZ3eFk0VUtoUmJOWTN6YXY0QjFIZUs2V2VlMkNWLTB6bnNtVFBkeE1NS0k2cUh3X0FlV0E?oc=5",
-      "source": "Legal IT Insider",
-      "published": "16 Jul 2026",
-      "summary": "Harvey strengthens asset management offering with Benchmark acquisition&nbsp;&nbsp;Legal IT Insider",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Y Combinator-Backed Benchmark Joins :Harvey:",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByeFRudGlPTGRlcFFlek1hWEpfb0pQdHVqRVZPYTc3eVFzVTh2MGk2RmtwN1N6RkwtWHMxVEVsWVNnajAxbFdzVGVpVWEtQ0E0MHEzR3FoRTBTMld6UTVjVGc2b1hzQXJnQjczRnFGc0M5YndQdTNwdw?oc=5",
-      "source": "Harvey",
-      "published": "16 Jul 2026",
-      "summary": "Y Combinator-Backed Benchmark Joins :Harvey:&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey has made its third acquisition in 7 months \u2014 and it signals where it's going next",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVRuaGlsbDh0ZDBjSmhTVkpqTWM3Yk81VGY4cnhOQ2tscFJkUkMwYXMzbGV4eWFGemQ0RjNyLXJ5M2U2VjlVQmNfdE1ZSWloZWJsQXNCRjFGNFIxY1RnNjdNREUzelNUS2huVEFNZE5Lck9CVWlodlk1bmdCT3FOUWk0SGdKOFpMM3dDSWJTMVcwNHNq?oc=5",
-      "source": "Business Insider",
-      "published": "16 Jul 2026",
-      "summary": "Harvey has made its third acquisition in 7 months \u2014 and it signals where it's going next&nbsp;&nbsp;Business Insider",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey Buys Benchmark Asset Management Startup",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSlhvUk5jalI4NHdLNWZJbXAtdWM5a1dkQ0NFckhkMVZUV1lRX19PZVhaaUFGc21KS3dEZm01anFfcjQ3M1h5S3NYZ2FHeWNoTEVkeUNpbHN6dmVSbWM2ckZQVE40RVVDTzJ6TVhIaXFWNUJ1MjNia1lmd3g3cHJSR2hOeFBiTmtJbVZYSWhsODRSc1gtY3c?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "16 Jul 2026",
-      "summary": "Harvey Buys Benchmark Asset Management Startup&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey Deepens Private Markets Push With Acquisition of Benchmark",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEhGclpKWHpCblNQNE1YQlk5bENKM3REMWNOcFJ0dzJEaWtsSDIxUExlZ0dtcTdhRVVQYjZIVlpiUXRXM0JQSHBybUR0TENHeXNKaVgtYWY1eER1Z1ZTUThLaE40dk5fV21EaUg1YzJSeTJUZkY2RTRzYW1ZaThTU1FpTU9Vb3BETVlkbXVpbjJubVUzMmFvc0ZTYWpfeFBOcHlseFdIa3dGR0tIeDBWSk5yNTNGSVBqbDVDWG5DdDZUXzM2cDdSbQ?oc=5",
-      "source": "Benzinga",
-      "published": "16 Jul 2026",
-      "summary": "Harvey Deepens Private Markets Push With Acquisition of Benchmark&nbsp;&nbsp;Benzinga",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "5 ways AG offices boost productivity with CoCounsel Legal",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUxRaFRTcV9LWkU5bHN2d2YtUjRRcFFLOHFKVDFMdkxYZDJScmF4VjFMQ0ZMc0tzVm5xZURzYmVpZ2g4QVZGT3UzbXR5RTFfaTJQYTBoYWFkblNmZTVYWHFrZk82TVdUTGxFZk5sQ3NXVmZCV0NwWTk2QTNoUDU4VzFsdWFpMUh4RXgwNHBvUzJlTFFJOWtMZnRRdW1qaFJzR0p5OU0yMjlSNkQ0RmZTSDEzdU1UQWN4UGZ0ZktkYzhId0xvMVR4UENB?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "16 Jul 2026",
-      "summary": "5 ways AG offices boost productivity with CoCounsel Legal&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "From hype to results: Real productivity gains with Microsoft 365 Copilot",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWm9GR2xtdHIxeXJvb3dkSG5NZ1NkLTZBZU52RHB2T2F5RC1UaHkwcHQyWExyYVZxSG1McFNxc0Jxc3NkMEtYS3hkZlVnMDgzRXN5b0NGa29SS0w5TzlUMTNUUWlVX3hWQVVVSTcwOVN4Z0N2cDFUbFpKTXRsYlc2XzVoT0pRU1NaeV9WU2NGRmYxeGZ0dmRobEI2YTR6V2tFeHlub1dJSkJIUG1SSFNUVVJGbUpkbVQx?oc=5",
-      "source": "Legal Futures",
-      "published": "15 Jul 2026",
-      "summary": "From hype to results: Real productivity gains with Microsoft 365 Copilot&nbsp;&nbsp;Legal Futures",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Start up speed and enterprise resources for CoCounsel Legal",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3NiVlhhdlN2cGhlRTQzTmhQRzN6WEhNYzFYcjQ3YnhIc0tnU2RFY2NrQkNFWG5SRFZTMVhvRzRRckM4VXNWVHUtZUFNZkJoa2psTi01UmhMbHhzaFJxQ2VNdmJpTThnNndnamtYck1FOUd1NDhsTGpwa2s5VlFhMXU2TXQ0d0ozelBKUno5cE4yOWh5VnhjTnY5cFFBamlVbG5fYkE4MUZCdw?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "15 Jul 2026",
-      "summary": "Start up speed and enterprise resources for CoCounsel Legal&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Why Legal AI Has to Be Built from the Ground Up",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVWJmY0RHbVd5UGI5VFFWalJLTG1YZmJIcjhkejZmRjJOUzhDR0V1c1RFMTREOEdZOWFydGJmNXhTX2t1aTducnc4X0VBX0hvNkJVOVpZUE81VlcyaWFKeUctVkk3OFNzNHExSTNLekdsMlRQNEM0clBTOG44aDFzMHBn?oc=5",
-      "source": "Legal Reader",
-      "published": "15 Jul 2026",
-      "summary": "Why Legal AI Has to Be Built from the Ground Up&nbsp;&nbsp;Legal Reader",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Abstract Evolves Beyond Insights to Autonomous Workflow Execution with the Launch of Abstract Workers",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDh6b3YtbkFQM0pFc0t1dFNraUh4RE14RDVOTjBUZ3Vwd1J2ZzNIeGJlOFNpdzdidGYwenJGZGNobUMxNkFrbERldU5JZGNSU0xlYUp0Vk9GT3V5aGJIUVViaE9WSFJKdzNxUnlhN3JJS1dsWDJrU0NUalJQdXhtTDZDa2xhcE1tSXE4bDFrQl9nNEY5d1B6eFhBNVdrenU2cXdiZmJSMVdlV2xIX2Z0eGJ2MVdJbkhaMVRyTVQwUWVoTlJobE81cmJ3?oc=5",
-      "source": "Legal Reader",
-      "published": "15 Jul 2026",
-      "summary": "Abstract Evolves Beyond Insights to Autonomous Workflow Execution with the Launch of Abstract Workers&nbsp;&nbsp;Legal Reader",
       "tags": [
         "AI Trend"
       ]
