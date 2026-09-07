@@ -1,12 +1,54 @@
 {
-  "date": "Sunday, 6 September 2026",
+  "date": "Monday, 7 September 2026",
   "articles": [
     {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "OpenAI",
-      "published": "6 Sep 2026",
+      "published": "7 Sep 2026",
       "summary": "GPT-6 Astra: A new generation of intelligence&nbsp;&nbsp;OpenAI",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "News On AIR",
+      "published": "6 Sep 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Harvey Castro, MD, MBA, on AI in medicine: a KevinMD subscriber spotlight",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmw0X0FKVzc4TTJWaTRkcWRpbTNDb3dIOV9PY0ZzMnliV0ZMREJfRmhGYTdOVUotNU1CNmxzbUhTd2kzalFQUUNlcUNLOGkzTzQ5aWlTUWNMbHg2MWE0YU5OQXhpUWR4WkdIRkRjUTg5bjZmRE1ac0hYUHBsVHFSNDhaY3ZGSTh2Z3BDSENOdE1GdFRoZHQ4RHh4N1ZoazYxeURSbA?oc=5",
+      "source": "KevinMD.com",
+      "published": "6 Sep 2026",
+      "summary": "Harvey Castro, MD, MBA, on AI in medicine: a KevinMD subscriber spotlight&nbsp;&nbsp;KevinMD.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Atomberg IPO Legal Advisors India: CAM and JSA Appointed for \u20b9450 Cr Offering",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUpnUVJiSDNkM3NzTEh4RnMyQ3JyWjB2c1B4TmV1UENmc1ljdEhqTjVwUW9KYlpCSEdoa2l6OGJFcXJRYTgtOTNZRFhLbWFCWFJ1WFZ5ZF81ZXptZzAtNGpGY0tmS0NNczFNeVM4cmt2V3J2S2xFUHczYWNBLUVTVERjczBIUHRxZlkzSldYcGs0bkczcEhJYlBVMzNfaHgtTjVqUGE5X2t3RWN6R3pfWFZZTHRlRkhPTzZSZEl3?oc=5",
+      "source": "Wansom AI",
+      "published": "5 Sep 2026",
+      "summary": "Atomberg IPO Legal Advisors India: CAM and JSA Appointed for \u20b9450 Cr Offering&nbsp;&nbsp;Wansom AI",
+      "tags": [
+        "India Firm"
+      ]
+    },
+    {
+      "title": "My AI firm will liberate lawyers, not take their jobs",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUx3YTFQRnE3NEFWN3R0dDM5RDZlSzFqM2ZRNkw5MlhqOHV3dG9iVGc2Yl81YzNHOFgwWmI4UmQ4ODhaTy1EcmVWRUZOSFJDSHVpRWtnd0lEMmhvRF83M05Pc2wwZ0VZYUZpQ0NMa1ZOYjUwWFlnV0ZSZUQ2Q3VUbk5rYmlRLVZENUJnZ19STjFFT2d1NjUzSzVRTFVDbGVhNV9jNjdBVk5abzZqdE1RRA?oc=5",
+      "source": "The Times",
+      "published": "5 Sep 2026",
+      "summary": "My AI firm will liberate lawyers, not take their jobs&nbsp;&nbsp;The Times",
       "tags": [
         "AI Trend"
       ]
@@ -22,28 +64,6 @@
       ]
     },
     {
-      "title": "My AI firm will liberate lawyers, not take their jobs",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUx3YTFQRnE3NEFWN3R0dDM5RDZlSzFqM2ZRNkw5MlhqOHV3dG9iVGc2Yl81YzNHOFgwWmI4UmQ4ODhaTy1EcmVWRUZOSFJDSHVpRWtnd0lEMmhvRF83M05Pc2wwZ0VZYUZpQ0NMa1ZOYjUwWFlnV0ZSZUQ2Q3VUbk5rYmlRLVZENUJnZ19STjFFT2d1NjUzSzVRTFVDbGVhNV9jNjdBVk5abzZqdE1RRA?oc=5",
-      "source": "The Times",
-      "published": "5 Sep 2026",
-      "summary": "My AI firm will liberate lawyers, not take their jobs&nbsp;&nbsp;The Times",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Atomberg IPO Legal Advisors India: CAM and JSA Appointed for \u20b9450 Cr Offering",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUpnUVJiSDNkM3NzTEh4RnMyQ3JyWjB2c1B4TmV1UENmc1ljdEhqTjVwUW9KYlpCSEdoa2l6OGJFcXJRYTgtOTNZRFhLbWFCWFJ1WFZ5ZF81ZXptZzAtNGpGY0tmS0NNczFNeVM4cmt2V3J2S2xFUHczYWNBLUVTVERjczBIUHRxZlkzSldYcGs0bkczcEhJYlBVMzNfaHgtTjVqUGE5X2t3RWN6R3pfWFZZTHRlRkhPTzZSZEl3?oc=5",
-      "source": "Wansom AI",
-      "published": "5 Sep 2026",
-      "summary": "Atomberg IPO Legal Advisors India: CAM and JSA Appointed for \u20b9450 Cr Offering&nbsp;&nbsp;Wansom AI",
-      "tags": [
-        "India Firm"
-      ]
-    }
-  ],
-  "archive": [
-    {
       "title": "ILTACON News Round-Up Part 3, Documents, Data and AI: iManage, NetDocuments, Entegrata, Wolters Kluwer, Thomson Reuters, Clio, Avvoka",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZHk0YWJYUXJ6QXUtZUtBQWE5UEtFVWtINFN6aXJWaFBYWHRDaUpaMll4T0I0ZTAwOHA5TnBXaTBuQzdHQy1XLTRkel9VSW5ZRFYzQWY4OG1VcjFYUzBoNVNIX2pNeUt2V0o2UzkxVlUwaVlEbmpuMV8tdzJnbFJmRkpMVVoyY21yWk10R0RDcUdWTFBqN2V0d0RYWUNPbjNaR1huQlJYbTR0SGpGYUVYRzZIbUtIT2pULVBkQkI1MXVrTDJFTGRsRE5QUHhzbXNoMEo3bFpET2drX0VaWXhXMmx4eS15N19VVnJKVVdPcy1nNXc?oc=5",
       "source": "LawSites",
@@ -51,16 +71,6 @@
       "summary": "ILTACON News Round-Up Part 3, Documents, Data and AI: iManage, NetDocuments, Entegrata, Wolters Kluwer, Thomson Reuters, Clio, Avvoka&nbsp;&nbsp;LawSites",
       "tags": [
         "AI Trend"
-      ]
-    },
-    {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "4 Sep 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
       ]
     },
     {
@@ -2023,26 +2033,6 @@
       "source": "The Lawyer",
       "published": "29 Jul 2026",
       "summary": "Legora snaps up litigation AI startup Wexler&nbsp;&nbsp;The Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora Acquires AI-Powered Litigation Startup Wexler",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1FGWUFzLVAwNnM5bnZudHB0SXd4enpZTkFTN0xYVHFMY0ZVdDRudVMweVItQkZDcW1NdmpYeEhRazRCOTc4TjRkX045VklEMElZTzFhdXdDcEdBUGhWRmdqc2tQbS1VY3NrMHNGcWViZ0dYZERlNnI3VzUtd0RXcjB6eWpXd2dYVzk2NDhHWmN0UFZOZWFRcWRoTVJWMzly?oc=5",
-      "source": "Law.com",
-      "published": "29 Jul 2026",
-      "summary": "Legora Acquires AI-Powered Litigation Startup Wexler&nbsp;&nbsp;Law.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora acquires UK AI litigation intelligence start-up Wexler",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDVzLU5neC1rTy1ENFNsc2xBU1p3NzRXeUNud094bjB5VHVrVThoZEo1UWZFNGw1NEFyZUxYNnF2bWMtUXpHWTBPRDFPVjRsX25FN1RVY0QtY1V1X2tFelZaOURoNTM0U1NzRXVlcTMyOGhEejVTbm9yN09iR3J0TDVZeVRaQUFkVjRYRy1rVW9nQjNObXNneW1OWjEtcU5ZZnR5Q1k2RGVhUG5PMnc?oc=5",
-      "source": "The Global Legal Post",
-      "published": "29 Jul 2026",
-      "summary": "Legora acquires UK AI litigation intelligence start-up Wexler&nbsp;&nbsp;The Global Legal Post",
       "tags": [
         "Global AI Tool"
       ]
