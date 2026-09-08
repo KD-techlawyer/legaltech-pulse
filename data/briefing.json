@@ -1,12 +1,22 @@
 {
-  "date": "Monday, 7 September 2026",
+  "date": "Tuesday, 8 September 2026",
   "articles": [
     {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "OpenAI",
-      "published": "7 Sep 2026",
+      "published": "8 Sep 2026",
       "summary": "GPT-6 Astra: A new generation of intelligence&nbsp;&nbsp;OpenAI",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Why+account+setup+matters+more+than+generative+AI+tools+for+lawyers",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORG9kYjJaWDFMV1lqdHhlRnhvLXE5cjdJM2RWS19lNnNuLUZRTDI4QXpuZ05aa0F2TFI5RFBwTF9RZXZqdHRSUTM3aEZSZ2psSlJHVl9DdmJGbm9xZW1YSmRtV2pINHJIYk1jZHZCdW4wWWRMMGVPMGZCa1Q3RVBOQVFGWmtZeVZVbENKT0FPQ1VlREZLYmZOOVRHWmQ0Tjl0bklkbDkxaW40d0dFOGc?oc=5",
+      "source": "North Carolina Lawyers Weekly",
+      "published": "7 Sep 2026",
+      "summary": "Why+account+setup+matters+more+than+generative+AI+tools+for+lawyers&nbsp;&nbsp;North Carolina Lawyers Weekly",
       "tags": [
         "AI Trend"
       ]
@@ -15,12 +25,45 @@
       "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
       "source": "News On AIR",
-      "published": "6 Sep 2026",
+      "published": "7 Sep 2026",
       "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
       "tags": [
         "India Startup"
       ]
     },
+    {
+      "title": "Grupo Financiero Inbursa Adopts Harvey Across Its Legal Organization",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnJLSjltWHhXQ2NuNmMxRmM0dEh4Z3RNT2JwUXhYZWQ0cC1TSGQtS25OTDFlcDl2bzk2cUFjcDlJYnU0T3FLU0RyYWdYVTlSWXh5TGF1SzBVWlV1UXZmQTFSYllmdU5kWmdXM2NkTXZUeF8waDZudElBVHZPTW5DVkJHSUV1LWFwUG9HYmh3UzUwYWw4?oc=5",
+      "source": "Unite.AI",
+      "published": "7 Sep 2026",
+      "summary": "Grupo Financiero Inbursa Adopts Harvey Across Its Legal Organization&nbsp;&nbsp;Unite.AI",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Gaja Capital's next bet is India's AI stack, from Fractal to Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRWdUX2JJNkwxbnRQNmk1WDgyWTJtaUtvQm5oUEtESjlyZldTX0NDRUxWUXNzOXVMdUFUcDNiN1prLXpUR1VCMWUtSV9lb0pDTllpWTNjTjF4QVpHUmM0Mi1RRTBSRm1nWHNsczlET3poeUtSSGdtUFdtdlBYdnA4UlNRM3UwMGxPQUFIT0ljUzNMUEFRMDlDZTkzSUt4dmxPLUVxVWJJbmJXdkVRb3llMktVSVd2eEFhOHFSZWw4eE9iN0xJUEd3TnVBSVQxVGZTcVlvR0ZkUdIB3AFBVV95cUxNWG8xY2w1V2xqVTR6dTZZNlphdGlmTjF1ODQ5NW5EdlNfVzJ2blpLcHFOcHQ0OWl4NE5rTEY2RGxkWTJaWUhtYUoyUWZyTWpQUFI3dWcyS1l4QVdwQlpSTnk5cUNKQ0RHelBDUEFfaXpwZG1ZMFVzMmN2cTFXcDFVWXNkSnk4cDJCcldfUFdBa1FRWmNFSnRPM3JlRVJiV0lfbEtHQk0td0FJWUVIWW00NE83akN3YXdzTFk5U1VsUGQ3dVpDTGtiTTFfT3ZNQ29EczhpM1gwVEVSWjBW?oc=5",
+      "source": "Business Standard",
+      "published": "7 Sep 2026",
+      "summary": "Gaja Capital's next bet is India's AI stack, from Fractal to Sarvam AI&nbsp;&nbsp;Business Standard",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Harvey + Legora on OpenAI\u2019s GPT-6 Astra",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "7 Sep 2026",
+      "summary": "Harvey + Legora on OpenAI\u2019s GPT-6 Astra&nbsp;&nbsp;Artificial Lawyer",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
     {
       "title": "Harvey Castro, MD, MBA, on AI in medicine: a KevinMD subscriber spotlight",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmw0X0FKVzc4TTJWaTRkcWRpbTNDb3dIOV9PY0ZzMnliV0ZMREJfRmhGYTdOVUotNU1CNmxzbUhTd2kzalFQUUNlcUNLOGkzTzQ5aWlTUWNMbHg2MWE0YU5OQXhpUWR4WkdIRkRjUTg5bjZmRE1ac0hYUHBsVHFSNDhaY3ZGSTh2Z3BDSENOdE1GdFRoZHQ4RHh4N1ZoazYxeURSbA?oc=5",
@@ -30,9 +73,7 @@
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Atomberg IPO Legal Advisors India: CAM and JSA Appointed for \u20b9450 Cr Offering",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUpnUVJiSDNkM3NzTEh4RnMyQ3JyWjB2c1B4TmV1UENmc1ljdEhqTjVwUW9KYlpCSEdoa2l6OGJFcXJRYTgtOTNZRFhLbWFCWFJ1WFZ5ZF81ZXptZzAtNGpGY0tmS0NNczFNeVM4cmt2V3J2S2xFUHczYWNBLUVTVERjczBIUHRxZlkzSldYcGs0bkczcEhJYlBVMzNfaHgtTjVqUGE5X2t3RWN6R3pfWFZZTHRlRkhPTzZSZEl3?oc=5",
@@ -2023,16 +2064,6 @@
       "source": "Legal IT Insider",
       "published": "29 Jul 2026",
       "summary": "Legora is acquiring Wexler, its fifth acquisition in 2026&nbsp;&nbsp;Legal IT Insider",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora snaps up litigation AI startup Wexler",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40REpzeTJNVDZ5VE1NVFhtdWRjUmhvYkstUDZ5QjQ2UWdVa0g0TzZISmhqRjYzZWtmcU83WlNkR1BtV1BqU213dWh0eF9sWHdrWEpTOUtwR2owZEJMQThpZnpSbnBIaG9iaTVTXzd0OGtnN2s5cnhVN1gwOA?oc=5",
-      "source": "The Lawyer",
-      "published": "29 Jul 2026",
-      "summary": "Legora snaps up litigation AI startup Wexler&nbsp;&nbsp;The Lawyer",
       "tags": [
         "Global AI Tool"
       ]
