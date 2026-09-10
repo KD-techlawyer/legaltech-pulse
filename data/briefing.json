@@ -1,43 +1,136 @@
 {
-  "date": "Wednesday, 9 September 2026",
+  "date": "Thursday, 10 September 2026",
   "articles": [
     {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "OpenAI",
-      "published": "9 Sep 2026",
+      "published": "10 Sep 2026",
       "summary": "GPT-6 Astra: A new generation of intelligence&nbsp;&nbsp;OpenAI",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Singapore Management University partners with Legora to bring agentic AI to its law school",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVB3emViaGhWQ0toRTNGbUcweV9QN2ZvWWs0Z1JRNW1xVW9Zb0gyQ0J5T3BUZHlFbFEzZjI2Ym1fUWpJVlZOeVRfX285Ujg0R1hJNThzY0xhTnlta3NVc3NRUDFrTjhwemY0NjJTUW1UYk44Q2tmNW9jWWZKakJPN2l1RjlvNkpDZjJMdWdiWHh4QW13OFNObWRNZGhFWC1wQXhfX3o5TkdfaGJOSEg0dElZYmVqS29zQmR3?oc=5",
-      "source": "SMU Newsroom",
+      "title": "Why Legal Research Needs a Specialist Layer",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdzc4YUNiWWFoTl9ocGFWN1hvNFk5NTdfRkN0Mld6WGQwY2ROSldEcEZGYUIzMzVPY1VCcTdTOGxuaWFtU1p5T2N6SzdxS0o0ejVBd1hWRFJZX05LS0g5YU1TRDloMVktcC15VThpOWw1UzdnYWs0bUI0cmxXWUVjWGIweWJuY2dERWI4VWVVYlhQQQ?oc=5",
+      "source": "artificiallawyer.com",
+      "published": "10 Sep 2026",
+      "summary": "Why Legal Research Needs a Specialist Layer&nbsp;&nbsp;artificiallawyer.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Harvey acquires Guardrails AI in its fourth deal of 2026",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzZjVW1rX21ZSXkzMGtxVHBMZnRfUERodVhfUjRsU3hhNmpxNGx4ODVwYzR5RWxWQzRiT0NldmZucS15Y3dGczE2NGRJMEExbGlmWVFQcldjTGFDVVRqNnlyajFuQ2NvN0NseTVRV3dsMGk5Qm9rT194Q1VFWkVkaTl6clpjRjR0NVJoaUxITFlld3BO?oc=5",
+      "source": "Dealroom",
+      "published": "10 Sep 2026",
+      "summary": "Harvey acquires Guardrails AI in its fourth deal of 2026&nbsp;&nbsp;Dealroom",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Anthropic | History, Controversies, & Claude AI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "source": "Britannica",
+      "published": "10 Sep 2026",
+      "summary": "Anthropic | History, Controversies, & Claude AI&nbsp;&nbsp;Britannica",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Harvey raises $550M more to develop AI tools for legal teams",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0xRZXZfbmpPVmdjVGtlWDNaQURHaUpQZHRBVktiZndtX2FoZ1NOamVCWHFETFNLbkM4MEE0Y2p6ekFnekFQWmVuSW9wMzcyeXBZWHJ1ZVhFeks5bVBZRFU5emJfYmdNX3hEalRIZG5FcGJyTkkwYktoVFdNd0ZLX19McG9kWURaTmFvNms2bk84UEc0UUlpbUJKZVl3elNo?oc=5",
+      "source": "SiliconANGLE",
       "published": "9 Sep 2026",
-      "summary": "Singapore Management University partners with Legora to bring agentic AI to its law school&nbsp;&nbsp;SMU Newsroom",
+      "summary": "Harvey raises $550M more to develop AI tools for legal teams&nbsp;&nbsp;SiliconANGLE",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5",
+      "source": "Reuters",
+      "published": "9 Sep 2026",
+      "summary": "Anthropic discloses fourth AI hacking incident missed in earlier review&nbsp;&nbsp;Reuters",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFtalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ?oc=5",
+      "source": "Reuters",
+      "published": "9 Sep 2026",
+      "summary": "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round&nbsp;&nbsp;Reuters",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Harvey Raises $550 Million to Bring AI to Law Firms",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVo1YU5fc2p1V3JqUVY5ZXozQXhaQ2Z6OWdEemxoQjhFaVFzaTFYbDFSMF81THJiOEVtdGdvS0x3UEFDLXZxRzNrNUotcnhhV1Uxem5sOXNsUTZSbWpVSTY2R2RmZVVQVHBsN2doZ1BTczY1Rk10NDh6NTdLSkZDaFNGX0xvTWc4cnljeE12T1FMMnBtTi1XVGVyVjF1MnVfMjFxdkhwdFc?oc=5",
+      "source": "PYMNTS.com",
+      "published": "9 Sep 2026",
+      "summary": "Harvey Raises $550 Million to Bring AI to Law Firms&nbsp;&nbsp;PYMNTS.com",
       "tags": [
         "Global AI Tool",
         "AI Trend"
       ]
     },
     {
-      "title": "AI Contract Lifecycle Management: The 2026 Survey on Trends & ROI",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkJFNlUxbTZ5VXRkSjZMQnh6Vjl4SXRKYmdTQzFlRE5aT2RnSGpuWUQ1VmJFVXEzY2RPanpJV0N2QTRkZU5xVnZUMmlBdzNQTWNhSjBldjBjeDlrQ0c5WXRWYWdxek9ucU95OWFYR3lVUkEtU2UzUXBkQUNxcmdGajFFbE5FME1rOENCTDNZa1lnWWh4RWlTdjQ4OVpPdw?oc=5",
-      "source": "deloitte.com",
+      "title": "Brady compliance under pressure: How legal AI can help",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLazRkSk5paHR2UTZfWHIxMmYzQmxQY1M1THpWQmFrWGVNQTJuMTdIcE5hUW5qYWR2M1VBa3NhTkx2R0NVR1dGTmhpbFdldTlsR1FoYXBPY2ZZMm94LUJkVFFzLWhEeEZkeEtPMGFidWx6YnhneE5qWXVn?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
       "published": "9 Sep 2026",
-      "summary": "AI Contract Lifecycle Management: The 2026 Survey on Trends & ROI&nbsp;&nbsp;deloitte.com",
+      "summary": "Brady compliance under pressure: How legal AI can help&nbsp;&nbsp;Thomson Reuters Legal Solutions",
       "tags": [
-        "Contract Tech"
+        "AI Trend"
       ]
     },
     {
-      "title": "How Fasken helped build Legora\u2019s AI tool it now uses firmwide",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnA3OFFMTURud2lLdkNNaE13cnJ2WlRJZU5Mdk5rbURPMHd1TkhkS01la090SXpFWWF4QXhIQ0N2eUgwV1JPd1hvUVhVZWVBRGtkT09sV3dxVldhSEJoWU5zY2czd2V6Z2JaUnVzUkZGUm1JOW9HdjRlQld1cmZoY2Q5ZTczSFFEbnhleGtMeUhseWlUU3VSMm1ETUNyLTNWSktiTTRIeTJ3Snpaek5NTWx0UDkyZw?oc=5",
-      "source": "canadianlawyermag.com",
+      "title": "Harvey Announces $550M Funding Round, Acquires Security Platform Guardrails AI",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU80dEpvQ1U1N3lFQmtqdnplSzJ0TFZ3ZTd4Y3FXdFFDSDR3Q2RQcGNUZGpVaXZrckYySnVBLUpkeXpKM1ZJRlFhOHl6NHVOOElxNEliRXE0MkwwSDJ2UXh4MktaSkdSLUhpTkx4U0tIWVo5blFRLW1TYnBVbHctTk1DbHJkQmpIQzlsdG1ib0V4Yy0zSDd5alY3OXlLbWJSbHkwaWEwNjZ0ekJYLXc?oc=5",
+      "source": "Law.com",
+      "published": "9 Sep 2026",
+      "summary": "Harvey Announces $550M Funding Round, Acquires Security Platform Guardrails AI&nbsp;&nbsp;Law.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Fox Mandal: Harvey AI Adoption Enhances Legal Counsel in India",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGRRZ05lZmdUVlJIc1Zkd2FEeVpFMFJ1dEhKVFExd3ZNanlnMkJwUWViRm9VT3pTQVNEbDUzQnhUajNaX1pfZTQySE1OMlRFWHZhTzRjZ2xlckYzUHZkU1ZWYzFINnBfVngyMDJyVkNjcnY5OVNRUndaSW8yNldiSkp1OXBMVmFEYzVsN3ZGeFgwTUtMaUN0c29JWEFJWWxZOC0wRFRpVWduMS1xMmc1UjhMOTk5N3gtR1E?oc=5",
+      "source": "wansom.ai",
       "published": "8 Sep 2026",
-      "summary": "How Fasken helped build Legora\u2019s AI tool it now uses firmwide&nbsp;&nbsp;canadianlawyermag.com",
+      "summary": "Fox Mandal: Harvey AI Adoption Enhances Legal Counsel in India&nbsp;&nbsp;wansom.ai",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
+      "source": "newsonair.gov.in",
+      "published": "8 Sep 2026",
+      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;newsonair.gov.in",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Big AI v Big Law \u2014 Jude Law, Harvey Specter and why the legal AI arms race is only just beginning",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
+      "source": "Law Society of Scotland",
+      "published": "8 Sep 2026",
+      "summary": "Big AI v Big Law \u2014 Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&nbsp;&nbsp;Law Society of Scotland",
       "tags": [
         "Global AI Tool"
       ]
@@ -53,38 +146,36 @@
       ]
     },
     {
-      "title": "Big AI v Big Law \u2014 Jude Law, Harvey Specter and why the legal AI arms race is only just beginning",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
-      "source": "Law Society of Scotland",
+      "title": "How Fasken helped build Legora\u2019s AI tool it now uses firmwide",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnA3OFFMTURud2lLdkNNaE13cnJ2WlRJZU5Mdk5rbURPMHd1TkhkS01la090SXpFWWF4QXhIQ0N2eUgwV1JPd1hvUVhVZWVBRGtkT09sV3dxVldhSEJoWU5zY2czd2V6Z2JaUnVzUkZGUm1JOW9HdjRlQld1cmZoY2Q5ZTczSFFEbnhleGtMeUhseWlUU3VSMm1ETUNyLTNWSktiTTRIeTJ3Snpaek5NTWx0UDkyZw?oc=5",
+      "source": "canadianlawyermag.com",
       "published": "8 Sep 2026",
-      "summary": "Big AI v Big Law \u2014 Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&nbsp;&nbsp;Law Society of Scotland",
+      "summary": "How Fasken helped build Legora\u2019s AI tool it now uses firmwide&nbsp;&nbsp;canadianlawyermag.com",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "newsonair.gov.in",
-      "published": "8 Sep 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;newsonair.gov.in",
+      "title": "AI Contract Lifecycle Management: The 2026 Survey on Trends & ROI",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkJFNlUxbTZ5VXRkSjZMQnh6Vjl4SXRKYmdTQzFlRE5aT2RnSGpuWUQ1VmJFVXEzY2RPanpJV0N2QTRkZU5xVnZUMmlBdzNQTWNhSjBldjBjeDlrQ0c5WXRWYWdxek9ucU95OWFYR3lVUkEtU2UzUXBkQUNxcmdGajFFbE5FME1rOENCTDNZa1lnWWh4RWlTdjQ4OVpPdw?oc=5",
+      "source": "deloitte.com",
+      "published": "9 Sep 2026",
+      "summary": "AI Contract Lifecycle Management: The 2026 Survey on Trends & ROI&nbsp;&nbsp;deloitte.com",
       "tags": [
-        "India Startup"
+        "Contract Tech"
       ]
     },
     {
-      "title": "Fox Mandal: Harvey AI Adoption Enhances Legal Counsel in India",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGRRZ05lZmdUVlJIc1Zkd2FEeVpFMFJ1dEhKVFExd3ZNanlnMkJwUWViRm9VT3pTQVNEbDUzQnhUajNaX1pfZTQySE1OMlRFWHZhTzRjZ2xlckYzUHZkU1ZWYzFINnBfVngyMDJyVkNjcnY5OVNRUndaSW8yNldiSkp1OXBMVmFEYzVsN3ZGeFgwTUtMaUN0c29JWEFJWWxZOC0wRFRpVWduMS1xMmc1UjhMOTk5N3gtR1E?oc=5",
-      "source": "wansom.ai",
-      "published": "8 Sep 2026",
-      "summary": "Fox Mandal: Harvey AI Adoption Enhances Legal Counsel in India&nbsp;&nbsp;wansom.ai",
+      "title": "Singapore Management University partners with Legora to bring agentic AI to its law school",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVB3emViaGhWQ0toRTNGbUcweV9QN2ZvWWs0Z1JRNW1xVW9Zb0gyQ0J5T3BUZHlFbFEzZjI2Ym1fUWpJVlZOeVRfX285Ujg0R1hJNThzY0xhTnlta3NVc3NRUDFrTjhwemY0NjJTUW1UYk44Q2tmNW9jWWZKakJPN2l1RjlvNkpDZjJMdWdiWHh4QW13OFNObWRNZGhFWC1wQXhfX3o5TkdfaGJOSEg0dElZYmVqS29zQmR3?oc=5",
+      "source": "SMU Newsroom",
+      "published": "9 Sep 2026",
+      "summary": "Singapore Management University partners with Legora to bring agentic AI to its law school&nbsp;&nbsp;SMU Newsroom",
       "tags": [
         "Global AI Tool",
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Harvey + Legora on OpenAI\u2019s GPT-6 Astra",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
@@ -2016,78 +2107,6 @@
       "summary": "Goldman Sachs and JP Morgan invest in Harvey&nbsp;&nbsp;The Global Legal Post",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Sarvam AI to build trillion-parameter foundation model",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXNJaDRyUjlpNmV6eG1Bd1FTMy1LU1VaNVJQTEwwdnMxOHVwRTZ3Q0dXRk1kNi1GdmtZQlhILXlpdHRnWHFOZXEyajJZYk1BN3R5cEJiQ2pNQ2x3YkJRdHZmV2xhUDRCMFZRQmplN0UzY0l6OHJxM0tyNTNZRnV1SHUxTlVlRDRwRVVuRjk0MlFrMEJ4Vy1qT0dQX2tTU3A5X1RhMkRPSWdUaF9fQ2hzS3A4T0NyWEpyNjN0eHhR0gHEAUFVX3lxTE1kQ2NUMjN3ZE5mWXc4WmJtV1g4eG9OMDhIdGhlUmhaelVrZFBNX1AyQ3dTT0dGSFpSTDdTQTVrX25ibkNMUUhnOU5GRzJDZm5Nd3p0eU1YY2s4SURlQmpxNE5ZUGdUN2otMEdSVjhBQVJHT2VLTmdwNEpVbllLQlEwZjluaGtCYzdXMWtkUDdtWXBpOVBtVmNtNVFaWVlXZWNaa2RCdXZ6cHI4SHJDNTJmcHhhQnZUZ25BSlNKUk5YVmQtTkc?oc=5",
-      "source": "BusinessLine",
-      "published": "30 Jul 2026",
-      "summary": "Sarvam AI to build trillion-parameter foundation model&nbsp;&nbsp;BusinessLine",
-      "tags": [
-        "India Startup",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1RObUNpMFhaQlRCU0VFWXlOS1BHRmJTSE1oTUZMdkJxR0Z1ZjY3YkpxYTE1aXRlMVd5bGx5OFM5LUp0d0pCWXpBVGlta09GU1NwTXRwSjJlT0pfLURyM2RvY0VCOWRxZzZNTmlsTUhnc0pwUTB3eHFtalAtSk1HU0QzUHNXblU0aERNWldXYlFtU0dJQUlNcGpXSkFpbHdHcHRRT1R0Y192bExPVWJsMzB4Z2pfWWRkM1VCUnI5TEl4MXJ4ekRYVHVULXpjX00?oc=5",
-      "source": "Above the Law",
-      "published": "30 Jul 2026",
-      "summary": "The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops&nbsp;&nbsp;Above the Law",
-      "tags": [
-        "AI Trend",
-        "Contract Tech"
-      ]
-    },
-    {
-      "title": "Sarvam AI Hires Former xAI Researcher Devendra Chaplot to Build Frontier AI Models",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnFsNWlKdm5HLXg3T3BWNTgyRElXX2sxUjZEZGZra2NhWVFJUDMtYUI4Z2hRY2g1RS1GQWdVcWRwNXhlcWhWQTlwcXBxTUNMNWxjdGJ2SGVlVEg4eFZwY2x1SjRxNXFpR1dsU2p2VGJVSUk5cWlhd1dQVjhUcFVNdXFlZU5qcm9QVVhMb0R0VWlsRVpxdGhidzdxUHkwaHJwVVc3eUFwTFJ5T0xFVGZhWk5HWThRSEVHUVhkUQ?oc=5",
-      "source": "analyticsindiamag.com",
-      "published": "30 Jul 2026",
-      "summary": "Sarvam AI Hires Former xAI Researcher Devendra Chaplot to Build Frontier AI Models&nbsp;&nbsp;analyticsindiamag.com",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Linklaters' Legal AI Leader Coming To NY For US M&A Work",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2tPZHdHRDNkQndOUjJQQVQtSnhVR3FKZlRWeG85a0lVcmZnSHg5S1JoWk5kS056aV9zZ0h0akl6SmJuTFJTRFBaejRyMDdIeVladnFpNlgtQkxzVGpGRFR6a0x1cmxWTTZPUVFrajQ5LUowNFZiQmNvR1VGOHF1NG1yRTRfOF9ZMWJsT3FNQmtweTZPVm5rcF8xa2FVdlF0a1hXQWdUd3ptY1cxVExfMkVB0gFeQVVfeXFMTVh2VHZEWnhBNkRoYTFqQzZCOFRLb2o0V0k0Tjh1WGFYUFBTSTNYZ0dfVFUwcjNQSkxBWWRIVGxkM2VBUVJ1V1A0Wk5fbXR2ckVCZ3ZFWk1lMUl3emU4dw?oc=5",
-      "source": "Law360",
-      "published": "30 Jul 2026",
-      "summary": "Linklaters' Legal AI Leader Coming To NY For US M&A Work&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global Firm"
-      ]
-    },
-    {
-      "title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5",
-      "source": "Reuters",
-      "published": "30 Jul 2026",
-      "summary": "Anthropic's AI hacked three companies during tests, highlighting growing security risks&nbsp;&nbsp;Reuters",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "HLegal AI Unicorn Harvey Lands Major Backing from Goldman Sachs and JP Morgan",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmdHN3NxeWFfYTBqY0dLQk1VcjlwRXZLcGRPVGVGODctdF9VWFRleHBDZmhadFVTbGFubnI5RzV5a2prU1dTaWpUd1kwQjhPaFpxaHJPOFhJeEZnY3B3OUw4Y3JxSEZaa2x6eFZmc3pLaGUxSEpjTjhCRmlsdGFka0pJLXdOZVloSFkwZzlUbHg5aDQ4Sk5LRG0xYTJONlpzMEF2Xw?oc=5",
-      "source": "lawfuel.com",
-      "published": "31 Jul 2026",
-      "summary": "HLegal AI Unicorn Harvey Lands Major Backing from Goldman Sachs and JP Morgan&nbsp;&nbsp;lawfuel.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Trusting Claude Chat Could Be Your Biggest AI Privacy Mistake",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjFtNHBUdU5qWTBOcGFLTGJ2TmluT01TRmxCTHFMZVMwenJkbEswaFpqb1NjRnhtVU1WOERqNWJDR2xSSUFxY0J6UENIZ1VYMnZSaG5fdDU1QzJ2ekd5VzFfZmxSQWsxUWtiMXY4bXZvZ0JENTk4T1Z3bVo0WkszRzltMlNIaGRHYW13?oc=5",
-      "source": "Memeburn",
-      "published": "31 Jul 2026",
-      "summary": "Trusting Claude Chat Could Be Your Biggest AI Privacy Mistake&nbsp;&nbsp;Memeburn",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
