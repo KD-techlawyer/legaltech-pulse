@@ -1,32 +1,105 @@
 {
-  "date": "Friday, 18 September 2026",
+  "date": "Saturday, 19 September 2026",
   "articles": [
     {
-      "title": "OpenAI Astra for Law Takes Aim at Legal AI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQTUyd3g4ZkxiZ1RLOU12LWFwSVF1U0F0VTRyaDgwa0ZkVGs0aHY2alJCQTBYbllNMGZPS1NicER1dkdwT1JjU0J3Zm1DVzRpT2FyMVBBd1NKaGRlTGpTSGZpWFNWR3dkdjBxNjVVM3FNWHN3Z2xvTXNUZEgwWHNURQ?oc=5",
-      "source": "Technology Org",
+      "title": "Free AI clinic offers Florida lawyers hands-on training with Claude",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2U4X3ZVMHZoeEFJN05pTGdrZEtfbGtMS25ycWtSekJ2bmdfcmFldE1RZVdyRnZzQjdaQ1d6cVJJRWhmLTlxQTY2MUY5Y0QwQk16aUNkUUJBWVBjengzcUdnOVBCRl93M3AtSXpJRGdCNlNMV3FKUnhCeDZEZ00yaGRmX3Z1Z0gwbVFOYV9fMFItSWR3bHUwMzBVUnpra1V1X0oteVU3V0tJYVhQT3pHRzFKanhFN2c?oc=5",
+      "source": "The Florida Bar",
       "published": "18 Sep 2026",
-      "summary": "OpenAI Astra for Law Takes Aim at Legal AI&nbsp;&nbsp;Technology Org",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "OpenAI Debuts Astra for Law, a GPT-6 Powered Research Tool for Attorneys",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95S2hmSUJ3LW9WQXFlbkw5WnMwY01heW44ckxTaFNvQ1lXQXZEaDZxbDhMRV9od1lYTE0taEYxQkZlRkVjbnpua2tGU2xVVEppaTVXX2V3cmJFQXVhSFF2YW92a1NOb0RIZGxzNUlSVWNPNU1SakE?oc=5",
-      "source": "finance.biggo.com",
-      "published": "18 Sep 2026",
-      "summary": "OpenAI Debuts Astra for Law, a GPT-6 Powered Research Tool for Attorneys&nbsp;&nbsp;finance.biggo.com",
+      "summary": "Free AI clinic offers Florida lawyers hands-on training with Claude&nbsp;&nbsp;The Florida Bar",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "OpenAI Brings GPT-6 Astra to the Legal World With Case Law, But There Are Concerns",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHBRQll1WEJHSmV3ZnhDWVY1ZFFwRExnMzlUWmdaaHJPUzRPejRDeDdZa0FOMkh2Z255Zi1UcHQ5Y2N4QzA4Z3NUanQzN2V3ZUFYbnlUYlY3VDd4SEFkLTEzcXJMeUhPdUlNQTJES1NjSVFNcjdvN3hNSlVGU1RBdnZaV0dWcndZMmxEdmcwSjZhUVM5MlVQZnV2OA?oc=5",
-      "source": "Benzinga",
+      "title": "$15.5 Billion Brief: How Harvey Is Rewriting the Economics of Legal AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDNPaDZQbWtsN0dCaDFBTi05NzR4bEZqXzFfTEI4Mll5Sm8tSzRuZ2ppcm1xVGJITkRvYnFRc1pRVDRhb010NzctbWU5S1daQTF6NDB3MXlKMDV2cmtoTHc4X0dtbVhrQUpYblFBa3ZKM0hiSlh5d2xDRjVUN1hzSEpqLU1UYzQwcWtQMm1GM0VBMkFf?oc=5",
+      "source": "Vocal",
       "published": "18 Sep 2026",
-      "summary": "OpenAI Brings GPT-6 Astra to the Legal World With Case Law, But There Are Concerns&nbsp;&nbsp;Benzinga",
+      "summary": "$15.5 Billion Brief: How Harvey Is Rewriting the Economics of Legal AI&nbsp;&nbsp;Vocal",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "The A.I. Industry\u2019s New Worry: \u2018Liability Exposure\u2019",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGt5enpFT2RsRkhORHdHai1BNDZvTFp6WmVydS1CbVVqRDEwY0VsZnZJNzdWblhuVkNtSnJKNmE2Nkpia0F5QjNpOFFMZ1lfcHN1bUxQNU41MmVZbkZhSmMza0NVNnEwTkhBbE52V1FJOGlaMU13aHJLMnFra0dtWVBn?oc=5",
+      "source": "The New York Times",
+      "published": "18 Sep 2026",
+      "summary": "The A.I. Industry\u2019s New Worry: \u2018Liability Exposure\u2019&nbsp;&nbsp;The New York Times",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Astra for Law + The Battle for Centrality",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3ZXZXZrWk10WUx6UmV4Vk5KeGo0YVJNdnRsN1JybURjeTZpU3I0Tm9scHRXbWV1dmk2NVFlMXV5Z2ZQeUhaU1JXMk05Z3k1UVUya2c4eHhtYWpVVUJTWjdMNmNqUEZ4ZEdaQzc0M29PQVkySUhFMk1id29Pa21VVEZSNDhtVHl2amhuVQ?oc=5",
+      "source": "Artificial Lawyer",
+      "published": "18 Sep 2026",
+      "summary": "Astra for Law + The Battle for Centrality&nbsp;&nbsp;Artificial Lawyer",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Thomson Reuters and OpenAI: Advancing an Open Ecosystem for Legal AI",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnduOHY3WHhabUs2OWFFNVl5S1FLdHpfdnF0UUU1NmV2LVBTX2hiWUk1R2dUTGhIMTRsTjFRSEZTdF9xZGdpcFBwS3JEUVZuNUdtUVppcnN5akdUMzdGdTNlV0REcDZxQlo4cVZlNzF1OUdrY1czQ21nYlZBUGJQc0UwdUVYY0s5OHFZeTlONmxiVng1eTlyZmhFUXl2VFpOemJlV3dVWXBvMmNBRHVrT1VQb0NXeFhKOTB6NTA5WQ?oc=5",
+      "source": "Thomson Reuters",
+      "published": "18 Sep 2026",
+      "summary": "Thomson Reuters and OpenAI: Advancing an Open Ecosystem for Legal AI&nbsp;&nbsp;Thomson Reuters",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "L\u00fcth Case and India 2026: Fundamental Rights, Big Tech, AI & Private Power",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkh1TFc2enIzWkQ1MlBLWm93Z09XbmMxa3Z2b3dfSWhIWE9RcVo2Rk9sUlh3bWtQQ0p5MUdneDVkckV1TWZCMmNyby04SjZsTWxIcFZSeEdaNW9LNDQ1MjhLUzFoN0JDbUx5RXhGQjdjRjc2MUREWFZYVk1mRmt3UlRiNnpOaUpvNVBrYjVpQlZWbm1NLS1HZmVDdV9Bd3VuNkt6N2ZtQVZVbHl6ZWU0anhPYlZlQQ?oc=5",
+      "source": "Legal Service India",
+      "published": "17 Sep 2026",
+      "summary": "L\u00fcth Case and India 2026: Fundamental Rights, Big Tech, AI & Private Power&nbsp;&nbsp;Legal Service India",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "CEU San Pablo offers free Harvey AI access to law students",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3A3M3c1Q0lhZ3k2MHo3WjJWcldvamJQanNQV0JqU3FrZGlFX0txTGV3Z1NLZUZ3QVgzUmVhc3pjUXdDdW5RNWZ3clJqUXNZdElweEdIVUNnMzUwRm1SMzBpdGhfVjcyRHg0dHdOQlFsM1pyeVNESk5naXZqd3FGUmFaeGlSeUNoU2JGY1R3?oc=5",
+      "source": "Iberian Lawyer",
+      "published": "17 Sep 2026",
+      "summary": "CEU San Pablo offers free Harvey AI access to law students&nbsp;&nbsp;Iberian Lawyer",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Breaking news: OpenAI unveils Astra for Law",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JNE1rV1Z5ek41SnN6SWE1MF84dkp0SzNNSGY5VWVGSEJRdnlJaFRZWmFYQ2ZCbTdNTmhSa1BUNWJKaVBRSGtGWDB3N0VYSVlJVE9WYnI3clJVaUp0VjVPMVNKd3ZmZTJaV0hhVm9hUXRrNlBXaFdqaHZ0cw?oc=5",
+      "source": "Legal IT Insider",
+      "published": "17 Sep 2026",
+      "summary": "Breaking news: OpenAI unveils Astra for Law&nbsp;&nbsp;Legal IT Insider",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFplSzFxRWszbXB1aWZ6dmNUd2YtR0d6MHk1RkFtaHBjZ0dfLVlMVnZ0WlBZUllXaWJJUXh0NTh5QVpaVUlLalBFTHlILXlEYVlnRG5pZ0NPanFVak5xRG1JTXRRelZPSGVXeUN0OWdrMm9oN2FvQmVzQTdSb21ZWGMyd2dtNW9YenI4bFU4TkxTVnJzbzJXMjJWVWl3NmRlRHRyc0NtcU5yUQ?oc=5",
+      "source": "lawnext.com",
+      "published": "17 Sep 2026",
+      "summary": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors&nbsp;&nbsp;lawnext.com",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaklBa3l0bXpJRlZHYW5ZUnM4d0tTRWczT1F1MTByOXk5UFBZYmdHaGFhN1d2VUY3OThBLThkTUxpOGJOQTVadzJEazBvSlNzdm0wTURBaFhyUWh1ZVdScmJWZ3p3NUZSVzBCWkt2UEpxUEJjaUxaN2U2dnFpT1E3Njc3MWRsWFpaZTZjekdlN0tUY1pudndlX081Z3k5VlVnLUVvQlVMQXNiS3RCbXVrbVlRWEQ0Q0ltdkduZC1hbGxUR28?oc=5",
+      "source": "reuters.com",
+      "published": "17 Sep 2026",
+      "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users&nbsp;&nbsp;reuters.com",
       "tags": [
         "Global AI Tool",
         "AI Trend"
@@ -43,59 +116,36 @@
       ]
     },
     {
-      "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaklBa3l0bXpJRlZHYW5ZUnM4d0tTRWczT1F1MTByOXk5UFBZYmdHaGFhN1d2VUY3OThBLThkTUxpOGJOQTVadzJEazBvSlNzdm0wTURBaFhyUWh1ZVdScmJWZ3p3NUZSVzBCWkt2UEpxUEJjaUxaN2U2dnFpT1E3Njc3MWRsWFpaZTZjekdlN0tUY1pudndlX081Z3k5VlVnLUVvQlVMQXNiS3RCbXVrbVlRWEQ0Q0ltdkduZC1hbGxUR28?oc=5",
-      "source": "reuters.com",
-      "published": "17 Sep 2026",
-      "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users&nbsp;&nbsp;reuters.com",
+      "title": "OpenAI Brings GPT-6 Astra to the Legal World With Case Law, But There Are Concerns",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHBRQll1WEJHSmV3ZnhDWVY1ZFFwRExnMzlUWmdaaHJPUzRPejRDeDdZa0FOMkh2Z255Zi1UcHQ5Y2N4QzA4Z3NUanQzN2V3ZUFYbnlUYlY3VDd4SEFkLTEzcXJMeUhPdUlNQTJES1NjSVFNcjdvN3hNSlVGU1RBdnZaV0dWcndZMmxEdmcwSjZhUVM5MlVQZnV2OA?oc=5",
+      "source": "Benzinga",
+      "published": "18 Sep 2026",
+      "summary": "OpenAI Brings GPT-6 Astra to the Legal World With Case Law, But There Are Concerns&nbsp;&nbsp;Benzinga",
       "tags": [
         "Global AI Tool",
         "AI Trend"
       ]
     },
     {
-      "title": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFplSzFxRWszbXB1aWZ6dmNUd2YtR0d6MHk1RkFtaHBjZ0dfLVlMVnZ0WlBZUllXaWJJUXh0NTh5QVpaVUlLalBFTHlILXlEYVlnRG5pZ0NPanFVak5xRG1JTXRRelZPSGVXeUN0OWdrMm9oN2FvQmVzQTdSb21ZWGMyd2dtNW9YenI4bFU4TkxTVnJzbzJXMjJWVWl3NmRlRHRyc0NtcU5yUQ?oc=5",
-      "source": "lawnext.com",
-      "published": "17 Sep 2026",
-      "summary": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors&nbsp;&nbsp;lawnext.com",
+      "title": "OpenAI Debuts Astra for Law, a GPT-6 Powered Research Tool for Attorneys",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95S2hmSUJ3LW9WQXFlbkw5WnMwY01heW44ckxTaFNvQ1lXQXZEaDZxbDhMRV9od1lYTE0taEYxQkZlRkVjbnpua2tGU2xVVEppaTVXX2V3cmJFQXVhSFF2YW92a1NOb0RIZGxzNUlSVWNPNU1SakE?oc=5",
+      "source": "finance.biggo.com",
+      "published": "18 Sep 2026",
+      "summary": "OpenAI Debuts Astra for Law, a GPT-6 Powered Research Tool for Attorneys&nbsp;&nbsp;finance.biggo.com",
       "tags": [
-        "Global AI Tool",
         "AI Trend"
       ]
     },
     {
-      "title": "Breaking news: OpenAI unveils Astra for Law",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JNE1rV1Z5ek41SnN6SWE1MF84dkp0SzNNSGY5VWVGSEJRdnlJaFRZWmFYQ2ZCbTdNTmhSa1BUNWJKaVBRSGtGWDB3N0VYSVlJVE9WYnI3clJVaUp0VjVPMVNKd3ZmZTJaV0hhVm9hUXRrNlBXaFdqaHZ0cw?oc=5",
-      "source": "Legal IT Insider",
-      "published": "17 Sep 2026",
-      "summary": "Breaking news: OpenAI unveils Astra for Law&nbsp;&nbsp;Legal IT Insider",
+      "title": "OpenAI Astra for Law Takes Aim at Legal AI",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQTUyd3g4ZkxiZ1RLOU12LWFwSVF1U0F0VTRyaDgwa0ZkVGs0aHY2alJCQTBYbllNMGZPS1NicER1dkdwT1JjU0J3Zm1DVzRpT2FyMVBBd1NKaGRlTGpTSGZpWFNWR3dkdjBxNjVVM3FNWHN3Z2xvTXNUZEgwWHNURQ?oc=5",
+      "source": "Technology Org",
+      "published": "18 Sep 2026",
+      "summary": "OpenAI Astra for Law Takes Aim at Legal AI&nbsp;&nbsp;Technology Org",
       "tags": [
         "Global AI Tool"
       ]
     },
-    {
-      "title": "CEU San Pablo offers free Harvey AI access to law students",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3A3M3c1Q0lhZ3k2MHo3WjJWcldvamJQanNQV0JqU3FrZGlFX0txTGV3Z1NLZUZ3QVgzUmVhc3pjUXdDdW5RNWZ3clJqUXNZdElweEdIVUNnMzUwRm1SMzBpdGhfVjcyRHg0dHdOQlFsM1pyeVNESk5naXZqd3FGUmFaeGlSeUNoU2JGY1R3?oc=5",
-      "source": "Iberian Lawyer",
-      "published": "17 Sep 2026",
-      "summary": "CEU San Pablo offers free Harvey AI access to law students&nbsp;&nbsp;Iberian Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "L\u00fcth Case and India 2026: Fundamental Rights, Big Tech, AI & Private Power",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkh1TFc2enIzWkQ1MlBLWm93Z09XbmMxa3Z2b3dfSWhIWE9RcVo2Rk9sUlh3bWtQQ0p5MUdneDVkckV1TWZCMmNyby04SjZsTWxIcFZSeEdaNW9LNDQ1MjhLUzFoN0JDbUx5RXhGQjdjRjc2MUREWFZYVk1mRmt3UlRiNnpOaUpvNVBrYjVpQlZWbm1NLS1HZmVDdV9Bd3VuNkt6N2ZtQVZVbHl6ZWU0anhPYlZlQQ?oc=5",
-      "source": "Legal Service India",
-      "published": "17 Sep 2026",
-      "summary": "L\u00fcth Case and India 2026: Fundamental Rights, Big Tech, AI & Private Power&nbsp;&nbsp;Legal Service India",
-      "tags": [
-        "AI Trend"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "September 12th\u2019s Red Alert: How International Lawyers Should Answer AI Leaders\u2019 Wakeup Call",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmZYMXFKYzVySmhFaTNzcVloVzloNlBDN202alB4amFwNGVTNzJ2U1RfSG5uZVZ1b3l3MUNRaGdQRmtwX0FzWEhhSEJjT21BUTYzbUhMZEhXa3BYdTRCeW5UOEVpc3lpam5MT2hGZExSZ0NqdGJzUVdVVFNoRnNRRVdldVN4WUxYSkVEZG5rVm51Zw?oc=5",
@@ -2010,96 +2060,6 @@
       "summary": "Anthropic hires Robert Mahari as head of Claude for Legal&nbsp;&nbsp;Legal IT Insider",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey is raising at $15.5bn, up 40% in five months",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkpvX1A4MlVuYlJiX281REIyTmtRR2V0bTFTT3Y1U2RfU1UtSHFheGptZEYzT2FHRUxaZTFOeFJPMkNLZG1ubEJ2dGs0di1mdkstRW1RMkFSdjI5Ukd4UlhXc2xvLWEwU3drRUtPMGdUQmwyQ0JLYlNReEN5WkJQMmdjcnA2V1Y4Zjh3?oc=5",
-      "source": "The Next Web",
-      "published": "7 Aug 2026",
-      "summary": "Harvey is raising at $15.5bn, up 40% in five months&nbsp;&nbsp;The Next Web",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legal Tech Roundup: NYAI, Harvey, Legora",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0N4eVpRMWtnTExmcjA1QjFLeHUxUFgwOVhzb1lGaUl0T1MzSUpreDl4ZkJYTDF0aWFsTW93LXRaMWdaTXlaNWhESWN4ZHdXZGphOTV3MHpHbk5icTZZYlBOYndpbE8xZnpHbWt1U0h2b2pPbmpMaTFMUDNaeFBqQXZTRTI4elRGMnBJ0gFeQVVfeXFMTU15WUhaQmc3SGkyb1UzRUpCR2xMdFdKYmY3dHFuMDlrSnJNamxXRHR4bzBUZEt1Vm5KZkxld2gtR1UtVmxqdVJCdnJ4VXJwQXRGUkdNQkFuNHhSbE01UQ?oc=5",
-      "source": "Law360",
-      "published": "7 Aug 2026",
-      "summary": "Legal Tech Roundup: NYAI, Harvey, Legora&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "AI Co. Anthropic Hires Legal Lead For Claude Chatbot",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3RwLU9UTnpKTlZoQ3R1MFAyUjZhOW5zMlVRNkROcnBnVzFMbGxvZjRfTm9DZm9uWmRNUTc3eXE0a2tNYlBEbTdMWWFSS0toQkxtRGhFMUpORU9pOTZSUnJHMEFFbC1rNWpNc0Vqbmlkd2V5amJIeGs1LXN4WkNmZmpVa3k5Sk50VC1PbTIzZEhiZnpjRVNhTGRVb2twUdIBXkFVX3lxTFByQXlobHp2RWctdXg5QTFDVExUb1pyMlpNUkp6VUxjUklwM3VmNlRpOTRSLWdwV1RIM1hSSnEwVUhGWVlYUVJUM3Qyb0ZzUDVMS1ppdWQzZUZQTmQyVmc?oc=5",
-      "source": "Law360",
-      "published": "7 Aug 2026",
-      "summary": "AI Co. Anthropic Hires Legal Lead For Claude Chatbot&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Stay informed: New judicial workflows for a growing docket",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObC1hNUJ5UTF2cGt4bE9QSl80dy05eEpVcGdVVEttbFFOZzdGRjB5SWtEQ1NhMUlaSFJOcktWU1U1enRXVE5Vd05FNWwxQnJHT19FRFNGdU54VTJ1U2hpdE5jSWdoaUgxMlZ4UjhGTzlWRXgtaktVRXBPZndqWG5lOEMzSDRxc0FIMXZKNWhmMElFUjZ4aDM2VnVEUE8?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "7 Aug 2026",
-      "summary": "Stay informed: New judicial workflows for a growing docket&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdSS3lCX0t1RTdsS2M2VjE1RTFhenNnZlVVVnVlUXFSaXpHbWdILUlpV2R2dXZxcDQteFIxUGxKa0QyMDRMb2NmU0NxSGdFYnU2VW4zUWU2QWRNNDVKcXdCTTJnMjdOU2hWb01JSzN1S2FRQlF4QXlwUFluSzhlZHBSc09GNFRKVUZ6dzhtM0NpTWoxSlJBTFNPeG9FNkVhNXc?oc=5",
-      "source": "SiliconANGLE",
-      "published": "7 Aug 2026",
-      "summary": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation&nbsp;&nbsp;SiliconANGLE",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey Targets $15.5 Billion Valuation as Revenue Surges Past $350 Million",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3QwOS1RTHpSUFNoMTN3bi04bkF1NXZLdzI3UVgxRVRTd0thTG0zSDRIQlotazVPQUpkeXNNa3REN282SFdiSlM0bHVybmNteG1yR1JONXRmWDZjdkdQUlctemdveUhNUld4SFpic196dWdFeElfZnczckE5MDhKaWJxUGozX0U3S3dMdWlld3ZZbmZrelMyVVFwUUxlcURleXZQTnNpdmpsbjJwMWpnMEt3bU1LdVRQdEtUWDg5NXhSakE?oc=5",
-      "source": "PYMNTS.com",
-      "published": "7 Aug 2026",
-      "summary": "Harvey Targets $15.5 Billion Valuation as Revenue Surges Past $350 Million&nbsp;&nbsp;PYMNTS.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Sarvam AI | All about the Bengaluru startup\u2019s plans for a trillion-parameter model",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzViYnF2LS1xMTdyU2VlbnY5dTRqcWtkTXVKdUptUmJLNzNldFNDamdUUGpydmw0SmZVMjJJSHlYdjR4eTQ4NUVSQkJaNHpvMXBjRFZ0cHVRQUtMUkpDdW5ESUZENzRmdUctNTFwazVYUEZHMW9FMDlsTVFTaDQ2YXZHbTNtVUQySllVWmZ3UllnVHlZWTFEanBEN2wyZDh0VUJSclVPWlFLckJEWnk0dUwxVkRMUTZYZkdjMHNkQU1fc0NucGRBS2dpNjFFcUs5ZmdtMVBOUzcxdVFL0gHjAUFVX3lxTE9YOVdXOVpIcVFmTUczWUJrRXduX2F6bmhXcmYxQ0JaZFJPVTNRckstc245SXl3VHA5aUxwMDRyZEhGNS12bmppdWItaW9TdXlNRUZHZnRDWWZ6Qm5xX0dpaDBHcmRhNTJnWGQ2VWJWNE5hNHdERm1UX3dkZjFvTWZtVlRWbjFHQUxDX1BhM1B0bm44MXVWdTY3SmVPUXpSb2dYY25tdkd4blhZd0Y0aHFMV1YwLTI3dVJWWTM5NHlNbkFlMnZJbG9sU0VobkFqZVZRQmpjZFdrVGtZT2MxQklvQkd3?oc=5",
-      "source": "The Hindu",
-      "published": "8 Aug 2026",
-      "summary": "Sarvam AI | All about the Bengaluru startup\u2019s plans for a trillion-parameter model&nbsp;&nbsp;The Hindu",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Law Firms Need To Reassert Their AI Sovereignty, Here\u2019s How",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYTBNckxHMjBsZHZtY0EzTWtKLWR1NnBObjNKM1d0ZFJZVG9SMTBnTTh6N1JLOFh4UUdpbVByOXI0UEtmcWNqU3NNT01fbTktcWtjNnl3UW16NlhOZlVNX2lXbVhyd0pxaHFYT3M4YWxMaEp4dmZta1VFcElmZmlmMzN6Tm1WUExObGc5ZTRBZGhSWWhNbHl6QVlabE96TXhxQmktYg?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "6 Aug 2026",
-      "summary": "Law Firms Need To Reassert Their AI Sovereignty, Here\u2019s How&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "NVIDIA Leads USD 74 Million Investment in Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLWRfVVhqVW8zSzRDdWZBMGpPdnAwLUJqb3hhQlBLR21iWnFqVGRnSExwbEhlYlJDR2hYYVI1ZzVGYmZMOEpjU1hoNUJkTkxzdXhsYXF5cEJjaHJQaXpoX2lxTWRHcG5TbzBTRVpyVU1IRnZLOWYyTmFRNXFxaEd2b3pBeDl0YVQ1RURILVAwYzBnRUxva3hIZkowWkpDM1FPaXFCazRJbw?oc=5",
-      "source": "Entrepreneur India",
-      "published": "6 Aug 2026",
-      "summary": "NVIDIA Leads USD 74 Million Investment in Sarvam AI&nbsp;&nbsp;Entrepreneur India",
-      "tags": [
-        "India Startup"
       ]
     }
   ]
