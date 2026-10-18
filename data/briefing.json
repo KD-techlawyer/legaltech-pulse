@@ -1,63 +1,55 @@
 {
-  "date": "Saturday, 17 October 2026",
+  "date": "Sunday, 18 October 2026",
   "articles": [
-    {
-      "title": "Harvey AI: What It Does, Who Uses It and How It Compares",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFYkNIeXZpQmNoVUJoYWpXWGkwS0tkVmhZLTlOS2tnWDRvNUUtYi1Cd0tDejdta1o4NGNBZ0o0ekNyazBXSWNidWZB?oc=5",
-      "source": "Legal Desire",
-      "published": "17 Oct 2026",
-      "summary": "Harvey AI: What It Does, Who Uses It and How It Compares&nbsp;&nbsp;Legal Desire",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
     {
       "title": "Introducing Bulbul V4 Flash text-to-speech for India",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaMWlnenc3Qm5vOVppYWxDV1AyVng4WWROSmZQSUYtX0VnTVpoYndNM2JPemZDZ2owWmdHU00zNUJ1d05UZkQ1WjBOZTZSYkhJR1duX21R?oc=5",
       "source": "Sarvam AI",
-      "published": "17 Oct 2026",
+      "published": "18 Oct 2026",
       "summary": "Introducing Bulbul V4 Flash text-to-speech for India&nbsp;&nbsp;Sarvam AI",
       "tags": [
         "India Startup"
       ]
     },
     {
-      "title": "Legal Tech Roundup: Microsoft, Legora, Laurel, And More",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVzI3VjZ1R0xQRFdPemIyTl9uYkdNR2ZBUzZ5X3JWQUFzbXd1TEU3c2hFNGM0WTFxTGRhbWdwczYxYnFtRzhhZEdoX09FemNMdXFVbEV6LUxxZHQxRFlMc0p1UmRBM0ZodFRySUxoaFpYZVNTa0hPX1hUV0x5TXN4cnRiOGpZTW9DWEhXSmRIazloN29VSnZOZU9IbGtGZ9IBXkFVX3lxTE1kNXREbWQzUnJtakM4WXJkMTM4N1M1U3l4MmpCbTJNNlc4SklZbTNmc0FnaURPcWtaUkZyZ3dYOVJmb2hzbEtCMEh3ekE5VzRRbGFIMHNDU2dHM05jcmc?oc=5",
-      "source": "Law360",
-      "published": "16 Oct 2026",
-      "summary": "Legal Tech Roundup: Microsoft, Legora, Laurel, And More&nbsp;&nbsp;Law360",
+      "title": "Anthropic Taps 2,800 Lawyers to Watch AI Agent Deals [2026]",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PWERsakVaT0tELTFnWEZLSW0yUVFXWXBYdndoY2FxZktKdXBJM3FBMFdSbFdkSFg0dHBEVEpyX01LM1RTMDlhSC1sbVNfRjkwaGM1SU9JeGFXTW1JYWNlWWtDdWkyNGdsdFZEcnF4SU9nV1NoVFVLNmJMM0t5YXM?oc=5",
+      "source": "https://tech-insider.org/",
+      "published": "18 Oct 2026",
+      "summary": "Anthropic Taps 2,800 Lawyers to Watch AI Agent Deals [2026]&nbsp;&nbsp;https://tech-insider.org/",
       "tags": [
-        "Global AI Tool"
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "India\u2019s law startups have a market to crack",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3dYSHZ0U1E2enhRWVBkam1CdzlGcVlYaG5JQlVaMk1KLW5BbnhiTUgxMFpVYmJJYVY0c0FoNG1DQ0UxRGd5NjRxU1lFOTAwTWw4NnRPYmVTalN2UlExY2FpRzZGSFJVM3hlWjRzcUxFcVI5WnZaeFFsaVNrRVNrZF9tNHBhemFTU1pxX3JnTmhMVzRtR2ZzS2RTczVKRjE5QWFreGViaS1fQVBiOHRYdEthYURmQXA1dXfSAb8BQVVfeXFMTWkxUFdyM0luUjAzdUVpYjQyUXE1dV9UZ25BcS1GQXd3MDByMDh5SzBEaklkdk9PdnlhUjczalRwQmFBNjhEVURJXzlnZ1huSVBzbE0yY3NwakxYYnllS2V5Yk5zVUpmVXI3bzdkZU9pTjdSZ3NycjA3Z0U2WTV2RXJBMTVNbk1lMllIWHgtbjRxNXFEZDVLYWlFV2VJV2N3Z3VQdkowUGM1aGI2anpqTWhFTmhIcHJ5Q1ZEYUgwYUE?oc=5",
+      "source": "ET Entrepreneur",
+      "published": "16 Oct 2026",
+      "summary": "India\u2019s law startups have a market to crack&nbsp;&nbsp;ET Entrepreneur",
+      "tags": [
+        "India Startup"
       ]
     },
     {
-      "title": "Microsoft now wants lawyers and legal teams to use Copilot, even for sensitive work",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSHpMckxIYUR0bzlONm9nRW1rVmY5WF82eUdDZWZzQ3g3TGJKOVJrVXdBbUhudllxWHhFbm1DNWdmb3JZa21SOFV5bWVmSEFYU3NaSHNkOWpRMkd6NFdLTzM1c0ZRRnNZaHJPYmM4ajRpRTZFZmNEb0ViaWs1eG51RU5GajFDTzZLM0E1MHBMdE9yTFhPeEJFZnJMR2M5WWpFM3h1LWxXcHJlaWlPc0YzZA?oc=5",
-      "source": "Neowin",
+      "title": "Hogan Lovells Cadwalader unveils firmwide AI strategy, signs with Harvey and Legora",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjFMeE4zUHVNQ2RuM01yQ3dUSzM5T3d3dUVxMVUtcDBIajZMQXptTVoya3JBWExfTjdNVzYzR1ZTaXQxNlRkSFNKTnNvdVN5N194am9BUS1vdmVkRHpyVDZJby12VlVlbVpjRFFIclFEY3VPOUxvbU8waFVyZEZSdnRLVFdZMkxDRWRkVmc5aVRkV2lkcFJReFZoMmp3bjVMWE1XUmstZHduaXM4LXowSg?oc=5",
+      "source": "Legal IT Insider",
       "published": "16 Oct 2026",
-      "summary": "Microsoft now wants lawyers and legal teams to use Copilot, even for sensitive work&nbsp;&nbsp;Neowin",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legaltech Rundown: Goodwin Expands Partnership With Microsoft, Thomson Reuters Rolls Out Cocounsel Legal Globally, and More",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdWdIUElMNm5PS0dxN1hkWDB0em1iQWtHNXFzZUVJdkhEaXZZOXB3SVRxcm0xMEw2dTU3b3dtblZkQ0J3MUdhbzBQQ2VMNURKVTFrNDBldDE5MURlMlZ5N1BpdnR0SnozU25admNyMjI5YnJ1VU5zR0VKaW5DdEQ1R3RFMEVxUXdHZ3p3MlZGQ1Q1Q3BCVzhtTGdQbVBlRWNpTXJxc2tvN0xFTnUwQjY1aHprTF9NUjlvTW5OMjR3T0pEWHUtbWVSbkhHV0NTZDZjQ0g4amFFVzdMWHBraFJjRVJSQ0JyTGJPVlk4ckxUZlJSVW9tVmpoMGpKcw?oc=5",
-      "source": "Law.com",
-      "published": "16 Oct 2026",
-      "summary": "Legaltech Rundown: Goodwin Expands Partnership With Microsoft, Thomson Reuters Rolls Out Cocounsel Legal Globally, and More&nbsp;&nbsp;Law.com",
+      "summary": "Hogan Lovells Cadwalader unveils firmwide AI strategy, signs with Harvey and Legora&nbsp;&nbsp;Legal IT Insider",
       "tags": [
         "Global AI Tool",
-        "Global Firm"
+        "AI Trend"
       ]
     },
     {
-      "title": "Microsoft targets legal AI market with launch of specialist Copilot tools",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHhyQXlGRGdxWjljRDFPZkFMYm9WdWU0NUE3a0NhVUFwWDFrSVo2MGdoQW5tbWc5c1p5LVJmTjVpSUN2SWVSdndEV05ENVZOQVNIbjZLVTAySm9HSGJnTzZndU1VaTRPckd4R0lZVlJEMnZ6WGI0RTNTbEFVYThGODVXcEZ0ZE9qeGZhMmVqbmlia05laTZjOXZ2SE5QVHhFa2VVcUtwdlR5dnFESTlYQUU3NTBPWVd5VHZFdw?oc=5",
-      "source": "The Global Legal Post",
+      "title": "Custom AI Agents Built by Hogan Lovells Cadwalader Lawyers, Harvey Says",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlBCYnFQQ2o4X3RkVzJMc1BKYVRCczlEZjNvZlBJYUVZaFV6WTlONVU0ckZkSlR3bjR3VF9PN0pzcFJVNE1ZeHhBMTdvVGZZNzd3bnpjSjRHY3lhbkZNNmFkdEtoZ3l3M2NzX2ZZOXBjdW9VY1ozd1pNU1FFRktScnJkRzJPY2JlRXNUR1pGOW95ZnlpU1h3?oc=5",
+      "source": "Unite.AI",
       "published": "16 Oct 2026",
-      "summary": "Microsoft targets legal AI market with launch of specialist Copilot tools&nbsp;&nbsp;The Global Legal Post",
+      "summary": "Custom AI Agents Built by Hogan Lovells Cadwalader Lawyers, Harvey Says&nbsp;&nbsp;Unite.AI",
       "tags": [
         "Global AI Tool",
         "AI Trend"
@@ -74,39 +66,57 @@
       ]
     },
     {
-      "title": "Custom AI Agents Built by Hogan Lovells Cadwalader Lawyers, Harvey Says",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlBCYnFQQ2o4X3RkVzJMc1BKYVRCczlEZjNvZlBJYUVZaFV6WTlONVU0ckZkSlR3bjR3VF9PN0pzcFJVNE1ZeHhBMTdvVGZZNzd3bnpjSjRHY3lhbkZNNmFkdEtoZ3l3M2NzX2ZZOXBjdW9VY1ozd1pNU1FFRktScnJkRzJPY2JlRXNUR1pGOW95ZnlpU1h3?oc=5",
-      "source": "Unite.AI",
+      "title": "Microsoft targets legal AI market with launch of specialist Copilot tools",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHhyQXlGRGdxWjljRDFPZkFMYm9WdWU0NUE3a0NhVUFwWDFrSVo2MGdoQW5tbWc5c1p5LVJmTjVpSUN2SWVSdndEV05ENVZOQVNIbjZLVTAySm9HSGJnTzZndU1VaTRPckd4R0lZVlJEMnZ6WGI0RTNTbEFVYThGODVXcEZ0ZE9qeGZhMmVqbmlia05laTZjOXZ2SE5QVHhFa2VVcUtwdlR5dnFESTlYQUU3NTBPWVd5VHZFdw?oc=5",
+      "source": "The Global Legal Post",
       "published": "16 Oct 2026",
-      "summary": "Custom AI Agents Built by Hogan Lovells Cadwalader Lawyers, Harvey Says&nbsp;&nbsp;Unite.AI",
+      "summary": "Microsoft targets legal AI market with launch of specialist Copilot tools&nbsp;&nbsp;The Global Legal Post",
       "tags": [
         "Global AI Tool",
         "AI Trend"
       ]
     },
     {
-      "title": "Hogan Lovells Cadwalader unveils firmwide AI strategy, signs with Harvey and Legora",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjFMeE4zUHVNQ2RuM01yQ3dUSzM5T3d3dUVxMVUtcDBIajZMQXptTVoya3JBWExfTjdNVzYzR1ZTaXQxNlRkSFNKTnNvdVN5N194am9BUS1vdmVkRHpyVDZJby12VlVlbVpjRFFIclFEY3VPOUxvbU8waFVyZEZSdnRLVFdZMkxDRWRkVmc5aVRkV2lkcFJReFZoMmp3bjVMWE1XUmstZHduaXM4LXowSg?oc=5",
-      "source": "Legal IT Insider",
+      "title": "Legaltech Rundown: Goodwin Expands Partnership With Microsoft, Thomson Reuters Rolls Out Cocounsel Legal Globally, and More",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdWdIUElMNm5PS0dxN1hkWDB0em1iQWtHNXFzZUVJdkhEaXZZOXB3SVRxcm0xMEw2dTU3b3dtblZkQ0J3MUdhbzBQQ2VMNURKVTFrNDBldDE5MURlMlZ5N1BpdnR0SnozU25admNyMjI5YnJ1VU5zR0VKaW5DdEQ1R3RFMEVxUXdHZ3p3MlZGQ1Q1Q3BCVzhtTGdQbVBlRWNpTXJxc2tvN0xFTnUwQjY1aHprTF9NUjlvTW5OMjR3T0pEWHUtbWVSbkhHV0NTZDZjQ0g4amFFVzdMWHBraFJjRVJSQ0JyTGJPVlk4ckxUZlJSVW9tVmpoMGpKcw?oc=5",
+      "source": "Law.com",
       "published": "16 Oct 2026",
-      "summary": "Hogan Lovells Cadwalader unveils firmwide AI strategy, signs with Harvey and Legora&nbsp;&nbsp;Legal IT Insider",
+      "summary": "Legaltech Rundown: Goodwin Expands Partnership With Microsoft, Thomson Reuters Rolls Out Cocounsel Legal Globally, and More&nbsp;&nbsp;Law.com",
       "tags": [
         "Global AI Tool",
-        "AI Trend"
+        "Global Firm"
       ]
     },
     {
-      "title": "India\u2019s law startups have a market to crack",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3dYSHZ0U1E2enhRWVBkam1CdzlGcVlYaG5JQlVaMk1KLW5BbnhiTUgxMFpVYmJJYVY0c0FoNG1DQ0UxRGd5NjRxU1lFOTAwTWw4NnRPYmVTalN2UlExY2FpRzZGSFJVM3hlWjRzcUxFcVI5WnZaeFFsaVNrRVNrZF9tNHBhemFTU1pxX3JnTmhMVzRtR2ZzS2RTczVKRjE5QWFreGViaS1fQVBiOHRYdEthYURmQXA1dXfSAb8BQVVfeXFMTWkxUFdyM0luUjAzdUVpYjQyUXE1dV9UZ25BcS1GQXd3MDByMDh5SzBEaklkdk9PdnlhUjczalRwQmFBNjhEVURJXzlnZ1huSVBzbE0yY3NwakxYYnllS2V5Yk5zVUpmVXI3bzdkZU9pTjdSZ3NycjA3Z0U2WTV2RXJBMTVNbk1lMllIWHgtbjRxNXFEZDVLYWlFV2VJV2N3Z3VQdkowUGM1aGI2anpqTWhFTmhIcHJ5Q1ZEYUgwYUE?oc=5",
-      "source": "ET Entrepreneur",
+      "title": "Microsoft now wants lawyers and legal teams to use Copilot, even for sensitive work",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSHpMckxIYUR0bzlONm9nRW1rVmY5WF82eUdDZWZzQ3g3TGJKOVJrVXdBbUhudllxWHhFbm1DNWdmb3JZa21SOFV5bWVmSEFYU3NaSHNkOWpRMkd6NFdLTzM1c0ZRRnNZaHJPYmM4ajRpRTZFZmNEb0ViaWs1eG51RU5GajFDTzZLM0E1MHBMdE9yTFhPeEJFZnJMR2M5WWpFM3h1LWxXcHJlaWlPc0YzZA?oc=5",
+      "source": "Neowin",
       "published": "16 Oct 2026",
-      "summary": "India\u2019s law startups have a market to crack&nbsp;&nbsp;ET Entrepreneur",
+      "summary": "Microsoft now wants lawyers and legal teams to use Copilot, even for sensitive work&nbsp;&nbsp;Neowin",
       "tags": [
-        "India Startup"
+        "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Legal Tech Roundup: Microsoft, Legora, Laurel, And More",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVzI3VjZ1R0xQRFdPemIyTl9uYkdNR2ZBUzZ5X3JWQUFzbXd1TEU3c2hFNGM0WTFxTGRhbWdwczYxYnFtRzhhZEdoX09FemNMdXFVbEV6LUxxZHQxRFlMc0p1UmRBM0ZodFRySUxoaFpYZVNTa0hPX1hUV0x5TXN4cnRiOGpZTW9DWEhXSmRIazloN29VSnZOZU9IbGtGZ9IBXkFVX3lxTE1kNXREbWQzUnJtakM4WXJkMTM4N1M1U3l4MmpCbTJNNlc4SklZbTNmc0FnaURPcWtaUkZyZ3dYOVJmb2hzbEtCMEh3ekE5VzRRbGFIMHNDU2dHM05jcmc?oc=5",
+      "source": "Law360",
+      "published": "16 Oct 2026",
+      "summary": "Legal Tech Roundup: Microsoft, Legora, Laurel, And More&nbsp;&nbsp;Law360",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Harvey AI: What It Does, Who Uses It and How It Compares",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFYkNIeXZpQmNoVUJoYWpXWGkwS0tkVmhZLTlOS2tnWDRvNUUtYi1Cd0tDejdta1o4NGNBZ0o0ekNyazBXSWNidWZB?oc=5",
+      "source": "Legal Desire",
+      "published": "17 Oct 2026",
+      "summary": "Harvey AI: What It Does, Who Uses It and How It Compares&nbsp;&nbsp;Legal Desire",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "Microsoft introduces Copilot for legal with circa 20 purpose-built legal skills",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnB6Vk50amVmN0QyQUliVlZaZE1lR01QVXVVUTh3RmlKWlNYdEpuQ3cyT1FEMjZBZmYyaHo0WkZMQzZkUE9hdHQ4QWl0RTFCcEZNQ3RadGROZDZab0p2YmVxU1d4VGZPUnh0NFlnMnBWN1F6aW9TeGNZYW4ySGZ0U3hSTVZFZGFTRER0T21lYW9lSXpYci0wN2ZGRTYtclJSRktqcnBUWk9pazh5?oc=5",
@@ -2025,96 +2035,6 @@
       "summary": "Gaja Capital's next bet is India's AI stack, from Fractal to Sarvam AI&nbsp;&nbsp;Business Standard",
       "tags": [
         "India Startup"
-      ]
-    },
-    {
-      "title": "Grupo Financiero Inbursa Adopts Harvey Across Its Legal Organization",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnJLSjltWHhXQ2NuNmMxRmM0dEh4Z3RNT2JwUXhYZWQ0cC1TSGQtS25OTDFlcDl2bzk2cUFjcDlJYnU0T3FLU0RyYWdYVTlSWXh5TGF1SzBVWlV1UXZmQTFSYllmdU5kWmdXM2NkTXZUeF8waDZudElBVHZPTW5DVkJHSUV1LWFwUG9HYmh3UzUwYWw4?oc=5",
-      "source": "Unite.AI",
-      "published": "7 Sep 2026",
-      "summary": "Grupo Financiero Inbursa Adopts Harvey Across Its Legal Organization&nbsp;&nbsp;Unite.AI",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Why+account+setup+matters+more+than+generative+AI+tools+for+lawyers",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORG9kYjJaWDFMV1lqdHhlRnhvLXE5cjdJM2RWS19lNnNuLUZRTDI4QXpuZ05aa0F2TFI5RFBwTF9RZXZqdHRSUTM3aEZSZ2psSlJHVl9DdmJGbm9xZW1YSmRtV2pINHJIYk1jZHZCdW4wWWRMMGVPMGZCa1Q3RVBOQVFGWmtZeVZVbENKT0FPQ1VlREZLYmZOOVRHWmQ0Tjl0bklkbDkxaW40d0dFOGc?oc=5",
-      "source": "North Carolina Lawyers Weekly",
-      "published": "7 Sep 2026",
-      "summary": "Why+account+setup+matters+more+than+generative+AI+tools+for+lawyers&nbsp;&nbsp;North Carolina Lawyers Weekly",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Harvey Castro, MD, MBA, on AI in medicine: a KevinMD subscriber spotlight",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmw0X0FKVzc4TTJWaTRkcWRpbTNDb3dIOV9PY0ZzMnliV0ZMREJfRmhGYTdOVUotNU1CNmxzbUhTd2kzalFQUUNlcUNLOGkzTzQ5aWlTUWNMbHg2MWE0YU5OQXhpUWR4WkdIRkRjUTg5bjZmRE1ac0hYUHBsVHFSNDhaY3ZGSTh2Z3BDSENOdE1GdFRoZHQ4RHh4N1ZoazYxeURSbA?oc=5",
-      "source": "KevinMD.com",
-      "published": "6 Sep 2026",
-      "summary": "Harvey Castro, MD, MBA, on AI in medicine: a KevinMD subscriber spotlight&nbsp;&nbsp;KevinMD.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Atomberg IPO Legal Advisors India: CAM and JSA Appointed for \u20b9450 Cr Offering",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUpnUVJiSDNkM3NzTEh4RnMyQ3JyWjB2c1B4TmV1UENmc1ljdEhqTjVwUW9KYlpCSEdoa2l6OGJFcXJRYTgtOTNZRFhLbWFCWFJ1WFZ5ZF81ZXptZzAtNGpGY0tmS0NNczFNeVM4cmt2V3J2S2xFUHczYWNBLUVTVERjczBIUHRxZlkzSldYcGs0bkczcEhJYlBVMzNfaHgtTjVqUGE5X2t3RWN6R3pfWFZZTHRlRkhPTzZSZEl3?oc=5",
-      "source": "Wansom AI",
-      "published": "5 Sep 2026",
-      "summary": "Atomberg IPO Legal Advisors India: CAM and JSA Appointed for \u20b9450 Cr Offering&nbsp;&nbsp;Wansom AI",
-      "tags": [
-        "India Firm"
-      ]
-    },
-    {
-      "title": "My AI firm will liberate lawyers, not take their jobs",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUx3YTFQRnE3NEFWN3R0dDM5RDZlSzFqM2ZRNkw5MlhqOHV3dG9iVGc2Yl81YzNHOFgwWmI4UmQ4ODhaTy1EcmVWRUZOSFJDSHVpRWtnd0lEMmhvRF83M05Pc2wwZ0VZYUZpQ0NMa1ZOYjUwWFlnV0ZSZUQ2Q3VUbk5rYmlRLVZENUJnZ19STjFFT2d1NjUzSzVRTFVDbGVhNV9jNjdBVk5abzZqdE1RRA?oc=5",
-      "source": "The Times",
-      "published": "5 Sep 2026",
-      "summary": "My AI firm will liberate lawyers, not take their jobs&nbsp;&nbsp;The Times",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "The secrets you told AI could land you in prison",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTnpzblJuaGhNbVBQMWx2TGphMHlTNFV4aXZ4M1B0ZnQxZmhpTEFMYmxyR19ZUktFWDgyVTRMR0xWOUlEMUt3T3dDMkl2bHJsYlU0aUI3QVBCN3lJSGxVaGEyelJnTnQ2T0xfQ2hLSzZMVGduLWlDYnRYVzFyZ29CRmFsNThoUExyQ3Q0bTNadzh2dw?oc=5",
-      "source": "www.israelhayom.com",
-      "published": "5 Sep 2026",
-      "summary": "The secrets you told AI could land you in prison&nbsp;&nbsp;www.israelhayom.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "ILTACON News Round-Up Part 3, Documents, Data and AI: iManage, NetDocuments, Entegrata, Wolters Kluwer, Thomson Reuters, Clio, Avvoka",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZHk0YWJYUXJ6QXUtZUtBQWE5UEtFVWtINFN6aXJWaFBYWHRDaUpaMll4T0I0ZTAwOHA5TnBXaTBuQzdHQy1XLTRkel9VSW5ZRFYzQWY4OG1VcjFYUzBoNVNIX2pNeUt2V0o2UzkxVlUwaVlEbmpuMV8tdzJnbFJmRkpMVVoyY21yWk10R0RDcUdWTFBqN2V0d0RYWUNPbjNaR1huQlJYbTR0SGpGYUVYRzZIbUtIT2pULVBkQkI1MXVrTDJFTGRsRE5QUHhzbXNoMEo3bFpET2drX0VaWXhXMmx4eS15N19VVnJKVVdPcy1nNXc?oc=5",
-      "source": "LawSites",
-      "published": "4 Sep 2026",
-      "summary": "ILTACON News Round-Up Part 3, Documents, Data and AI: iManage, NetDocuments, Entegrata, Wolters Kluwer, Thomson Reuters, Clio, Avvoka&nbsp;&nbsp;LawSites",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Microsoft Tells Court Copilot Rarely Reproduces Books in AI Copyright MDL",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1kyZXh2Uk5melZraUlkanNtalhaOURXLW1STUlFT3l3UGJabFNfZUdsYVpYSFNkc25vRTV4UUV6dVZ4QW5WOS04WGhtZ0hyMDZsWUoxLWJFVkZBLWNaaHJEMm1uNW85U3RSbGN4b21kZDc2RmpuUXRaX2tuZHpJaGd0Y0NrMnRTeUFyWF92OVVGS2I2eDIxcnhPYw?oc=5",
-      "source": "unite.ai",
-      "published": "4 Sep 2026",
-      "summary": "Microsoft Tells Court Copilot Rarely Reproduces Books in AI Copyright MDL&nbsp;&nbsp;unite.ai",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Seattle Times and Newsday Join Legal Assault on OpenAI, Microsoft Over Copyright",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZLUJITGZUZkdXVGRCVnN1eFVKR0VlT2NLNzROMkhRQmQyT25QUy0wakdYaXZQSWVqWUdCQndVNUFQaWtCMUtWOFpYal9NOGxfSHBlZlRzVVZDLWt6QThyV0dCeEI0N0k0a2VKbkpBWnJiLUhvb0E?oc=5",
-      "source": "finance.biggo.com",
-      "published": "5 Sep 2026",
-      "summary": "Seattle Times and Newsday Join Legal Assault on OpenAI, Microsoft Over Copyright&nbsp;&nbsp;finance.biggo.com",
-      "tags": [
-        "Global AI Tool"
       ]
     }
   ]
