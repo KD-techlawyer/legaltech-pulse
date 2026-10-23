@@ -1,22 +1,176 @@
 {
-  "date": "Thursday, 22 October 2026",
+  "date": "Friday, 23 October 2026",
   "articles": [
     {
-      "title": "Should Legal Tech Vendors Fear Microsoft's Copilot for Legal?",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQanhmdjBuWUJXenQzTkwzWWdISWFwdFNvaVItcFpaX3BxcmhkSHdCdTFQLVU3N3hqREMzVmVaQXlOT3ZLdzNIQVhwcWRCc3BZV0RvelY5Y3NETmRRdUUxRjFKeHRNb09sSnJvcmV2c0RsRFJaeGNSQVE1WUYzZmZELTRsVGVDU3RHdXZOT1puTUtFVC1jRFZDQVVtanR3cVhaN1dGZ28tTVZxZw?oc=5",
-      "source": "Law.com",
-      "published": "21 Oct 2026",
-      "summary": "Should Legal Tech Vendors Fear Microsoft's Copilot for Legal?&nbsp;&nbsp;Law.com",
+      "title": "Thomson Reuters Releases Next Version of CoCounsel for Tax, Audit, and Accounting Pros",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU0hwYnVCS3AzYlIxYmlSQnNNTkYxd3hPRFM5c0F4X0FxTnQ4cm9CazRpN0NWMmxFXzIxaElZb0ozNHFzUE53QmktYzNXMUFKYmEtZWpRbjhSWXo5R2N1c2hvT2ZnSTR0U3pEOXpDc1JvRUFHUlE2VWoxYmN6NHdWd2M3QURWeXY1TS1yTnNuck12Q0xjVnlVMFQxOFFOM1R0OW1DdmlkbTY3S3FmeXc5SmtBUVIzTmpOeFJPVzdMM3E5WmZqeHVsYzhuWlQzcEdhd0FXTQ?oc=5",
+      "source": "CPA Practice Advisor",
+      "published": "23 Oct 2026",
+      "summary": "Thomson Reuters Releases Next Version of CoCounsel for Tax, Audit, and Accounting Pros&nbsp;&nbsp;CPA Practice Advisor",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Legora raises $550 million Series E at $8.8 billion valuation to accelerate growth",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45SGdYRzNvWTlHUG5EZWtaRGVleUl2N0hSZlM1R3hfZ1c1QWkyVGphdExkMXFWZGxKWEFSWHhGRWhrUE91X01F?oc=5",
-      "source": "Legora",
+      "title": "Thomson Reuters Adds Code Execution to Tax and Audit Software",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Nc2NFNTlyb2EyUHJZbDU2VHVMU1dZX2FOWVFUUVJzN204UE1OYmViNFJweU1ZUmtVNl83ZGh2ZjZ3SlVraTUwNVBlMWh2cll6TFpLNm9XUWsyd0k?oc=5",
+      "source": "www.tokenpost.com",
+      "published": "23 Oct 2026",
+      "summary": "Thomson Reuters Adds Code Execution to Tax and Audit Software&nbsp;&nbsp;www.tokenpost.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "AI pullback creates opportunity in hyperscalers and utilities, says CIBC's Chris Harvey",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVDV1TjBPV09rQlNjWS1IX0xKUXF2bk0zT2dlWEpaR0lmRnJhVVU3bmtJQzUxNnk3elljX29aS0ZXNVk3MkhJSXBfUmhZcjNuZ3N6bUVOTzVRcW9fMmRTN052WFdVdG5jUmMxUmlDa1pieDkzQlpFWENSZ0RncmJQZ0g0SGNvdFFUTDJQZWVJSHVjMmFBWDBJeWtZbk8wZEZjbGhkdmNVVmo1amtqM2NVSktMVTJxWW9qdXBmOVdxdkcxeGE2eElF?oc=5",
+      "source": "CNBC",
+      "published": "22 Oct 2026",
+      "summary": "AI pullback creates opportunity in hyperscalers and utilities, says CIBC's Chris Harvey&nbsp;&nbsp;CNBC",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legal Tech Providers Embrace Integrations in the Agentic AI Era",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVRVeTdRMXZLTC1YZDFEUHlIYXc1Qkh2dkxQN2dGOEd6ZDhqOVhvNlhhWEd2ekx0UDBmcGNSamVnSkdPRjl5MThVNi1RakFndTVIQ0pDUnA3cW4wUzZnU1ItOUlZYkNtV0ViRTdHTDhIaEtsbkJjcEUtOHVmWUl4a2tmRGY0a3dwRGlQSk9udHNRYUpvM29DeWhubw?oc=5",
+      "source": "Law.com",
+      "published": "22 Oct 2026",
+      "summary": "Legal Tech Providers Embrace Integrations in the Agentic AI Era&nbsp;&nbsp;Law.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "AI is splitting HR into 2 archetypes, study shows",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wcjNsUUNhUTVXWmk0RkpyUV8yWkVqYUJ1V0dkTzNFOFREcUVaY0paZ0ExaWdKSUV4ZmFqNlhmWjltaWlXU1V2WXJjcnNoV2txRlZLMXlKdWkyUkx0dXhCQnBZaUU3bjl4djRfc1ZHRmc2dTlQb2VPZThxaEdBUFE?oc=5",
+      "source": "HR Dive",
+      "published": "22 Oct 2026",
+      "summary": "AI is splitting HR into 2 archetypes, study shows&nbsp;&nbsp;HR Dive",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "We just raised another $550 million to bring AI to the legal industry. I still believe there will be more work than lawyers",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTA1NXJPQ1NFcFo5UHpSZVVab2JFUF9BTk1FWnZCZjdCN0NPZU5tTTExVUtrTGMyUEdzZkQ5QzVSSFlvWUgwdnZYWTNjQmltMTlrR200eDNRQlRnbnJlMU9fS25NWkdrNzhOZGhiQmZ3dHJvOXU2d1kxNno3OWcwXzRkNzNKaHBIcmFkMm53dGFyT1RZb0VPQ1ZqVQ?oc=5",
+      "source": "Fortune",
+      "published": "22 Oct 2026",
+      "summary": "We just raised another $550 million to bring AI to the legal industry. I still believe there will be more work than lawyers&nbsp;&nbsp;Fortune",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Goodwin Launches AI Governance Program to Help Companies Accelerate AI Adoption",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWtiYnVlMVJQbElSRnl4XzZtazJlV2dvQmFLY1MxZ1ZqeHRXekRvLVR6czUzVENYQkF3Zm5Gd1ExbFN5ekNCTGRMa0RKaDB6QkJqTWdHRHNOVl9IdlFCUGgtT3NkTFRLNHFmblIwbnZIa0x5OGprTVQ5QThpM0dPQUNJNXhTNi1xVmx4d1RaTVNva29VdlEySjNPZDYzQVFZbTBwY192ck5ZSTNMbzVGdm51NFp1UVZyS3g5R2hBV1NGNW9QNWtVTXBNdlFvWXd6MXc?oc=5",
+      "source": "Business Wire",
+      "published": "22 Oct 2026",
+      "summary": "Goodwin Launches AI Governance Program to Help Companies Accelerate AI Adoption&nbsp;&nbsp;Business Wire",
+      "tags": [
+        "Global Firm",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Thomson Reuters debuts new CoCounsel for tax, audit and accounting pros",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3RiemdsbE5Ddy1HZzRhNXhncGJtaFhxeVF1eUZ6czRweFFoaWNXSU5NVEZURVB3bEhMYkVoOWVjNXpFU29nYXFIa0hnOTlmQ19JREp1SkVaTERWU3lyNGtPa0xmTTl1dk9vYTJxaGs4ZUJIbHc4Z1prakFUeFZKVjcyR1A0WVhEUG5xMEpxNEpkMExybVYzNFJtOVRLRUlEU3FnV0FoTGpJNTQ?oc=5",
+      "source": "Accounting Today",
+      "published": "22 Oct 2026",
+      "summary": "Thomson Reuters debuts new CoCounsel for tax, audit and accounting pros&nbsp;&nbsp;Accounting Today",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Thomson Reuters Launches AI for Tax and Audit That Knows the Answer, and Why It's Right",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNVB4UzBmQWNKMmhqRE1oMllvTmtEOWJJZlBVSjczbHBhNVNOMnE3cG1KdjhqaGtLNmZuaVFJWjBkY0RXSjBtaDJFQWNmX2pxcTBURTMzT3ZjVm1uTGhpeG9VWWpwckh4d3dv?oc=5",
+      "source": "TradingView",
+      "published": "22 Oct 2026",
+      "summary": "Thomson Reuters Launches AI for Tax and Audit That Knows the Answer, and Why It's Right&nbsp;&nbsp;TradingView",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Linklaters Reveals 80% of Partners Using Legora",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEI0V2o4WC1wdUpENUc4V2E1U2pVRXB4aDhXM1ROYUlvUmItd1VtczhMa0FIaGF6Q2ZJbGwxX21CV1FKRzcwTDgzc2lSMEU3R1NHUmlvei11dUlTVDZGaTdObVVQMHdXNUlKcnRXcmxqVlR0LWpOeEc1cVRMOFpoSnZFRVU4Rk5hZ3VSNnNKSFBNdkRUVHJGS3RiVEFyYVByTXc?oc=5",
+      "source": "Law.com",
+      "published": "22 Oct 2026",
+      "summary": "Linklaters Reveals 80% of Partners Using Legora&nbsp;&nbsp;Law.com",
+      "tags": [
+        "Global AI Tool",
+        "Global Firm"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "AI for cross-border legal research: the Multinational Agent",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pNU5RREhxWUhoSjVvSkx5MVFvSlpsajlWZzVZTllWQzZpRUltVWE4MW5WV0hIdVc2QzNHSlZVWWFnQ1hVWFNqbHRvRmp1OWY1TjVIcFl4N0VVcDNIY2dvQ1pONEhfSWhhYThSSnpuVDZLNGoxc1VIU2ZTSkR2QQ?oc=5",
+      "source": "Thomson Reuters Legal Solutions",
       "published": "21 Oct 2026",
-      "summary": "Legora raises $550 million Series E at $8.8 billion valuation to accelerate growth&nbsp;&nbsp;Legora",
+      "summary": "AI for cross-border legal research: the Multinational Agent&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Harvey adds Australian startup Mary\u2019s case-fact tools to its legal AI",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OemlVY1Vna2ZBMVVFWVh0ZzFUVkxiUGdnY2ZPR0ZudThTaWFaWWRpLTNfSkVHUzRGaEhUVkpETVd6cE1xMFd3ZWVLTmNGU2hockhxdGd1amE0SGpQbXdZUUNqX0FEblVoNEhVQjBncmZENGM5WlZBV1NB?oc=5",
+      "source": "The Next Web",
+      "published": "21 Oct 2026",
+      "summary": "Harvey adds Australian startup Mary\u2019s case-fact tools to its legal AI&nbsp;&nbsp;The Next Web",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "How Harvey is Building a Frontier Marketing Org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zNGpvOHdhX3VnSkY3Xy1LcmQ4cENBRFVFU0RIZHlSbHlrOU5DOGplLWRzWmhkcHFwdG1zRnU1ZVBqaXJESWtNZ2c4MjR1TGFfNE43NHd0OWtzNlJrd0tUYnVMWUlybXE5QUFCVXUwOVJDd3Y2Sm9VRE1ITVZkeFk?oc=5",
+      "source": "Harvey",
+      "published": "21 Oct 2026",
+      "summary": "How Harvey is Building a Frontier Marketing Org&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Swedish legal AI startup Legora raised $550 million at an $8.8 billion valuation",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tUWRBcXAzNXdIc3FPZE1XNkM0cGxSV2xvMnMtbkVkVFBoUkROdXgtZEpTaHYxSjg4eWdmdWR3a0szek9DdTdQcmVvU24wYTFNTEdDSUNMM3hHNG9xQllhWHNjMVAwQ0kxMHZia1ZaVVc5eVV2OGpF?oc=5",
+      "source": "Quartz",
+      "published": "21 Oct 2026",
+      "summary": "Swedish legal AI startup Legora raised $550 million at an $8.8 billion valuation&nbsp;&nbsp;Quartz",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHhsQ2xQM0tkRHJFMUxkX2RTR2xIYndMaGlheWxwOXBkMkJuaHJqQ3haRmI3RGFlSndEbFhLTUI1NzVlREFrMjNScm9IWUdsZHU3X2thRlI0Wk8yZ09PSFpzQndRZ29yTFIzdTRxRk5tekwyT2F5Q0lzZHBpZFo4dnpLSHlYdV9wY2JEV01NMDZnbk82TzFlTHctN0d3Zw?oc=5",
+      "source": "TechCrunch",
+      "published": "21 Oct 2026",
+      "summary": "Legal AI startup Legora raises $550M Series E at $8.8B valuation&nbsp;&nbsp;TechCrunch",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legal AI Startup Legora Lands $550M at $8.8B Valuation",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVJOUmlnVmNFd2pNeWRNVFJtY2loSGNYcC13cklRazdtcFVNOHJ6SndSd2hzbG5rTVl0QmY1Y2ZPaE5Ea3F0bFFmcW1yMnNHY3RlWk9DRG5kSUZLQnNGVHhLVV82ak9ZRHhjOHFoQmZaZWRsVkplUjBXZVZ6OVN2NXRvc2dadVdXLU5DcGRn?oc=5",
+      "source": "The Tech Buzz",
+      "published": "21 Oct 2026",
+      "summary": "Legal AI Startup Legora Lands $550M at $8.8B Valuation&nbsp;&nbsp;The Tech Buzz",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora Hits $8.8B Valuation In $550M Funding Round",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWpSRmUzclo4TFBXUmNvcnhMSEN6MV9qbzUzZ0FEc3lmRzFvbnRjWmEtUWxQNG5meldpUEVMSlNhUlI0SHNyZE0xNHhLeS13X1R6Z0xZTDR4LVY5LXkwMmFuVFU4cVRfeHlNdER3MkJ0WFRXcExqM0NCYXJraWpBZTFXY3N6S2xYVG0wc3NBLWJqUnppRmtBYVMtbWs2T2IxRzZpSTN4ZkJKTW1V0gFeQVVfeXFMUFc0dkpqWVlZT2tBVWFHT0NEZjRDUW9wZzBLQzNQR2NEQ0d6aUM0OUV5a0VFMUdBbml2YkI3WkVzU0R1NlZqZWxFd1hEd25MTm1LYi1XbjUyM3hYQkdDdw?oc=5",
+      "source": "Law360",
+      "published": "21 Oct 2026",
+      "summary": "Legora Hits $8.8B Valuation In $550M Funding Round&nbsp;&nbsp;Law360",
       "tags": [
         "Global AI Tool"
       ]
@@ -33,77 +187,25 @@
       ]
     },
     {
-      "title": "Legora Hits $8.8B Valuation In $550M Funding Round",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWpSRmUzclo4TFBXUmNvcnhMSEN6MV9qbzUzZ0FEc3lmRzFvbnRjWmEtUWxQNG5meldpUEVMSlNhUlI0SHNyZE0xNHhLeS13X1R6Z0xZTDR4LVY5LXkwMmFuVFU4cVRfeHlNdER3MkJ0WFRXcExqM0NCYXJraWpBZTFXY3N6S2xYVG0wc3NBLWJqUnppRmtBYVMtbWs2T2IxRzZpSTN4ZkJKTW1V0gFeQVVfeXFMUFc0dkpqWVlZT2tBVWFHT0NEZjRDUW9wZzBLQzNQR2NEQ0d6aUM0OUV5a0VFMUdBbml2YkI3WkVzU0R1NlZqZWxFd1hEd25MTm1LYi1XbjUyM3hYQkdDdw?oc=5",
-      "source": "Law360",
+      "title": "Legora raises $550 million Series E at $8.8 billion valuation to accelerate growth",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45SGdYRzNvWTlHUG5EZWtaRGVleUl2N0hSZlM1R3hfZ1c1QWkyVGphdExkMXFWZGxKWEFSWHhGRWhrUE91X01F?oc=5",
+      "source": "Legora",
       "published": "21 Oct 2026",
-      "summary": "Legora Hits $8.8B Valuation In $550M Funding Round&nbsp;&nbsp;Law360",
+      "summary": "Legora raises $550 million Series E at $8.8 billion valuation to accelerate growth&nbsp;&nbsp;Legora",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Legal AI Startup Legora Lands $550M at $8.8B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVJOUmlnVmNFd2pNeWRNVFJtY2loSGNYcC13cklRazdtcFVNOHJ6SndSd2hzbG5rTVl0QmY1Y2ZPaE5Ea3F0bFFmcW1yMnNHY3RlWk9DRG5kSUZLQnNGVHhLVV82ak9ZRHhjOHFoQmZaZWRsVkplUjBXZVZ6OVN2NXRvc2dadVdXLU5DcGRn?oc=5",
-      "source": "The Tech Buzz",
+      "title": "Should Legal Tech Vendors Fear Microsoft's Copilot for Legal?",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQanhmdjBuWUJXenQzTkwzWWdISWFwdFNvaVItcFpaX3BxcmhkSHdCdTFQLVU3N3hqREMzVmVaQXlOT3ZLdzNIQVhwcWRCc3BZV0RvelY5Y3NETmRRdUUxRjFKeHRNb09sSnJvcmV2c0RsRFJaeGNSQVE1WUYzZmZELTRsVGVDU3RHdXZOT1puTUtFVC1jRFZDQVVtanR3cVhaN1dGZ28tTVZxZw?oc=5",
+      "source": "Law.com",
       "published": "21 Oct 2026",
-      "summary": "Legal AI Startup Legora Lands $550M at $8.8B Valuation&nbsp;&nbsp;The Tech Buzz",
+      "summary": "Should Legal Tech Vendors Fear Microsoft's Copilot for Legal?&nbsp;&nbsp;Law.com",
       "tags": [
         "Global AI Tool"
       ]
     },
-    {
-      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHhsQ2xQM0tkRHJFMUxkX2RTR2xIYndMaGlheWxwOXBkMkJuaHJqQ3haRmI3RGFlSndEbFhLTUI1NzVlREFrMjNScm9IWUdsZHU3X2thRlI0Wk8yZ09PSFpzQndRZ29yTFIzdTRxRk5tekwyT2F5Q0lzZHBpZFo4dnpLSHlYdV9wY2JEV01NMDZnbk82TzFlTHctN0d3Zw?oc=5",
-      "source": "TechCrunch",
-      "published": "21 Oct 2026",
-      "summary": "Legal AI startup Legora raises $550M Series E at $8.8B valuation&nbsp;&nbsp;TechCrunch",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Swedish legal AI startup Legora raised $550 million at an $8.8 billion valuation",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tUWRBcXAzNXdIc3FPZE1XNkM0cGxSV2xvMnMtbkVkVFBoUkROdXgtZEpTaHYxSjg4eWdmdWR3a0szek9DdTdQcmVvU24wYTFNTEdDSUNMM3hHNG9xQllhWHNjMVAwQ0kxMHZia1ZaVVc5eVV2OGpF?oc=5",
-      "source": "Quartz",
-      "published": "21 Oct 2026",
-      "summary": "Swedish legal AI startup Legora raised $550 million at an $8.8 billion valuation&nbsp;&nbsp;Quartz",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "How Harvey is Building a Frontier Marketing Org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zNGpvOHdhX3VnSkY3Xy1LcmQ4cENBRFVFU0RIZHlSbHlrOU5DOGplLWRzWmhkcHFwdG1zRnU1ZVBqaXJESWtNZ2c4MjR1TGFfNE43NHd0OWtzNlJrd0tUYnVMWUlybXE5QUFCVXUwOVJDd3Y2Sm9VRE1ITVZkeFk?oc=5",
-      "source": "Harvey",
-      "published": "21 Oct 2026",
-      "summary": "How Harvey is Building a Frontier Marketing Org&nbsp;&nbsp;Harvey",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey adds Australian startup Mary\u2019s case-fact tools to its legal AI",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OemlVY1Vna2ZBMVVFWVh0ZzFUVkxiUGdnY2ZPR0ZudThTaWFaWWRpLTNfSkVHUzRGaEhUVkpETVd6cE1xMFd3ZWVLTmNGU2hockhxdGd1amE0SGpQbXdZUUNqX0FEblVoNEhVQjBncmZENGM5WlZBV1NB?oc=5",
-      "source": "The Next Web",
-      "published": "21 Oct 2026",
-      "summary": "Harvey adds Australian startup Mary\u2019s case-fact tools to its legal AI&nbsp;&nbsp;The Next Web",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "AI for cross-border legal research: the Multinational Agent",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pNU5RREhxWUhoSjVvSkx5MVFvSlpsajlWZzVZTllWQzZpRUltVWE4MW5WV0hIdVc2QzNHSlZVWWFnQ1hVWFNqbHRvRmp1OWY1TjVIcFl4N0VVcDNIY2dvQ1pONEhfSWhhYThSSnpuVDZLNGoxc1VIU2ZTSkR2QQ?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "21 Oct 2026",
-      "summary": "AI for cross-border legal research: the Multinational Agent&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "London lawyer built a legal AI startup while training at Allen & Overy; Thomson Reuters bought it before",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQUDBOVXhHR01oUFJvdTRmdnFKazNYc3V4cTVxbjV3ZWVGeXdnYVBHSVd5ZERhUGZxLUdjci04cWxMcFozNGlPR3Y0VnJjNGl2TFZJazVObHlhMXBCUWd3WHM5Z2pzMGc4U0xock4yb0Q1UEphZ0pnaWJUYXFCN2hwWjdyRjRLR1dDcGtFTWE4aE5MRXlZUGdVZmx3MHlaaU1JMmlnWjYya0RpVVFwMW12aFNGZDRya00yZWRwR0FPLW9pYjlwWnJaSHM0WXFOdlVxcEJBRUhXVUl5LXdnT295ZEg5dXZkb1hFWnNtMlJLWDhwcEtoMkt3MHJxUVduN1o0ekZDX1BmM2JEOHNybnF0TWI1blZQaEkySmfSAZ8CQVVfeXFMUHd1NkwtYTV1MkNvVlVWandVQUJwaEFCTzdJY0lpMEoyTERmS0EtZnZTZXV4Ync3U1V0aTA4bXNac3hiSG90ZzY1WXRlVldwWndWWXFCWlBnRjA5Mi1IUGY1bHdnbHhJYlpLckxmLVRrTjlJRVlSU2wxRlhFSVNXODBEZEV4UWg0RFZYTWl3emlqd3N0YVZqQ0JSejA1UFZMR3lNWHVma3ZzbkR1TXB0WGwwWkt2ZXVhU2RWbDlEWHlYZE5aNVA0bnhnM283dFhtM3VFbGhqVWg3VkRWR1dPU2pjU1dxQVFmRFZLeEVGQjRSTHVuaktucWhNQ0ZWTWgwZ2dIV1huUm82WHdSYVQ0NnZvRy1CaWhUTDBfTThqam8?oc=5",
@@ -2012,106 +2114,6 @@
       "summary": "Consilio formalises Legora partnership \u2013 CEO Andy Macdonald explains why&nbsp;&nbsp;Legal IT Insider",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora to Add Legal Research, AI Citator to Platform Next Month",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXFfWThrNzI1UmE5ZHJWYkh2TVZaLUM5VmtBdUM3UGdhZDZtTEdJVjZYdllGZVBNblQ0SEgxQnlWR09PdmpkREFJTno2eWFFUG1UYjRZWEtBZG1IX2h0V3phSjc1NnJaX2tlRTdRTXF6elBkTjBzM0FnVnk1T21KUE9NNGFVS0oweEpWV2dldHhZdW5Ed3hkNDdmempyVkswb01Hdkl1aEYxcThX?oc=5",
-      "source": "Law.com",
-      "published": "14 Sep 2026",
-      "summary": "Legora to Add Legal Research, AI Citator to Platform Next Month&nbsp;&nbsp;Law.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legora Plans 'Full Ontology Of Law And AI-Native Citator'",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDFnV09sNVhEVFJDOWwwZUxKRU9nVGtvbkR3cFRGTFhFeHBmNmFseGNkZW5IUjQtQWtKbFdKNzE1X1I4cGFNVzZNdlY2X3JFLVQ5N0VFZEZzSHFMeWphR1hxa282NHl1SjBhR2R5X3NLa3JqRGVMM2dWajh5TnNTV3RaRkt6NjFWU3I2WlVoVl9abWlQM0d1amE0SEx3eWFINk5oMXB4WDBNRU3SAVZBVV95cUxNN1k2YzVVczJfLTRsQ19KWnpqQkliQlpoN3phYm1wQ1RBcE1fM2NEVlNlaFd3S0F0UjJDYlhCdHUwcFpZWmlSLVlLeHV1VDVBc0JlS3dOdw?oc=5",
-      "source": "Law360",
-      "published": "14 Sep 2026",
-      "summary": "Legora Plans 'Full Ontology Of Law And AI-Native Citator'&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Anthropic | History, Controversies, & Claude AI | Britannica Money",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
-      "source": "Britannica",
-      "published": "15 Sep 2026",
-      "summary": "Anthropic | History, Controversies, & Claude AI | Britannica Money&nbsp;&nbsp;Britannica",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzkxamRlQUZyOTFVZWVURDN4MHdoVVQ1WElkbWx2MjFPWjFaenZoVFV3b3h2emlBcnQzRDVXNzlBSnpncVhTeTd1Ri14Q2FqUXBJNFN6WFhabDZ3aFpicFRIcUc3OHB5N2wyQ3Y4Snd0cC1BRW92U3hhdkFWWlJ2Mm1hSTFvdjM0Njk2Nm9jX0dtTU91QTRpQkdlLUE1UWFiRWx2ak5mcC11V1Btd0dGSTVzeE43LTN3?oc=5",
-      "source": "News On AIR",
-      "published": "13 Sep 2026",
-      "summary": "People can command Sarvam AI in their own language: Co-Founder Vivek Raghavan&nbsp;&nbsp;News On AIR",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mVkV4cDZkalhuc2t3UW81WDUtMjdDV2pfeWoxZVowSlN5TmRNak9BVExLX2JiX0YtbXJYVFJLRjdxUUdjMFJfMTBvRXhza1JPTm41RjQ0Q3RocEVTQW5SOWZkeGVOUWxBdnkw0gFzQVVfeXFMUHJVNUhKUV91dG45dk5IeTZIcHdtQmVUdzlvb1RFOUVxWWVvVEdrQmRIMVpIbXFQZ1dDaUg5U3V4eDUyS1RUMmt6M3dzZTJINm5Wenh0LU1lRjdVRmVUY0ZjalJMU0JQcDcyZnlveDdsTHk5VQ?oc=5",
-      "source": "Decrypt",
-      "published": "11 Sep 2026",
-      "summary": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal&nbsp;&nbsp;Decrypt",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legal AI Co. Harvey Raises $550M, Hitting $15.5B Valuation",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CNkFhOW5qZk1Ydi03STA2UC1Sd3lFRUVKbXhrMkJyVS00d2dybHNCbG9PY1o1VjRDOEY2aWNzd3ZPQkRJR2dmMElkVnBoV2J0VWtQRzZPQzZILUprR1HSAV5BVV95cUxPQjZBYTluamZNWHYtN0kwNlAtUnd5RUVFSm14azJCclUtNHdncmxzQmxvT2NaNVY0QzhGNmljc3d2T0JESUdnZjBJZFZwaFdidFVrUEc2T0M2SC1Ka0dR?oc=5",
-      "source": "law360.com",
-      "published": "10 Sep 2026",
-      "summary": "Legal AI Co. Harvey Raises $550M, Hitting $15.5B Valuation&nbsp;&nbsp;law360.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Winston Weinberg\u2019s Harvey Courts Customers With a Growing Sports Sponsorship Push",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14cWJjYzBGYmVBU2JhZzdtVnI2Njk5Xy04emsxZDR5QjV0S3I5S3pPVm53NnZHU3M2eWR1Y0xleFdENVJZbjBUc1l2SzJqQnVvc3Zpd3YwZG9vcGNhNEhXMXFTM0hxRE9ELUlxLWV2azl4dnJQMGpudDBnQ2c?oc=5",
-      "source": "observer.com",
-      "published": "10 Sep 2026",
-      "summary": "Winston Weinberg\u2019s Harvey Courts Customers With a Growing Sports Sponsorship Push&nbsp;&nbsp;observer.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "How AI is learning to work like a senior associate",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcllmWEowOUZENWFqNEpSRklyT1AwOW5RNkc2MExjTW1faXUyMkw2TzRyQmlPc0k1OUY3eF9LOHIzalVheDJzb0NnUHFDRE5MR0pwTlJ0TFVQeHVHcnA2dVdfRS1nR0ZmV0UzdFB3d0VwSWliZC1hbVB0Z2YyalFvc3VfX0RhMjlJSG5nbWo0Uk10T1U?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "10 Sep 2026",
-      "summary": "How AI is learning to work like a senior associate&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legora And Consilio Formalize Legal AI Partnership After More Than A Year Of Client Deployments",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMG9zR196dmg2aERCeGlWQmozRURvd0trMkUyUXpyMm5MMmI2NS1TM3IxVS1HZlJ6b2h1MU1GeThOdEdMdnhZNFRBZE10WDllNzVfMWNMcHJfOThUSzhReHJrTkVtTU5iWWRHUktIa1JZYmFoZkZSeVFjakczU0oweV9kQ21JaGpmSDI4UVhsR0lZUDVfTFZIMlNzb3lnQWhWNGNDdDg3VkRfdjhIRGUtRkp5ZVZmd9IBuwFBVV95cUxOa2lSQ0tqU0RYcVlYN0lVcFBEaU1RLURIX1VJVExaV0JoNTdZcE1Zc1FZTDBYeEFsSzJvTG1mbzFKQmlGaWE4eWR1bVR5R01jZnIzYy04SDZlM0FhRl9Ca0hjQ3ljWlloazV4SHNBZWJ1bjBydEFYUmZLcm9yU3gyQ1l5NzhtMjBMMWtuY1dUazJTNkJjOFM1bWNYNl9OdVJlS1ZfX1hNRTlkVzlNTGM2YXJSaHNRZk5fTHA4?oc=5",
-      "source": "pulse2.com",
-      "published": "10 Sep 2026",
-      "summary": "Legora And Consilio Formalize Legal AI Partnership After More Than A Year Of Client Deployments&nbsp;&nbsp;pulse2.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlpORllxa2oyR0lQcWRNaXQwTXd5LThFQTQ3bXFJdlQzUWRBZ2RYMjlmWm55R0gtd255dzltb2dEa3hlaHlJc0hNVG1GaWhkSDBXa3hRbVNiVkZ3XzZsbzY5ZE8wQ1pfR0w4TERlczNHbm5YaVI0QmN5TnJLWmVNRmsxMkxmcnFlTDg1QVdhSHJ0Vm5SUWsyWHFCU0JpdXNYcFhpWjBuQWVFTTZ2V1J1Ym82aExqdGJmVE9VNm5zR0xrUmtkSkNn?oc=5",
-      "source": "Reuters",
-      "published": "10 Sep 2026",
-      "summary": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models&nbsp;&nbsp;Reuters",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
