@@ -1,43 +1,44 @@
 {
-  "date": "Sunday, 25 October 2026",
+  "date": "Monday, 26 October 2026",
   "articles": [
     {
-      "title": "Legora and Sirion Partner to Bring Agentic Legal AI and Enterprise Contract Intelligence Together in One Connected Experience",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV2RaNXdPXzdicnN2dTFNTnlKOEE5clZNaS0tRlJpN3pYME1fNHA3NjhLaHNjV1F5RHZvcGRaUUxhbnlBRDZPcWZLYlpxNVNucFQyU09xMjVzNk5KZmtCR2dkS3ZHY2hPNGU4bG43UTRLQ29UejFkZ0xfMnFqVWp0ZDlfXzJGeEZnRkRocVNtWmlzcmItb2o1UkhRZ081MEVfNE85TDJPNEVVR0plc21FWW9GZUNSNW5FTnViaHpkYmdnRUl1cjgtUEotMHlLZFN4RTdCZ083eVcyQlZnRXJTVE5VSi0zRE9oUHc?oc=5",
-      "source": "Legal Reader",
+      "title": "Anthropic's Claude Anti-Abuse Clause Takes Effect Nov. 12 \u2014 AI \"Welfare\" Enters the Terms of Service",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ya19jNHZ2NW5ES2VSSW9nS214Qk5UMlJQQzBMcVJBTUcza3hLRkdWdjdrTU1JeUJ0MjNybTBKclRXOVZMMGExRW94bXhWQmsyc0hYc05BM1NQTkhuQUpJY2pFamJzWVAzZjVzYUJjeFB2UTRHamc?oc=5",
+      "source": "BigGo Finance",
+      "published": "26 Oct 2026",
+      "summary": "Anthropic's Claude Anti-Abuse Clause Takes Effect Nov. 12 \u2014 AI \"Welfare\" Enters the Terms of Service&nbsp;&nbsp;BigGo Finance",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "\ud83d\ude3a Walmart announces AI shopping controls",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQMWhaU3BVek1Cb0VrdlNyS1h2Uk8wdm5rdHF6ekhzMjd4cVloQmJONE9MUS1EaF9NU0hGbUQybUhPVUZCNzBhU1NtR2NmVHBGaTl0ZU1kYnM3cmlvek5pRXlCY2NEQnZMLWJSNHpjcHl4YW5SZk00V2NXTQ?oc=5",
+      "source": "The Neuron",
+      "published": "25 Oct 2026",
+      "summary": "\ud83d\ude3a Walmart announces AI shopping controls&nbsp;&nbsp;The Neuron",
+      "tags": [
+        "AI Trend"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Thomson Reuters expands CoCounsel AI for accounting professionals",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMEhvRTFSejVLOFZpSHRIcVNLMHBvU2pOTXVTX0s2MDZGRUc0XzFOc2xZN29pV1pyZzl6U2NVSWJSb182M29zU25CSFprM1VlTnV5QmxEVkNqdi1DVnpSekVlTEZZeFU0WnEtMzYyd2EtUXFscDlKUHhTV1E4UFZ2MjhsQlJQTERMUGdva2ducE53RXRmOEFVWXZBSlJqTXBieDNra2ZIdmVpbXA0QzhZMWFjOG1nN0lYMGxZ?oc=5",
+      "source": "International Accounting Bulletin",
       "published": "23 Oct 2026",
-      "summary": "Legora and Sirion Partner to Bring Agentic Legal AI and Enterprise Contract Intelligence Together in One Connected Experience&nbsp;&nbsp;Legal Reader",
+      "summary": "Thomson Reuters expands CoCounsel AI for accounting professionals&nbsp;&nbsp;International Accounting Bulletin",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "10 Frequently Asked Questions About Claude",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByX1NOMm5pZXd5NHBMM1RJUU12VUtySnZxSXFzeEZJWkxhSFQ1WDVTMmFMUXlBci11SldkOUVGY0I4NEljZmpJWnNNZjl6V21HZkk5NG54MDkzeEliUVdQemJGd0VvOGlYX0g3RkFycGxoRS1jZlM4alNn?oc=5",
-      "source": "AllBusiness.com",
+      "title": "Industry Copilot Delivers Pre-Built Legal Skills, Connectors to Third-Party Data Sources",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUttaEdFNWt0MERRQk5odnJEU2kzMzBLS05OSFBocE1ST0JnU3AyTFJUVnF0MjhxSUpoR2d4N296eWkyN3h5RUstZGJiREd3bDB5NlZzVENHTEZhRk9SdXZyZUcxM2JNeVdYbzRpbkFVV0xTeWtYTS1uQWx1WkJydEtBaGFxYXFxb1dzdVE0V1pCenp4c1VoaFB5UG9xc3VyX2N4QUREWnkxdDZZaXhXVElsRQ?oc=5",
+      "source": "Cloud Wars",
       "published": "23 Oct 2026",
-      "summary": "10 Frequently Asked Questions About Claude&nbsp;&nbsp;AllBusiness.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Goodwin Launches AI Governance Program",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2JaTi1XZWRFRXh1QnIzUVNPa3RaWFk3V2lNb1hTRHgwaWxYRHEwZF90MHRVQnVwbjh2cWV3N2QzSF8yZGEycDdwZ2RLSUZLX0VraFQ1VEdpa3NsSXJwekpLRWxyb2MxVFQtSjJ0cHdULXBrbHBoSEJoOE1OYllzNnp3MVkzWEM2NVVMeThaZ2xlX2N3b0ZSWWtob9IBXkFVX3lxTE9vVDlIYzFfODQ4dDFBTFJiQkF1dHZ3Si1aSGo0NWFpVkNodXM5ZjBhWTJlZkxrTUhfVko4akNBWEFGZGlISlZyQnBRSlpXbXRFdlRUc2NHZXBuZ3ZqNnc?oc=5",
-      "source": "Law360",
-      "published": "23 Oct 2026",
-      "summary": "Goodwin Launches AI Governance Program&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global Firm",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legal Tech Roundup: Rulen, Smith.ai, Harvey",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZy04T2xBS0VsaUxkbWVyTHFBNmRXQmJnajh2Q29CZHIxSjB1blY0NmhtVWtTZzdZbERaOVNyMEFnUW9FcG43cTJmX0Rqc0w2aTBDdmF6ZFVQUUptYXVmVGhqUGNDX3AyMGNERG54R1JoQS1QRDhKcTR5M3NwWUk5NXB4aXdoc3PSAV5BVV95cUxQc3VEY3ozYnhmTTBKOUtsV1pxTEdpamN6emZpOVlnS1ZGa1hsVFRnYVd6cjR1UHB5bXlMTk80UTNLcUVnbG95THFWYUdtb2I0Ql82ajhjT3V4bGN3S1Z3?oc=5",
-      "source": "Law360",
-      "published": "23 Oct 2026",
-      "summary": "Legal Tech Roundup: Rulen, Smith.ai, Harvey&nbsp;&nbsp;Law360",
+      "summary": "Industry Copilot Delivers Pre-Built Legal Skills, Connectors to Third-Party Data Sources&nbsp;&nbsp;Cloud Wars",
       "tags": [
         "Global AI Tool"
       ]
@@ -55,27 +56,46 @@
       ]
     },
     {
-      "title": "Industry Copilot Delivers Pre-Built Legal Skills, Connectors to Third-Party Data Sources",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUttaEdFNWt0MERRQk5odnJEU2kzMzBLS05OSFBocE1ST0JnU3AyTFJUVnF0MjhxSUpoR2d4N296eWkyN3h5RUstZGJiREd3bDB5NlZzVENHTEZhRk9SdXZyZUcxM2JNeVdYbzRpbkFVV0xTeWtYTS1uQWx1WkJydEtBaGFxYXFxb1dzdVE0V1pCenp4c1VoaFB5UG9xc3VyX2N4QUREWnkxdDZZaXhXVElsRQ?oc=5",
-      "source": "Cloud Wars",
+      "title": "Legal Tech Roundup: Rulen, Smith.ai, Harvey",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZy04T2xBS0VsaUxkbWVyTHFBNmRXQmJnajh2Q29CZHIxSjB1blY0NmhtVWtTZzdZbERaOVNyMEFnUW9FcG43cTJmX0Rqc0w2aTBDdmF6ZFVQUUptYXVmVGhqUGNDX3AyMGNERG54R1JoQS1QRDhKcTR5M3NwWUk5NXB4aXdoc3PSAV5BVV95cUxQc3VEY3ozYnhmTTBKOUtsV1pxTEdpamN6emZpOVlnS1ZGa1hsVFRnYVd6cjR1UHB5bXlMTk80UTNLcUVnbG95THFWYUdtb2I0Ql82ajhjT3V4bGN3S1Z3?oc=5",
+      "source": "Law360",
       "published": "23 Oct 2026",
-      "summary": "Industry Copilot Delivers Pre-Built Legal Skills, Connectors to Third-Party Data Sources&nbsp;&nbsp;Cloud Wars",
+      "summary": "Legal Tech Roundup: Rulen, Smith.ai, Harvey&nbsp;&nbsp;Law360",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Thomson Reuters expands CoCounsel AI for accounting professionals",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMEhvRTFSejVLOFZpSHRIcVNLMHBvU2pOTXVTX0s2MDZGRUc0XzFOc2xZN29pV1pyZzl6U2NVSWJSb182M29zU25CSFprM1VlTnV5QmxEVkNqdi1DVnpSekVlTEZZeFU0WnEtMzYyd2EtUXFscDlKUHhTV1E4UFZ2MjhsQlJQTERMUGdva2ducE53RXRmOEFVWXZBSlJqTXBieDNra2ZIdmVpbXA0QzhZMWFjOG1nN0lYMGxZ?oc=5",
-      "source": "International Accounting Bulletin",
+      "title": "Goodwin Launches AI Governance Program",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2JaTi1XZWRFRXh1QnIzUVNPa3RaWFk3V2lNb1hTRHgwaWxYRHEwZF90MHRVQnVwbjh2cWV3N2QzSF8yZGEycDdwZ2RLSUZLX0VraFQ1VEdpa3NsSXJwekpLRWxyb2MxVFQtSjJ0cHdULXBrbHBoSEJoOE1OYllzNnp3MVkzWEM2NVVMeThaZ2xlX2N3b0ZSWWtob9IBXkFVX3lxTE9vVDlIYzFfODQ4dDFBTFJiQkF1dHZ3Si1aSGo0NWFpVkNodXM5ZjBhWTJlZkxrTUhfVko4akNBWEFGZGlISlZyQnBRSlpXbXRFdlRUc2NHZXBuZ3ZqNnc?oc=5",
+      "source": "Law360",
       "published": "23 Oct 2026",
-      "summary": "Thomson Reuters expands CoCounsel AI for accounting professionals&nbsp;&nbsp;International Accounting Bulletin",
+      "summary": "Goodwin Launches AI Governance Program&nbsp;&nbsp;Law360",
+      "tags": [
+        "Global Firm",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "10 Frequently Asked Questions About Claude",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByX1NOMm5pZXd5NHBMM1RJUU12VUtySnZxSXFzeEZJWkxhSFQ1WDVTMmFMUXlBci11SldkOUVGY0I4NEljZmpJWnNNZjl6V21HZkk5NG54MDkzeEliUVdQemJGd0VvOGlYX0g3RkFycGxoRS1jZlM4alNn?oc=5",
+      "source": "AllBusiness.com",
+      "published": "23 Oct 2026",
+      "summary": "10 Frequently Asked Questions About Claude&nbsp;&nbsp;AllBusiness.com",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legora and Sirion Partner to Bring Agentic Legal AI and Enterprise Contract Intelligence Together in One Connected Experience",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV2RaNXdPXzdicnN2dTFNTnlKOEE5clZNaS0tRlJpN3pYME1fNHA3NjhLaHNjV1F5RHZvcGRaUUxhbnlBRDZPcWZLYlpxNVNucFQyU09xMjVzNk5KZmtCR2dkS3ZHY2hPNGU4bG43UTRLQ29UejFkZ0xfMnFqVWp0ZDlfXzJGeEZnRkRocVNtWmlzcmItb2o1UkhRZ081MEVfNE85TDJPNEVVR0plc21FWW9GZUNSNW5FTnViaHpkYmdnRUl1cjgtUEotMHlLZFN4RTdCZ083eVcyQlZnRXJTVE5VSi0zRE9oUHc?oc=5",
+      "source": "Legal Reader",
+      "published": "23 Oct 2026",
+      "summary": "Legora and Sirion Partner to Bring Agentic Legal AI and Enterprise Contract Intelligence Together in One Connected Experience&nbsp;&nbsp;Legal Reader",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Linklaters Reveals 80% of Partners Using Legora",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEI0V2o4WC1wdUpENUc4V2E1U2pVRXB4aDhXM1ROYUlvUmItd1VtczhMa0FIaGF6Q2ZJbGwxX21CV1FKRzcwTDgzc2lSMEU3R1NHUmlvei11dUlTVDZGaTdObVVQMHdXNUlKcnRXcmxqVlR0LWpOeEc1cVRMOFpoSnZFRVU4Rk5hZ3VSNnNKSFBNdkRUVHJGS3RiVEFyYVByTXc?oc=5",
@@ -2015,77 +2035,6 @@
       "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users&nbsp;&nbsp;reuters.com",
       "tags": [
         "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Local Publishers Say OpenAI, Microsoft Stole Their News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZl9VWmwwRVVwWVAzdzB1Yk41Y1ZVbVliMzd0Y1VjM2hvLWdlTU92QmdBamlrbTF4RnZ0dVNHakhWbWhaRFh6RVhiWjJEdDdqRDZla3ppblFDNWV3d1lLT2kzcDlJRGF4TFhWeGsxWWFzT1NscGNrSm1SVUk0TUVremNXZUVwZlBOREpQa2FIWkNHNGRlVXF4XzJn0gFWQVVfeXFMTkpJREpwNmtYTDZCd3pxMmNjRjh5S2VTUzl5aFpFSmViNUQ0Q1d0UGp6T21FNTZEMl9sMUxacTgtSmo1UFhTNzhrMW1zQW9lUmMzdlVWYkE?oc=5",
-      "source": "Law360",
-      "published": "17 Sep 2026",
-      "summary": "Local Publishers Say OpenAI, Microsoft Stole Their News&nbsp;&nbsp;Law360",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "OpenAI Brings GPT-6 Astra to the Legal World With Case Law, But There Are Concerns",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHBRQll1WEJHSmV3ZnhDWVY1ZFFwRExnMzlUWmdaaHJPUzRPejRDeDdZa0FOMkh2Z255Zi1UcHQ5Y2N4QzA4Z3NUanQzN2V3ZUFYbnlUYlY3VDd4SEFkLTEzcXJMeUhPdUlNQTJES1NjSVFNcjdvN3hNSlVGU1RBdnZaV0dWcndZMmxEdmcwSjZhUVM5MlVQZnV2OA?oc=5",
-      "source": "Benzinga",
-      "published": "18 Sep 2026",
-      "summary": "OpenAI Brings GPT-6 Astra to the Legal World With Case Law, But There Are Concerns&nbsp;&nbsp;Benzinga",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "OpenAI Debuts Astra for Law, a GPT-6 Powered Research Tool for Attorneys",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95S2hmSUJ3LW9WQXFlbkw5WnMwY01heW44ckxTaFNvQ1lXQXZEaDZxbDhMRV9od1lYTE0taEYxQkZlRkVjbnpua2tGU2xVVEppaTVXX2V3cmJFQXVhSFF2YW92a1NOb0RIZGxzNUlSVWNPNU1SakE?oc=5",
-      "source": "finance.biggo.com",
-      "published": "18 Sep 2026",
-      "summary": "OpenAI Debuts Astra for Law, a GPT-6 Powered Research Tool for Attorneys&nbsp;&nbsp;finance.biggo.com",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "OpenAI Astra for Law Takes Aim at Legal AI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQTUyd3g4ZkxiZ1RLOU12LWFwSVF1U0F0VTRyaDgwa0ZkVGs0aHY2alJCQTBYbllNMGZPS1NicER1dkdwT1JjU0J3Zm1DVzRpT2FyMVBBd1NKaGRlTGpTSGZpWFNWR3dkdjBxNjVVM3FNWHN3Z2xvTXNUZEgwWHNURQ?oc=5",
-      "source": "Technology Org",
-      "published": "18 Sep 2026",
-      "summary": "OpenAI Astra for Law Takes Aim at Legal AI&nbsp;&nbsp;Technology Org",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "September 12th\u2019s Red Alert: How International Lawyers Should Answer AI Leaders\u2019 Wakeup Call",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmZYMXFKYzVySmhFaTNzcVloVzloNlBDN202alB4amFwNGVTNzJ2U1RfSG5uZVZ1b3l3MUNRaGdQRmtwX0FzWEhhSEJjT21BUTYzbUhMZEhXa3BYdTRCeW5UOEVpc3lpam5MT2hGZExSZ0NqdGJzUVdVVFNoRnNRRVdldVN4WUxYSkVEZG5rVm51Zw?oc=5",
-      "source": "Just Security",
-      "published": "16 Sep 2026",
-      "summary": "September 12th\u2019s Red Alert: How International Lawyers Should Answer AI Leaders\u2019 Wakeup Call&nbsp;&nbsp;Just Security",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Salesforce Rolls Out Legora For Legal Function",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1ZydHk5S1pDdVI4a2tEbU5sSHNnaHVpbG85RWNyNFRmbE5aZVZvVGVGTXg0WVhpQnFNdWdCNVBvNTl3V1hiNGs0aFVRY1RGdGw1d282X2FCN2E3MHlYZFBKUmltSGJPZXZ4SEdoZ3BrRmRrbFM5MTJhaV9lenJqcFhXSEFSc0JjT0Ixcmx4VFhGSmhQU3c?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "16 Sep 2026",
-      "summary": "Salesforce Rolls Out Legora For Legal Function&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Why we built our own AI model \u2014 and why that matters to your legal department",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1R4OTBBWWt2WlpFVjBPaENmbkk0R0k2VWdvQnhUM191Wl9zc2g4TTdpSWIyOWxZMEhjTXBQbVkwRndmOGFVRXhLcnhFdFZXNFY0ZzRlZ3FkT2NpRkZ5b1czaVVfcVAzWVd0XzNod2xsWDByU2NQSmt0Wno0aTBSbU5vRVN1cE1qeFM4bElpRE90ZzFINU05UWlubmNuMWVSWkxvZDA2WG5ZS0RGMWFKZzNxcFA?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "16 Sep 2026",
-      "summary": "Why we built our own AI model \u2014 and why that matters to your legal department&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
         "AI Trend"
       ]
     }
