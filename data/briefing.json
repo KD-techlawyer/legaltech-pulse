@@ -1,6 +1,119 @@
 {
-  "date": "Monday, 26 October 2026",
+  "date": "Tuesday, 27 October 2026",
   "articles": [
+    {
+      "title": "AI and legal privilege: key risks for businesses",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzJ2UkQxODI1Tl9EcEdEYU83N2I2Vm9kSkxQVF9SM0w2MFpoSXRPNGRfV3RHR3I2MVp5YmhJbkF3TFd2ZVBoZ3k0S1ZxRFBuMkEzdmlLZEM3NzMwRDlBYzhDXzdXRkt2ZkFrdW9ucnNVbFlsMzdER19SSHB1RDkyMWluaVBuSFduU01J?oc=5",
+      "source": "Bell Gully",
+      "published": "26 Oct 2026",
+      "summary": "AI and legal privilege: key risks for businesses&nbsp;&nbsp;Bell Gully",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "How we built the knowledge fabric for enterprise agents",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80QVNUTDF1OWR1Zk1XbGJOeTdvdzdwdnNseW9nQ3lqVHBkczhhdE5kcnJIWDZHQ29CMkI0cFV6bkFKaHJha2JRVUxFd1BBVHBHeFdXLWluN3E5aXVZeUw5ZEFWdDQyelNtd0QxRkRCZw?oc=5",
+      "source": "Sarvam AI",
+      "published": "26 Oct 2026",
+      "summary": "How we built the knowledge fabric for enterprise agents&nbsp;&nbsp;Sarvam AI",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Anthropic warns its AI could end humanity \u2013 and your clients are using it",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmpLSlQtTUdORFE0SDQ1czVreU11RjU4YVRaZGw4d0h0R3ZVQW92SGhRUnJUa3JDT0RVUTNHTmdfSG1VcEdITEFfWjJ3WEpZMndJcnIySnFzWVdGRkRIbWxNN195aEZxWVVsVVlBM1BOX3ZnMGlBeDZwUkNzWndRcWR4dFFoVV9rdlNUYkhRYUVKRTZYSXFhVE9BRmlmSzdVQXc2ODJKMWp2MFBTanlTZEJEM1dyaHRjVm1lTU9NcXdRRG41eVlOVFRZTGtJRVZz?oc=5",
+      "source": "Insurance Business",
+      "published": "26 Oct 2026",
+      "summary": "Anthropic warns its AI could end humanity \u2013 and your clients are using it&nbsp;&nbsp;Insurance Business",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Owners of Elvis music rights sue Anthropic for copyright violations",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSnpnN0ZwZDQxTUdGdHNVMlZtbGpVdnB3OGlwZ1BoV2RtSDVXbDlzem45YjdOeTR1MEsxQlJTSVF1bXIzQjhkV1NXR2RRLW1mOWVscmJaQk16dXlrRUE?oc=5",
+      "source": "BBC",
+      "published": "26 Oct 2026",
+      "summary": "Owners of Elvis music rights sue Anthropic for copyright violations&nbsp;&nbsp;BBC",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Clio unveils unified platform with agentic workflows, AI phone system and new DMS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0x6eUdXa0ZzNUItQWpvM1YwbDVJTHA1N2VWa0tFV3R6Z0pvYTJnVFU0RHhHX1RQV1V2WTVtd2k4R016SEpaOXVYbS1xZUdSNTlDZ3pldkZmYkozeFRhSk10ZDVjeFljV2tQMnNoYXVUejd3cW9uZnlaaGRfTTBXcmlSZUtmdWpUdHB6TXdfMjVVTnd6TEdpQ3lwUExtdW5oZVhaX1pyRm9abmIyVFE?oc=5",
+      "source": "Legal IT Insider",
+      "published": "26 Oct 2026",
+      "summary": "Clio unveils unified platform with agentic workflows, AI phone system and new DMS&nbsp;&nbsp;Legal IT Insider",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legal Technology Market Size, Forecast, Demand, Opportunities, 2034",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10OEEtNngya05ZT0RQWUo5MThQb3h5eXlIQlBBUFBGUk9sTHFwd3RQbG5Qc0o3dmF2Rko0aUw5UDQwOFJFN2ZxVjNGUFVtcmtQdnZ4SzlPYnVrSlc5a25aTUFnT3hlcU9IcXc?oc=5",
+      "source": "Straits Research",
+      "published": "26 Oct 2026",
+      "summary": "Legal Technology Market Size, Forecast, Demand, Opportunities, 2034&nbsp;&nbsp;Straits Research",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
+      "source": "Reuters",
+      "published": "26 Oct 2026",
+      "summary": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test&nbsp;&nbsp;Reuters",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "How European Legal AI Startup Legora Raised $550m at $8.8bn",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaHRjekE2RWRVMzRJbXlDMUR1dEZxcmlTbjJlLWtiUUg0YlVsM1EtYWZ2N2pfdU9oci1xSlRkQ1EzZ2NsbkZ4WDhDZzAxVEVUelRqY255Z19BbkF5VGpvcmNhR3VvdFRXMnFyZnl3R05senB4SVpXSk5aTElFN1hnNldLTEdCVVJoZUhuSGF3?oc=5",
+      "source": "AI Magazine",
+      "published": "26 Oct 2026",
+      "summary": "How European Legal AI Startup Legora Raised $550m at $8.8bn&nbsp;&nbsp;AI Magazine",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora plans India hiring push as legal AI adoption grows",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON29HNm1qc0E5T01VUkRvbmpvNGF3b3ZBSGxFbzZKVk9fdDlyWVAtcXV1aTEtX002X2ZUdEVScy1QQzdDS0czZFFrRUFCM1lwbzZCV3lxWGFWZ2ZSOUttODhHVGt3Y1pBbWRWMmg2ajVJcExLVXB5SmlYeHhLeS1GMmIyLU5JLUZYUGhaTXVZMzlLX3paYXVUMVlRcW8xaTh2bDNnWUZ4UjNIZVBPempmdGNkR0MtcW03MElRY1hmWHJnX2NhMEg0TUQ3dUczd9IB0wFBVV95cUxPUXQwejB2NXpGRGM1bmtXS0gzMmRJZ0dhZHowdXZ0bWY2T1dmU3NPZFh6NmFoWHVPV3ZmcmdvSnpFRlZvbnQtNzFwYzc2R2RjNlJhY0pTd0NHNlVQRkRscHU4bFdqbElKWTRiMml3eE9haVI4c0c2SnBjeVBmd1ZkMjRGNlVhUXdCYWhRazdsMnV0NDFoM3lnMzY2Z3pMM2FXOUZsLVFyLXhOX0NNOGVGX25lMjk5Q1djRS0xTEMxWERKNDNTbmZRdzJfc2pkVTc4cjZB?oc=5",
+      "source": "ETLegalWorld.com",
+      "published": "26 Oct 2026",
+      "summary": "Legora plans India hiring push as legal AI adoption grows&nbsp;&nbsp;ETLegalWorld.com",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legora CEO Max Junestrand: AI legal tools could boost demand, not just cut costs",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUFjQk1Xam9uelA1UHZNOFpSRGVWOXRQMWE3ajg0Z3pWaUhRdUJfS1RuZkszb1pzSXJTVlpmaFhzVUpVTTc3a3lwQ1pybC1VRm9EVE0zZTk2ekdxRlJKWHdKZXJtbXVXZE15QXN2Y2pFNF83YjFJaFlWYjVXMXpud2lsNHJSNWcyZ1paRUNRbUl5aVBJdV9FZWhUOWtCVkMzQjBSQ3A4ZTdsNUNYeW9IOEJEdVpuV0lmQXM2MWxn?oc=5",
+      "source": "CNBC",
+      "published": "26 Oct 2026",
+      "summary": "Legora CEO Max Junestrand: AI legal tools could boost demand, not just cut costs&nbsp;&nbsp;CNBC",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "\ud83d\ude3a Walmart announces AI shopping controls",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQMWhaU3BVek1Cb0VrdlNyS1h2Uk8wdm5rdHF6ekhzMjd4cVloQmJONE9MUS1EaF9NU0hGbUQybUhPVUZCNzBhU1NtR2NmVHBGaTl0ZU1kYnM3cmlvek5pRXlCY2NEQnZMLWJSNHpjcHl4YW5SZk00V2NXTQ?oc=5",
+      "source": "The Neuron",
+      "published": "25 Oct 2026",
+      "summary": "\ud83d\ude3a Walmart announces AI shopping controls&nbsp;&nbsp;The Neuron",
+      "tags": [
+        "AI Trend"
+      ]
+    },
     {
       "title": "Anthropic's Claude Anti-Abuse Clause Takes Effect Nov. 12 \u2014 AI \"Welfare\" Enters the Terms of Service",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ya19jNHZ2NW5ES2VSSW9nS214Qk5UMlJQQzBMcVJBTUcza3hLRkdWdjdrTU1JeUJ0MjNybTBKclRXOVZMMGExRW94bXhWQmsyc0hYc05BM1NQTkhuQUpJY2pFamJzWVAzZjVzYUJjeFB2UTRHamc?oc=5",
@@ -11,18 +124,6 @@
         "AI Trend"
       ]
     },
-    {
-      "title": "\ud83d\ude3a Walmart announces AI shopping controls",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQMWhaU3BVek1Cb0VrdlNyS1h2Uk8wdm5rdHF6ekhzMjd4cVloQmJONE9MUS1EaF9NU0hGbUQybUhPVUZCNzBhU1NtR2NmVHBGaTl0ZU1kYnM3cmlvek5pRXlCY2NEQnZMLWJSNHpjcHl4YW5SZk00V2NXTQ?oc=5",
-      "source": "The Neuron",
-      "published": "25 Oct 2026",
-      "summary": "\ud83d\ude3a Walmart announces AI shopping controls&nbsp;&nbsp;The Neuron",
-      "tags": [
-        "AI Trend"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "Thomson Reuters expands CoCounsel AI for accounting professionals",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMEhvRTFSejVLOFZpSHRIcVNLMHBvU2pOTXVTX0s2MDZGRUc0XzFOc2xZN29pV1pyZzl6U2NVSWJSb182M29zU25CSFprM1VlTnV5QmxEVkNqdi1DVnpSekVlTEZZeFU0WnEtMzYyd2EtUXFscDlKUHhTV1E4UFZ2MjhsQlJQTERMUGdva2ducE53RXRmOEFVWXZBSlJqTXBieDNra2ZIdmVpbXA0QzhZMWFjOG1nN0lYMGxZ?oc=5",
@@ -2014,28 +2115,6 @@
       "summary": "Breaking news: OpenAI unveils Astra for Law&nbsp;&nbsp;Legal IT Insider",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFplSzFxRWszbXB1aWZ6dmNUd2YtR0d6MHk1RkFtaHBjZ0dfLVlMVnZ0WlBZUllXaWJJUXh0NTh5QVpaVUlLalBFTHlILXlEYVlnRG5pZ0NPanFVak5xRG1JTXRRelZPSGVXeUN0OWdrMm9oN2FvQmVzQTdSb21ZWGMyd2dtNW9YenI4bFU4TkxTVnJzbzJXMjJWVWl3NmRlRHRyc0NtcU5yUQ?oc=5",
-      "source": "lawnext.com",
-      "published": "17 Sep 2026",
-      "summary": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors&nbsp;&nbsp;lawnext.com",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaklBa3l0bXpJRlZHYW5ZUnM4d0tTRWczT1F1MTByOXk5UFBZYmdHaGFhN1d2VUY3OThBLThkTUxpOGJOQTVadzJEazBvSlNzdm0wTURBaFhyUWh1ZVdScmJWZ3p3NUZSVzBCWkt2UEpxUEJjaUxaN2U2dnFpT1E3Njc3MWRsWFpaZTZjekdlN0tUY1pudndlX081Z3k5VlVnLUVvQlVMQXNiS3RCbXVrbVlRWEQ0Q0ltdkduZC1hbGxUR28?oc=5",
-      "source": "reuters.com",
-      "published": "17 Sep 2026",
-      "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users&nbsp;&nbsp;reuters.com",
-      "tags": [
-        "Global AI Tool",
-        "AI Trend"
       ]
     }
   ]
