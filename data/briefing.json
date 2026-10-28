@@ -1,82 +1,116 @@
 {
-  "date": "Tuesday, 27 October 2026",
+  "date": "Wednesday, 28 October 2026",
   "articles": [
     {
-      "title": "AI and legal privilege: key risks for businesses",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzJ2UkQxODI1Tl9EcEdEYU83N2I2Vm9kSkxQVF9SM0w2MFpoSXRPNGRfV3RHR3I2MVp5YmhJbkF3TFd2ZVBoZ3k0S1ZxRFBuMkEzdmlLZEM3NzMwRDlBYzhDXzdXRkt2ZkFrdW9ucnNVbFlsMzdER19SSHB1RDkyMWluaVBuSFduU01J?oc=5",
-      "source": "Bell Gully",
-      "published": "26 Oct 2026",
-      "summary": "AI and legal privilege: key risks for businesses&nbsp;&nbsp;Bell Gully",
+      "title": "Stanford professors sue Anthropic over pirated books used to train Claude",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2tuRGxoRnBiRDRUMzU2UzlKNmpyanhvUnhuUWZKVjNkMEpVVl9KSUlRaW5weEZxYndCdHdjYmFGSUlBTjJtTXJrZF9FaTA5WkVwQ0VxYVdrUjZXWjBTdjBJSDVoS0RNbm9wSWhsTlhCa1ZfYjVVNHhmaFdMN3J5Z3FtbXVYc3RoM3ktNjlQdk5YOEZ2SGc?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published": "28 Oct 2026",
+      "summary": "Stanford professors sue Anthropic over pirated books used to train Claude&nbsp;&nbsp;Pasquale Pillitteri",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "How we built the knowledge fabric for enterprise agents",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80QVNUTDF1OWR1Zk1XbGJOeTdvdzdwdnNseW9nQ3lqVHBkczhhdE5kcnJIWDZHQ29CMkI0cFV6bkFKaHJha2JRVUxFd1BBVHBHeFdXLWluN3E5aXVZeUw5ZEFWdDQyelNtd0QxRkRCZw?oc=5",
-      "source": "Sarvam AI",
-      "published": "26 Oct 2026",
-      "summary": "How we built the knowledge fabric for enterprise agents&nbsp;&nbsp;Sarvam AI",
+      "title": "Cognizant in talks to take a stake in Sarvam AI at up to $4 billion valuation",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDNMN0tiRFZPSmtyY3QzUHA2aWs2Z0I3YTNWZXpUUlpuV1BwR0JvSFRiMXdrdHFxc2M3MzdheTM1UWVGMUFNS3I4LW1GT21VM1lTYUk2TW51Zjl3eXBHWHJuQUhKMmwtTGU5Q2xSOFo3aG93QW5mdk5GUWZkNVNnekZLdDc3V3dpMHFWaw?oc=5",
+      "source": "Wocult",
+      "published": "28 Oct 2026",
+      "summary": "Cognizant in talks to take a stake in Sarvam AI at up to $4 billion valuation&nbsp;&nbsp;Wocult",
       "tags": [
         "India Startup"
       ]
     },
     {
-      "title": "Anthropic warns its AI could end humanity \u2013 and your clients are using it",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmpLSlQtTUdORFE0SDQ1czVreU11RjU4YVRaZGw4d0h0R3ZVQW92SGhRUnJUa3JDT0RVUTNHTmdfSG1VcEdITEFfWjJ3WEpZMndJcnIySnFzWVdGRkRIbWxNN195aEZxWVVsVVlBM1BOX3ZnMGlBeDZwUkNzWndRcWR4dFFoVV9rdlNUYkhRYUVKRTZYSXFhVE9BRmlmSzdVQXc2ODJKMWp2MFBTanlTZEJEM1dyaHRjVm1lTU9NcXdRRG41eVlOVFRZTGtJRVZz?oc=5",
-      "source": "Insurance Business",
-      "published": "26 Oct 2026",
-      "summary": "Anthropic warns its AI could end humanity \u2013 and your clients are using it&nbsp;&nbsp;Insurance Business",
+      "title": "LinkSquares Launches MCP Connector, Bringing Agentic Contract Work to Anthropic's Claude",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnYxSnVNZ28wN1NCUFJ3R0xsMzd2Y1JRY1ZLSnZwZ19pQlZkLUk4VjBoMlYwMXJmcVRzOXJzTDRoNVREZlV6NjI3MmJIdU1RSU9lR0xrT1J6RzVFX3htRW5tdlROQlFmOTJVNzZueWdwU1NIYmxGNkxyXzRXNWNxNV9FeGlWVGl0cDFBalEzeGFQVk5nSmpnWXFJNWRRWFN0NWh1aXgxdS1vRDRzcXpYVXJRS25UMTVGUENyel9mN01hMFh6?oc=5",
+      "source": "AiThority",
+      "published": "28 Oct 2026",
+      "summary": "LinkSquares Launches MCP Connector, Bringing Agentic Contract Work to Anthropic's Claude&nbsp;&nbsp;AiThority",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Owners of Elvis music rights sue Anthropic for copyright violations",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSnpnN0ZwZDQxTUdGdHNVMlZtbGpVdnB3OGlwZ1BoV2RtSDVXbDlzem45YjdOeTR1MEsxQlJTSVF1bXIzQjhkV1NXR2RRLW1mOWVscmJaQk16dXlrRUE?oc=5",
-      "source": "BBC",
-      "published": "26 Oct 2026",
-      "summary": "Owners of Elvis music rights sue Anthropic for copyright violations&nbsp;&nbsp;BBC",
+      "title": "FMD - From AI to space medicine: William Harvey Day showcases research and innovation",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGFGcWNxUFZnampNbUdPNk42d2RKb2k0bXZTVnFJa3hTb1lCVU1abndBSjJLOWsydGNWSkI3TkUxM1V2eVNmeGtuWi1EdE5td2ZXdUxvRXNSNHFmTGRNM2FZOXR4d3V2U2xNNGFsUjhxczk4YmVuTUQ2VzVzSEZ4SFVvb2xjZVpMV1RkSFRfZmNsQ1hqR3p2M2FhelNuNmhOS3hvc09obGlMb1hnYlJidFVlSmVQUU5ucFZfM2NyWjVRSnJuck9oVHREcG9HV08tN2F5Y1lTcjRCTHItb3ZPOVh2SzJmRUUwWHFn?oc=5",
+      "source": "Queen Mary University of London",
+      "published": "28 Oct 2026",
+      "summary": "FMD - From AI to space medicine: William Harvey Day showcases research and innovation&nbsp;&nbsp;Queen Mary University of London",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Ministry of Defence partners Sarvam AI for armed forces AI adoption",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2NlZE8yd044LVVtQXp5bHFXaUJfSWpWaTBIYlE2Uk8zZ2pMTmF0M2NYNzBSTmdGV3ZLVGRoR2FMcUdndUQ1Z0p0RG5tR1IzS0JqSG1sb2VQOWlJSV9PZDNBdzJQRlNyN0FkSThob0Z2eGZRVTZsbm5qcnpveWZWM0pyMDJCR3Z1WFR4NzN0T1NIazFQM1N3VVZVRURYRDk1VzRjMGs1LWRWOFd0b3RUZW1HSkF6d9IBtgFBVV95cUxQU2NlZE8yd044LVVtQXp5bHFXaUJfSWpWaTBIYlE2Uk8zZ2pMTmF0M2NYNzBSTmdGV3ZLVGRoR2FMcUdndUQ1Z0p0RG5tR1IzS0JqSG1sb2VQOWlJSV9PZDNBdzJQRlNyN0FkSThob0Z2eGZRVTZsbm5qcnpveWZWM0pyMDJCR3Z1WFR4NzN0T1NIazFQM1N3VVZVRURYRDk1VzRjMGs1LWRWOFd0b3RUZW1HSkF6dw?oc=5",
+      "source": "TechGig",
+      "published": "28 Oct 2026",
+      "summary": "Ministry of Defence partners Sarvam AI for armed forces AI adoption&nbsp;&nbsp;TechGig",
+      "tags": [
+        "India Startup",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Cognizant in talks to invest in Sarvam AI at $3.5-4 billion valuation: Report",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNkpJXzkxV1UtM0dBZHBuYW96Zk1mLWNHbTE2a2VrQ2ZwXzZYZHVUVlA1X3UyVFQwTEZ1czRSWnpkUkxnOTYzSFEteXo5bVVlWTh2TE5vc1loTHAxaDYwTER6YkJuMnFzbHIwRjh6Y2NOdXZYT2c3TXJ5Ql9hTGtlY01neDhWNE1LTUJoS05UWDlFTGUyMUZNYVpNbFRmSHJmUFFQbm9TV3Z1aGhhQWRDcHhqcEVuOU5faUxfWnNjVkhGSjRJOVpkZF85UFhwNHNTeTVRbDktaGlCR2plUEtIdVZqUdIB6AFBVV95cUxNSmhhbWswWWhKdm8xdmZUaGVzclJWWENNRmdxZ1p1YUphd01scU9VbHE0anhOTGNaekFNM3BqYkEtS2hHS0lEWFZuUGFWbjFaOTJ2OVBuMnduWVVzakxuNGdZOUNHN0ZESHJUcW9fT2trTkNhb1Q2NkhTd1lpQWN2NmpPWEdUWXN4Q1dhb2NsR2tnczNzeEl4d2xmaVFHaWM1cVBpOWVHMUJ1U1hOdnhCQUMzVmRmNnVhQW1kWWl3eWhjN3lGSDFneEtMVTBfLVdKXzlOV2dsOTVrSkkxQnQwWDYxS2gydGdX?oc=5",
+      "source": "ET Enterprise AI",
+      "published": "28 Oct 2026",
+      "summary": "Cognizant in talks to invest in Sarvam AI at $3.5-4 billion valuation: Report&nbsp;&nbsp;ET Enterprise AI",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Anthropic Warns U.S. SEC Hacks Using Claude Could Cause Financial, Legal, Physical Damage",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMTQ2dDFKMDJqOU80czVhci1Dbmw1NThjZ0ZPejhxQXp4NmptTzVnS09kRHNjZmx6TXl2QjBUVTFwbmY2cVdDSzd1X2FxbzlUNlp5ZEExbDY2akJXSDExMHZ1LU9fVHRPSkE1d0s5YnZrdHFZdjAtT0gzei1uSjgyNGJteEt2MURLVGdjTUpTMVp4WUI2SWVlcnZXakk3M3liTU9DRV9YN0liTjJlZ3B5WmZkcTVmWjM1NnhWZ2hSdUZabzVPODhWa2ZUa2ZYRG1YeUFWYnE4NWppcEo5elp6LWRPNWZXNHhBWnc?oc=5",
+      "source": "NewsCord",
+      "published": "27 Oct 2026",
+      "summary": "Anthropic Warns U.S. SEC Hacks Using Claude Could Cause Financial, Legal, Physical Damage&nbsp;&nbsp;NewsCord",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Latham & Watkins and Harvey Collaborate to Advance AI-Enabled Capabilities for Fund Formation",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTI1WWdGUDV5WDZQUTNzaUZXN3hqUG95alV4bW41NEo4RzJwaVNlWmt3T1lDc1hDWXpqNGRveFA2MTEzNFhWNTAzV1VMNWhYeENsd0VGYzZKaXgtc1dqcS1UcmdBZzdGWjB5bnFsWV9kdHNYcFFtMVVCZ1pfdEF0REhSWFBWNzRmd2tELUljeXJGVFlVYlVlMms4WGZGYTExRHptclJmaHZ1SktidGlMREFFeFlCd3owYWJub2JXTlZQV3lhUy1RU3hfZC1HdUxjUmFBMzlpRmVaRW1hOWRYTENR?oc=5",
+      "source": "PR Newswire",
+      "published": "27 Oct 2026",
+      "summary": "Latham & Watkins and Harvey Collaborate to Advance AI-Enabled Capabilities for Fund Formation&nbsp;&nbsp;PR Newswire",
+      "tags": [
+        "Global AI Tool",
+        "Global Firm"
+      ]
+    },
+    {
+      "title": "More Than Just a Legal Vending Machine: Why Law Firms Must Codify Their Judgement in the AI era",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnNtS3V6eG1QcjR2eE5zalZ2NmdYNWx5UWo3Z3BHT09WaUlxcHo0ejA2cFpOVDd5SlRVRlVaZndPQWo2MjlfQ3oyd2ZfVnZZdUhhVk5EZllFQjYtTjRCb3puSHdEUkJJazlLVVRUUTZyMkoyc19ZZml5YzhMWXpzb3hONjFxZFg0em1RbjNrZzJlazU1T3JsZThQU2tkY0FBdkZNaU9iMUl1VDlfRV9BQWp5LWVBRThiREl2RHZCdDg?oc=5",
+      "source": "Legal Reader",
+      "published": "27 Oct 2026",
+      "summary": "More Than Just a Legal Vending Machine: Why Law Firms Must Codify Their Judgement in the AI era&nbsp;&nbsp;Legal Reader",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Clio unveils unified platform with agentic workflows, AI phone system and new DMS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0x6eUdXa0ZzNUItQWpvM1YwbDVJTHA1N2VWa0tFV3R6Z0pvYTJnVFU0RHhHX1RQV1V2WTVtd2k4R016SEpaOXVYbS1xZUdSNTlDZ3pldkZmYkozeFRhSk10ZDVjeFljV2tQMnNoYXVUejd3cW9uZnlaaGRfTTBXcmlSZUtmdWpUdHB6TXdfMjVVTnd6TEdpQ3lwUExtdW5oZVhaX1pyRm9abmIyVFE?oc=5",
-      "source": "Legal IT Insider",
-      "published": "26 Oct 2026",
-      "summary": "Clio unveils unified platform with agentic workflows, AI phone system and new DMS&nbsp;&nbsp;Legal IT Insider",
+      "title": "Sarvam and Ministry of Defence sign AI MoU",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MZkVJM210Y2RGcHBveG8yR3VwSXBKLVQyWGVjLUZiU0NoRldTekVNQkJHeDEwUEJkRUNNdkNrY1I4MDlvSVFpMFNCRGxkOWgzSVlxWmZZMmxQakJRdkxtNXlnXzBsR1d0Rnc?oc=5",
+      "source": "Sarvam AI",
+      "published": "27 Oct 2026",
+      "summary": "Sarvam and Ministry of Defence sign AI MoU&nbsp;&nbsp;Sarvam AI",
       "tags": [
-        "AI Trend"
+        "India Startup"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "Legal Technology Market Size, Forecast, Demand, Opportunities, 2034",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10OEEtNngya05ZT0RQWUo5MThQb3h5eXlIQlBBUFBGUk9sTHFwd3RQbG5Qc0o3dmF2Rko0aUw5UDQwOFJFN2ZxVjNGUFVtcmtQdnZ4SzlPYnVrSlc5a25aTUFnT3hlcU9IcXc?oc=5",
-      "source": "Straits Research",
+      "title": "Legora CEO Max Junestrand: AI legal tools could boost demand, not just cut costs",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUFjQk1Xam9uelA1UHZNOFpSRGVWOXRQMWE3ajg0Z3pWaUhRdUJfS1RuZkszb1pzSXJTVlpmaFhzVUpVTTc3a3lwQ1pybC1VRm9EVE0zZTk2ekdxRlJKWHdKZXJtbXVXZE15QXN2Y2pFNF83YjFJaFlWYjVXMXpud2lsNHJSNWcyZ1paRUNRbUl5aVBJdV9FZWhUOWtCVkMzQjBSQ3A4ZTdsNUNYeW9IOEJEdVpuV0lmQXM2MWxn?oc=5",
+      "source": "CNBC",
       "published": "26 Oct 2026",
-      "summary": "Legal Technology Market Size, Forecast, Demand, Opportunities, 2034&nbsp;&nbsp;Straits Research",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
-      "source": "Reuters",
-      "published": "26 Oct 2026",
-      "summary": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test&nbsp;&nbsp;Reuters",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "How European Legal AI Startup Legora Raised $550m at $8.8bn",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaHRjekE2RWRVMzRJbXlDMUR1dEZxcmlTbjJlLWtiUUg0YlVsM1EtYWZ2N2pfdU9oci1xSlRkQ1EzZ2NsbkZ4WDhDZzAxVEVUelRqY255Z19BbkF5VGpvcmNhR3VvdFRXMnFyZnl3R05senB4SVpXSk5aTElFN1hnNldLTEdCVVJoZUhuSGF3?oc=5",
-      "source": "AI Magazine",
-      "published": "26 Oct 2026",
-      "summary": "How European Legal AI Startup Legora Raised $550m at $8.8bn&nbsp;&nbsp;AI Magazine",
+      "summary": "Legora CEO Max Junestrand: AI legal tools could boost demand, not just cut costs&nbsp;&nbsp;CNBC",
       "tags": [
         "Global AI Tool"
       ]
@@ -93,17 +127,85 @@
       ]
     },
     {
-      "title": "Legora CEO Max Junestrand: AI legal tools could boost demand, not just cut costs",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUFjQk1Xam9uelA1UHZNOFpSRGVWOXRQMWE3ajg0Z3pWaUhRdUJfS1RuZkszb1pzSXJTVlpmaFhzVUpVTTc3a3lwQ1pybC1VRm9EVE0zZTk2ekdxRlJKWHdKZXJtbXVXZE15QXN2Y2pFNF83YjFJaFlWYjVXMXpud2lsNHJSNWcyZ1paRUNRbUl5aVBJdV9FZWhUOWtCVkMzQjBSQ3A4ZTdsNUNYeW9IOEJEdVpuV0lmQXM2MWxn?oc=5",
-      "source": "CNBC",
+      "title": "How European Legal AI Startup Legora Raised $550m at $8.8bn",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaHRjekE2RWRVMzRJbXlDMUR1dEZxcmlTbjJlLWtiUUg0YlVsM1EtYWZ2N2pfdU9oci1xSlRkQ1EzZ2NsbkZ4WDhDZzAxVEVUelRqY255Z19BbkF5VGpvcmNhR3VvdFRXMnFyZnl3R05senB4SVpXSk5aTElFN1hnNldLTEdCVVJoZUhuSGF3?oc=5",
+      "source": "AI Magazine",
       "published": "26 Oct 2026",
-      "summary": "Legora CEO Max Junestrand: AI legal tools could boost demand, not just cut costs&nbsp;&nbsp;CNBC",
+      "summary": "How European Legal AI Startup Legora Raised $550m at $8.8bn&nbsp;&nbsp;AI Magazine",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
+      "source": "Reuters",
+      "published": "26 Oct 2026",
+      "summary": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test&nbsp;&nbsp;Reuters",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Legal Technology Market Size, Forecast, Demand, Opportunities, 2034",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10OEEtNngya05ZT0RQWUo5MThQb3h5eXlIQlBBUFBGUk9sTHFwd3RQbG5Qc0o3dmF2Rko0aUw5UDQwOFJFN2ZxVjNGUFVtcmtQdnZ4SzlPYnVrSlc5a25aTUFnT3hlcU9IcXc?oc=5",
+      "source": "Straits Research",
+      "published": "26 Oct 2026",
+      "summary": "Legal Technology Market Size, Forecast, Demand, Opportunities, 2034&nbsp;&nbsp;Straits Research",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Clio unveils unified platform with agentic workflows, AI phone system and new DMS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0x6eUdXa0ZzNUItQWpvM1YwbDVJTHA1N2VWa0tFV3R6Z0pvYTJnVFU0RHhHX1RQV1V2WTVtd2k4R016SEpaOXVYbS1xZUdSNTlDZ3pldkZmYkozeFRhSk10ZDVjeFljV2tQMnNoYXVUejd3cW9uZnlaaGRfTTBXcmlSZUtmdWpUdHB6TXdfMjVVTnd6TEdpQ3lwUExtdW5oZVhaX1pyRm9abmIyVFE?oc=5",
+      "source": "Legal IT Insider",
+      "published": "26 Oct 2026",
+      "summary": "Clio unveils unified platform with agentic workflows, AI phone system and new DMS&nbsp;&nbsp;Legal IT Insider",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Owners of Elvis music rights sue Anthropic for copyright violations",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSnpnN0ZwZDQxTUdGdHNVMlZtbGpVdnB3OGlwZ1BoV2RtSDVXbDlzem45YjdOeTR1MEsxQlJTSVF1bXIzQjhkV1NXR2RRLW1mOWVscmJaQk16dXlrRUE?oc=5",
+      "source": "BBC",
+      "published": "26 Oct 2026",
+      "summary": "Owners of Elvis music rights sue Anthropic for copyright violations&nbsp;&nbsp;BBC",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Anthropic warns its AI could end humanity \u2013 and your clients are using it",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmpLSlQtTUdORFE0SDQ1czVreU11RjU4YVRaZGw4d0h0R3ZVQW92SGhRUnJUa3JDT0RVUTNHTmdfSG1VcEdITEFfWjJ3WEpZMndJcnIySnFzWVdGRkRIbWxNN195aEZxWVVsVVlBM1BOX3ZnMGlBeDZwUkNzWndRcWR4dFFoVV9rdlNUYkhRYUVKRTZYSXFhVE9BRmlmSzdVQXc2ODJKMWp2MFBTanlTZEJEM1dyaHRjVm1lTU9NcXdRRG41eVlOVFRZTGtJRVZz?oc=5",
+      "source": "Insurance Business",
+      "published": "26 Oct 2026",
+      "summary": "Anthropic warns its AI could end humanity \u2013 and your clients are using it&nbsp;&nbsp;Insurance Business",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "How we built the knowledge fabric for enterprise agents",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80QVNUTDF1OWR1Zk1XbGJOeTdvdzdwdnNseW9nQ3lqVHBkczhhdE5kcnJIWDZHQ29CMkI0cFV6bkFKaHJha2JRVUxFd1BBVHBHeFdXLWluN3E5aXVZeUw5ZEFWdDQyelNtd0QxRkRCZw?oc=5",
+      "source": "Sarvam AI",
+      "published": "26 Oct 2026",
+      "summary": "How we built the knowledge fabric for enterprise agents&nbsp;&nbsp;Sarvam AI",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "AI and legal privilege: key risks for businesses",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzJ2UkQxODI1Tl9EcEdEYU83N2I2Vm9kSkxQVF9SM0w2MFpoSXRPNGRfV3RHR3I2MVp5YmhJbkF3TFd2ZVBoZ3k0S1ZxRFBuMkEzdmlLZEM3NzMwRDlBYzhDXzdXRkt2ZkFrdW9ucnNVbFlsMzdER19SSHB1RDkyMWluaVBuSFduU01J?oc=5",
+      "source": "Bell Gully",
+      "published": "26 Oct 2026",
+      "summary": "AI and legal privilege: key risks for businesses&nbsp;&nbsp;Bell Gully",
+      "tags": [
+        "AI Trend"
+      ]
+    },
     {
       "title": "\ud83d\ude3a Walmart announces AI shopping controls",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQMWhaU3BVek1Cb0VrdlNyS1h2Uk8wdm5rdHF6ekhzMjd4cVloQmJONE9MUS1EaF9NU0hGbUQybUhPVUZCNzBhU1NtR2NmVHBGaTl0ZU1kYnM3cmlvek5pRXlCY2NEQnZMLWJSNHpjcHl4YW5SZk00V2NXTQ?oc=5",
@@ -2013,106 +2115,6 @@
       "source": "Law360",
       "published": "22 Sep 2026",
       "summary": "Legal AI Co. Harvey Launches Pro Bono Program&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "MiMo-V2.6-Pro Scores 46 as Xiaomi Faces Claude Probe [2026]",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaWjRxbEtobGVpa1dWdHVRV3Rld2YzaTZsT0xjLTRNVmdOdnctcjE0Qndka3dabFhINmR3aVlsQlVfSlpPZ2cteF9ISVItSEtNUEhRU2Ewek94bXJhLVVhejVnX2VwNTJMaEpMcQ?oc=5",
-      "source": "shattered.io",
-      "published": "23 Sep 2026",
-      "summary": "MiMo-V2.6-Pro Scores 46 as Xiaomi Faces Claude Probe [2026]&nbsp;&nbsp;shattered.io",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "What the Gemini and Claude hacking incidents mean for cyber insurers",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTAxV0tpcHRRT0Y1NDExbjZPM3pVR3lETXBwVTdNVDFTZE5ObDhUbkkwOXp4NFpIeUlzZlJNN2w2cUdhMnRYamc5LU9pc0g0X0FRSzk2NU9oLWNaQnFjSkJUTHRPRkQzV2lURkFiVkhSMENNYXZOVlJ0c0N4eU8xcjdmS3BTRHNsN0dZZnAza09jc0x2OXp5YzNNLU0zYnZmZzJ0T01xazdlWlF1Um01LVIzMXFsR1JvY2dhSTBKZEdCWktLR2pNakpnSEpFcFk4TTdveWNn?oc=5",
-      "source": "Insurance Business",
-      "published": "21 Sep 2026",
-      "summary": "What the Gemini and Claude hacking incidents mean for cyber insurers&nbsp;&nbsp;Insurance Business",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Thomson Reuters and OpenAI: Advancing an Open Ecosystem for Legal AI",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnduOHY3WHhabUs2OWFFNVl5S1FLdHpfdnF0UUU1NmV2LVBTX2hiWUk1R2dUTGhIMTRsTjFRSEZTdF9xZGdpcFBwS3JEUVZuNUdtUVppcnN5akdUMzdGdTNlV0REcDZxQlo4cVZlNzF1OUdrY1czQ21nYlZBUGJQc0UwdUVYY0s5OHFZeTlONmxiVng1eTlyZmhFUXl2VFpOemJlV3dVWXBvMmNBRHVrT1VQb0NXeFhKOTB6NTA5WQ?oc=5",
-      "source": "Thomson Reuters",
-      "published": "18 Sep 2026",
-      "summary": "Thomson Reuters and OpenAI: Advancing an Open Ecosystem for Legal AI&nbsp;&nbsp;Thomson Reuters",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Astra for Law + The Battle for Centrality",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3ZXZXZrWk10WUx6UmV4Vk5KeGo0YVJNdnRsN1JybURjeTZpU3I0Tm9scHRXbWV1dmk2NVFlMXV5Z2ZQeUhaU1JXMk05Z3k1UVUya2c4eHhtYWpVVUJTWjdMNmNqUEZ4ZEdaQzc0M29PQVkySUhFMk1id29Pa21VVEZSNDhtVHl2amhuVQ?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "18 Sep 2026",
-      "summary": "Astra for Law + The Battle for Centrality&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "The A.I. Industry\u2019s New Worry: \u2018Liability Exposure\u2019",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGt5enpFT2RsRkhORHdHai1BNDZvTFp6WmVydS1CbVVqRDEwY0VsZnZJNzdWblhuVkNtSnJKNmE2Nkpia0F5QjNpOFFMZ1lfcHN1bUxQNU41MmVZbkZhSmMza0NVNnEwTkhBbE52V1FJOGlaMU13aHJLMnFra0dtWVBn?oc=5",
-      "source": "The New York Times",
-      "published": "18 Sep 2026",
-      "summary": "The A.I. Industry\u2019s New Worry: \u2018Liability Exposure\u2019&nbsp;&nbsp;The New York Times",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "$15.5 Billion Brief: How Harvey Is Rewriting the Economics of Legal AI",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDNPaDZQbWtsN0dCaDFBTi05NzR4bEZqXzFfTEI4Mll5Sm8tSzRuZ2ppcm1xVGJITkRvYnFRc1pRVDRhb010NzctbWU5S1daQTF6NDB3MXlKMDV2cmtoTHc4X0dtbVhrQUpYblFBa3ZKM0hiSlh5d2xDRjVUN1hzSEpqLU1UYzQwcWtQMm1GM0VBMkFf?oc=5",
-      "source": "Vocal",
-      "published": "18 Sep 2026",
-      "summary": "$15.5 Billion Brief: How Harvey Is Rewriting the Economics of Legal AI&nbsp;&nbsp;Vocal",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Free AI clinic offers Florida lawyers hands-on training with Claude",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2U4X3ZVMHZoeEFJN05pTGdrZEtfbGtMS25ycWtSekJ2bmdfcmFldE1RZVdyRnZzQjdaQ1d6cVJJRWhmLTlxQTY2MUY5Y0QwQk16aUNkUUJBWVBjengzcUdnOVBCRl93M3AtSXpJRGdCNlNMV3FKUnhCeDZEZ00yaGRmX3Z1Z0gwbVFOYV9fMFItSWR3bHUwMzBVUnpra1V1X0oteVU3V0tJYVhQT3pHRzFKanhFN2c?oc=5",
-      "source": "The Florida Bar",
-      "published": "18 Sep 2026",
-      "summary": "Free AI clinic offers Florida lawyers hands-on training with Claude&nbsp;&nbsp;The Florida Bar",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "L\u00fcth Case and India 2026: Fundamental Rights, Big Tech, AI & Private Power",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkh1TFc2enIzWkQ1MlBLWm93Z09XbmMxa3Z2b3dfSWhIWE9RcVo2Rk9sUlh3bWtQQ0p5MUdneDVkckV1TWZCMmNyby04SjZsTWxIcFZSeEdaNW9LNDQ1MjhLUzFoN0JDbUx5RXhGQjdjRjc2MUREWFZYVk1mRmt3UlRiNnpOaUpvNVBrYjVpQlZWbm1NLS1HZmVDdV9Bd3VuNkt6N2ZtQVZVbHl6ZWU0anhPYlZlQQ?oc=5",
-      "source": "Legal Service India",
-      "published": "17 Sep 2026",
-      "summary": "L\u00fcth Case and India 2026: Fundamental Rights, Big Tech, AI & Private Power&nbsp;&nbsp;Legal Service India",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "CEU San Pablo offers free Harvey AI access to law students",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3A3M3c1Q0lhZ3k2MHo3WjJWcldvamJQanNQV0JqU3FrZGlFX0txTGV3Z1NLZUZ3QVgzUmVhc3pjUXdDdW5RNWZ3clJqUXNZdElweEdIVUNnMzUwRm1SMzBpdGhfVjcyRHg0dHdOQlFsM1pyeVNESk5naXZqd3FGUmFaeGlSeUNoU2JGY1R3?oc=5",
-      "source": "Iberian Lawyer",
-      "published": "17 Sep 2026",
-      "summary": "CEU San Pablo offers free Harvey AI access to law students&nbsp;&nbsp;Iberian Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Breaking news: OpenAI unveils Astra for Law",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JNE1rV1Z5ek41SnN6SWE1MF84dkp0SzNNSGY5VWVGSEJRdnlJaFRZWmFYQ2ZCbTdNTmhSa1BUNWJKaVBRSGtGWDB3N0VYSVlJVE9WYnI3clJVaUp0VjVPMVNKd3ZmZTJaV0hhVm9hUXRrNlBXaFdqaHZ0cw?oc=5",
-      "source": "Legal IT Insider",
-      "published": "17 Sep 2026",
-      "summary": "Breaking news: OpenAI unveils Astra for Law&nbsp;&nbsp;Legal IT Insider",
       "tags": [
         "Global AI Tool"
       ]
