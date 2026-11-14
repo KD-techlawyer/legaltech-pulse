@@ -1,14 +1,54 @@
 {
-  "date": "Friday, 13 November 2026",
+  "date": "Saturday, 14 November 2026",
   "articles": [
     {
-      "title": "Thomson Reuters taps CUBE for legal AI regulatory data",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2JQNGdwc2NDWEJ2N1NHdjlYWVA5YWxYX3J4WUcxMDBLWHIzNU9YN2xtSWpSSjYzd1BWRE1ETV80WWxBSjZjMlVpUi1vcXk0VEhfdmRiUVMyVll3ZUVMOThGbVBpWTdQVTVncGxBd0ZlOUs2Y3hIbWZvN3JTNThnRUVITEJZTGFu?oc=5",
-      "source": "IT Brief Asia",
+      "title": "Legaltech Rundown: Litera Introduces Plug-ins for Microsoft Copilot for Legal, Thomson Reuters Partners With Cube and More",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSXBuRWRWS0hzakJxOWtmNUhkbVRQN1FhMnM0TENCLU5ZRUltQ1lMYUVpVU5pa1JUTkdnaFhFMEZlSTBGU1NLdXYwa1JWbVZTZXRadk4xMDJqdFZnVUJGN3R1ZzJXSlUxb2lldnFQWUpaZjZMYlZrUEw2R1U1UWNOTjJDUWVPcjB2dkpyeXZLVGJXZEowY1ZJVWYxWDlWRGdfZThsMEtJb21iWTAwdVdBU3RLelFuM05ReGNfUWh0UG9rbm01M0MtWVhLSThjRGYzWGlsaWtKMk44elluYktUeGt4dG0zbGRNQzFqM244UXZFaVU0U3NIeg?oc=5",
+      "source": "Law.com",
       "published": "13 Nov 2026",
-      "summary": "Thomson Reuters taps CUBE for legal AI regulatory data&nbsp;&nbsp;IT Brief Asia",
+      "summary": "Legaltech Rundown: Litera Introduces Plug-ins for Microsoft Copilot for Legal, Thomson Reuters Partners With Cube and More&nbsp;&nbsp;Law.com",
       "tags": [
-        "AI Trend"
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "GU Law Grants Students Access to Harvey",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15ell5SDFSSHQwQ2NHZ0MxUHZCY0dEaUp2cVBCZkNPTERWdl8yS0VJbldqaTloSlZoUFU3RXdfLXRSQVNRLVQ2RnRucmdSUWdTOWpaclRMRE9yQTNja1FEX1hvRVk2S0dhd2RiU1NnaUlEX2c?oc=5",
+      "source": "The Hoya",
+      "published": "13 Nov 2026",
+      "summary": "GU Law Grants Students Access to Harvey&nbsp;&nbsp;The Hoya",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Avianca Deploys Harvey Across Its Legal Organization",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ1g3dlFmOWhLVV9CRzgzWTBxUV9aNTAtVFBoYWhJOFVwYVpRQkJuVDFvUVY5clpsN01sZG5ZNlhVZWhhVDVRWEhEc0xXY2w5TkNjbjNrRnVxWWUxWmtYZW9aamJyMkFJaGV1VmlCTHk2TkRSZlBsSEllWTZZWTFfdzUwWXAzdw?oc=5",
+      "source": "Harvey",
+      "published": "13 Nov 2026",
+      "summary": "Avianca Deploys Harvey Across Its Legal Organization&nbsp;&nbsp;Harvey",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Avianca Moves Harvey Legal AI Into Department-Wide Use After Pilot",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEtQUXllWDIyakZKQV9FT0FpV3FKcXpteVZrYS1KWHI4SkFYNUJ6MWJTdUZoMnRfbDhDeXQzQ280OFlya2ZFSE5uc0RHd01LNjA1aUhnYU9vdlVJbVNzZ0hfZjU5Z2d2dmUxZDBlalBEN2xNNjBEQUxEZENfZnpwbFpBemJMMnJHc2Y3YjFmWDhLZw?oc=5",
+      "source": "Unite.AI",
+      "published": "13 Nov 2026",
+      "summary": "Avianca Moves Harvey Legal AI Into Department-Wide Use After Pilot&nbsp;&nbsp;Unite.AI",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "From Sarvam AI to Simplismart: What Jensen Huang's exit means for Nvidia's Indian startups",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSUV6T191bi13ekppcThzRXM5Rm0xUFdHazhaby1XTUFZUkdyT2QzM19wWEdvWjRMZVExdmpocG1OTjZxUk9QUjhUbjVvTlozVFV4UV9NRURpYWVHSEtwRnV2WWM0X2c1RzAwWXZ6UFVhdDlmenFYQ3I4ak9kNFVSVmZwQU1uWEVVZ18yb2lic1JBN2dMZ2pQNUdrTVhlVXBwMlIyazZtQUxKQzFGRUM1TF83V0k3Z2s0QlIwaUhOZ1ZkRnhUVW9lZFFReUxuWmZuREpHVGxId0RWZ3BybEczdnFkUXBXUmNPLWfSAe8BQVVfeXFMTWQ0azhSYTlUa0JzZEhpbkhuazhVNkt2bjY1a0FwZ3dnaWFfNDUzb2NfSHVzaGdxdlFxTzM3dmNjeFYzTURycVUxTkdkanZTVmxaNG9ock9DeEpreEVHRkZHVjYtUTRnaXVHVkRZUGlkTWsyOXlyYmhyWm96cHdQWk5BYXp4SlFDZ3k1aUNEOG55ZzFOMzhTdU1zUURRWWJKVkVrUGlXZTZNWXVzNzM5MGI4UTVIaC1RVXdJLTdTY0lZeGRtRHJPeThqcFZKOTlKanpXZ0c4SlBaOEdUY2FQUmxRZEFwbjFFelNFMVB6V3M?oc=5",
+      "source": "Moneycontrol.com",
+      "published": "13 Nov 2026",
+      "summary": "From Sarvam AI to Simplismart: What Jensen Huang's exit means for Nvidia's Indian startups&nbsp;&nbsp;Moneycontrol.com",
+      "tags": [
+        "India Startup"
       ]
     },
     {
@@ -20,13 +60,15 @@
       "tags": [
         "Global AI Tool"
       ]
-    },
+    }
+  ],
+  "archive": [
     {
-      "title": "Firms Want Associates Who Embrace AI, but AI Skills Aren't Yet Top Recruitment Priority, Harvey Panelists Say",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUEx0S2RwU09nZTZfZEJKd0ltZ3J0N1hpdkwya2ZVSkFZVFZaLWI2T3NhWFdHbC1NQ1k2SW1OVmpmUmNiczc5SVZGVjBqaWVjVTBmWktuRWNFR1ptM3U0TF9HOE9jSF9RMkJiN251T1Vrb0tjVWU4emljS3k0aDRQbjg1WWR0eWdmTkdBRnZzSk5xVDBDenZQM1ZzR19uWlNaS1dmdkllT3B0LVJ0YkdWTEM4TmEzak00b0w5bjJJb1B2X3VIcHJ6cUcySEZDWkhNV0JqOQ?oc=5",
-      "source": "Law.com",
+      "title": "Addleshaw Goddard partners with Harvey on AI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KdGQ0Z2ZRTFZ6M2V3MnhqZlkyNUMxd29hZWNSSFA5Y1AyZ0VIcGFsY21IRHFfTGNYVWwxTmFBNU5tZHdmSmdXeEVYMjkwckU0S2phS3NmekJDaDM5QU9sV01BX2Y0ZUVfd2JIeHpDOUJpc1pHMkZleFdUOA?oc=5",
+      "source": "Iberian Lawyer",
       "published": "12 Nov 2026",
-      "summary": "Firms Want Associates Who Embrace AI, but AI Skills Aren't Yet Top Recruitment Priority, Harvey Panelists Say&nbsp;&nbsp;Law.com",
+      "summary": "Addleshaw Goddard partners with Harvey on AI&nbsp;&nbsp;Iberian Lawyer",
       "tags": [
         "Global AI Tool"
       ]
@@ -42,17 +84,25 @@
       ]
     },
     {
-      "title": "Addleshaw Goddard partners with Harvey on AI",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KdGQ0Z2ZRTFZ6M2V3MnhqZlkyNUMxd29hZWNSSFA5Y1AyZ0VIcGFsY21IRHFfTGNYVWwxTmFBNU5tZHdmSmdXeEVYMjkwckU0S2phS3NmekJDaDM5QU9sV01BX2Y0ZUVfd2JIeHpDOUJpc1pHMkZleFdUOA?oc=5",
-      "source": "Iberian Lawyer",
+      "title": "Firms Want Associates Who Embrace AI, but AI Skills Aren't Yet Top Recruitment Priority, Harvey Panelists Say",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUEx0S2RwU09nZTZfZEJKd0ltZ3J0N1hpdkwya2ZVSkFZVFZaLWI2T3NhWFdHbC1NQ1k2SW1OVmpmUmNiczc5SVZGVjBqaWVjVTBmWktuRWNFR1ptM3U0TF9HOE9jSF9RMkJiN251T1Vrb0tjVWU4emljS3k0aDRQbjg1WWR0eWdmTkdBRnZzSk5xVDBDenZQM1ZzR19uWlNaS1dmdkllT3B0LVJ0YkdWTEM4TmEzak00b0w5bjJJb1B2X3VIcHJ6cUcySEZDWkhNV0JqOQ?oc=5",
+      "source": "Law.com",
       "published": "12 Nov 2026",
-      "summary": "Addleshaw Goddard partners with Harvey on AI&nbsp;&nbsp;Iberian Lawyer",
+      "summary": "Firms Want Associates Who Embrace AI, but AI Skills Aren't Yet Top Recruitment Priority, Harvey Panelists Say&nbsp;&nbsp;Law.com",
       "tags": [
         "Global AI Tool"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Thomson Reuters taps CUBE for legal AI regulatory data",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2JQNGdwc2NDWEJ2N1NHdjlYWVA5YWxYX3J4WUcxMDBLWHIzNU9YN2xtSWpSSjYzd1BWRE1ETV80WWxBSjZjMlVpUi1vcXk0VEhfdmRiUVMyVll3ZUVMOThGbVBpWTdQVTVncGxBd0ZlOUs2Y3hIbWZvN3JTNThnRUVITEJZTGFu?oc=5",
+      "source": "IT Brief Asia",
+      "published": "13 Nov 2026",
+      "summary": "Thomson Reuters taps CUBE for legal AI regulatory data&nbsp;&nbsp;IT Brief Asia",
+      "tags": [
+        "AI Trend"
+      ]
+    },
     {
       "title": "Legora and DiliTrust partner to connect legal AI with contract and entity management for in-house legal teams",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3BWdXkyNXNveXJFNnRwRTBOOTl6MEg4aDByc0lkZnJ0OVFUM3g5TVFYSjBETV80c0YtQ0ZrWlo4LTdpSGxSVUNKaUhJNkE3QTRuLWNCRnlHTlQ5ZXdGMVgwZDZRQUdFaGEyUmZLQ3dUMEE1TWZxTUdXeTVpcGRVQWNZZ0pCNmxYNFV1aG43Nkd1VkY4VGNoM0NsRHpQSzVqaWJpbVFReVQ4ZnIzdmwwWWZYdi1NeE1XV0V0YmloTVFjcDNoYkRkVXQ1Z0lUVXZGTHpB?oc=5",
@@ -2031,46 +2081,6 @@
       "summary": "Legora Increases Inhouse Focus with Intake&nbsp;&nbsp;Artificial Lawyer",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Ex-JSA Partner Rachana Rautray launches Chambers of Rachana Rautray",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR0JUQUlvMHlMVE1rTXNPN25IMGtjZzM5bTNDSHFPc0lfbDBlUkpHNjZKWkpkeDFqTU9DZThRV21veHE2azNUT2NXaG1EbkctbE5MVjFmY3p5d3VtQ1FmZ3lXLVRLZ0xWQ3BtdjY3MW5sZU1Bc0pDS2p3RmtCX0RkcDhGTE1raUp4UmV5eVB2Sm4xV2xiTHV3enlQeS1zY196VExLVlhnbDduemtJYkhiVmNoMk84MXRCeU93ZV91ZTcySjNQQk80ZHNlQVJzaWvSAdQBQVVfeXFMT3JkTy1NOXRubkQ2bkF1azdjZkZlNTFBU29fTUhqWTJXcHZJSXhSdWwycllSelRRdzh0b3BudnFDYTRDcjFWYjhUZF8ydlFHMXQzQkc1OXRJeUg2S3BZTFZ1N1BxMk5MOG5MYXo4M183Tm1lVEdZS3FRelUyZDRxSjQydy1aX1FoVkpZNUxKZmV2bEFFN1lDRTM1eHhRQXVjUU9mZ2NQeVVScXZLRW9PV3ktUTFTRkY4cGo3ZnUwdjlBUTRVbEtrSmN4M0NQXzY1VTN1TEM?oc=5",
-      "source": "ETLegalWorld.com",
-      "published": "13 Oct 2026",
-      "summary": "Ex-JSA Partner Rachana Rautray launches Chambers of Rachana Rautray&nbsp;&nbsp;ETLegalWorld.com",
-      "tags": [
-        "India Firm"
-      ]
-    },
-    {
-      "title": "Sarvam AI Funding: Startup Eyes $300 Million at $3 Billion Valuation",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQk1xYVdqTzJNVW5ZVktGSW4ySVNCcngzQjZxYTZCWTJPX3c2YUF3dXhNRl9MaldqZEtMQVY3N21Da3dzUXJpWXFUY0tvM3lOVTNvOGxLSUs0bjVWN0dIODg2M0Z4anpaWW45QVA4R2tZZUVjRjh4LTM0Rm1MSjBZSlloMW5zNVZXWGhPWVdFMlM5N1ZKVVJaMkRGeUZQWnc?oc=5",
-      "source": "CXO Digitalpulse",
-      "published": "13 Oct 2026",
-      "summary": "Sarvam AI Funding: Startup Eyes $300 Million at $3 Billion Valuation&nbsp;&nbsp;CXO Digitalpulse",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Thomson Reuters and Smokeball: AI meets practice management",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUUzdFhVREdRRHF5aG0zaHltOVJDSjhIMEswaDB6UERJOG9aeS1JcGhrUjFpai0wTzZYNWtrWE13bnFwZDBfQmljTW5ZSm9nYjNtQ084SENYemU2YlNweVpqdko2SXJGanptdnZOdEVkRFoya3MyUWp6eHpzRmk0NkNtODQ3Rm9zaXVMMFlIWDkwOGE4RUJacA?oc=5",
-      "source": "Thomson Reuters Legal Solutions",
-      "published": "13 Oct 2026",
-      "summary": "Thomson Reuters and Smokeball: AI meets practice management&nbsp;&nbsp;Thomson Reuters Legal Solutions",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Exclusive: Jylo unveils \u20183.0\u2019 with agentic workflows, Microsoft add-ins and AI spend controls",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXpLaXh2NmlRQ1NPZUVkUnA2cktaY0VRRGlfRGNjV3lEV3oxWkgxUWF3M3gtWmNZNmJkdC1lY0o3T3NybW9fS0dkMzkyZjRSMXljMW5Sa0RydTExOGQxUV9SVTVzRlBiSG9sOTRGQ3ZDSDBoWEU2UVJUQ3dSVjY5UWN2aDBCRHd3X0JiOF9jaUZSNlJTa25xR2IyS0lQcjQ2T0p4N1lYNWRZU3h4Wmx4enJhbUV0TkU0S0E?oc=5",
-      "source": "Legal IT Insider",
-      "published": "13 Oct 2026",
-      "summary": "Exclusive: Jylo unveils \u20183.0\u2019 with agentic workflows, Microsoft add-ins and AI spend controls&nbsp;&nbsp;Legal IT Insider",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
