@@ -1,72 +1,115 @@
 {
-  "date": "Tuesday, 17 November 2026",
+  "date": "Wednesday, 18 November 2026",
   "articles": [
     {
-      "title": "Barrilero rolls out Legora AI across its offices",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEFKNWhKWFhMQWI5VjFXeXcyd2txeW9qUkVXVWZTbWVEY2RDX2FsaF9taXo3aDZKYUZ1TmwxZDNQc2c4dFVnTmxGcVhnanZtZFdlT3RhMXVUVS1oZWJvYXppckpBS0o0XzJlM3FWWGRGWThSczdrYzJrVUJkM1lfeA?oc=5",
-      "source": "Iberian Lawyer",
-      "published": "17 Nov 2026",
-      "summary": "Barrilero rolls out Legora AI across its offices&nbsp;&nbsp;Iberian Lawyer",
+      "title": "Why is Sarvam AI offering Chinese AI models, and what does it mean for India\u2019s AI ambitions?",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnFKbzdzbXQzSzl2TWNMaTJOZFg3VEkzRmE5dHkzR19kRDlyS2VBRjVDRkMwQUw5NkVtRDhYSHd2QWt5ZkpJLTJtQk4yb3U0ajd6R2RrS0NNTEVfREJVLU5YMnBObkxHdmFyUHlUWm96bGpzbnF3NXVIUE9GLTJIcGFMYm1uQVNyb2hUSzM0THd3eUE3amZRNjF2Umg0SXZCeEhWSlNrWFRwUi1GNzV5RXdKLThneEdXcVRzSlJTRFFDX01Z0gHLAUFVX3lxTE0zOFF0QlY1R09nbm9TTTZFQnlTbWJpYXNaQUdtNS1Xb0hZb2p3YUtGTHZnMVE3VDNFQW5SaWZ4RUtXNnlNRDRDX0NVWFFrdzVoSVphR1JoSHBnU2dCbTg3UWhiemlyeWlYZW9xbDlrYlo4MDRnbnZYV3hvdFc4WmxOSTZFNVJhTHlydE0xcHNVQ1pqcWpNdXBTTVRVRER4TXVvRjVvbC04SEU0ZGdXQ21WRy1LS2dndDZ5Y0Z2YlB5RmNQTGVrWl9SS3VJ?oc=5",
+      "source": "The Indian Express",
+      "published": "18 Nov 2026",
+      "summary": "Why is Sarvam AI offering Chinese AI models, and what does it mean for India\u2019s AI ambitions?&nbsp;&nbsp;The Indian Express",
       "tags": [
-        "Global AI Tool"
+        "India Startup"
       ]
     },
     {
-      "title": "Sarvam AI Opens Token Factory To Run Global AI Models On Indian Servers",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbjg0TDZGYjRRUF94dlZ4Y1plTlBZM0xXZ29DNlJBdjhMNXRZMEtpd1VoNUtyTUlsWlBSR2lrWHAxVUFrdTd2VVlOdVktOTg5OHNtT2tDd3RrVFZud0FETHRQcVV5SkVIa2l4TDk4Qk1IdklESE5PQmh0NE9keTdQTlV0dVFWUllNcVlheFBxb0IwdHM1cGtCSEdVTQ?oc=5",
+      "title": "Korean Government's AI Cheating Crackdown Faces U.S. Legal Hurdles",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjlJeUs1Vm4tVl9kV1FFWGh6OTlwS2tuNlBaV29SN2t5OUwtcFppVkhtWklocHZNLVVSMTJpd3c4MmMtejJaUUJCR0Z6REh1NnJHdFVNMnlSdXZMWFdrS3dXMEVPc2hOaWh5MTRaSUIyMmNWQVhjNy1xUHQ0NndRMUhESXJJRm5R?oc=5",
+      "source": "\uc870\uc120\uc77c\ubcf4",
+      "published": "18 Nov 2026",
+      "summary": "Korean Government's AI Cheating Crackdown Faces U.S. Legal Hurdles&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Sarvam\u2019s AI Inference Play, Perplexity\u2019s IPO Soon & More",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbS1ibWN3U0FIVHB5ZDQxU3hIUnJWTWVOSGR3bXVub285OW5IbFB5Nkd5bWJxSTZpbkM2NVNsS192THdnRXppZzVTSmZLR1BnSWVuTWxud2ZPOXZ1Qk1tb1JCbTFVQkJrSVpjckktcUw1WXlWdWFuLVdCY3dDQnBWeA?oc=5",
       "source": "Inc42",
-      "published": "17 Nov 2026",
-      "summary": "Sarvam AI Opens Token Factory To Run Global AI Models On Indian Servers&nbsp;&nbsp;Inc42",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Google, Salesforce, Sarvam AI partner with Karnataka to train 63,200 people in AI - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVhETHBJX19CLUZTdEE4MG1FMGstRWJDMjFEaU5Da0J5SDZnVGY5aFVSdmY0WEVhLWxhTVhXLVoyRlZ5MUZvcDN1SDhNbzlxVlRDR2Roa2JCTEpTM0s2R0xva2h0Y3dDQ3J2VXI0cGVIczZJY0RCLTIxWVhrQUFYTnVxbWcxSkx3bWNQUkNTak1JV2UyRmNDZzVxeVF5OWR2eFA0YVVMaXp6TmhlWjVBeFRYU0pFQQ?oc=5",
-      "source": "LinkedIn",
-      "published": "17 Nov 2026",
-      "summary": "Google, Salesforce, Sarvam AI partner with Karnataka to train 63,200 people in AI - CNBC TV18&nbsp;&nbsp;LinkedIn",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Sarvam opens AI token factory, India's answer to OpenRouter and Hugging Face",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcE5wNm83X3BJQXVLcUZ3R3p5WkxiMWZHdEhOdi1YRzhkVzduVXl1Skp4N1dBeTJLN1E4dVVjTWpDTmlfZm5pekpiU0pBVFB1Tnc5SmRYaHFNaVB3WGRyOGNFSHEtbk9EeVR5ckNVVGtqYWZpRTIwNEJoTnpNelZKemZoRDA5ZnZiYlJsaTJpTDI3RUl4RlFSNk13QUNlQ0NJRkFNYjNac1g2bG95WTBURmtJX0dVWVVqOEdacDNLblFZdE5reXZYRkRDeDcyeG5GbjBmVG1JWHjSAd4BQVVfeXFMT3VKWUR2ek9vTy0zdnMyZV9ZOEVOVERpM0RHTkJYd1VoeV9rVUg5OUxWU0VVSDg4R2JVazlreHdCdkpEUVdLYUFZX3JSRlRwcE85ZlJvWFFwT1ROQTJodnhjU0trWkxkY0h2RjhFakdfSTJjTU0yRFhRWlZvVFRwUzU4Zml1WVBuUTFwSGpHNDJCcEFlQkx5SUxNXzBzWV9UMTJJV3RvWnZacHctVjBIakNFTmhBUUdRVzN1WXVOUkF1alNQZUoyN3NEWUU2T3hPdU5HX3U4UGFxamN1NUFB?oc=5",
-      "source": "India Today",
-      "published": "17 Nov 2026",
-      "summary": "Sarvam opens AI token factory, India's answer to OpenRouter and Hugging Face&nbsp;&nbsp;India Today",
+      "published": "18 Nov 2026",
+      "summary": "Sarvam\u2019s AI Inference Play, Perplexity\u2019s IPO Soon & More&nbsp;&nbsp;Inc42",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "How Harvey Nash is embracing \u2018Citizen AI\u2019 for faster experimentation and adoption",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQXzlmdzcySkZiX1BUMVpXRDN2eFJXWFFtaGgzYXB2bnZCVkJVYjRVVUdLaF9NelRXU1dQWG1LZUl4TTBjaVhGX19SWnN1Y0tSbzZrY2htRGE0SDNwNEsyc19EVW5ZRi1ESEs5Z0RMb2RkdnI3QnNpbW5SaU9hU2daeWZjcWw3R3dqdzdxajNoVXNFQlVs?oc=5",
-      "source": "Computing UK",
-      "published": "17 Nov 2026",
-      "summary": "How Harvey Nash is embracing \u2018Citizen AI\u2019 for faster experimentation and adoption&nbsp;&nbsp;Computing UK",
+      "title": "Harvey Spaces Streamlines Legal Matter Management with AI Integration",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fdmNWN2l5RUxQbGxfeGFnUVFRZEVBRHdhanRQY3RZMGpIWGJ4Q3JBb21ST0xoZGZrQ0M5T2U1aGFaSlg4NHBQMk5LdUk4Zk4wR0txX3FEdURkeGN3dGlscExGYV9XZWtmUWJXcGQ3Q1VLUnV6?oc=5",
+      "source": "Blockchain News",
+      "published": "18 Nov 2026",
+      "summary": "Harvey Spaces Streamlines Legal Matter Management with AI Integration&nbsp;&nbsp;Blockchain News",
       "tags": [
         "Global AI Tool"
       ]
     },
     {
-      "title": "Harris County to consider AI facial recognition contract and flood mitigation funding",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMGJSTVFmNVFPY0V5Tk1HNEZDbFdPemdoenJicEluR2hpMEN2SzJEN3o4WkxJWDVJeVlnUVhYNGpyTVZFUW1tU3o3VXczbTZaTnEyVVZhYVdOSVdSRTFVX2hmX0FENjd0bmJjdGlCR2paZTlDZWVsMVh1bnVROFZUbEFqdElOSnBVeUdFMTBuOTBLeXlVVHkzLWx0blU2bUdwRnFvVWxfUDl4eERvbUVwdDNHOU5TbkNpYy1xNl9udDZPOXh5QkRLWUpmOFRSZDhuU3d3R1Vpd0o4c0s4TFl0TkE2cmJKRGJwbzNkSlhNRDhvWERUT20tTzFfZkZIXzFoWXJidTZwb0tWU2s?oc=5",
-      "source": "Community Impact",
+      "title": "Harvey Legal AI Rolls Out Across More Than 20 SK Group Affiliates",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUlQZ21zQy01bExmRUdObkwydUs3YjFsaDllMTFheVpseUl5aXY4bF9xMEtlaDRfWTJRWjRqbzJDLWJseGItQjhWem5xdnlWODRhcTBRODZzbWhpQlVtSFVwcEhlaGFpMmQ5RWhJZExvOE92aVFXUm02MFVuOFZ2Zy1TUUVzaHNHd0xvX3BiVTQ0dDc5aWR3?oc=5",
+      "source": "Securities.io",
+      "published": "18 Nov 2026",
+      "summary": "Harvey Legal AI Rolls Out Across More Than 20 SK Group Affiliates&nbsp;&nbsp;Securities.io",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Thomson Reuters Brings CoCounsel Agentic AI to the Tax and Compliance Products Professionals Trust",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSHBmcGNzU2dETzBMdWF0azVHR25WbV9QVUlUQ1RVS0NKVEhBalEwY3JxRHI0Mm9jdzAwUW5SOHZteDI5WFBPWkktZHIxNWlEazlxaG93dFZuazV4SkZBWkltdEkzb3h2ZG95b05PT3U5anZqXzNJc0NVYlRqNDNQNmljTEJPOS1kbUtkMUg4Y1pjWVNab09USG1iUHJkMFRvbUVzRWpnSWZRSmx4c09pbC1vOThpNVZKU1cyNkVwY1BJd3k1eklnMWE2UUhiemk5dkx4OV96a3duUDAzcjh4QzZmei1sRXZwQUhYanZ3VnFPLVE?oc=5",
+      "source": "Thomson Reuters",
       "published": "17 Nov 2026",
-      "summary": "Harris County to consider AI facial recognition contract and flood mitigation funding&nbsp;&nbsp;Community Impact",
+      "summary": "Thomson Reuters Brings CoCounsel Agentic AI to the Tax and Compliance Products Professionals Trust&nbsp;&nbsp;Thomson Reuters",
+      "tags": [
+        "Global AI Tool",
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "OpenAI updates Astra for Law, expands access to enterprise users",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWJMdnp2V2pfUWs5NG03TkVzeTRiREVHZ1NKOXZxQ3A1OU56MkREbWNoRDZjNDEzLTNGb3V5bHFDTWxVcW41elh4OWlyYmt0a3ZiZURnZ3hBVDFUaVNfY19WVmx5b1QxQldaUzBDTXNROTBLMXZxVWhuX21FSFNfazg2MmdvWTY1Z3Q1RllUNzJnUEViTmktemFjWHFsOWRlNzZZRHhuMVRoQXVYNlZDa3A1ejNzdzVPZ25sQVI1WVdnTWc?oc=5",
+      "source": "StreetInsider",
+      "published": "17 Nov 2026",
+      "summary": "OpenAI updates Astra for Law, expands access to enterprise users&nbsp;&nbsp;StreetInsider",
       "tags": [
         "AI Trend"
       ]
     },
     {
-      "title": "Herbert Smith Freehills Kramer Hires Norm Ai Legal Engineering Team to Expand AI Capabilities",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEpiOUFwdWlhS0pjLXBvWWpGQ1Y2bFpqOVNpWDd1OTRmTFJrcmYxa0prMVlhOHczc2JqVEVkWjVmVDNfMVplNTNVUFhJQ24tUTMxSnlCRy1XcDVxTEd5MEIwNnlZeVJFY1NGNDhMcXdXbHR2T2luU0lOZGYtb3l5YmFkR2dlR0EzYTZ5Q3FQU2NOYlJXblR2VXVpaTVqUEpXZXdKOGVCSHhOTHlTQ3hHRmt6ck5HenFPNkVzRnBDV2laZUF0eExLcUtKR08?oc=5",
-      "source": "citybiz",
+      "title": "Copilot at Microsoft Ignite: Expanding what\u2019s possible with intelligence built for work",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQm5ka2JwWW41TURfckR5a2x4U0tSLTdudWZpb1lxc0ZqSk54UWFKckFVMUlXSUJGcE5HYlJyV0s1NFlNSktiOXZlTWJsbVZSNDVmYks2Y3QxUm5vOGstUHlpZDcyMXlVbzBsTHZMMzI2MUFtUWhuT1ZXZ2llV0t3djBGeXpPX1ctNFBxLTlYNTZpWUFpb01KcTRGbUlXM0pPMklic1BGM2RLT2oxdlUxc0F6WWIxWkhQbUFsLWFLLXVNNXJDQzZSbVJ6SXROaW9HTFVFMk4wQTRMUQ?oc=5",
+      "source": "Microsoft",
+      "published": "17 Nov 2026",
+      "summary": "Copilot at Microsoft Ignite: Expanding what\u2019s possible with intelligence built for work&nbsp;&nbsp;Microsoft",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "McGuireWoods\u2019 Greg Hawver Speaks at Harvey FORUM Chicago About Legal AI",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWGtVTnRtOVI5QXFhOTdEZm1YN1ZaVG0wWUNUTUhIWkFsSWtjN05HblVUdFFGX29STUdTaGFTUWY0c2JHOTEzYWwxSmFCcUZ2VjJIV3NxNlBOR2VQOVl4ckZhakljaV9ZOHZNSFFzZXJWM1NyNW9wUG1Pd1ZDVE9zSjlWWjBHY1VoeDZReUZJYV9yLWx3OTRCY1ZadURPT3dZVnZPUC1qSEZyNVh0VFA2UG9rUm5NZmNTNFl1Y2VHWHEyOUMyci1r?oc=5",
+      "source": "McGuireWoods",
+      "published": "17 Nov 2026",
+      "summary": "McGuireWoods\u2019 Greg Hawver Speaks at Harvey FORUM Chicago About Legal AI&nbsp;&nbsp;McGuireWoods",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZ1AtdGh5bUdSU1VpTEhQWFVncDNieWRxSkhQUTJVVjhGbl9ycXZTaWs5bGtZUktmUndCRTFtS2pubXJvOE5kY25qQ0s3NlRG?oc=5",
+      "source": "OpenAI",
+      "published": "17 Nov 2026",
+      "summary": "Astra for Law leads in legal intelligence&nbsp;&nbsp;OpenAI",
+      "tags": [
+        "Global AI Tool"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Legal AI is moving deeper into legal workflows \u2013 is your firm ready?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXZwRnA3YUpJdGg1cE5XZlRyV2o5Q0tjbFhsVzBGWWIwa3l2bGJ4OUwyTDA3SkNmQWhVdHJuYm8wYTRtbVBmVEI3QzI4ZjhmZHVoVHBLTnRWRGVJOVY0RWJ0NVZUU2hldG9TMzdOZ0s5SDRJcDVxX0E0YXNkSjR2TC1Od2dkcllpRUdRSmdKVUhnOEVyUXBWRUNkb2NfWTdBTVRUTXhVcEFtQ1pnLWxYcA?oc=5",
+      "source": "Legal Futures",
       "published": "16 Nov 2026",
-      "summary": "Herbert Smith Freehills Kramer Hires Norm Ai Legal Engineering Team to Expand AI Capabilities&nbsp;&nbsp;citybiz",
+      "summary": "Legal AI is moving deeper into legal workflows \u2013 is your firm ready?&nbsp;&nbsp;Legal Futures",
       "tags": [
         "AI Trend"
       ]
@@ -82,17 +125,75 @@
       ]
     },
     {
-      "title": "Legal AI is moving deeper into legal workflows \u2013 is your firm ready?",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXZwRnA3YUpJdGg1cE5XZlRyV2o5Q0tjbFhsVzBGWWIwa3l2bGJ4OUwyTDA3SkNmQWhVdHJuYm8wYTRtbVBmVEI3QzI4ZjhmZHVoVHBLTnRWRGVJOVY0RWJ0NVZUU2hldG9TMzdOZ0s5SDRJcDVxX0E0YXNkSjR2TC1Od2dkcllpRUdRSmdKVUhnOEVyUXBWRUNkb2NfWTdBTVRUTXhVcEFtQ1pnLWxYcA?oc=5",
-      "source": "Legal Futures",
+      "title": "Herbert Smith Freehills Kramer Hires Norm Ai Legal Engineering Team to Expand AI Capabilities",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEpiOUFwdWlhS0pjLXBvWWpGQ1Y2bFpqOVNpWDd1OTRmTFJrcmYxa0prMVlhOHczc2JqVEVkWjVmVDNfMVplNTNVUFhJQ24tUTMxSnlCRy1XcDVxTEd5MEIwNnlZeVJFY1NGNDhMcXdXbHR2T2luU0lOZGYtb3l5YmFkR2dlR0EzYTZ5Q3FQU2NOYlJXblR2VXVpaTVqUEpXZXdKOGVCSHhOTHlTQ3hHRmt6ck5HenFPNkVzRnBDV2laZUF0eExLcUtKR08?oc=5",
+      "source": "citybiz",
       "published": "16 Nov 2026",
-      "summary": "Legal AI is moving deeper into legal workflows \u2013 is your firm ready?&nbsp;&nbsp;Legal Futures",
+      "summary": "Herbert Smith Freehills Kramer Hires Norm Ai Legal Engineering Team to Expand AI Capabilities&nbsp;&nbsp;citybiz",
       "tags": [
         "AI Trend"
       ]
-    }
-  ],
-  "archive": [
+    },
+    {
+      "title": "Harris County to consider AI facial recognition contract and flood mitigation funding",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMGJSTVFmNVFPY0V5Tk1HNEZDbFdPemdoenJicEluR2hpMEN2SzJEN3o4WkxJWDVJeVlnUVhYNGpyTVZFUW1tU3o3VXczbTZaTnEyVVZhYVdOSVdSRTFVX2hmX0FENjd0bmJjdGlCR2paZTlDZWVsMVh1bnVROFZUbEFqdElOSnBVeUdFMTBuOTBLeXlVVHkzLWx0blU2bUdwRnFvVWxfUDl4eERvbUVwdDNHOU5TbkNpYy1xNl9udDZPOXh5QkRLWUpmOFRSZDhuU3d3R1Vpd0o4c0s4TFl0TkE2cmJKRGJwbzNkSlhNRDhvWERUT20tTzFfZkZIXzFoWXJidTZwb0tWU2s?oc=5",
+      "source": "Community Impact",
+      "published": "17 Nov 2026",
+      "summary": "Harris County to consider AI facial recognition contract and flood mitigation funding&nbsp;&nbsp;Community Impact",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "How Harvey Nash is embracing \u2018Citizen AI\u2019 for faster experimentation and adoption",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQXzlmdzcySkZiX1BUMVpXRDN2eFJXWFFtaGgzYXB2bnZCVkJVYjRVVUdLaF9NelRXU1dQWG1LZUl4TTBjaVhGX19SWnN1Y0tSbzZrY2htRGE0SDNwNEsyc19EVW5ZRi1ESEs5Z0RMb2RkdnI3QnNpbW5SaU9hU2daeWZjcWw3R3dqdzdxajNoVXNFQlVs?oc=5",
+      "source": "Computing UK",
+      "published": "17 Nov 2026",
+      "summary": "How Harvey Nash is embracing \u2018Citizen AI\u2019 for faster experimentation and adoption&nbsp;&nbsp;Computing UK",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Sarvam opens AI token factory, India's answer to OpenRouter and Hugging Face",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcE5wNm83X3BJQXVLcUZ3R3p5WkxiMWZHdEhOdi1YRzhkVzduVXl1Skp4N1dBeTJLN1E4dVVjTWpDTmlfZm5pekpiU0pBVFB1Tnc5SmRYaHFNaVB3WGRyOGNFSHEtbk9EeVR5ckNVVGtqYWZpRTIwNEJoTnpNelZKemZoRDA5ZnZiYlJsaTJpTDI3RUl4RlFSNk13QUNlQ0NJRkFNYjNac1g2bG95WTBURmtJX0dVWVVqOEdacDNLblFZdE5reXZYRkRDeDcyeG5GbjBmVG1JWHjSAd4BQVVfeXFMT3VKWUR2ek9vTy0zdnMyZV9ZOEVOVERpM0RHTkJYd1VoeV9rVUg5OUxWU0VVSDg4R2JVazlreHdCdkpEUVdLYUFZX3JSRlRwcE85ZlJvWFFwT1ROQTJodnhjU0trWkxkY0h2RjhFakdfSTJjTU0yRFhRWlZvVFRwUzU4Zml1WVBuUTFwSGpHNDJCcEFlQkx5SUxNXzBzWV9UMTJJV3RvWnZacHctVjBIakNFTmhBUUdRVzN1WXVOUkF1alNQZUoyN3NEWUU2T3hPdU5HX3U4UGFxamN1NUFB?oc=5",
+      "source": "India Today",
+      "published": "17 Nov 2026",
+      "summary": "Sarvam opens AI token factory, India's answer to OpenRouter and Hugging Face&nbsp;&nbsp;India Today",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Google, Salesforce, Sarvam AI partner with Karnataka to train 63,200 people in AI - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVhETHBJX19CLUZTdEE4MG1FMGstRWJDMjFEaU5Da0J5SDZnVGY5aFVSdmY0WEVhLWxhTVhXLVoyRlZ5MUZvcDN1SDhNbzlxVlRDR2Roa2JCTEpTM0s2R0xva2h0Y3dDQ3J2VXI0cGVIczZJY0RCLTIxWVhrQUFYTnVxbWcxSkx3bWNQUkNTak1JV2UyRmNDZzVxeVF5OWR2eFA0YVVMaXp6TmhlWjVBeFRYU0pFQQ?oc=5",
+      "source": "LinkedIn",
+      "published": "17 Nov 2026",
+      "summary": "Google, Salesforce, Sarvam AI partner with Karnataka to train 63,200 people in AI - CNBC TV18&nbsp;&nbsp;LinkedIn",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Sarvam AI Opens Token Factory To Run Global AI Models On Indian Servers",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbjg0TDZGYjRRUF94dlZ4Y1plTlBZM0xXZ29DNlJBdjhMNXRZMEtpd1VoNUtyTUlsWlBSR2lrWHAxVUFrdTd2VVlOdVktOTg5OHNtT2tDd3RrVFZud0FETHRQcVV5SkVIa2l4TDk4Qk1IdklESE5PQmh0NE9keTdQTlV0dVFWUllNcVlheFBxb0IwdHM1cGtCSEdVTQ?oc=5",
+      "source": "Inc42",
+      "published": "17 Nov 2026",
+      "summary": "Sarvam AI Opens Token Factory To Run Global AI Models On Indian Servers&nbsp;&nbsp;Inc42",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Barrilero rolls out Legora AI across its offices",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEFKNWhKWFhMQWI5VjFXeXcyd2txeW9qUkVXVWZTbWVEY2RDX2FsaF9taXo3aDZKYUZ1TmwxZDNQc2c4dFVnTmxGcVhnanZtZFdlT3RhMXVUVS1oZWJvYXppckpBS0o0XzJlM3FWWGRGWThSczdrYzJrVUJkM1lfeA?oc=5",
+      "source": "Iberian Lawyer",
+      "published": "17 Nov 2026",
+      "summary": "Barrilero rolls out Legora AI across its offices&nbsp;&nbsp;Iberian Lawyer",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
     {
       "title": "Wotton Kearney Expands Harvey Legal AI Across Asia Pacific",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTJTc1Rqa1BBZ0tCMHo0cUtDUzl5Z3QwMFU4U0N2dkxfZndUSkNFVWxsNThmUHhVa0RKbG5lVWphMUhNX1pZd2FkVl93eVh5SThZRVBlaDZMM3MxUTNOUGxLMV9GV1FKUTZHcmZQUEVtdVV4X203LThuME1vUFhpZzRfMzlkNlU?oc=5",
@@ -2019,96 +2120,6 @@
       "source": "Legal IT Insider",
       "published": "15 Oct 2026",
       "summary": "Microsoft introduces Copilot for legal with circa 20 purpose-built legal skills&nbsp;&nbsp;Legal IT Insider",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "From 105 Billion to a Trillion: Sarvam AI Is Building Bharat\u2019s Own Intelligence Layer",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXVGMzdaMHNkNjk0bkkwWXRoNVVaYmVIWnR5QXdmUHgwc1VPbzhBOTFmUS1CRmRNZmxOeHlpYS1NTWdKdW5NN0Ezd19XVV9ldTZpUWwzSlhUUE9rWGUyZklqRU9rei1FRHJ2bDdaVk5OWHdDNTFLSkNWeExKeVNDRDFYS3BqTFJWQzN0RDZ6c0RCSVF0VktxeW5OeUxqZDhnZDlKSVBQRC1xeENRazctQzgzcXJEMWRPX1RsZkdXZw?oc=5",
-      "source": "HinduPost",
-      "published": "15 Oct 2026",
-      "summary": "From 105 Billion to a Trillion: Sarvam AI Is Building Bharat\u2019s Own Intelligence Layer&nbsp;&nbsp;HinduPost",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "Microsoft launches \u2018Copilot for legal\u2019 as AI battle intensifies",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVgzREY4UzFPeWVESHZZcUp2Z3FJRERlVjRVWEY5UEh1OWV3WVBfdm8zTENJM0QycjNyMjNGMnNGT1dvREt1d3pvNzRLVlFSSTFteUs0bGFtV2VRcmRmWXdLVV9IeWlyT0xFbzJDaUpNYVBNR0lTcFhabk5ZYTlobzNKanNmSXBwaldHS3dnOG5QUQ?oc=5",
-      "source": "The Lawyer",
-      "published": "15 Oct 2026",
-      "summary": "Microsoft launches \u2018Copilot for legal\u2019 as AI battle intensifies&nbsp;&nbsp;The Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Lexidesk Launches MCP Integration for Conversational Intelligence, Turning Law Firm Intake Into Actionable Business Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWkNEdXJrbEtZOS1uYWZiSlVpMU9IZzFDSmVPTGt2ZFFmRnpHSjI1WTU5NGRQRUNEN19sQ0czVUlqeC13WHQ5M1Y3YWY3bkMxcFZOdXZKd0NMR0ZNQXFUYnl0VHNsRC1aUU5fTUUtQTh5UG5rdUJaWVBocW1oMi1uWDFWMTMtdE5fRUlmdkkwUGJWMTNVc1QwYjhzSDR4dXFYSlVEeGhJVTJvWW9uNGNYZ0dJN0ZKajR1SkJyMXZ6NUFUY2tEX2sxUmJMV0tkeUxVaEpyRGF2UjMyanVNLWE5OUNqVkhad0FUYXVJNA?oc=5",
-      "source": "Legal Reader",
-      "published": "15 Oct 2026",
-      "summary": "Lexidesk Launches MCP Integration for Conversational Intelligence, Turning Law Firm Intake Into Actionable Business Intelligence&nbsp;&nbsp;Legal Reader",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUZTeHFON0FiQ0pLTm51eGx1YXVsT3VHOHdMTmJVbFRVVVUyNzZCVnpUbmxPaXR3SkIyN19maGNQMGVjaG5uZmlkZlk5UWVJOGdTcV93RjlZRlBOeE8zUHhSaElaODJQV0NFb3dDMnhIcGczUjZicFluSHdkR3llczVIVXp1V2pxcGhlZy01X25hOEs2X1pSRDZzbXRockRTVkpTMTRXQ0tIazlWZU9rcEdXVXlGeWZvTG93ZW93RVJyaDRnaWJTbUpHbGx1UnlBT3dCY2RBaDZKQWJsZldIVw?oc=5",
-      "source": "LawSites",
-      "published": "15 Oct 2026",
-      "summary": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical&nbsp;&nbsp;LawSites",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLXROVURfMy1ldmoyT1Zaazg3OGdvVHNXNlBIZzlQRlk5QlJqYk96d1NrRDhUT3ZJeUJnZTJsaDZGZFVSbjBjd3hQZmRKZjQ2bGI4R3Q4MmVtajhSd2ZWOWtxal94bWQzeTRReGU1WjdxbjNQRUwyVUxaV01IaGRXLUlzY2tIemQ1dFpMSWJOZGlSVjhaclYxYm1EVTRCX04tbENDMVRWeW1PTFM0YzZqcWJlaWxRSU5HYkFwNVZsVzQ4eU1UYWdzT0Y3WDJIWGNDaEowaQ?oc=5",
-      "source": "Morningstar",
-      "published": "15 Oct 2026",
-      "summary": "Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot&nbsp;&nbsp;Morningstar",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Finally, A Way To Measure AI ROI: Be Careful What You Ask For",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXVJZUxzanZGY2xtLXdIbl9XSUVlUEUtOVBtMXZpbUx4c2pFVWN2TGdPOXFlWlpVbk5OajdWN1RhZHJBMDVLNmlDZUpfelpuQ3IyYVp4d09KT0RjdUl0MGppR01BWXpsc2NsRlVJLXRZNzdNY1B3X05EeDd1YU9mNFR4X1dVNmdUd0liWWtHNzNLMnhjSXRV?oc=5",
-      "source": "Above the Law",
-      "published": "15 Oct 2026",
-      "summary": "Finally, A Way To Measure AI ROI: Be Careful What You Ask For&nbsp;&nbsp;Above the Law",
-      "tags": [
-        "AI Trend"
-      ]
-    },
-    {
-      "title": "Legal AI platform Harvey names Stewart Garret APAC vice president",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR1BIc2E4YXM0WXpDbWd5Y3VsZjRGcHkxQTFUY3EwSHpINndBZWRPdlF1bTlYOURpUGR6TVVsOEZxS0Jqb1lJUFZEOE1OMjNrVEljWmNZVzlnSW5IMXppYlQ0b3pCVTgzY1p0LXlCVnZDU3FzOVBsdzNzTUtSYVB4UFpDSlVnTWdkdEJObTNYejh1UnkxNnlvMHRqU3FORi1sa1VmemY3WEJsM0pPXzZlS09QRUlEZmN6Qzk4VmRhTnRqQXI1amRHSlg5bzl1TkRxYXU3QVRTcDE?oc=5",
-      "source": "Capital Brief",
-      "published": "16 Oct 2026",
-      "summary": "Legal AI platform Harvey names Stewart Garret APAC vice president&nbsp;&nbsp;Capital Brief",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Thomson Reuters adds cross-border legal research to CoCounsel Legal",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbEFFYm8zR0ZqWjA5Szl0SHo1UVRaS3E1dV9yUkg1QzkzUExLcUFBOXJaWmZrbnVjM3ZOd1NvVW02MllHMlFJcU1QeXgtcmhmZkNFUHdsRThydjlqbmJZV0ZvcU1ob0tsSkt2ZklGek1VU1NIZHRQRlFQOGRfRU1xYTZhSjEzdw?oc=5",
-      "source": "TNGlobal",
-      "published": "16 Oct 2026",
-      "summary": "Thomson Reuters adds cross-border legal research to CoCounsel Legal&nbsp;&nbsp;TNGlobal",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "CoCounsel Legal \u2014 September 2026 Releases",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzdfdGtMLXphRl8wNUJIaEtWQlo4QU1rRjg2QVk5MFNOY0pfaGZCYUU2Yy1wY1ZKNGcydjZERlBHN05NYmd2ZXQyaTVaSkZSRWg0TUxCZVkwcF9BLVhTQ0hka0h1eGVmZG9FTUxFelpiLW1PbVZuUi1BX0x1dVNoU2xDSzNCdGE4N0hJSXVLbkZuQUZkNlhFRXVB?oc=5",
-      "source": "Thomson Reuters",
-      "published": "14 Oct 2026",
-      "summary": "CoCounsel Legal \u2014 September 2026 Releases&nbsp;&nbsp;Thomson Reuters",
       "tags": [
         "Global AI Tool"
       ]
