@@ -1,32 +1,144 @@
 {
-  "date": "Thursday, 19 November 2026",
+  "date": "Friday, 20 November 2026",
   "articles": [
     {
-      "title": "Legora just hired a former skeptic to help win over corporate lawyers",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWndVd1BfT2FkZXVNTWpNaGtjZlFwT3BHN0VHbDNEV0VmalFTeDVESXZiUHgwcllReVRKeFdpV1g1dzg0SU1fM0pfNU9aRUFqR2lyS3hnSDVoUkhhV2VVdjB5SHk5SElraHFadDJNdjQ0eW1sQnZCUVFFSzV6bzNuWEg3VWxORTR1VmtNN3Bn?oc=5",
-      "source": "Business Insider",
-      "published": "19 Nov 2026",
-      "summary": "Legora just hired a former skeptic to help win over corporate lawyers&nbsp;&nbsp;Business Insider",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Sarvam AI\u2019s Token Factory Introduce Sparks Debate Over India\u2019s Sovereign AI Ambitions",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUTBaVkk3SW52RXpWVnhub1ZtR2ZkeWMta3pQTHItbmwzUGlxTlJneEZVRlBPekoxQkJnaHNBR1c1SU11NUFaSlVWVTJoNWw1MWpBSTVXV2swOWR3bjVIZzhwcUd1YTVqQ2ZXSWFseWVFUmtrSjlTV3ZwMHQxRFNaR1VIbVR0UVM1MDR6VmVUMllkdlFzMWF2Z0o3UGlnM0hzdGJSOGVZQngwZ1Z1N2RoZnJCOTZFdHBkM0pERG8yaEQwY2RC?oc=5",
-      "source": "BW Disrupt",
-      "published": "19 Nov 2026",
-      "summary": "Sarvam AI\u2019s Token Factory Introduce Sparks Debate Over India\u2019s Sovereign AI Ambitions&nbsp;&nbsp;BW Disrupt",
+      "title": "Explained: Sarvam AI's Token Factory and debate over AI sovereignty goals",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQXJROWRJVlpyTGVDYWR1T3gtaFZ1RlZ4Ry04c1NKNVJuWFFOejFLbml0OUc2RDJVdFNsZWRnOGozaDZPYkFQMTl2M1pXOUJ3dk44NmVhZFlkMHdoMm9MVlRLZTFYUENnNmIwLXZiRUJXSWRHTmpMc3R4VXdnLTAzT01uMkxJM2tHOFc0Q192LTNUQ3ZKSU0wdGstNmNfekxEbDBFRUtEekkwS2pNWjB0ZDJGUTVHQVpvQ3Rhcy1JR0k4ekEtOW1relZqUDJIcUh0MXhudUU5MFNRdDZibno3akZpOVFick1ieFpaVDd4WXJKNkHSAfgBQVVfeXFMT21wNzBYcElubml4WklyejJrMDFMMGdlbjNkcHdtOFBGczJCZm5RcW5fb25Ecmd0RHR2amVmMENyNW13U0o5a2lyXy1ReVF4Qy00U096Q3N5VVdrUm82Qm1ZQlZNaWJMZXdtUUV3bWNab3duVU11cnE3TlI4eVpyb2pTb19vMU05anJUaTJrYXV1ajROZ0FaSGZoZVhYTzR5MnRweFZDbzRpQzgzRlZCUmdpdnhIZjdpWkZ2Z3NwQXBGRE1zaTV5ZDduZm04eTYxeDJxWlF4UjIwdFJyMF85Y05yQkJLU3YtWGxtSElJc1RMYS1jSFY5ME0?oc=5",
+      "source": "Business Standard",
+      "published": "20 Nov 2026",
+      "summary": "Explained: Sarvam AI's Token Factory and debate over AI sovereignty goals&nbsp;&nbsp;Business Standard",
       "tags": [
         "India Startup"
       ]
     },
     {
-      "title": "What is Sarvam AI\u2019s Token Factory and why is it drawing fire for hosting Chinese model?",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN2NBNXhHSHFJMEYtOGdlNVhQenpDcjJXQnQxZVRUdmdrRTNwSXNwSXhFZjZUOF83bF9MRG1OMV90eXNYRWp4NWpvcm02aThpM21aZklSV1ZEWERoOXJFUHFWcktkZnR6T2pTOFh2UU5HQmJvUXVEQkhEWnJCRnhTdHVPOVktLWw5bHlLc0oyTFJXQUh0c1IwdUtoMUFLQzJ2M0J2d0d1ZjB6bWdKb2VhdFNuR21BamJuRWFjTGUzMGltV1VCb3Y2RlZ1V0pjbnFHZnI0ajd2Z2lYb3I1LThqMFVBbHlsbmh2U1lXV25VTzjSAfYBQVVfeXFMT0lCSmI2aDZlYXByN29mUmI4RXRSWnZqa183cURiZENMWXdoVzZRRzV2OXQ4YUdLbE1CaXdqVmJNTU9IaUdhbFA1QXcxSkxpeVRHby1kUlZ2cl9kYkRiN3hoSWwyR2d6R3QxZlpSNUR2U0NEMmJoemJ4WjFIVldjQkx5YjR6NjFWSnpXWkNEblZBZHo1Mk5IRjF6LUxYeXo5NFZyd3JFWV96MUNGcjMybUlrdlFnTjh1Q3RtTE1heDJMNzVPb2tsdzJPMmxCT2F6SHI0dkstVVhvRmcydG1wa1JfV3V0blJza2N6N3c0M3F1ZThYbk9n?oc=5",
-      "source": "ET Enterprise AI",
+      "title": "Litera brings legal document comparison and firm search into Claude",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEZob2NBZTVGa3RGNEV5YlEybWtSX0dySVJfTHc2S2ZmN0pGTmRJWnNhUWlXOVNmQW84aVd3NlM1Z3hsMkQ2bWJwbkt5Wm5IRWNWbEZiY3lhcEdvQTdTZzRjRFdWbDZDMnRkTG1tU0lwR1lDQjFmcjRaVHBYcTM4OWxzTlpGcnA3MFc3aHRCRnJOYkZQdnNNQmxfSjFUc0U3eXBj?oc=5",
+      "source": "Superpower Daily",
+      "published": "20 Nov 2026",
+      "summary": "Litera brings legal document comparison and firm search into Claude&nbsp;&nbsp;Superpower Daily",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "India\u2019s Sarvam AI launches GPU service for open models",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHB1Q2R0S09qRVVNYjFHLThmRy1yci0tOEVCSEVuRmdTOFk3ejhJMlFMWWx1Rjl6OWFxS3BOMGRpZEM3T0p5RmVNYlpUaG5MTDFYMVVvdmZOVFB0TEo1SGxTZ2hBdkNCcUF2dnlqOEpHUGlYMmdJdW1xbXM2WS16RUtMNnVqLXowbXlETHVB?oc=5",
+      "source": "Tech in Asia",
+      "published": "20 Nov 2026",
+      "summary": "India\u2019s Sarvam AI launches GPU service for open models&nbsp;&nbsp;Tech in Asia",
+      "tags": [
+        "India Startup"
+      ]
+    },
+    {
+      "title": "Harris County continues fund funding for Harvey recovery, stalls AI facial recognition contract",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOdUVUTHJ0N2ZzTU56OFBUYXhuTWNFMV83OVpNUUlpR0Q2UFFoWGl6ZHFEUnBkYjl6N0dNRzhxdWd0eWtvOWNwZGZGS0lvVTdKRkRQQnFRaE9fQ0V5cDRyX2VNUklFcHlnUm1wMzJKQy1uVzJPV1FnS0R5MnUxR3ZuS2o1WmlqcUhhbEJVdWNHNG05alZRTmRWWEs4YThNSVVkRmtZOUlqVk0zVV91RzV3NUdBdEhMaUQ4akc2cmsxRjJWZDBoMEdKamgzQ3J5U0E4VW5EOC1seFBUN2NnOWpDQjVBTEhRZlNqR2lMRExGb2J3Y19ZQjNGMnFac0ljTUFPcDIzZm1IUXBxQVYzejlLMXhqS3YyV1U?oc=5",
+      "source": "Community Impact",
+      "published": "20 Nov 2026",
+      "summary": "Harris County continues fund funding for Harvey recovery, stalls AI facial recognition contract&nbsp;&nbsp;Community Impact",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "CoCounsel Legal \u2014 October 2026 Releases",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV2JiV2piek03LTdHc2dwclJPUXdtM3hUUVhycnFvVElxNU9aV1E0TFZRaHplV2ZtNkFMZ1FaQXFabm5YWlJGbUduN3J1XzUwX0t6UWR5TnFnNlJQdjJ6SV90SE1PNkttQlQzSjBBcjVYMTlETzE2YV9WaGt2cWM3VjczRjdmUzFtVGVYZmtqS09ndkZkS3Y4?oc=5",
+      "source": "Thomson Reuters",
       "published": "19 Nov 2026",
-      "summary": "What is Sarvam AI\u2019s Token Factory and why is it drawing fire for hosting Chinese model?&nbsp;&nbsp;ET Enterprise AI",
+      "summary": "CoCounsel Legal \u2014 October 2026 Releases&nbsp;&nbsp;Thomson Reuters",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Hogan Lovells Cadwalader expands legal AI ecosystem with Thomson Reuters CoCounsel Legal",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUngxTXA0TWxmTkQ4cUdUSkVPOUpCTjNRN2JTbnhfZGNFREVDMmlORmZCSDhPWDlVWHhtNXRTSm04UGJtMlZWaXFBazY4eHNXV2g3QlByVmRYVEc3Wml4eFktWGp3aGRLZ3JLenhWTDcyNEU2R2toRTBETnZadlUyYUllVWdsY0JaeGxOd3E2TU9meGdZTTdoVFNRWVZuVEI5LXBHOXZUYVRoenRoTXlJeDRVMDVYcVBYUi12R1B5bm9meWxfN1pSdTl5cnBXRzh5UHZFcl9lRzJOYXc?oc=5",
+      "source": "Thomson Reuters",
+      "published": "19 Nov 2026",
+      "summary": "Hogan Lovells Cadwalader expands legal AI ecosystem with Thomson Reuters CoCounsel Legal&nbsp;&nbsp;Thomson Reuters",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora Appoints Former HubSpot, Atlassian Lawyer as Inaugural Chief Legal Officer",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWU9WSjJGR1BRbFgyRDZvRjJ1THkzbFFIaWdoNlNTS2EzX1diYmp5YlhBdU9FVHNFVUE2TjAxNWtrMldhaGhfWHlFM0dtSDZGOXNPamhjMzZ0QkhIZi1sVTZUR3Q2VnI2SHhXMThIMVM5NXZKYXA1d280djQ5MGczNDhSOTBTVngyRVREcm1IUThSNURMZXhoRXlVWTZkMnRqUndRZnpfRGp2ejdDUlRnVFMzZjNyVmlDUzZLdDhPLW1Cbllj?oc=5",
+      "source": "Law.com",
+      "published": "19 Nov 2026",
+      "summary": "Legora Appoints Former HubSpot, Atlassian Lawyer as Inaugural Chief Legal Officer&nbsp;&nbsp;Law.com",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Legora Hires 1st Chief Legal Officer From HubSpot",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEFpaWtUTHFTSFJaa2xxTFd2WmFQRnRkNTdTclU2NUFGWHhQODVzX0x3c3FtRHA3U1pKckxjbkVWY2ZIbDRXLWY4bC04cGlMWVplZk03ZHZyREFhS0owcXRGTEswM1FKandaR01MeDJBeWRVTVJ4ZkpuTjU2LWwxbkdCZnItNHBLMUg5b1V4Y1M2WTVqTlJ0VnFITdIBXkFVX3lxTE1mQkF1RmYyVUptc3Y0cURnUWFYbXJtT2hOQWt3blczRVA2dHhvSUJUVW5GZ0dsM253NndJVndjUzBUMGRSd2ExVUJtZ3dQSmFzd3NucHVDWFNaNkFieFE?oc=5",
+      "source": "Law360",
+      "published": "19 Nov 2026",
+      "summary": "Legora Hires 1st Chief Legal Officer From HubSpot&nbsp;&nbsp;Law360",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Who supervises the system? Agentic AI and the future of lawyer oversight",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNzM0Z2lNLWV4X0pYWUkzQmg5aWpfM2tnTkZGRkE2THdTRXlHbW5IQlRCRVVXWTVnT2tjVWZPclBEbV83Y0YwN2gtaVBZMjY4X1ZYdF9Sbk1uX0JxWUU0emE4bHg1NXBIbmJ4LWpadE9xR1hTZGprWUhFUlpCTUJHcGhJV2FidS1YQ2prd0NVRGswN3lOd3EzWlRzVHlIeXVsRUJsY0QzUUkySzB0M1JKVVpNN3g?oc=5",
+      "source": "ABA Journal",
+      "published": "19 Nov 2026",
+      "summary": "Who supervises the system? Agentic AI and the future of lawyer oversight&nbsp;&nbsp;ABA Journal",
+      "tags": [
+        "AI Trend"
+      ]
+    },
+    {
+      "title": "Sarvam AI Offers Chinese Models \u2013 Has India Missed The AI Bus?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSnRlUnNGTEtJYm10U0RISnBCenZZR0tlVF9ydHZFZ1Z4c2dwSzNvdDJMYmpYcGhJU1IwTXJ6bDd6di1ORjhSYWR1QVJaejE0UV9hYXR2Ty11V29TUW1zWlpKNU5qQzFsNVFDZEFsTHFYbUNxdjlWUGJWOFdDTGZkQUdULXIyRHRZc0lDV3V4VTJMVm1tTUoyMjZ3?oc=5",
+      "source": "Sify News",
+      "published": "19 Nov 2026",
+      "summary": "Sarvam AI Offers Chinese Models \u2013 Has India Missed The AI Bus?&nbsp;&nbsp;Sify News",
+      "tags": [
+        "India Startup"
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "title": "Mariza McKee Attends Harvey FORUM Chicago on AI's Impact on Legal Services",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREdZcURWT211bHJPRDdCREtleWRQUmxYNXdNV1V3ZWZ3R1BtdXZiS2ppQnpSaWR3WEd3Tk5MNm9WWk5mMVNoTUdaLXlNQ2hubHZyWFBpM2RrOTlEd3Bla2tpRFFtMjd5S2RGQkxnOV9sMmNQc0hxdFhSVEI4X1NUQ2xmVzdOc2NyTjhnN0hLOS1rb3p1Q1RGODRaWE1mZWFhXzRlcTFPZGFjQmRCREE?oc=5",
+      "source": "Kutak Rock",
+      "published": "18 Nov 2026",
+      "summary": "Mariza McKee Attends Harvey FORUM Chicago on AI's Impact on Legal Services&nbsp;&nbsp;Kutak Rock",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Harvey becomes Wimbledon partner and All England Club in-house legal AI tool",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGxZc2JtRF93M1F3U1BHcWhUNHJDZzVfMHRBdGhhbEVVRjYzaWtVdE1mQWZoRDZGbEFZRjdHRjFTTXlpM0xpYXgzWmtQNUFaSlZvNzR0QzVlUWZQNHo0OE9paWNTSTI3cXVQX1dmeXVKbW83MFpzYXJxcV9vcHF5ZC1EVm1CT3VuamR4NmVhcnJ4YmUydnM5cV9remswZ19PZDV5MGRBMjk?oc=5",
+      "source": "Legal IT Insider",
+      "published": "18 Nov 2026",
+      "summary": "Harvey becomes Wimbledon partner and All England Club in-house legal AI tool&nbsp;&nbsp;Legal IT Insider",
+      "tags": [
+        "Global AI Tool"
+      ]
+    },
+    {
+      "title": "Best AI Contract Review Software in 2026 (Top-Rated Tools Reviewed & Compared)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0x4OTlJdUdlcXZJc0xDVmp4TkZrVDh6eUxNRUJPNHZYdEhacVBCSXNxUW1QTGFMZFVGeVVJdEFiWXk0WWVhRjZDTHpVdmpYWHVIN1VzMDJXa0lSUy1ndG1ZaXVYaURjZ3hocDJxTFBWcE5Qb1k0RVVrTHRibHhRaUxqbnBjUW1reUNMcFVJQkJwN2hGX3lGUjZEYkpxZEVyclRj?oc=5",
+      "source": "Quasa.io",
+      "published": "18 Nov 2026",
+      "summary": "Best AI Contract Review Software in 2026 (Top-Rated Tools Reviewed & Compared)&nbsp;&nbsp;Quasa.io",
+      "tags": [
+        "Contract Tech"
+      ]
+    },
+    {
+      "title": "Sarvam AI champions India's AI independence. So why is it offering China's DeepSeek?",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUG9XUWxBLWdpMnlZTkJOQVluLTRQdlZPX0U0NDhpYk5wT1c2cFFGUW84NF9fSXhLbWtKLVZ4LUJYQ3QzXzZESFdXR3F1QXlpSG5TM094UzF3TjI3ZEMxbjVjMTBDU0w1dk94N2NUTEJTS2poTE83YnNLYWt0eU03RllmaWNrRm5nRWVuUnp1REdaYXJ4RW1kS2N4MVpHeVdQU1NfTS1lQ21vYXVFRy1IQkdmM1dmajVhUWRfS3BvRjRHMDROZEpuXzZuV082dTBKSFN2Mjdn0gHbAUFVX3lxTFBZSEdnSjdweFJfVkVGZ2lqbUR1NVhzOE5lU2F3VVVqZlhHdm1LZW1WNHVYTFU2VjFYWWo1YU4zODNwYTZDWTZsQnhBNXY5Um82dm40TDVPSld3SUxPeEktWmJibXdUTDlURUFOSnNuOWZpdmFzQ0lhYWpGbVlJN0FzaEpxcnFiV0pwMUhDd1ptQTFnMDNEX0J3LTFwRjU3SnNiZS1lSEEwYW12MWRPQ3NOOU0wLW1Mc0tLemhkOXdPZjNwS09kaE9KNWJya3hzSkpFVDFkcWFTQXVGVQ?oc=5",
+      "source": "Moneycontrol.com",
+      "published": "19 Nov 2026",
+      "summary": "Sarvam AI champions India's AI independence. So why is it offering China's DeepSeek?&nbsp;&nbsp;Moneycontrol.com",
       "tags": [
         "India Startup"
       ]
@@ -42,47 +154,35 @@
       ]
     },
     {
-      "title": "Sarvam AI champions India's AI independence. So why is it offering China's DeepSeek?",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUG9XUWxBLWdpMnlZTkJOQVluLTRQdlZPX0U0NDhpYk5wT1c2cFFGUW84NF9fSXhLbWtKLVZ4LUJYQ3QzXzZESFdXR3F1QXlpSG5TM094UzF3TjI3ZEMxbjVjMTBDU0w1dk94N2NUTEJTS2poTE83YnNLYWt0eU03RllmaWNrRm5nRWVuUnp1REdaYXJ4RW1kS2N4MVpHeVdQU1NfTS1lQ21vYXVFRy1IQkdmM1dmajVhUWRfS3BvRjRHMDROZEpuXzZuV082dTBKSFN2Mjdn0gHbAUFVX3lxTFBZSEdnSjdweFJfVkVGZ2lqbUR1NVhzOE5lU2F3VVVqZlhHdm1LZW1WNHVYTFU2VjFYWWo1YU4zODNwYTZDWTZsQnhBNXY5Um82dm40TDVPSld3SUxPeEktWmJibXdUTDlURUFOSnNuOWZpdmFzQ0lhYWpGbVlJN0FzaEpxcnFiV0pwMUhDd1ptQTFnMDNEX0J3LTFwRjU3SnNiZS1lSEEwYW12MWRPQ3NOOU0wLW1Mc0tLemhkOXdPZjNwS09kaE9KNWJya3hzSkpFVDFkcWFTQXVGVQ?oc=5",
-      "source": "Moneycontrol.com",
+      "title": "What is Sarvam AI\u2019s Token Factory and why is it drawing fire for hosting Chinese model?",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN2NBNXhHSHFJMEYtOGdlNVhQenpDcjJXQnQxZVRUdmdrRTNwSXNwSXhFZjZUOF83bF9MRG1OMV90eXNYRWp4NWpvcm02aThpM21aZklSV1ZEWERoOXJFUHFWcktkZnR6T2pTOFh2UU5HQmJvUXVEQkhEWnJCRnhTdHVPOVktLWw5bHlLc0oyTFJXQUh0c1IwdUtoMUFLQzJ2M0J2d0d1ZjB6bWdKb2VhdFNuR21BamJuRWFjTGUzMGltV1VCb3Y2RlZ1V0pjbnFHZnI0ajd2Z2lYb3I1LThqMFVBbHlsbmh2U1lXV25VTzjSAfYBQVVfeXFMT0lCSmI2aDZlYXByN29mUmI4RXRSWnZqa183cURiZENMWXdoVzZRRzV2OXQ4YUdLbE1CaXdqVmJNTU9IaUdhbFA1QXcxSkxpeVRHby1kUlZ2cl9kYkRiN3hoSWwyR2d6R3QxZlpSNUR2U0NEMmJoemJ4WjFIVldjQkx5YjR6NjFWSnpXWkNEblZBZHo1Mk5IRjF6LUxYeXo5NFZyd3JFWV96MUNGcjMybUlrdlFnTjh1Q3RtTE1heDJMNzVPb2tsdzJPMmxCT2F6SHI0dkstVVhvRmcydG1wa1JfV3V0blJza2N6N3c0M3F1ZThYbk9n?oc=5",
+      "source": "ET Enterprise AI",
       "published": "19 Nov 2026",
-      "summary": "Sarvam AI champions India's AI independence. So why is it offering China's DeepSeek?&nbsp;&nbsp;Moneycontrol.com",
+      "summary": "What is Sarvam AI\u2019s Token Factory and why is it drawing fire for hosting Chinese model?&nbsp;&nbsp;ET Enterprise AI",
       "tags": [
         "India Startup"
       ]
     },
     {
-      "title": "Best AI Contract Review Software in 2026 (Top-Rated Tools Reviewed & Compared)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0x4OTlJdUdlcXZJc0xDVmp4TkZrVDh6eUxNRUJPNHZYdEhacVBCSXNxUW1QTGFMZFVGeVVJdEFiWXk0WWVhRjZDTHpVdmpYWHVIN1VzMDJXa0lSUy1ndG1ZaXVYaURjZ3hocDJxTFBWcE5Qb1k0RVVrTHRibHhRaUxqbnBjUW1reUNMcFVJQkJwN2hGX3lGUjZEYkpxZEVyclRj?oc=5",
-      "source": "Quasa.io",
-      "published": "18 Nov 2026",
-      "summary": "Best AI Contract Review Software in 2026 (Top-Rated Tools Reviewed & Compared)&nbsp;&nbsp;Quasa.io",
+      "title": "Sarvam AI\u2019s Token Factory Introduce Sparks Debate Over India\u2019s Sovereign AI Ambitions",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUTBaVkk3SW52RXpWVnhub1ZtR2ZkeWMta3pQTHItbmwzUGlxTlJneEZVRlBPekoxQkJnaHNBR1c1SU11NUFaSlVWVTJoNWw1MWpBSTVXV2swOWR3bjVIZzhwcUd1YTVqQ2ZXSWFseWVFUmtrSjlTV3ZwMHQxRFNaR1VIbVR0UVM1MDR6VmVUMllkdlFzMWF2Z0o3UGlnM0hzdGJSOGVZQngwZ1Z1N2RoZnJCOTZFdHBkM0pERG8yaEQwY2RC?oc=5",
+      "source": "BW Disrupt",
+      "published": "19 Nov 2026",
+      "summary": "Sarvam AI\u2019s Token Factory Introduce Sparks Debate Over India\u2019s Sovereign AI Ambitions&nbsp;&nbsp;BW Disrupt",
       "tags": [
-        "Contract Tech"
+        "India Startup"
       ]
     },
     {
-      "title": "Harvey becomes Wimbledon partner and All England Club in-house legal AI tool",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGxZc2JtRF93M1F3U1BHcWhUNHJDZzVfMHRBdGhhbEVVRjYzaWtVdE1mQWZoRDZGbEFZRjdHRjFTTXlpM0xpYXgzWmtQNUFaSlZvNzR0QzVlUWZQNHo0OE9paWNTSTI3cXVQX1dmeXVKbW83MFpzYXJxcV9vcHF5ZC1EVm1CT3VuamR4NmVhcnJ4YmUydnM5cV9remswZ19PZDV5MGRBMjk?oc=5",
-      "source": "Legal IT Insider",
-      "published": "18 Nov 2026",
-      "summary": "Harvey becomes Wimbledon partner and All England Club in-house legal AI tool&nbsp;&nbsp;Legal IT Insider",
+      "title": "Legora just hired a former skeptic to help win over corporate lawyers",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWndVd1BfT2FkZXVNTWpNaGtjZlFwT3BHN0VHbDNEV0VmalFTeDVESXZiUHgwcllReVRKeFdpV1g1dzg0SU1fM0pfNU9aRUFqR2lyS3hnSDVoUkhhV2VVdjB5SHk5SElraHFadDJNdjQ0eW1sQnZCUVFFSzV6bzNuWEg3VWxORTR1VmtNN3Bn?oc=5",
+      "source": "Business Insider",
+      "published": "19 Nov 2026",
+      "summary": "Legora just hired a former skeptic to help win over corporate lawyers&nbsp;&nbsp;Business Insider",
       "tags": [
         "Global AI Tool"
       ]
     },
-    {
-      "title": "Mariza McKee Attends Harvey FORUM Chicago on AI's Impact on Legal Services",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREdZcURWT211bHJPRDdCREtleWRQUmxYNXdNV1V3ZWZ3R1BtdXZiS2ppQnpSaWR3WEd3Tk5MNm9WWk5mMVNoTUdaLXlNQ2hubHZyWFBpM2RrOTlEd3Bla2tpRFFtMjd5S2RGQkxnOV9sMmNQc0hxdFhSVEI4X1NUQ2xmVzdOc2NyTjhnN0hLOS1rb3p1Q1RGODRaWE1mZWFhXzRlcTFPZGFjQmRCREE?oc=5",
-      "source": "Kutak Rock",
-      "published": "18 Nov 2026",
-      "summary": "Mariza McKee Attends Harvey FORUM Chicago on AI's Impact on Legal Services&nbsp;&nbsp;Kutak Rock",
-      "tags": [
-        "Global AI Tool"
-      ]
-    }
-  ],
-  "archive": [
     {
       "title": "Astra for Law leads in legal intelligence",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZ1AtdGh5bUdSU1VpTEhQWFVncDNieWRxSkhQUTJVVjhGbl9ycXZTaWs5bGtZUktmUndCRTFtS2pubXJvOE5kY25qQ0s3NlRG?oc=5",
@@ -2018,86 +2118,6 @@
       "summary": "New MCP Makes Tax Research from Blue J Available from within Legora&nbsp;&nbsp;LawSites",
       "tags": [
         "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Harvey Now Connects to Legal Research Platform Midpage Through An MCP Connector",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1lGSVFUUml0d1hLQlZKNmJWMTkyMExPQ3F5SkxWbnptVHhRT1Jwc1hPNEFORUVEMGNMSmRodXI2WVplbFdXRkVCMUZJVVNHSFJjRXNjM0NFVk5wcE1KWXVqaVprZkdzcjdsRnktWEhrV0c2dkdUeG5Gb3hEajJEMnFqc3QwY1VIdVJQb2xiZHVpbXZIZDVGdlRqS3RROTRsQ2JXcnRXRXJfTFYxTXVaNHltNlYyclk?oc=5",
-      "source": "LawSites",
-      "published": "19 Oct 2026",
-      "summary": "Harvey Now Connects to Legal Research Platform Midpage Through An MCP Connector&nbsp;&nbsp;LawSites",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legal Research Challenger Midpage Channels Data Into Harvey",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFRhQXZZb1c2QnZ2UHFoclY2SVRhRXZXTFE0NXN5eG9yWTA5WTBfZEhfdEVHcF95ekNDakRXOHU4d2l5UU81dURKVmRQNkRXSmhOZ2ZZam5kdzlwcDJfUDNwZ25QQjNVbmY4SGN6UU13YTJoVWNqeS11Q3ZvZ0JrYmpMam1UNVp2TnRpSkNhdDhZYWtzYU8yTXdDUk5MMkRzUTdaYUd0bw?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "19 Oct 2026",
-      "summary": "Legal Research Challenger Midpage Channels Data Into Harvey&nbsp;&nbsp;Artificial Lawyer",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Sarvam AI launches creator partner programme, offers payments for videos crossing view milestones",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ183dDdHMjBlbkFoRnhQYnJwRkFNRE1mTmtzU1NBMTdXMWNLbGZVRVllU2cycHJXSkZQVW9xSE0xTWs0eUxsQ1dITnM2NEhPWG9IaHc0aUQzNHFwQWVOdTR1S2VGM3NOblVrNDB4TmlaQlhPLVJDS1l5M29JNHp3NFFXZEZVYWxYMnFzZnNzeFZ3WVlGamJ5Y3FBMGpSOVRGOWhNOTdPVUxwSm85OG9OcTdTejk1QjZFNXNWcFFWUFd0WmppQWJRRlgxTmtRYTF4dmQyRFdTLU9WekxDQ1BsTHh6Ukc4T3BaNG9NNUoyYlRfbzN5MGhvdFlpX09yZWPSAYQCQVVfeXFMUE4wN2hZanUyellXdEFENEJPMG5VZVc3NXZHb29JbHl6azVySTlZa2VwWEdMVFJJcG5PeEFtRkZsVUtENXRYQjdnUUVzZVdtWTZBZWJKZEFuaGtQSlZxS3cyZjdzbjNHSUs2Q2w5SE1sc0RzX2Z2Uy1keHpkWWpNa2hoZk1Rcld1WlFhYkNoODVpTE5HMFNzMzEtOHRMSDBHN1VxazV1eERSTHBUZGZEX1VxeFJ3SFlnZThraGx0Wk91WnFHQUtzVkZoOGxSYU56alAybjRId3dsbUZuT0RBdkhfc0o0QUdMdng3R0tVM0NwV3RkeFZDVXdWdUE1LWZXY0dfa3Q?oc=5",
-      "source": "ET Enterprise AI",
-      "published": "19 Oct 2026",
-      "summary": "Sarvam AI launches creator partner programme, offers payments for videos crossing view milestones&nbsp;&nbsp;ET Enterprise AI",
-      "tags": [
-        "India Startup"
-      ]
-    },
-    {
-      "title": "AI Co. Legora Partners With Tax Research Platform Blue J",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0ZfcTljZTVOY18zVnlXX0tJMzNwakhmMUlKMWFvTkxRVEpnbUpERi1sQXNtcUNBN3JJWmtqUXYwVXVvOUxzRnlMWDVRNHRJX3JyTjlUbGFrT2E5YmJzdHBlNU1GWnludjQxVi1ua2Q5dEM3VXdVSXhCNUphekZERHhYZFhfZFFpVjFqU0dqTkdURkVVeDBoVFpLZ9IBXkFVX3lxTE9IQl9uVnc3S0h5d0xCUk93RDVhZFJleGszYjQzdmFWVXNUSnlsZ2t6QXQ3dDZNdTByZ29rWHlsMlIzdFJkZGZoa1Q5cEZkeUY5VE5LOC03Ti16OWF3RWc?oc=5",
-      "source": "Law360",
-      "published": "19 Oct 2026",
-      "summary": "AI Co. Legora Partners With Tax Research Platform Blue J&nbsp;&nbsp;Law360",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Legal Tech News \u2013 Harvey to Open Tokyo Office",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13SG9ZZF9QQnJBR1VpZHBYZVNlNnp1NEZRNFNhMTd3Z0p0Mmh2UFdOZk5RRm15ZzNZT0tudTVpbENtNVNQLUFIejJCQ0F5VGpINEdjWUlCU09MSDBVVl9GQVZBSmdveVQtaVM4cTNmTHZyY3ZNMTFV?oc=5",
-      "source": "LawFuel.com",
-      "published": "19 Oct 2026",
-      "summary": "Legal Tech News \u2013 Harvey to Open Tokyo Office&nbsp;&nbsp;LawFuel.com",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Microsoft could hold an advantage with Copilot for Legal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2lqdURjYVVuNFFhY0NTdlYyRmJtclJraFlYX3hUV2szZFRkNE9TM2c2UTV2YzItRUhPZ2hXQWF0N1EwUS16aVNhQUZlVUlfaUs1Sm1UWmRaYzhMYWFkQTMxNVJRSFZtZHVzYk5YU1dMRWFIZ1NoUkItWVNxR3VsY1g2WDgxb00zOHc4VEpJMFlrOXc0Y2s3bjBLT0pXcWV5VVJZ?oc=5",
-      "source": "TechTarget",
-      "published": "19 Oct 2026",
-      "summary": "Microsoft could hold an advantage with Copilot for Legal&nbsp;&nbsp;TechTarget",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Law Firm Consulting Firm Best Era Study Finds Claude Is the New Yardstick for Legal Tech",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHBNZmgxLUZDTEJ0OWZfdl9WQlJmNDcyVHhaRkxLTkZMUDY0VzltNlJ1bUllUHhVRXVQalZvSDJjWU1SOFRrNmx5Z3BlWXF4c0NFWTZ5WFNxTTd6anNwc3I4Q0VzSWVocm95ZFhHUGFWMVhqUWpUeFVwdTdqd3ZoWmhYSTBrZzl5dU1NT0hhZDF6c0doRlVjS21TRHgtcEE3bWViQVVoTmNMVlNCbXhJWU1kakhPc2c0V21xNmh1M2FqVmo4NlJna053?oc=5",
-      "source": "EIN News",
-      "published": "19 Oct 2026",
-      "summary": "Law Firm Consulting Firm Best Era Study Finds Claude Is the New Yardstick for Legal Tech&nbsp;&nbsp;EIN News",
-      "tags": [
-        "Global AI Tool"
-      ]
-    },
-    {
-      "title": "Anthropic Taps 2,800 Lawyers to Watch AI Agent Deals [2026]",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PWERsakVaT0tELTFnWEZLSW0yUVFXWXBYdndoY2FxZktKdXBJM3FBMFdSbFdkSFg0dHBEVEpyX01LM1RTMDlhSC1sbVNfRjkwaGM1SU9JeGFXTW1JYWNlWWtDdWkyNGdsdFZEcnF4SU9nV1NoVFVLNmJMM0t5YXM?oc=5",
-      "source": "https://tech-insider.org/",
-      "published": "18 Oct 2026",
-      "summary": "Anthropic Taps 2,800 Lawyers to Watch AI Agent Deals [2026]&nbsp;&nbsp;https://tech-insider.org/",
-      "tags": [
-        "AI Trend"
       ]
     }
   ]
